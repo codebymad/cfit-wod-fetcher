@@ -81,7 +81,7 @@ def main():
             try:
                 wod = fetch_wod(current_date)
 
-                if wod['wodRaw'] != 'Rest Day':
+                if "rest day" not in wod["wodRaw"].lower():
                     workouts.append(wod)
 
                     with open(file_path, "w", encoding="utf-8") as f:
