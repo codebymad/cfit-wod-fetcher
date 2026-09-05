@@ -59,14 +59,3 @@ jobs:
           git commit -m "Monthly WOD update"
 
           git push origin "$BRANCH"
-
-      - name: Create Pull Request
-        if: steps.changes.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh pr create \
-            --base master \
-            --head "$BRANCH_NAME" \
-            --title "Monthly WOD Update" \
-            --body "Automatically scraped new CrossFit WOD data and updated last_date.txt."
