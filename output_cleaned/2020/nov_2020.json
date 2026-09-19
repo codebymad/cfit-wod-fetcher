@@ -1,0 +1,506 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Core Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n\n* **Strict Toes-to-Bars**: 5 reps\n* **GHD Sit-ups**: 10 reps\n* **Hip Extensions**: 15 reps",
+        "section_notes": [
+          "Maintain a steady pace to maximize rounds within the 15-minute window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:  \r\n\r\n5 strict toes-to-bars  \r\n10 GHD sit-ups  \r\n15 hip extensions  \r\n\r\nPost rounds completed to comments.  \r\nCompare to [191203](https://www.crossfit.com/191203).",
+      "date": "2020-11-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Olympic Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 10 minutes of:\n\n* **Power Snatches**: 5 reps\n* **Overhead Walking Lunges**: 10 reps\n* **Rope Climb**: 1 rep (15-ft. rope)\n\n**Weights**:\n* Male: 95 lb.\n* Female: 65 lb.",
+        "section_notes": [
+          "Focus on explosive power during the snatches and stability during the overhead lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n5 power snatches  \r\n10 overhead walking lunges  \r\n1 rope climb, 15-ft. rope  \r\n\r\n♂ 95 lb.   ♀ 65 lb.\r\n\r\nPost rounds completed to comments.  \r\nCompare to [180110](https://www.crossfit.com/workout/2018/01/10).",
+      "date": "2020-11-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pressing Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Shoulder Press**: 1-1-1-1-1 reps\n* **Push Press**: 3-3-3-3-3 reps\n* **Push Jerk**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Build up to a heavy single for the shoulder press, then adjust weight for the sets of 3 and 5."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Shoulder press 1-1-1-1-1 reps  \r\nPush press 3-3-3-3-3 reps  \r\nPush jerk 5-5-5-5-5 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [200710](https://www.crossfit.com/200710).",
+      "date": "2020-11-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Perform each movement as a Tabata (20s work / 10s rest for 8 intervals). Rest 1 minute between movements:\n\n* **Back Squats** (65/95 lb)\n* **L-sit** (Count seconds maintained)\n* **Ring Rows**\n* **Handstand Hold** (Count seconds maintained)\n* **Row**",
+        "section_notes": [
+          "High intensity during the 20-second work intervals. For holds, focus on maximum tension."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata back squats, 65 | 95 lb.  \r\nRest 1 minute   \r\nTabata L-sit  \r\nRest 1 minute  \r\nTabata ring rows  \r\nRest 1 minute  \r\nTabata handstand hold  \r\nRest 1 minute  \r\nTabata row  \r\n\r\nThe Tabata interval is 20 seconds of work followed by 10 seconds of rest for eight intervals. For the L-sit and handstand hold, count the number of seconds maintained in the hold.  \r\n\r\nPost total reps/seconds/calories for each exercise to comments.   \r\nCompare to [191209](https://www.crossfit.com/191209).",
+      "date": "2020-11-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and snatch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Row**: 1,000 meters\n* **Dumbbell Squat Snatches** (Alternating): 50 reps\n* **Row**: 750 meters\n* **Dumbbell Squat Snatches** (Alternating): 35 reps\n* **Row**: 500 meters\n* **Dumbbell Squat Snatches** (Alternating): 20 reps\n\n**Weights**:\n* Male: 40-lb dumbbell\n* Female: 30-lb dumbbell",
+        "section_notes": [
+          "Maintain a consistent rowing pace to allow for explosive dumbbell movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\nRow 1,000 meters  \r\n50 dumbbell squat snatches, alternating  \r\nRow 750 meters  \r\n35 dumbbell squat snatches, alternating  \r\nRow 500 meters  \r\n20 dumbbell squat snatches, alternating  \r\n\r\n♀ 30-lb. dumbbell  ♂ 40-lb. dumbbell  \r\n\r\nPost time to comments.  \r\nCompare to [141207](https://www.crossfit.com/workout/2014/12/07).",
+      "date": "2020-11-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Aerial Assault",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Muscle-ups**: 15 reps\n* **Double-unders**: 150 reps\n* **Muscle-ups**: 12 reps\n* **Double-unders**: 120 reps\n* **Muscle-ups**: 9 reps\n* **Double-unders**: 90 reps",
+        "section_notes": [
+          "Break the muscle-ups early if needed to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\n15 muscle-ups  \r\n150 double-unders  \r\n12 muscle-ups  \r\n120 double-unders  \r\n9 muscle-ups  \r\n90 double-unders  \r\n\r\nPost time to comments.",
+      "date": "2020-11-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Complex",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Thruster / Push Press / Push Jerk / Split Jerk**: 1-1-1-1-1-1-1 reps.\n\n*Note: One rep consists of performing all four movements in sequence without dropping the bar.*",
+        "section_notes": [
+          "Focus on the transition between movements; the goal is a seamless flow without dropping the barbell."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Thruster/push press/push jerk/split jerk 1-1-1-1-1-1-1 reps. \r\n\r\nA thruster followed by a push press followed by a push jerk followed by a split jerk without dropping the bar is one rep.  \r\n\r\nPost loads to comments.  \r\nCompare to [171030](https://www.crossfit.com/workout/2017/10/30#/comments).",
+      "date": "2020-11-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Larry",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-18-15-12-9-6-3 reps for time of:\n\n* **Front Squats**\n* **Bar-facing Burpees**\n* **Sandbag Carry**: 200m (after each round)\n\n**Weights**:\n* Male: 115-lb squat, 80-lb sandbag\n* Female: 75-lb squat, 50-lb sandbag",
+        "section_notes": [
+          "This is a Hero WOD honoring Cpl Larry D. Harris, Jr. Maintain a strong core during the sandbag carry."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Larry**  \r\n21-18-15-12-9-6-3 reps for time of:  \r\n\r\nFront squats  \r\nBar-facing burpees  \r\n*200-m sandbag carry after each round  \r\n\r\n♀ 75-lb. squat, 50-lb. sandbag  \r\n♂ 115-lb. squat, 80-lb. sandbag  \r\n\r\nPost time to comments.   \r\n\r\n---\r\n\r\nU.S. Marine Corps Corporal Larry D. Harris, Jr., 25, was killed in a fire fight on July 1, 2010, while serving as Fire Team Leader, 3d Squad, 81 Millimeter Mortar Platoon, Weapons Company, Third Battalion, First Marines, Regimental Combat Team 7, FIRST Marine Division (Forward), I MEF (Forward) in Helmand Province, Afghanistan.  \r\n\r\nHarris was posthumously awarded the Silver Star for his bravery in action. As stated in his letter of commendation: “When the squad's machine gunner was shot in the leg, Corporal Harris immediately moved from his covered position while still under heavy fire, with complete disregard for his own safety ... . Corporal Harris unhesitatingly picked up the wounded Marine and carried him to the medical evacuation site, once again exposing himself to effective enemy fire from multiple directions. As he moved through a vineyard while carrying the wounded Marine, Corporal Harris struck an improvised explosive device, absorbing the majority of the explosion with his body. Although his injuries would prove fatal, Corporal Harris ultimately saved the life of the wounded Marine.”  \r\n\r\nHarris is survived by his wife, Stacia Janice Harris, and his parents, Bruce and Lora Merriweather.",
+      "date": "2020-11-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Interval Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "On a 15-minute clock, for max reps each round:\n\n* **0:00-3:00**: Run 400m then **Pull-ups**\n* **3:00-4:00**: Rest\n* **4:00-7:00**: Run 400m then **Clean and Jerks**\n* **7:00-8:00**: Rest\n* **8:00-11:00**: Run 400m then **Pull-ups**\n* **11:00-12:00**: Rest\n* **12:00-15:00**: Run 400m then **Clean and Jerks**\n\n**Weights**:\n* Male: 155 lb\n* Female: 105 lb",
+        "section_notes": [
+          "Sprint the 400m to leave as much time as possible for the reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "On a 15-minute clock, for max reps each round:   \r\n\r\nFrom 0:00-3:00, run 400 meters then do pull-ups  \r\n   &nbsp;&nbsp;&nbsp; Rest 1 minute  \r\nFrom 4:00-7:00, run 400 meters then do clean and jerks  \r\n   &nbsp;&nbsp;&nbsp; Rest 1 minute  \r\nFrom 8:00-11:00, run 400 meters then do pull-ups   \r\n   &nbsp;&nbsp;&nbsp; Rest 1 minute  \r\nFrom 12:00-15:00, run 400 meters then do clean and jerks  \r\n\r\n♀ 105 lb.   ♂ 155 lb.  \r\n\r\nPost reps completed each round to comments.  \r\nCompare to [171011](https://www.crossfit.com/workout/2017/10/11#/comments).",
+      "date": "2020-11-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kelly Brown",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Row**: 440 m\n* **Box Jumps**: 10 reps\n* **Deadlifts**: 10 reps\n* **Wall-ball Shots**: 10 reps\n\n**Weights/Specs**:\n* Male: 30-lb ball (10 ft), 275-lb DL, 30-in box\n* Female: 20-lb ball (9 ft), 185-lb DL, 24-in box",
+        "section_notes": [
+          "This workout honors Kelly Brown. Maintain a steady pace across the five rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Kelly Brown**  \r\n5 rounds for time of:  \r\n\r\nRow 440 m  \r\n10 box jumps  \r\n10 deadlifts  \r\n10 wall-ball shots  \r\n\r\n♀ 20-lb. ball to 9 ft., 185-lb. DL, 24-in. box  \r\n♂ 30-lb. ball to 10 ft., 275-lb. DL, 30-in. box  \r\n\r\nPost time to comments.\r\n\r\n---\r\n\r\nOn Sept. 15, 2020, CrossFit Kids Seminar Staff Flowmaster Kelly Brown passed away after a courageous five-year battle with ovarian cancer. She was 44.   \r\n\r\nBrown is survived by her husband, John, and their two children, a 14-year-old son and 11-year-old daughter.  \r\n\r\nKelly and John started their CrossFit journey in 2006 and opened CrossFit Agoge in 2007. In 2010, she became a member of the CrossFit Kids Seminar Staff.   \r\n\r\nAn incredible wife, mother, teacher, coach, affiliate owner, and friend, Kelly contributed much to all whose lives she touched. She will be deeply missed by all who had the privilege of knowing her.",
+      "date": "2020-11-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 10 minutes of:\n\n* **Dips**: 20 reps\n* **GHD Sit-ups**: 15 reps\n* **Handstand Push-ups**: 20 reps\n* **GHD Sit-ups**: 15 reps",
+        "section_notes": [
+          "High volume gymnastics; focus on strict form to avoid fatigue-related injury."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n20 dips  \r\n15 GHD sit-ups  \r\n20 handstand push-ups  \r\n15 GHD sit-ups  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-11-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Jumps",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n\n* **Power Snatches**: 20 reps\n* **Double-unders**: 50 reps\n\n**Weights**:\n* Male: 95 lb\n* Female: 65 lb",
+        "section_notes": [
+          "Keep the snatches fast and the double-unders fluid."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \r\n\r\n20 power snatches  \r\n50 double-unders  \r\n\r\n♀ 65 lb. ♂ 95 lb.  \r\n\r\nPost time to comments.  \r\nCompare to [170127](https://www.crossfit.com/workout/2017/01/27).",
+      "date": "2020-11-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**: 7-7-5-5-3-3 reps",
+        "section_notes": [
+          "Increase weight as the reps decrease to build intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 7-7-5-5-3-3 reps  \r\n\r\nPost loads to comments.",
+      "date": "2020-11-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Get-up",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Max-calorie Row** in 60 seconds\n* **Turkish Get-ups**: Reps needed to reach a total of 40 (reps + calories) per round\n\n**Weights**:\n* Male: 50-lb TGU\n* Female: 25-lb TGU",
+        "section_notes": [
+          "The more you row, the fewer get-ups you perform. Balance your effort between the two."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\nMax-calorie row in 60 seconds  \r\nTurkish get-ups  \r\n\r\n♀ 25-lb. TGU ♂ 50-lb. TGU  \r\n\r\nComplete a total of 40 reps (or calories) each round. For example, if you row 25 calories, complete 15 Turkish get-ups that round. If you row 30 calories, complete 10 Turkish get-ups that round.  \r\n\r\nPost time to comments.  \r\nCompare to [170206](https://www.crossfit.com/workout/2017/02/06#/comments).",
+      "date": "2020-11-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "strongman"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Swing and Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Kettlebell Swings**: 45 reps\n* **Run**: 400m\n* **Kettlebell Swings**: 35 reps\n* **Run**: 800m\n* **Kettlebell Swings**: 25 reps\n* **Run**: 1,200m\n* **Kettlebell Swings**: 15 reps\n\n**Weights**:\n* Male: 32 kg\n* Female: 24 kg",
+        "section_notes": [
+          "The running distance increases as the swing reps decrease."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\n45 kettlebell swings  \r\n400-m run  \r\n35 kettlebell swings  \r\n800-m run  \r\n25 kettlebell swings  \r\n1,200-m run  \r\n15 kettlebell swings  \r\n\r\n♀ 24 kg ♂ 32 kg  \r\n\r\nPost time to comments.",
+      "date": "2020-11-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Barbara",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds, each for time, of:\n\n* **Pull-ups**: 20 reps\n* **Push-ups**: 30 reps\n* **Sit-ups**: 40 reps\n* **Squats**: 50 reps\n\n**Rest**: Precisely 3 minutes between rounds.",
+        "section_notes": [
+          "This is a benchmark workout. The fixed rest allows for high intensity in every round."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Barbara**  \r\n5 rounds, each for time, of:    \r\n\r\n20 pull-ups  \r\n30 push-ups  \r\n40 sit-ups  \r\n50 squats  \r\n\r\nRest precisely three minutes between rounds.  \r\n\r\nPost times to comments.  \r\nCompare to [190817](https://www.crossfit.com/190817).",
+      "date": "2020-11-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Shoulder Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Shoulder Press**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on strict pressing form and consistent loading across the sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Shoulder press 3-3-3-3-3-3-3 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [200726](https://www.crossfit.com/200726).",
+      "date": "2020-11-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 12 minutes of:\n\n* **Squat Snatch**: 1 rep\n* **Clean and Jerks**: 3 reps\n* **Double-unders**: 30 reps\n\n**Weights**:\n* Male: 155 lb\n* Female: 105 lb",
+        "section_notes": [
+          "Keep the movements crisp; the low rep count on weights allows for higher intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 12 minutes of:  \r\n\r\n1 squat snatch  \r\n3 clean and jerks  \r\n30 double-unders  \r\n\r\n♀ 105 lb. ♂ 155 lb.  \r\n\r\nPost rounds completed to comments.  \r\nCompare to [181230](https://www.crossfit.com/workout/2018/12/30).",
+      "date": "2020-11-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Strength",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 8 minutes of:\n\n* **Body-weight Back Squats**: 10 reps\n* **Strict Chest-to-Bar Pull-ups**: 10 reps",
+        "section_notes": [
+          "Focus on full range of motion and strict movement on the pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 8 minutes of:  \r\n\r\n10 body-weight back squats  \r\n10 strict chest-to-bar pull-ups  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-11-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Endurance Burpees",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Run for 35 minutes.\n\n* **Every 5 minutes**: Stop and perform 15 **Burpees**.",
+        "section_notes": [
+          "This is an engine-builder. Maintain a steady running pace and use the burpees as active recovery/intensity spikes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run for 35 minutes.   \r\n\r\nEvery 5 minutes, stop and perform 15 burpees. \r\n\r\nPost distance completed to comments.  \r\nCompare to [171123](https://www.crossfit.com/workout/2017/11/23#/comments).",
+      "date": "2020-11-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Balance and Walk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Handstand Walk**: 100-ft\n* **Single-leg Squats** (Alternating): 30 reps",
+        "section_notes": [
+          "Focus on shoulder stability during the walk and balance during the single-leg squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\n100-ft. handstand walk  \r\n30 single-leg squats, alternating  \r\n\r\nPost time to comments.  \r\nCompare to [170305](https://www.crossfit.com/workout/2017/03/05#/comments).",
+      "date": "2020-11-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "L-Sit Leap",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds for time of:\n\n* **L-sit**: 30 seconds (unbroken)\n* **Box Jumps**: 10 reps\n\n**Box Height**:\n* Male: 36-in\n* Female: 30-in",
+        "section_notes": [
+          "The L-sit is a static hold; keep the core tight and legs locked."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds for time of:  \r\n\r\n30 seconds of L-sit, unbroken  \r\n10 box jumps  \r\n\r\n♀ 30-in. box  ♂ 36-in. box  \r\n\r\nPost time to comments.  \r\nCompare to [200409](https://www.crossfit.com/200409).",
+      "date": "2020-11-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  }
+]

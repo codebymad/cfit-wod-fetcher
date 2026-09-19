@@ -1,0 +1,555 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Tabata Front Squats**\n- Weight: 95 lbs",
+        "section_notes": [
+          "Perform as a Tabata interval: 20 seconds work, 10 seconds rest for 8 rounds."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 135 lbs\n- 21-18-15-12-9-6-3 reps\n- Rest: 60 seconds between sets",
+        "section_notes": [
+          "Rest as needed between the Tabata effort and the deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata front squats 95 pounds.   \nDeadlift 135X21-18-15-12-9-6-3 reps rest 60 seconds between sets.   \n  \nRest as needed between Tabata effort and deadlift. Post Tabata score to comments.",
+      "date": "2003-11-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Snatch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Tabata Push-Press**\n- Weight: 75 lbs",
+        "section_notes": [
+          "Perform as a Tabata interval: 20 seconds work, 10 seconds rest for 8 rounds."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch** 95 lbs\n- 21-18-15-12-9-6-3 reps\n- Rest: 60 seconds between sets",
+        "section_notes": [
+          "Rest as needed between the Tabata effort and the snatch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata push-press 75 pounds  \nSnatch 95X21-18-15-12-9-6-3 reps rest 60 seconds between sets.  \n  \nRest as needed between Tabata effort and snatch. Post Tabata score to comments.",
+      "date": "2003-11-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Tabata Hang Squat Clean**\n- Weight: 85 lbs",
+        "section_notes": [
+          "Perform as a Tabata interval: 20 seconds work, 10 seconds rest for 8 rounds."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Bench Press** 135 lbs\n- 21-18-15-12-9-6-3 reps\n- Rest: 60 seconds between sets",
+        "section_notes": [
+          "Rest as needed between the Tabata effort and the bench press."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata hang squat clean 85 pounds   \nBench press 135X21-18-15-12-9-6-3 reps rest 60 seconds between sets.  \n  \nRest as needed between Tabata effort and bench press. Post Tabata score to comments.",
+      "date": "2003-11-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Helen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time:\n- **Run** 400 meters\n- **Kettlebell Swings** 21 reps (1.5 pood or 50 lb dumbbell)\n- **Pull-ups** 12 reps",
+        "section_notes": [
+          "Maintain a steady pace on the run to keep the heart rate manageable for the swings and pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**\"Helen\"**  \n  \nThree rounds for time:  \nRun 400 meters  \n1Â½ pood Kettlebell X 21 swings (or 50 pound dumbbell swing)  \n12 Pull-ups  \n  \nThe CrossFit Challenge joins the ranks as \"Helen.\" You saw Helen on [030809](http://www.crossfit.com/mt-archive2/000127.html). Post time to comments.",
+      "date": "2003-11-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run** 5K",
+        "section_notes": [
+          "Focus on consistent pacing throughout the distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5K  \n  \nCompare to [030526](http://www.crossfit.com/mt-archive2/000051.html), [030628](http://www.crossfit.com/mt-archive2/000085.html), [030722](http://www.crossfit.com/mt-archive2/000109.html),[ 030814](http://www.crossfit.com/mt-archive2/000132.html), [030908](http://www.crossfit.com/mt-archive2/000157.html), and [030928](http://www.crossfit.com/mt-archive2/000182.html). Post time to comments.",
+      "date": "2003-11-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Fran",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds, 21-15-9 reps, for time of:\n- **Thrusters** 95 lbs\n- **Pull-ups**",
+        "section_notes": [
+          "High intensity; aim for fast transitions and unbroken sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**\"Fran\"**  \n  \nThree rounds, 21-15- and 9 reps, for time of:  \n95-pound Thruster  \nPull-ups  \n  \nWe last saw \"Fran\" on [030825](http://www.crossfit.com/mt-archive2/000143.html). Post time to comments.",
+      "date": "2003-11-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time:\n- **Muscle-ups** 5 reps\n- **Squats** 50 reps",
+        "section_notes": [
+          "Substitution for muscle-ups: 20 pull-ups and 20 dips per round."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time:   \n5 Muscle-ups  \n50 Squats   \n  \nIf you're not ready for the muscle-up, then do 20 pull-ups and 20 dips each round as a substitution for the five muscle-ups. Post time to comments.",
+      "date": "2003-11-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Row",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Row** 5K",
+        "section_notes": [
+          "Maintain a steady stroke rate and consistent split time."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 5K  \n  \nPost time to comments.",
+      "date": "2003-11-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Effort Triple",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete three rounds of:\n- **Handstand Push-ups**: Max reps in 5 minutes\n- **Pull-ups**: Max reps in 2 minutes\n- **Squats**: Max reps in 1 minute\n\nRest: 2 minutes between rounds",
+        "section_notes": [
+          "Focus on maximum volume within the time caps for each movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete three rounds of:  \nMax handstand push-ups 5-minutes  \nMax pull-ups 2-minutes  \nMax squats 1 minute   \n  \nRest two minutes between rounds. Total handstand push-ups, pull-ups, and squats for each round and post results to comments.",
+      "date": "2003-11-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 3 rounds for time of:\n- **Row** 500 meters\n- **Hang Squat Clean / Push Jerks**: 15 reps (1 clean / 3 jerks) at 75 lbs",
+        "section_notes": [
+          "Keep the row aggressive to drive the heart rate up before the lifting."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3 rounds for time of:  \nRow 500   \n75 lbsX15 reps of 1 hang squat clean/3 push jerks   \n  \nPost time to comments.",
+      "date": "2003-11-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 3 rounds for time of:\n- **Box Jump** 50 reps (24\")\n- **Deadlifts / Pull-ups**: 7 reps deadlifts (185 lbs) / 5 reps pull-ups",
+        "section_notes": [
+          "Maintain a steady rhythm on the box jumps to avoid early burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3 rounds for time of:  \n50 reps 24\" Box jump  \n185 lbsX7 reps of 7 deadlifts/5 pull-ups  \n  \nPost time to comments.",
+      "date": "2003-11-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 3 rounds for time of:\n- **Run** 400 meters\n- **Back Squats / Sit-ups**: 10 reps of 7 back squats (bodyweight) / 12 sit-ups",
+        "section_notes": [
+          "Focus on quality of movement for the bodyweight squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3 rounds for time of:   \nRun 400 meters  \nBodyweightX10 reps of 7 back squats/12 sit-ups  \n  \nPost time to comments.",
+      "date": "2003-11-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Rep Trio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds at any pace of:\n- **Pull-ups**: Max reps\n- **Bench Press**: Max reps (135 lbs)\n- **Squats**: Max reps in 60 seconds",
+        "section_notes": [
+          "This is a volume-based workout; focus on the maximum number of repetitions."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds at any pace of:   \nMax pull-ups  \nMax reps bench press 135 pounds  \nMax squats in 60 seconds  \n  \nPost reps to comments.",
+      "date": "2003-11-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "gymnastic",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row Intervals",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "- **Row** 1K\n- Rest 15 minutes\n- **Row** 1K",
+        "section_notes": [
+          "Aim for the same time or faster on the second 1K row."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 1K  \nRest 15 minutes  \nRow 1K  \n  \nPost times to comments.",
+      "date": "2003-11-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Cardio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "- **Tabata Sit-ups**\n- **Run** 1 mile\n- **Tabata Sit-ups**",
+        "section_notes": [
+          "The Tabata sit-ups serve as a bookend to the mile run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata Sit-ups  \nRun 1 mile  \nTabata Sit-ups  \n  \nPost T. Sit-up score, mile time, and second T. Sit-up score to comments.",
+      "date": "2003-11-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n- **Run** 400 meters\n- **Deadlift** 21 reps (135 lbs)\n- **Handstand Push-ups** 12 reps",
+        "section_notes": [
+          "Keep the deadlifts snappy and the handstand push-ups controlled."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \nRun 400 meters  \nDeadlift 135X21  \n12 Handstand Push-ups  \n  \nPost time to comments.",
+      "date": "2003-11-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and L-Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n- **Run** 400 meters\n- **Front Squat** 21 reps (95 lbs)\n- **L Pull-ups** 12 reps",
+        "section_notes": [
+          "Focus on core stability during the L pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \nRun 400 meters  \nFront Squat 95X21  \n12 L Pull-ups  \n  \nPost time to comments.",
+      "date": "2003-11-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Ring",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n- **Run** 400 meters\n- **Hang Squat Clean** 21 reps (95 lbs)\n- **Ring Dips** 12 reps",
+        "section_notes": [
+          "Maintain a strong hollow body position on the ring dips."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \nRun 400 meters  \nHang squat clean 95X21  \n12 Ring dips  \n  \nPost time to comments.",
+      "date": "2003-11-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch and Balance",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch**\n- Reps: 5-5-3-3-3-1-1-1-1",
+        "section_notes": [
+          "Move slowly and maximize loads. Attempt to increase weight for each of the 9 sets."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "**Handstand Practice**\n- Duration: 20 minutes",
+        "section_notes": [
+          "Focus on balance and shoulder stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Snatch 5-5-3-3-3-1-1-1-1 reps.  \n  \nPractice handstand for 20 minutes.  \n  \nMove slowly; maximize loads. Attempt to increase loads for each of the 9 sets. Post loads and handstand progress to comments.",
+      "date": "2003-11-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Core",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**\n- Reps: 5-5-3-3-3-1-1-1-1",
+        "section_notes": [
+          "Move slowly and maximize loads. Attempt to increase weight for each of the 9 sets."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "**L-Sit & L-Sit Pirouettes Practice**\n- Duration: 20 minutes",
+        "section_notes": [
+          "Focus on compression and core strength."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back Squat 5-5-3-3-3-1-1-1-1 reps.  \n  \nPractice L sit & L sit pirouettes for 20 minutes.   \n  \nMove slowly; maximize loads. Attempt to increase loads for each of the 9 sets. Post loads and L sit progress to comments",
+      "date": "2003-11-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "skill-work",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Balance",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Powerclean**\n- Reps: 5-5-3-3-3-1-1-1-1",
+        "section_notes": [
+          "Move slowly and maximize loads. Attempt to increase weight for each of the 9 sets."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "**Handstand Practice**\n- Duration: 20 minutes",
+        "section_notes": [
+          "Focus on stability and alignment."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Powerclean 5-5-3-3-3-1-1-1-1 reps.  \n  \nPractice handstand for 20 minutes.   \n  \nMove slowly; maximize loads. Attempt to increase loads for each of the 9 sets. Post loads and handstand progress to comments.",
+      "date": "2003-11-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kettlebell Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n- **Run** 400 meters\n- **Left Arm Snatches** 25 reps\n- **Right Arm Snatches** 25 reps\n- **Pull-ups** 25 reps\n- **Run** 400 meters\n- **Left Arm Snatches** 20 reps\n- **Right Arm Snatches** 20 reps\n- **Pull-ups** 20 reps\n- **Run** 400 meters\n- **Left Arm Snatches** 15 reps\n- **Right Arm Snatches** 15 reps\n- **Pull-ups** 15 reps\n- **Run** 400 meters\n\nWeight: 1.5 pood Kettlebell or 55 lb dumbbell",
+        "section_notes": [
+          "Maintain a consistent pace across the descending rep scheme."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \nRun 400 meters  \n25 left arm snatches  \n25 right arm snatches  \n25 pull-ups  \nRun 400 meters  \n20 left arm snatches  \n20 right arm snatches  \n20 pull-ups  \nRun 400 meters  \n15 left arm snatches  \n15 right arm snatches   \n15 pull-ups  \nRun 400 meters  \n  \nUse 1Â½ pood Kettlebell or 55 pound dumbbell for snatches. Post time to comments.",
+      "date": "2003-11-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  }
+]

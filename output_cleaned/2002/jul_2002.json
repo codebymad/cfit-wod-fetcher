@@ -1,0 +1,573 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Power and Pace",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Deadlift** (body weight): 20 reps\n**1 Mile Bike**\n**Tabata Squats**",
+        "section_notes": [
+          "Maintain a steady pace on the bike to recover for the squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "20 Deadlift; body weight  \n1 mile Bike  \nTabata squats",
+      "date": "2002-07-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* **Push Jerk** (1/2 body weight): 10 reps\n* **Push Ups**: 10 reps\n* **Dips**: 10 reps",
+        "section_notes": [
+          "Focus on explosive power during the push jerks."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n10 Push jerk; 1/2 body weight  \n10 Push ups  \n10 Dips",
+      "date": "2002-07-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pull and Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* **Hang Clean** (1/2 body weight): 10 reps\n* **Pull Ups**: 10 reps",
+        "section_notes": [
+          "Keep the hang cleans crisp and the pull ups strict or kipping."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n10 Hang clean; 1/2 body weight  \n10 Pull Ups",
+      "date": "2002-07-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Leg Day Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "2 Rounds each for time of:\n* **Kettlebell Swings**: 30 reps\n* **Deadlift** (body weight): 20 reps\n* **Squats**: 50 reps",
+        "section_notes": [
+          "High volume on squats; maintain depth and form."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Two rounds each for time of:  \n30 Kettlebell swings  \n20 Deadlift; body weight  \n50 Squats",
+      "date": "2002-07-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* **Bench Press** (body weight): 10 reps\n* **400 Meter Run**",
+        "section_notes": [
+          "Keep a consistent pace on the run to keep the heart rate elevated."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n10 Bench press; body weight  \n400 meter Run",
+      "date": "2002-07-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Climb and Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* **Hang Cleans** (body weight): 10 reps\n* **Rope Climb**: 1 rep",
+        "section_notes": [
+          "For maximum benefit climb don’t use legs and feet on the rope climb."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n10 Hang cleans; body weight   \n1 Rope climb  \n  \nNote:  \n1. For maximum benefit climb don’t use legs and feet on the rope climb",
+      "date": "2002-07-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **500 Meter Row**\n* **Tabata Squats**\n* **500 Meter Row**\n* **Tabata Squats**",
+        "section_notes": [
+          "Push the rowing intervals and maintain intensity during Tabata."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "500 meter Row  \nTabata squats  \n500 meter Row  \nTabata squat",
+      "date": "2002-07-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Stairway to Power",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**20 Minutes Stair Climb**",
+        "section_notes": [
+          "Rest as needed after stair climb before starting the strength work."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Push Jerk** (1/2 Body weight): 20-18-16-14-12 reps",
+        "section_notes": [
+          "30 seconds rest between sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "20 minutes stair climb  \n1/2 Body weight Push jerk 20-18-16-14-12, reps  \n  \n1. 30 seconds rest between sets  \n2. Rest as needed after stair climb",
+      "date": "2002-07-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Clean",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**1 Mile Run**",
+        "section_notes": [
+          "Rest as needed after run before starting the cleans."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Clean** (1/2 Body weight): 20-18-16-14-12 reps",
+        "section_notes": [
+          "30 seconds rest between sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "1 mile Run  \n1/2 Body weight clean 20-18-16-14-12, reps  \n  \nNotes:  \n1. 30 seconds rest between sets  \n2. Rest as needed after run.",
+      "date": "2002-07-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Ring",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **1000 Meter Row**\n* **Muscle Ups**: 10 reps\n* **1000 Meter Row**\n* **Muscle Ups**: 10 reps",
+        "section_notes": [
+          "High skill requirement for muscle ups; scale if necessary."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n1000 meter Row  \n10 Muscle ups  \n1000 meter Row  \n10 Muscle ups",
+      "date": "2002-07-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Weighted Lunge Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete the following sequence:\n1. **Kettlebell Lunge** (32 kg): 75 ft and back\n2. **Hang Clean** (135 lb): Max reps\n3. **Kettlebell Lunge** (24 kg): 75 ft and back\n4. **Hang Clean** (135 lb): Max reps\n5. **Kettlebell Lunge** (16 kg): 75 ft and back\n6. **Hang Clean** (135 lb): Max reps",
+        "section_notes": [
+          "Hang clean rep total wins. Enjoy the descending weight on lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "While holding 32 kg. Kettlebell lunge 75 ft. and back  \n135 pound Hang clean; max reps  \nSame lunge with 24 kg Kettlebell  \n135 pound Hang clean; max reps  \nSame lunge with 16 kg Kettlebell  \n135 pound Hang clean; max reps  \n  \nNotes:  \n1. Enjoy  \n2. Hang clean rep total wins",
+      "date": "2002-07-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "strongman",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Ring",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **1000 Meter Row**\n* **Muscle Ups**: 10 reps\n* **1000 Meter Row**\n* **Muscle Ups**: 10 reps",
+        "section_notes": [
+          "Focus on efficient transitions between the rower and the rings."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n1000 meter Row  \n10 Muscle ups  \n1000 meter Row  \n10 Muscle ups",
+      "date": "2002-07-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Tabata Squats**\n* **1 Mile Run**\n* **Tabata Squats**",
+        "section_notes": [
+          "High intensity on the Tabata rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata sqaut  \n1 mile Run  \nTabata squat",
+      "date": "2002-07-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Duo",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Pull Ups**: 50 reps\n* **Dips**: 50 reps",
+        "section_notes": [
+          "Break the reps into manageable sets to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n50 Pull ups  \n50 Dips",
+      "date": "2002-07-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean**: 20-18-16-14-12-10-8-6-4-2 reps",
+        "section_notes": [
+          "Use a single load for all sets. 30 seconds rest between sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean 20-18-16-14-12-10-8-6-4-2, reps  \n  \nWith 30 seconds rest between sets and at a single load:",
+      "date": "2002-07-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Volume Density",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Pull-Ups**: Max reps in 20 minutes (doing 3 at a time)\n* **Rest**: 10 minutes\n* **Push-Ups**: Max reps in 20 minutes (doing 5 at a time)",
+        "section_notes": [
+          "This is a volume test; focus on the rhythm of the small sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "How many pull-ups can you do in twenty minutes doing three at a time?  \nRest 10 minutes.  \nHow many push-ups can you do in twenty minutes doing five at a time?",
+      "date": "2002-07-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Box Jumps",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "3 Rounds of:\n* **Deadlift**: 1-3-5 reps\n* **20 Inch Box Jump**: 20 reps",
+        "section_notes": [
+          "Set up three bars: one moderate load, one heavy load, and one super-heavy load. Don’t rest between lifts or before box jump. Rest after box jumps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds of:  \nDeadlift 1-3-5 reps  \n20 inch box jump, 20 reps  \nRest as needed.  \n  \nNotes:  \n1. Set up three bars: one moderate load, one heavy load, and one super-heavy load.  \n2. Don’t rest between lifts or before box jump. Rest after box jumps.",
+      "date": "2002-07-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 30 Minutes:\n* **Bench Press** (1/2 Body weight): 10 reps\n* **Rope Climb** (no legs): 1 rep",
+        "section_notes": [
+          "If you still aren’t fit enough to climb without your legs figure out why and do something about it."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 30 minutes as you can of:  \n10 Bench press; 1/2 Body weight  \n1 Rope Climb (no legs)  \n  \nNotes:  \n1. If you still aren’t fit enough to climb without your legs   \nfigure out why and do something about it.",
+      "date": "2002-07-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Effort Gradient",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Tabata Squat**\n* **1000 Meter Row**\n* **Hang Clean**: 10-10-10-10-10",
+        "section_notes": [
+          "Put 100% effort into the first exercise, 90% into the second, and 80% into the third."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata squat  \n1000 meter Row  \nHang clean 10-10-10-10-10  \n  \n1. Put 100% effort into the first exercise,   \n90% into the second,   \nand 80% into the third.",
+      "date": "2002-07-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Effort Gradient B",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Hang Clean**: 10-10-10-10-10\n* **Tabata Squat**\n* **1000 Meter Row**",
+        "section_notes": [
+          "Put 100% effort into the first exercise, 90% into the second, and 80% into the third."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang clean 10-10-10-10-10  \nTabata squat  \n1000 meter Row  \n  \n1. Put 100% effort into the first exercise,   \n90% into the second,   \nand 80% into the third.",
+      "date": "2002-07-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Effort Gradient C",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **1000 Meter Row**\n* **Hang Clean**: 10-10-10-10-10 reps\n* **Tabata Squat**",
+        "section_notes": [
+          "Put 100% effort into the first exercise, 90% into the second, and 80% into the third."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "1000 meter Row  \nHang clean 10-10-10-10-10, reps  \nTabata Squat  \n  \n1. Put 100% effort into the first exercise,   \n90% into the second,   \nand 80% into the third.",
+      "date": "2002-07-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge and Lift",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 Rounds for time of:\n* **Walking Lunge**: 10 steps\n* **Pull Ups**: 10 reps\n* **Push Ups**: 10 reps",
+        "section_notes": [
+          "Maintain a steady pace across all seven rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:  \n  \nWalking lunge, 10 steps  \n10 Pull ups  \n10 Push ups",
+      "date": "2002-07-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Clean and Jerk** (1/2 Body weight): 75 reps",
+        "section_notes": [
+          "Break the reps into sets that allow you to maintain form."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n  \n75 Clean and Jerk, 1/2 Body weight",
+      "date": "2002-07-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 Rounds for time of:\n* **Walking Lunge**: 10 steps\n* **Rope Climb**: 3 reps\n* **Dips**: 10 reps",
+        "section_notes": [
+          "Focus on grip strength for the rope climbs and dips."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:  \nWalking lunge, 10 steps  \n3 Rope climb  \n10 Dips",
+      "date": "2002-07-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  }
+]

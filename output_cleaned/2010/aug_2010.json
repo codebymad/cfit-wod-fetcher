@@ -1,0 +1,549 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Clean Thruster Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Squat clean thruster**, 135 lb, 5 reps\n* **Chest to bar pull-ups**, 10 reps",
+        "section_notes": [
+          "Maintain a consistent pace across all five rounds.",
+          "Focus on a powerful drive from the squat into the thruster."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n135 pound Squat clean thruster, 5 reps  \n10 Chest to bar pull-ups  \n  \n[James Hobart](http://www.crossfitboston.com/) 3:57, [Rob Orlando](http://www.hybridathletics.net/) 3:58, [Dave Lipson](http://365daysofsquatting.blogspot.com/) 3:59, Josh Everett 4:15, [Ben Bergeron](http://crossfitnewengland.com/) 4:45, [Eric Magee](http://cynergytraining.com/cynergycrossfit/) 4:54, [Graham Holmberg](http://www.roguecolumbus.com/) 5:24, [Myles Lewis](http://crossfitavalanche.com/) 5:45, Pat Sherwood 5:50, [Stacey Kroon](http://crossfitfenway.com/) 6:10 (95lbs), [Heather Bergeron](http://crossfitnewengland.com/) 6:38 (95lbs), [Karianne Dickson](http://www.crossfitmorristown.com/) 7:33 (95lbs), Kim Malz 8:33 (95lbs). Post time to comments.",
+      "date": "2010-08-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Double Wallball",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Double-unders**, 50 reps\n* **Wallball \"2-fer-1s**\", 20 lb ball, 25 reps",
+        "section_notes": [
+          "2-fer-1s typically refers to two balls or a specific movement variation.",
+          "Keep the heart rate high and transitions short."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n50 Double-unders  \n25 Wallball \"2-fer-1s\", 20 pound ball  \n  \n[Mike McKenna](http://crossfit914.com/) 6:26, [Rob Orlando](http://www.hybridathletics.net/) 7:22. Post time to comments.",
+      "date": "2010-08-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Olympic Triplet",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Snatch**, 1 rep\n* **Clean and jerk**, 1 rep",
+        "section_notes": [
+          "Find a heavy single for both movements before starting the metcon."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "As many rounds and reps as possible in 10 minutes of:\n* **Squat clean**, 55 kg, 6 reps\n* **Pull-ups**, 12 reps\n* **Double-unders**, 24 reps",
+        "section_notes": [
+          "Score is the sum of best snatch (kg) + best clean and jerk (kg) + total reps in the AMRAP."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Snatch, 1 rep  \nClean and jerk, 1 rep  \nAs many rounds and reps as possible in ten minutes of:  \n55kg Squat clean, 6 reps  \n12 Pull-ups  \n24 Double-unders  \n  \nAdd together the best snatch (in kg), the best clean and jerk (in kg), and the total reps performed in the triplet for your final score. Post score to comments.",
+      "date": "2010-08-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "AMRAP",
+        "metcon"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Row**, 500 meters\n* **Box jumps**, 24 inch box, 30 reps\n* **Back extensions**, 25 reps\n* **Deadlift**, 205 lb, 20 reps",
+        "section_notes": [
+          "Steady pacing on the row to save energy for the heavy deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \nRow 500 meters  \n30 Box jumps, 24 inch box  \n25 Back extensions  \n205 pound Deadlift, 20 reps  \n  \n[Graham Holmberg](http://www.roguecolumbus.com/) 14:04, [Pat Barber](http://crossfitnz.typepad.com/) 14:34, [Jason Khalipa](http://crossfitsantaclara.typepad.com/) 14:55, [Elyse Umeda](http://hardassfitness.blogspot.com/) 17:45 (20\" Box, 155lbs), [Karianne Dickson](http://www.crossfitbernardsville.com/) 17:53 (135lbs), [Valerie Mackenzie-Voboril](http://www.dogtowncrossfit.com/) 18:33 (140lbs), [Kim Malz](http://crossfitpersevere.com/) 21:30 (145lbs), [Laurie Galassi](http://www.crossfitsantacruz.com/) 21:56 (205lbs). Post time to comments.",
+      "date": "2010-08-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Muscle-ups**, 5 reps\n* **Overhead squat**, 115 lb, 10 reps\n* **Toes to bar**, 15 reps\n* **GHD Sit-ups**, 20 reps",
+        "section_notes": [
+          "High skill requirement; scale muscle-ups and overhead squats as needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n5 Muscle-ups  \n115 pound Overhead squat, 10 reps  \n15 Toes to bar  \n20 GHD Sit-ups  \n  \n[Chris Spealler](http://www.crossfitpc.com/) 15:55, [Kristan Clever](http://www.valleycrossfit.com/) 16:53 (95lbs), [Laurie Galassi](http://www.crossfitsantacruz.com/) 18:03 (83lbs), Josh Everett 22:01, Pat Sherwood 22:45, [Miranda Oldroyd](http://www.crossfit801.com/) 27:29 (83lbs), [Tyson Oldroyd](http://www.crossfit801.com/) 27:37. Post time to comments.",
+      "date": "2010-08-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Lunge AMRAP",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n* **Back squat**, 185 lb, 7 reps\n* **Dumbbell Overhead walking lunge**, 45 lb, 10 steps (right hand)\n* **Burpees**, 7 reps\n* **Dumbbell Overhead walking lunge**, 45 lb, 10 steps (left hand)",
+        "section_notes": [
+          "Keep the core tight during the overhead lunges to maintain stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \n185 pound Back squat, 7 reps  \n45 pound dumbbell Overhead walking lunge, 10 steps (right hand)  \n7 Burpees  \n45 pound dumbbell Overhead walking lunge, 10 steps (left hand)  \n  \n[Kristan Clever](http://www.valleycrossfit.com/) 10 rounds + 7 squats (135lb squat, 35lb DB), [Elyse Umeda](http://hardassfitness.blogspot.com/) 9 rounds + 3 burpees (135lb squat, 30lb DB), [Laurie Galassi](http://www.crossfitsantacruz.com/) 8 rounds + 10 lunges (125lb squat, 30lb DB), [Karianne Dickson](http://www.crossfitbernardsville.com/) 8 rounds + 7 squats (125lb squat, 35lb DB), [Kim Malz](http://crossfitpersevere.com/) 8 rounds + 2 squats (135lb squat, 30lb DB), [Danielle Mulford](http://www.crossfitsantacruz.com/) 6 rounds + 4 squats (125lb squat, 30lb DB). Post rounds completed to comments.",
+      "date": "2010-08-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "metcon"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "SQT",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Ground to overhead**, 95 lb, 10 reps\n* **Shuttle sprint**, 200 yards (50 yards there and back twice)",
+        "section_notes": [
+          "Fast transitions between the barbell and the sprint."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**SQT**\"  \n  \nThree rounds for time of:  \n95 pound Ground to overhead, 10 reps  \n200 yard Shuttle sprint, 50 yards there and back twice  \n  \n[Dave Lipson](http://365daysofsquatting.blogspot.com/) 2:57, [Rob Orlando](http://www.hybridathletics.net/) 2:58, [Eric Magee](http://cynergytraining.com/cynergycrossfit/) 3:07, [Chris Spealler](http://www.crossfitpc.com/) 3:19, [Jason Leydon](http://www.crossfitmilford.com/) 3:32, [Denise Thomas](http://hybridathletics.net/) 3:35 (65lbs), [James Hobart](http://www.crossfitboston.com/) 3:48, [Peter Egyed](http://www.crossfitfury.com/) 3:50, [Kristan Clever](http://www.valleycrossfit.com/) 5:27 (95lbs), [Rebecca Voigt](http://www.valleycrossfit.com/) 5:40 (95lbs). Post times to comments.",
+      "date": "2010-08-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "ADAMBROWN",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Two rounds for time of:\n* **Deadlift**, 295 lb, 24 reps\n* **Box jumps**, 24 inch box, 24 reps\n* **Wallball shots**, 20 lb ball, 24 reps\n* **Bench press**, 195 lb, 24 reps\n* **Box jumps**, 24 inch box, 24 reps\n* **Wallball shots**, 20 lb ball, 24 reps\n* **Clean**, 145 lb, 24 reps",
+        "section_notes": [
+          "High volume workout; manage your breathing and pacing."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**ADAMBROWN**\"  \n  \nTwo rounds for time of:  \n295 pound Deadlift, 24 reps  \n24 Box jumps, 24 inch box  \n24 Wallball shots, 20 pound ball  \n195 pound Bench press, 24 reps  \n24 Box jumps, 24 inch box  \n24 Wallball shots, 20 pound ball  \n145 pound Clean, 24 reps  \n  \n[Mikko Salo](http://crossfitpori.com/) 21:59, [Kristan Clever](http://www.valleycrossfit.com/) 27:15 (185lb dead, 24\" box, 16lb ball, 120lb bench, 100lb clean), [Peter Egyed](http://www.crossfitfury.com/) 28:28, [Rebecca Voigt](http://www.valleycrossfit.com/) 30:20 (185lb dead, 24\" box, 16lb ball, 120lb bench, 100lb clean). Post time to comments.",
+      "date": "2010-08-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Coe",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Ten rounds for time of:\n* **Thruster**, 95 lb, 10 reps\n* **Ring push-ups**, 10 reps",
+        "section_notes": [
+          "Keep a steady rhythm; avoid burnout in the early rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Coe**\"  \n  \nTen rounds for time of:  \n95 pound Thruster, 10 reps  \n10 Ring push-ups  \n  \n[Mikko Salo](http://crossfitpori.com/) 9:55, [Peter Egyed](http://www.crossfitfury.com/) 11:07, [Kristan Clever](http://www.valleycrossfit.com/) 11:28 (65lbs), [Rebecca Voigt](http://www.valleycrossfit.com/) 11:46 (65lbs), [Kim Malz](http://crossfitpersevere.com/) 13:49 (65lbs), [Elyse Umeda](http://crossfitgymnastics.com/) 14:34 (65lbs). Post time to comments.",
+      "date": "2010-08-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Annie",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20 and 10 rep rounds of:\n* **Double-unders**\n* **Sit-ups**",
+        "section_notes": [
+          "Fast-paced benchmark workout. GHD sit-ups can be used as a variation."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Annie**\"  \n  \n50-40-30-20 and 10 rep rounds of:  \nDouble-unders  \nSit-ups  \n  \n[Kim Malz](http://crossfitpersevere.com/) 5:00, Dave Castro 8:00 (GHD). Post time to comments.  \n  \nCompare to [100518](http://www.crossfit.com/mt-archive2/005437.html).",
+      "date": "2010-08-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Weighted Pull-up Max",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Weighted pull-ups**, 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Build up to a maximum weight for a single rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Weighted pull-ups 1-1-1-1-1-1-1 reps  \n  \n[Dave Lipson](http://365daysofsquatting.blogspot.com/) 165lbs (BW 215lbs). Post loads and body weight to comments.  \n  \nCompare to [100314](http://www.crossfit.com/mt-archive2/005307.html).",
+      "date": "2010-08-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wallball Snatch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Wallball shots**, 20 lb ball, 30 reps (10.5 foot target)\n* **Squat snatches**, 75 lb, 30 reps (movement initiates with barbell below the knees)",
+        "section_notes": [
+          "Ensure the barbell starts below the knees for every rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n30 Wallball shots, 20 pound ball (10.5 foot target)  \n75 pound Squat snatches, 30 reps (movement initiates with barbell below the knees)  \n  \n[Mikko Salo](http://www.crossfitpori.com/) 8:58, [Kristan Clever](http://www.valleycrossfit.com/) 10:30 (16lb ball, 45lb barbell) [Jason Khalipa](http://crossfitsantaclara.typepad.com/) 11:19 (2009 Games), [Carey Kepler](http://www.crossfitcentral.com/) 11:01 (14lb ball, 45lb barbell, 2009 Games), [Becca Voigt](http://www.valleycrossfit.com/) 12:00 (16lb ball, 45lb barbell). Post time to comments.",
+      "date": "2010-08-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "15 rounds for distance of:\n* **Sprint**, 20 seconds\n* **Rest**, 40 seconds\n\n*Start each round at the previous round's end point.*",
+        "section_notes": [
+          "Maximum effort on the sprints; use the rest to recover."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "15 rounds for distance of:  \nSprint 20 seconds  \nRest 40 seconds  \nStart each round at previous round's end point.  \n  \n[Kristan Clever](http://www.valleycrossfit.com/) 1mile 210meters, [Becca Voigt](http://www.valleycrossfit.com/) 1mile 50meters. Post distance to comments.",
+      "date": "2010-08-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval",
+        "metcon"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Nate",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n* **Muscle-ups**, 2 reps\n* **Handstand Push-ups**, 4 reps\n* **Kettlebell swings**, 2-pood, 8 reps",
+        "section_notes": [
+          "A high-skill AMRAP; maintain a steady pace to maximize rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"[Nate](http://www.crossfit.com/mt-archive2/003348.html)\"  \n  \nComplete as many rounds in twenty minutes as you can of:  \n2 Muscle-ups  \n4 Handstand Push-ups  \n8 2-Pood Kettlebell swings  \n  \n[Mikko Salo](http://www.crossfitpori.com/) 21 rounds, [Graham Holmberg](http://www.roguecolumbus.com/) 19 rounds + 3 HSPU, [Chris Spealler](http://www.crossfitpc.com/) 15 rounds + 1 HSPU (with 20lb vest), [Kristan Clever](http://www.valleycrossfit.com/) 15 rounds (2 pood KB), [Rebecca Voigt](http://www.valleycrossfit.com/) 7 rounds (2 pood KB). Post rounds completed to comments.  \n  \nCompare to [091027](http://www.crossfit.com/mt-archive2/005022.html).",
+      "date": "2010-08-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "metcon"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rope and Ring",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Rope Climb**, 15 ft, 5 ascents\n* **Ring dips**, 21 reps\n* **Squats**, 50 reps",
+        "section_notes": [
+          "Focus on efficient rope climbing and steady air squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n15 ft Rope Climb, 5 ascents  \n21 Ring dips  \n50 Squats  \n  \n[Peter Egyed](http://www.crossfitfury.com/) 10:04, Pat Sherwood 12:04, [Graham Holmberg](http://www.roguecolumbus.com/) 12:32, [Elyse Umeda](http://hardassfitness.blogspot.com/) 13:27 (12ft rope, 7 ascents), [Kristan Clever](http://www.valleycrossfit.com/) 18:19, [Rebecca Voigt](http://www.valleycrossfit.com/) 22:05. Post time to comments.  \n  \nCompare to [091220](http://www.crossfit.com/mt-archive2/005132.html).",
+      "date": "2010-08-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Burpee Box Toes",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "30-25-20-15 and 10 rep rounds of:\n* **Burpees**\n* **Box jumps**, 24 inch box\n* **Toes to bar**",
+        "section_notes": [
+          "Descending rep scheme; push the pace as the reps get lower."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "30-25-20-15 and 10 rep rounds of:  \nBurpees  \nBox jumps, 24 inch box  \nToes to bar  \n  \n[Kristan Clever](http://www.valleycrossfit.com/) 14:49 (24\" box), [Graham Holmberg](http://www.roguecolumbus.com/) 15:20, [Kim Malz](http://crossfitpersevere.com/) 17:48 (24\" box), [Elyse Umeda](http://hardassfitness.blogspot.com/) 20:59 (24\" box). Post time to comments.",
+      "date": "2010-08-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge Distance",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Walking lunge**, 400 meters",
+        "section_notes": [
+          "Pure endurance and leg strength; keep moving consistently."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "400 meter Walking lunge  \n  \n[Kristan Clever](http://www.valleycrossfit.com/) 8:35, 382 steps, [Kim Malz](http://crossfitpersevere.com/) 9:15, [Graham Holmberg](http://www.roguecolumbus.com/) 10:24, [Rebecca Voigt](http://www.valleycrossfit.com/) 10:36, 376 steps, [Bonnie Weinberger](http://www.valleycrossfit.com/) 13:09, [Katie Hogan](http://www.valleycrossfit.com/) 14:31. Post time and number of steps to comments.  \n  \nCompare to [](http://www.crossfit.com/mt-archive2/003221.html) [091125](http://www.crossfit.com/mt-archive2/005082.html).",
+      "date": "2010-08-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Touch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Tie a five-pound plate to hang an honest 18\" above your tiptoe reach and complete 5 rounds for time of:\n* **Jump and touch**, 50 reps\n* **Squats**, 40 reps\n* **Sit-ups**, 30 reps\n* **Push-ups**, 20 reps\n* **Pull-ups**, 10 reps",
+        "section_notes": [
+          "The jump and touch is a vertical leap test; ensure the height is accurate."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tie a five-pound plate to hang an honest 18\" above your tiptoe reach and complete 5 rounds for time of:  \n50 Jump and touch  \n40 Squats  \n30 Sit-ups  \n20 Push-ups  \n10 Pull-ups  \n  \n[Kristan Clever](http://www.valleycrossfit.com/) 24:13 (14\" jump), [Lucas Zepeda](http://www.crossfitsantacruz.com/) 24:34, [Jesse Bazarnick](http://www.crossfitsantacruz.com/) 26:25, [Pat Barber](http://crossfitnz.typepad.com/) 28:56, [Rebecca Voigt](http://www.valleycrossfit.com/) 32:53 (14\" jump), [Laurie Galassi](http://www.crossfitsantacruz.com/) 35:47. Post time to comments.   \n  \nCompare to [040316](http://www.crossfit.com/mt-archive2/000353.html).",
+      "date": "2010-08-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Test 3",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Tabata Squat** (20s work / 10s rest x 8 intervals)\n* **Muscle-ups**, max reps in 4 minutes",
+        "section_notes": [
+          "Score = (lowest rep count in any Tabata interval) x (total muscle-ups completed)."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Test 3**\"  \n  \nTabata Squat  \nMax reps of Muscle-ups in 4 minutes  \n  \nThe Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 intervals. Tabata score is the least number of reps performed in any of the eight intervals. Begin time for muscle-ups immediately after the last 10 second rest interval. Test score equals Tabata score multiplied by number of muscle-ups completed.   \n  \n[Graham Holmberg](http://www.roguecolumbus.com/) 616 (22 x 28), [Kristan Clever](http://www.valleycrossfit.com/) 575 (25 x 23), [James Hobart](http://www.crossfitboston.com/) 528 (22 x 24), [Greg Amundson](http://crossfitamundson.com/) 525 (21 x 25), [Heather Bergeron](http://crossfitnewengland.com/)<strike>368</strike> (<strike>23</strike> x 16). Post score to comments.  \n  \nSee \"[How Fit Are You?](http://journal.crossfit.com/2003/04/how-fit-are-you-by-greg-glassm.tpl)\" - [[pdf](http://library.crossfit.com/free/pdf/08_03_How_Fit_Are_You.pdf)]",
+      "date": "2010-08-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "metcon"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Push and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 21 **Pull-ups** / 21 **Handstand Push-ups**\n* 18 **Pull-ups** / 18 **Handstand Push-ups**\n* 15 **Pull-ups** / 15 **Handstand Push-ups**\n* 12 **Pull-ups** / 12 **Handstand Push-ups**\n* 9 **Pull-ups** / 9 **Handstand Push-ups**\n* 6 **Pull-ups** / 6 **Handstand Push-ups**\n* 3 **Pull-ups** / 3 **Handstand Push-ups**\n\n*Note: Handstand push-ups are \"nose to floor\" and pull-ups are \"strict\" (non-kipping).*",
+        "section_notes": [
+          "Strict movements only; focus on quality and control."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n21 Pull-ups  \n21 Handstand Push-ups  \n18 Pull-ups  \n18 Handstand Push-ups  \n15 Pull-ups  \n15 Handstand Push-ups  \n12 Pull-ups  \n12 Handstand Push-ups  \n9 Pull-ups  \n9 Handstand Push-ups  \n6 Pull-ups  \n6 Handstand Push-ups  \n3 Pull-ups  \n3 Handstand Push-ups   \nHandstand push-ups are \"nose to floor\" and pull-ups are \"strict\" or non-kipping.  \n  \n[Kristan Clever](http://www.valleycrossfit.com/) 19:31, [Graham Holmberg](http://www.roguecolumbus.com/) 19:37, [Elyse Umeda](http://hardassfitness.blogspot.com/) 29:27. Post time to comments.   \n  \nCompare to [091216](http://www.crossfit.com/mt-archive2/005126.html).",
+      "date": "2010-08-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sumo Jerk Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-18-15-12-9-6 and 3 rep rounds of:\n* **Sumo deadlift high-pull**, 75 lb\n* **Push jerk**, 75 lb",
+        "section_notes": [
+          "Keep the barbell moving; use the legs to drive the push jerk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-18-15-12-9-6 and 3 rep rounds of:  \nSumo deadlift high-pull, 75 pounds  \nPush jerk, 75 pounds  \n  \n[Dave Lipson](http://365daysofsquatting.blogspot.com/) 3:42, [Rob Orlando](http://www.hybridathletics.net/) 3:45, [Jason Khalipa](http://crossfitsantaclara.typepad.com/) 4:04, [Jay Leydon](http://www.crossfitmilford.com/) 4:33, [Gary Niel](http://www.crossfitmountainview.com/) 4:40, [Graham Holmberg](http://www.roguecolumbus.com/) 5:07, [Pat Barber](http://crossfitnz.typepad.com/) 5:25 (44lb single arm push jerk), [Elyse Umeda](http://hardassfitness.blogspot.com/) 6:25 (55lbs), [Kristan Clever](http://www.valleycrossfit.com/) 7:54 (75lbs), [Kim Malz](http://crossfitpersevere.com/) 7:56 (55lb), [Jocelyn Leydon](http://www.crossfitmilford.com/) 9:50 (55lbs). Post time to comments.",
+      "date": "2010-08-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Back Squat Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**, 3-3-3-3-3 reps",
+        "section_notes": [
+          "Five sets of three reps; build to a heavy weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back Squat 3-3-3-3-3 reps  \n  \n[Dave Lipson](http://365daysofsquatting.blogspot.com/) 500lbs, [Graham Holmberg](http://www.roguecolumbus.com/) 320lbs, [Kristan Clever](http://www.valleycrossfit.com/) 255lbs, [Kim Malz](http://crossfitpersevere.com/) 220lbs, [Katie Hogan](http://www.crossfit.com/) 205lbs, [Becca Voigt](http://www.valleycrossfit.com/) 200lbs. Post loads to comments.  \n  \nCompare to [091215](http://www.crossfit.com/mt-archive2/005123.html).",
+      "date": "2010-08-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Get-up Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "With a 45 lb barbell, 21-15- and 9 reps for time of:\n* **Turkish Get-ups**, alternating arms\n* **Sots press**",
+        "section_notes": [
+          "Technical movements; prioritize form over speed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "With a 45 pound barbell, 21-15- and 9 reps for time of:  \nTurkish Get-ups, alternating arms  \nSots press  \n  \nRory McKernan 6:42, [Kristan Clever](http://www.valleycrossfit.com/) 16:03, [Katie Hogan](http://www.crossfit.com/) 23:02, [Rebecca Voigt](http://www.valleycrossfit.com/) 25:26. Post time to comments.",
+      "date": "2010-08-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  }
+]

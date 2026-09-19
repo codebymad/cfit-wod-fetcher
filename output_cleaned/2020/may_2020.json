@@ -1,0 +1,538 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Run and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds For Time:\n* **Run** 400 meters\n* 50 **Squats**\n* 15 **L Pull-ups**",
+        "section_notes": [
+          "Maintain a steady pace on the run to keep the heart rate manageable for the squats and pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\nRun 400 meters  \r\n50 squats  \r\n15 L pull-ups   \r\n\r\nPost time to comments. | Compare to [031006](https://www.crossfit.com/workout/2003/10/06#/comments).",
+      "date": "2020-05-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Jerk Practice",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "Practice SLIPS for 20 minutes.\n\n**Clean and Jerk**: 5-5-5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on technique and stability during the jerk phase.",
+          "If at home, modify with dumbbells, jugs, or other heavy objects."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes.  \r\n\r\nClean and jerk 5-5-5-5-5-5-5 reps  \r\n\r\nIf at home, modify with dumbbells, jugs, or other heavy objects.\r\nPost loads to comments.",
+      "date": "2020-05-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ladder Logic",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Perform the following ladders:\n* **Thruster** ladder\n* **Ring Row** ladder\n* **Push Press** ladder\n\n**Ladder Pattern**: Perform 1 rep the first minute, 2 reps the second minute, 3 reps the third minute, etc., continuing as long as you are able.",
+        "section_notes": [
+          "Use as many sets each minute as needed to complete the reps.",
+          "Rest as needed between different ladders."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Thruster ladder  \r\nRing row ladder  \r\nPush press ladder  \r\n\r\nFor the ladder pattern, perform 1 rep the first minute, 2 reps the second minute, 3 reps the third minute, etc., continuing as long as you are able. Use as many sets each minute as needed. Rest as needed between ladders.\r\n\r\nPost number of minutes completed for each ladder and loads used for thruster and push press to comments.",
+      "date": "2020-05-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 Minutes:\n* 200-meter **Run**\n* 1 minute of **Plank Hold**",
+        "section_notes": [
+          "Keep the run at a consistent pace to allow for a solid, stable plank hold."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as  many rounds as possible in 20 minutes of:  \r\n\r\n200-meter run  \r\n1 minute of plank hold  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-05-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds of:\n* 1 minute of **Dumbbell Deadlifts**\n* 1 minute of **Push-ups**",
+        "section_notes": [
+          "Do not rest between rounds.",
+          "Focus on maintaining a flat back during deadlifts even as fatigue sets in."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds of:  \r\n\r\n1 minute of dumbbell deadlifts  \r\n1 minute of push-ups  \r\n\r\nDo not rest between rounds.  \r\n\r\nPost total reps completed for each exercise and weight used for the deadlift to comments.  \r\nCompare to [151229](https://www.crossfit.com/workout/2015/12/29).",
+      "date": "2020-05-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Focus",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Practice SLIPS for 20 minutes.\n\n**Front Squat**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Maintain an upright torso and keep elbows high.",
+          "If at home, modify with dumbbells, jugs, or other heavy objects."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes.  \r\n\r\nFront squat 5-5-5-5-5 reps  \r\n\r\nIf at home, modify with dumbbells, jugs, or other heavy objects.\r\nPost loads to comments. | Compare to [180705](https://www.crossfit.com/workout/2018/07/05#/comments).",
+      "date": "2020-05-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 30 Minutes:\n* 20 **Dumbbell Weighted Lunges**\n* 20 **Dumbbell Shoulder Presses**\n* 200-meter **Row**",
+        "section_notes": [
+          "Use a pair of dumbbells totaling roughly one-third your body weight.",
+          "Pace yourself for the long duration; this is a steady-state grind."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 30 minutes of:  \r\n\r\n20 dumbbell weighted lunges  \r\n20 dumbbell shoulder presses  \r\n200-meter row  \r\n\r\nUse a pair of dumbbells totaling roughly one-third your body weight.  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-05-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Odd Object Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 10 Minutes:\n* 10 **Box Jumps** (♀ 24-in. / ♂ 30-in.)\n* 10 **Cleans**",
+        "section_notes": [
+          "Use a heavy sandbag, ball, or other odd object for the cleans.",
+          "High intensity for a short window; move quickly between movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n10 box jumps  \r\n10 cleans  \r\n\r\n♀ 24-in. box  ♂ 30-in. box  \r\n\r\nUse a heavy sandbag, ball, or other odd object for the cleans.\r\nPost rounds completed to comments.",
+      "date": "2020-05-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Balance",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "Practice SLIPS for 20 minutes.\n\n**Single-arm Overhead Squat**: 3-3-3-3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Alternate arms each set.",
+          "Focus on core stability and shoulder mobility."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes  \r\n\r\nSingle-arm overhead squat 3-3-3-3-3-3-3-3-3-3 reps  \r\n\r\nAlternate arms each set.\r\n\r\nPost loads to comments.",
+      "date": "2020-05-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Cindy Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds For Time:\n* 800-meter **Run**\n* 5 Rounds of **Strict Cindy**\n\n*1 Round of Strict Cindy: 5 **Strict Pull-ups**, 10 **Push-ups**, 15 **Squats***",
+        "section_notes": [
+          "The pull-ups must be strictly performed without kipping.",
+          "The run serves as a cardiovascular buy-in before the gymnastics work."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n800-meter run  \r\n5 rounds of Strict Cindy  \r\n\r\n1 round of Strict Cindy is 5 strict pull-ups, 10 push-ups, and 15 squats.  \r\n\r\nPost time to comments.",
+      "date": "2020-05-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Get Up and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds For Time:\n* 12 Left-hand **Turkish Get-ups**\n* 12 Right-hand **Turkish Get-ups**\n* 3 **Legless Rope Climbs** (15-ft. rope)\n\n**Weight**: ♀ 35-lb. / ♂ 50-lb. dumbbell",
+        "section_notes": [
+          "Focus on the technical precision of the get-up.",
+          "Legless rope climbs require significant upper body and grip strength."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time:  \r\n\r\n12 left-hand Turkish get-ups  \r\n12 right-hand Turkish get-ups  \r\n3 legless rope climbs, 15-ft. rope  \r\n\r\n♀ 35-lb. dumbbell  \r\n♂ 50-lb. dumbbell  \r\n\r\nShare your at-home modifications and time in comments.  \r\nCompare to [190415](https://www.crossfit.com/190415).",
+      "date": "2020-05-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "strongman"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Steady Row",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Row** 5,000 meters",
+        "section_notes": [
+          "Maintain a consistent split time throughout the distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 5,000 meters  \r\n\r\nPost time to comments.  \r\nCompare to [191009](https://www.crossfit.com/191009).",
+      "date": "2020-05-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Walk and Lunge",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 15 Minutes:\n* 25-ft. **Handstand Walk**\n* 75-ft. **Walking Lunge**\n* 25 **Sit-ups**",
+        "section_notes": [
+          "Keep the handstand walk controlled to avoid falls.",
+          "Maintain a steady rhythm on the lunges and sit-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:  \r\n\r\n25-ft. handstand walk  \r\n75-ft. walking lunge  \r\n25 sit-ups  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-05-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Practice SLIPS for 20 minutes.\n\n**Front Squat**: 10-10-10-10-10 reps",
+        "section_notes": [
+          "High volume sets; focus on maintaining form under fatigue.",
+          "If at home, modify with jugs or other heavy object."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes  \r\n\r\nFront squat 10-10-10-10-10 reps  \r\n\r\nIf at home, modify with jugs or other heavy object. Share your at-home modifications and loads in comments.  \r\nCompare to [180211](https://www.crossfit.com/workout/2018/02/11).",
+      "date": "2020-05-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Double Under Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds (2-minute rounds):\n* 75 **Double-unders**\n* Max reps of **Sumo Deadlift High Pull**\n\n**Rest**: 1 minute between rounds.",
+        "section_notes": [
+          "The goal is to finish the double-unders as quickly as possible to maximize the SDHP reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 2-minute rounds of:  \r\n\r\n75 double-unders  \r\nMax reps of sumo deadlift high pull  \r\n\r\nRest 1 minute between rounds.  \r\n\r\nPost load used and number of SDHP reps completed each round to comments.",
+      "date": "2020-05-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Thruster Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 Reps of:\n* **Dumbbell Thrusters**\n* **L Pull-ups**",
+        "section_notes": [
+          "Choose the heaviest dumbbells and most difficult pull-up variant you can complete for 21 reps.",
+          "Try to complete each set unbroken."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps of:  \r\n\r\nDumbbell thrusters  \r\nL pull-ups  \r\n\r\nChoose the heaviest dumbbells and most difficult variant of the pull-up at which you can still complete a set of 21 reps. Try to complete each exercise unbroken.  \r\n\r\nPost time, dumbbell load, and type of pull-ups performed to comments.\r\nCompare to [160113](https://www.crossfit.com/workout/2016/01/13#/comments).",
+      "date": "2020-05-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Perform Tabata (20s work / 10s rest x 8) for each:\n* **Box Jump** (16/20-in. box)\n* **L-sit** (count seconds)\n* **Handstand Hold** (count seconds)\n* **Sit-up**\n* **Lunge**\n\nNo rest between exercises.",
+        "section_notes": [
+          "High intensity for the 20-second work intervals.",
+          "Focus on maximum effort and strict holds for the L-sit and handstand."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata box jump, 16/20-in. box  \r\nTabata L-sit  \r\nTabata handstand hold  \r\nTabata sit-up  \r\nTabata lunge  \r\n\r\nThe Tabata interval is 20 seconds of work followed by 10 seconds of rest for eight intervals. For L-sit and handstand hold, count the number of seconds maintained in the hold. There is no rest between exercises.  \r\n\r\nPost total reps/seconds for each exercise to comments.",
+      "date": "2020-05-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Practice SLIPS for 20 minutes.\n\n**Deadlift**: 10-10-10-10-10 reps",
+        "section_notes": [
+          "Focus on a neutral spine and driving through the legs.",
+          "If at home, modify with jugs or other heavy object."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes  \r\n\r\nDeadlift 10-10-10-10-10 reps  \r\n\r\nIf at home, modify with a jugs or other heavy object. Share your at-home modifications and loads in comments. | Compare to [181212](https://www.crossfit.com/workout/2018/12/12#/comments).",
+      "date": "2020-05-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hero Honor",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Hero Workout of your choice**",
+        "section_notes": [
+          "Review the list of heroes and honor one with an all-out effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Hero Workout of your choice](https://www.crossfit.com/heroes/).  \r\n\r\nReview the list of 196 heroes and honor one with an all-out effort.\r\n\r\nPost choice of Hero and result to comments.  \r\nCompare to [180528](https://www.crossfit.com/workout/2018/05/28#/comments).",
+      "date": "2020-05-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Swing and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20-10 Reps For Time:\n* **GHD Sit-ups**\n* **Kettlebell Swings** (♀ 24 kg / ♂ 32 kg)",
+        "section_notes": [
+          "High volume of swings; maintain a powerful hip hinge."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50-40-30-20-10 reps for time of:  \r\n\r\nGHD sit-ups  \r\nKettlebell swings  \r\n\r\n♀ 24 kg  ♂ 32 kg  \r\n\r\nPost time to comments.  \r\nCompare to [161130](https://www.crossfit.com/workout/2016/11/30).",
+      "date": "2020-05-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Hop",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "On a 16-minute running clock, 2 Rounds of:\n* 2 minutes of **Double-unders**\n* Tabata **Single-leg Squats** (alternating legs each interval)\n* 2 minutes of **Box Jumps** (♀ 20-in. / ♂ 24-in.)",
+        "section_notes": [
+          "The clock runs continuously; focus on total reps completed within the time windows."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "On a 16-minute running clock, 2 rounds of: \r\n \r\n2 minutes of double-unders  \r\nTabata single-leg squats, alternating legs each interval  \r\n2 minutes of box jumps  \r\n\r\n♀ 20-in. box ♂ 24-in. box  \r\n\r\nPost total reps to comments.  \r\nCompare to [031021](https://www.crossfit.com/workout/2003/10/21#/comments).",
+      "date": "2020-05-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Shoulder Press Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Practice SLIPS for 20 minutes.\n\n**Shoulder Press**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on a tight core and no leg drive."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Shoulder press 3-3-3-3-3-3-3 reps  \r\n\r\nPractice SLIPS for 20 minutes.  \r\n\r\nPost loads to comments.  \r\nCompare to [190923](https://www.crossfit.com/190923).",
+      "date": "2020-05-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatched Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds For Time:\n* 400-m **Run**\n* 15 Left-arm **Kettlebell Snatches**\n* 15 Right-arm **Kettlebell Snatches**\n\n**Weight**: ♀ 12 kg / ♂ 16 kg",
+        "section_notes": [
+          "Keep the kettlebell close to the body during the snatch to maximize efficiency."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\n400-m run  \r\n15 left-arm kettlebell snatches  \r\n15 right-arm kettlebell snatches  \r\n\r\n♀ 12 kg  ♂ 16 kg  \r\n\r\nPost time to comments.  \r\nCompare to [190928](https://www.crossfit.com/190928).",
+      "date": "2020-05-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  }
+]

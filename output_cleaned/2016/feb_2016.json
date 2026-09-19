@@ -1,0 +1,477 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Muscle Up Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 9 **Bar Muscle-Ups**\n* 21 **Push Jerks**, 115 lb.\n* 7 **Bar Muscle-Ups**\n* 15 **Push Jerks**, 115 lb.\n* 5 **Bar Muscle-Ups**\n* 9 **Push Jerks**, 115 lb.",
+        "section_notes": [
+          "Maintain a consistent pace on the push jerks to save energy for the gymnastics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \n9 bar muscle-ups  \n21 push jerks, 115 lb.  \n7 bar muscle-ups  \n15 push jerks, 115 lb.  \n5 bar muscle-ups  \n9 push jerks, 115 lb.  \n  \nPost time to comments.",
+      "date": "2016-02-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deficit Pull",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deficit Deadlift**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Stand on extra plates so that your grip on the barbell is lower than in your normal setup."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deficit deadlift 3-3-3-3-3 reps  \n  \nStand on extra plates so that your grip on the barbell is lower than in your normal setup.  \n  \nPost loads to comments.",
+      "date": "2016-02-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n* 20 **Overhead Squats**, 115 lb.\n* 20 **Box Jumps**, 30-inch",
+        "section_notes": [
+          "Focus on stability and core engagement during the overhead squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \r\n115-lb. overhead squats, 20 reps  \r\n30-inch box jumps, 20 reps  \r\n  \r\nPost time to comments.",
+      "date": "2016-02-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Grace",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 30 **Clean and Jerks**, 135 lb.",
+        "section_notes": [
+          "This is a benchmark workout; aim for a fast, sprint-like effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Grace**    \r\n\r\n135-lb. clean and jerks, 30 reps  \r\n  \r\nPost time to comments.  \r\n  \r\nCompare to [150104](https://www.crossfit.com/mt-archive2/009450.html#/comments).",
+      "date": "2016-02-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Row** 500 meters\n* 50 **GHD Sit-ups**\n* **Row** 1,000 meters\n* 30 **GHD Sit-ups**\n* **Row** 2,000 meters\n* 20 **GHD Sit-ups**",
+        "section_notes": [
+          "Pace the rowing intervals to maintain a steady heart rate for the sit-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\nRow 500 meters  \r\n50 GHD sit-ups  \r\nRow 1,000 meters  \r\n30 GHD sit-ups  \r\nRow 2,000 meters   \r\n20 GHD sit-ups  \r\n  \r\nPost time to comments.\r\n  \r\nCompare to <a href='https://www.crossfit.com/mt-archive2/009105.html#/comments' target='blank'>140125</a>.",
+      "date": "2016-02-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Station Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 5-minute rounds for max reps at each station:\n* 0:00-2:00: **Run** 400 meters then **Double-Unders**\n* 2:00-3:00: **Dumbbell Push Jerks**, 35 lb.\n* 3:00-4:00: **Pull-ups**\n* 4:00-5:00: **Dumbbell Hang Squat Cleans**, 35 lb.\n\nRest 5 minutes between rounds.",
+        "section_notes": [
+          "Max effort in each window; use the 5-minute rest for full recovery."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 5-minute rounds for max reps at each station:  \r\nFrom 0:00-2:00, run 400 meters then double-unders  \r\nFrom 2:00-3:00, 35-lb. dumbbell push jerks  \r\nFrom 3:00-4:00, pull-ups  \r\nFrom 4:00-5:00, 35-lb. dumbbell hang squat cleans  \r\n \r\nRest 5 minutes between rounds.  \r\n  \r\nPost number of reps completed each round to comments.",
+      "date": "2016-02-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time, fast and heavy:\n* 21 **Dumbbell Thrusters**\n* **Run** 400 meters\n* 18 **Dumbbell Thrusters**\n* **Run** 400 meters\n* 15 **Dumbbell Thrusters**\n* **Run** 400 meters",
+        "section_notes": [
+          "Choose a weight that allows you to move quickly through the thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time, fast and heavy:  \r\n21 dumbbell thrusters  \r\nRun 400 meters  \r\n18 dumbbell thrusters  \r\nRun 400 meters  \r\n15 dumbbell thrusters  \r\nRun 400 meters\r\n\r\nPost time and load to comments.\r\n\r\nCompare to <a href=\"https://www.crossfit.com/mt-archive2/002669.html#/comments\" target=\"_blank\">010210</a>.",
+      "date": "2016-02-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Volume Pull",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 10-10-10-10-10 reps",
+        "section_notes": [
+          "Focus on maintaining a neutral spine throughout the high-rep sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 10-10-10-10-10 reps\r\n\r\nPost loads to comments.\r\n\r\nCompare to <a href=\"https://www.crossfit.com/mt-archive2/009488.html#/comments\" target=\"_blank\">150211</a>.",
+      "date": "2016-02-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Static Hold",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n* 10 **Burpee Pullovers**\n* 30 **Squats**\n* 60 seconds of **Handstand Hold**",
+        "section_notes": [
+          "The handstand hold must be static; use a wall if necessary."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n10 <a href=\"https://www.youtube.com/watch?v=IDnU9_fWkYw\" target=\"_blank\">burpee pullovers </a>  \r\n30 squats  \r\n60 seconds of handstand hold  \r\n\r\nThis is a static handstand hold, not a walk. Only count time while the hands are stationary. If needed, use a wall.  \r\n\r\nPost rounds completed to comments.\r\n\r\nCompare to <a href=\"https://www.crossfit.com/mt-archive2/009314.html#/comments\" target=\"_blank\">140821</a>.",
+      "date": "2016-02-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat**: 1-1-1-1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Build up to a heavy single over 10 sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 1-1-1-1-1-1-1-1-1-1 reps\r\n\r\nPost loads to comments.\r\n\r\nCompare to <a href=\"https://www.crossfit.com/mt-archive2/009461.html#/comments\" target=\"_blank\">150115</a>.",
+      "date": "2016-02-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run** 5,000 meters",
+        "section_notes": [
+          "Steady state aerobic effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5,000 meters\r\n\r\nPost time to comments.\r\n\r\nCompare to <a href=\"https://www.crossfit.com/mt-archive2/009661.html#/comments\" target=\"_blank\">150730</a>.",
+      "date": "2016-02-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Double Down Thrusters",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 90 **Double-Unders**\n* 9 **Muscle-Ups**\n* 9 **Squat Clean Thrusters**, 65-lb. dumbbells\n* 80 **Double-Unders**\n* 8 **Muscle-Ups**\n* 8 **Squat Clean Thrusters**, 65-lb. dumbbells\n* 70 **Double-Unders**\n* 7 **Muscle-Ups**\n* 7 **Squat Clean Thrusters**, 65-lb. dumbbells",
+        "section_notes": [
+          "High skill requirements; scale the muscle-ups or double-unders as needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n90 double-unders  \r\n9 muscle-ups  \r\n9 squat clean thrusters, 65-lb. dumbbells  \r\n80 double-unders  \r\n8 muscle-ups  \r\n8 squat clean thrusters, 65-lb. dumbbells  \r\n70 double-unders  \r\n7 muscle-ups  \r\n7 squat clean thrusters, 65-lb. dumbbells  \r\n\r\nPost time to comments.",
+      "date": "2016-02-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Lunge",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Deadlifts**, 225 lb.\n* **Overhead Walking-Lunge Steps** (Use 50-lb. dumbbells or kettlebells)\n* **Burpees**, jumping over the barbell",
+        "section_notes": [
+          "Keep the chest up during the overhead lunges to maintain balance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps for time of:  \r\n225-lb. deadlifts  \r\nOverhead walking-lunge steps  \r\nBurpees, jumping over the barbell  \r\n\r\nUse a pair of 50-lb. dumbbells or kettlebells for the overhead lunges.   \r\n\r\nPost time to comments.",
+      "date": "2016-02-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Odd Minute Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time, working on the odd minutes, and resting on the even minutes:\n* 100 **Chest-to-Bar Pull-ups**\n* 125 **Push Presses**, 95 lb.\n* 150 **Back Squats**, 95 lb.\n\nWork from 0:00 to 1:00, rest from 1:00-2:00, work from 2:00-3:00, rest from 3:00-4:00, etc.",
+        "section_notes": [
+          "This is a volume-heavy workout; manage your intensity to avoid early burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time, working on the odd minutes, and resting on the even minutes:  \r\n100 chest-to-bar pull-ups  \r\n95-lb. push presses, 125 reps  \r\n95-lb. back squats, 150 reps   \r\n\r\nWork from 0:00 to 1:00, rest from 1:00-2:00, work from 2:00-3:00, rest from 3:00-4:00, etc.  \r\n\r\nPost time to comments.",
+      "date": "2016-02-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on explosive power and a crisp lockout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and jerk 3-3-3-3-3 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/09/05#/comments\" target=\"_blank\"> 140905 </a> .",
+      "date": "2016-02-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Balance",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch Balance**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on speed under the bar and a stable receiving position."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Snatch balance 1-1-1-1-1-1-1 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/07/15#/comments\" target=\"_blank\">150715</a> .",
+      "date": "2016-02-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Muscle Ups",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds of:\n* 12 **Dumbbell Snatches**\n* 9 **Bench Presses**\n* 6 **Bar Muscle-Ups**",
+        "section_notes": [
+          "Keep the transition between movements smooth to maintain intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds of:  \r\n12 dumbbell snatches  \r\n9 bench presses  \r\n6 bar muscle-ups \r\n\r\nPost time and loads used to comments.",
+      "date": "2016-02-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row Run Repeat",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "3 rounds for time of:\n* **Row** 1,000 meters\n* **Run** 800 meters",
+        "section_notes": [
+          "Maintain a consistent pace across all three rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\nRow 1,000 meters  \r\nRun 800 meters  \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2011/12/18#/comments\" target=\"_blank\">111218</a> .",
+      "date": "2016-02-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 16.1",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds and reps as possible in 20 minutes of:\n* 25-ft. **Overhead Walking Lunge** (Men 95 lb. / Women 65 lb.)\n* 8 **Burpees**\n* 25-ft. **Overhead Walking Lunge** (Men 95 lb. / Women 65 lb.)\n* 8 **Chest-to-Bar Pull-ups**",
+        "section_notes": [
+          "Keep a steady rhythm; the lunges are the primary limiting factor."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"http://games.crossfit.com/workouts/the-open/2016#tabs-1\" target=\"_blank\">Workout 16.1</a>.\r\n \r\nComplete as many rounds and reps as possible in 20 minutes of:  \r\n25-ft. overhead walking lunge  \r\n8 burpees  \r\n25-ft. overhead walking lunge  \r\n8 chest-to-bar pull-ups   \r\n\r\nMen lunge 95 lb.  \r\nWomen lunge 65 lb.  \r\n\r\nPost rounds completed to comments and/or register and submit your score as part of the <a href=\"http://games.crossfit.com/\" target=\"_blank\">2016 Reebok CrossFit Games Open</a>.",
+      "date": "2016-02-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on depth and keeping the elbows high."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 5-5-5-5-5 reps \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/08/26#/comments\" target=\"_blank\">150826</a>.",
+      "date": "2016-02-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Terry",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **1-Mile Run**\n* 100 **Push-ups**\n* 100-meter **Bear Crawl**\n* **1-Mile Run**\n* 100-meter **Bear Crawl**\n* 100 **Push-ups**\n* **1-Mile Run**",
+        "section_notes": [
+          "Hero WOD honoring Special Agent James Watson."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Terry**  \r\n\r\nFor time:  \r\n1-mile run  \r\n100 push-ups  \r\n100-meter bear crawl  \r\n1-mile run  \r\n100-meter bear crawl  \r\n100 push-ups  \r\n1-mile run  \r\n\r\nPost time to comments.",
+      "date": "2016-02-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "chipper"
+      ]
+    }
+  }
+]

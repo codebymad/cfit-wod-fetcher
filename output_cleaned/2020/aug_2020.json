@@ -1,0 +1,520 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Rings",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **500-m Row**\n* **21 Push-ups**\n* **12 Strict Toes-to-rings**",
+        "section_notes": [
+          "Maintain a steady pace on the rower to allow for quality movements on the push-ups and rings."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n500-m row  \r\n21 push-ups  \r\n12 strict toes-to-rings  \r\n\r\nPost time to comments.",
+      "date": "2020-08-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Trilogy",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead Squat**: 1-1-1-1-1 reps\n**Front Squat**: 1-1-1-1-1 reps\n**Back Squat**: 1-1-1-1-1 reps",
+        "section_notes": [
+          "Try to increase the load on each rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 1-1-1-1-1 reps  \r\nFront squat 1-1-1-1-1 reps  \r\nBack squat 1-1-1-1-1 reps  \r\n\r\nTry to increase the load on each rep.  \r\n\r\nPost loads to comments.  \r\nCompare to [170710](https://www.crossfit.com/workout/2017/07/10).",
+      "date": "2020-08-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Interval Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 x 4-minute rounds, for max calories/reps of:\n\n* **Bike**: 20 seconds / Rest: 10 seconds\n* **Burpee**: 20 seconds / Rest: 10 seconds\n* **Row**: 20 seconds / Rest: 40 seconds\n* **Row**: 20 seconds / Rest: 10 seconds\n* **Burpee**: 20 seconds / Rest: 10 seconds\n* **Bike**: 20 seconds / Rest: 40 seconds",
+        "section_notes": [
+          "High intensity during the 20-second work intervals."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 x 4-minute rounds, for max calories/reps of:  \r\n\r\nBike for 20 seconds, rest 10 seconds  \r\nBurpee for 20 seconds, rest 10 seconds  \r\nRow for 20 seconds, rest 40 seconds  \r\nRow for 20 seconds, rest 10 seconds  \r\nBurpee for 20 seconds, rest 10 seconds  \r\nBike for 20 seconds, rest 40 seconds  \r\n\r\nPost cals/reps completed each round to comments.",
+      "date": "2020-08-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Fran",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n\n* **Thrusters** (♀65 lb / ♂95 lb)\n* **Pull-ups**",
+        "section_notes": [
+          "This is a high-intensity benchmark workout; aim for a fast pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Fran**   \r\n21-15-9 reps for time of:  \r\n\r\nThrusters  \r\nPull-ups  \r\n\r\n♀65 lb. ♂95 lb.  \r\n\r\nPost time to comments.  \r\nCompare to [190510](https://www.crossfit.com/190510).",
+      "date": "2020-08-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds, each for time of:\n\n* **Run** 400 meters\n* **Clean & Jerks** 15 reps (♀ 65 lb / ♂ 95 lb)\n\nRest 3 minutes between rounds.",
+        "section_notes": [
+          "Treat each round as a sprint; use the 3-minute rest to fully recover."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds, each for time of:  \r\n\r\nRun 400 meters  \r\n15 clean & jerks  \r\n\r\nRest 3 minutes between rounds.   \r\n\r\n♀ 65 lb. ♂ 95 lb.\r\n \r\nPost times to comments.  \r\nCompare to [031009](https://www.crossfit.com/workout/2003/10/09).",
+      "date": "2020-08-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Walk and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes of:\n\n* **Squats** 25 reps\n* **Handstand Walk** 50-ft",
+        "section_notes": [
+          "Keep a consistent pace on the squats to maximize handstand walk attempts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n25 squats  \r\n50-ft. handstand walk  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-08-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 20 minutes of:\n\n* **Bench Presses** 12 reps (♀ 95 lb / ♂ 135 lb)\n* **Strict Pull-ups** 12 reps",
+        "section_notes": [
+          "Focus on strict form for both movements throughout the 20-minute duration."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of: \r\n \r\n12 bench presses  \r\n12 strict pull-ups  \r\n\r\n♀ 95 lb. ♂ 135 lb.  \r\n\r\nPost rounds completed to comments.  \r\nCompare to [030915](https://www.crossfit.com/workout/2003/09/15).",
+      "date": "2020-08-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Zercher Strength",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "Practice **SLIPS** for 20 minutes",
+        "section_notes": [
+          "Focus on technical proficiency and stability."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Zercher Squat**: 2-2-2-2-2-2-2-2-2-2 reps",
+        "section_notes": [
+          "Maintain an upright torso and keep the bar tight to the body."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes  \r\n\r\nZercher squat 2-2-2-2-2-2-2-2-2-2 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [121212](https://www.crossfit.com/workout/2012/12/12).",
+      "date": "2020-08-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "skill-work",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Jumps",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes of:\n\n* **Power Snatches** 5 reps (♀ 105-lb / ♂ 155-lb)\n* **Box Jumps** 5 reps (♀ 30-in / ♂ 36-in)",
+        "section_notes": [
+          "Move quickly between the barbell and the box to keep the heart rate high."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n5 power snatches  \r\n5 box jumps  \r\n\r\n♀ 105-lb. snatch, 30-in. box  \r\n♂ 155-lb. snatch, 36-in. box  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-08-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle-up Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes of:\n\n* **Strict Muscle-ups** 5 reps\n* **GHD Sit-ups** 15 reps",
+        "section_notes": [
+          "Prioritize strict form on the muscle-ups; scale if necessary to maintain quality."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n5 strict muscle-ups  \r\n15 GHD sit-ups  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-08-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bike Press Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 9 rounds for time:\n\n* 3 rounds of: **Bike** 500 meters, **Shoulder Presses** 15 reps (1/2 body weight)\n* 3 rounds of: **Bike** 500 meters, **Shoulder Presses** 12 reps (1/2 body weight)\n* 3 rounds of: **Bike** 500 meters, **Shoulder Presses** 9 reps (1/2 body weight)",
+        "section_notes": [
+          "The volume of presses decreases as the workout progresses, but maintain intensity on the bike."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 9 rounds for time, consisting of:  \r\n\r\n3 rounds of:  \r\nBike 500 meters  \r\n15 shoulder presses at ½ body weight  \r\nThen, 3 rounds of:  \r\nBike 500 meters  \r\n12 shoulder presses at ½ body weight  \r\nThen, 3 rounds of:  \r\nBike 500 meters  \r\n9 shoulder presses at ½ body weight \r\n\r\nPost time to comments.",
+      "date": "2020-08-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mile Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "2 rounds for time of:\n\n* **Run** 1 mile\n* **Sit-ups** 100 reps",
+        "section_notes": [
+          "Steady pace on the run, then move efficiently through the sit-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "2 rounds for time of:  \r\n\r\nRun 1 mile  \r\n100 sit-ups  \r\n\r\nPost time to comments.  \r\nCompare to [180124](https://www.crossfit.com/workout/2018/01/24#/comments).",
+      "date": "2020-08-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Games Final Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Squat Clean and Jerks** 30 reps (♀ 105 lb / ♂ 155 lb)",
+        "section_notes": [
+          "This is a high-load, high-rep benchmark from the Games; focus on breathing and stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[2008 CrossFit Games Final](https://games.crossfit.com/)**  \r\n\r\nFor time:  \r\n30 squat clean and jerks  \r\n\r\n♀ 105 lb. ♂ 155 lb.   \r\n\r\nPost time to comments.  \r\nCompare to [130712](https://www.crossfit.com/search/130712).",
+      "date": "2020-08-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row Sprints",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n\n* **Row** 500 meters\n* Rest 3 minutes",
+        "section_notes": [
+          "Max effort on each 500m row; the rest is designed for full recovery."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \r\n\r\nRow 500 meters  \r\nRest 3 minutes  \r\n\r\nPost times to comments.  \r\nCompare to [131207](https://www.crossfit.com/workout/2013/12/07#/comments).",
+      "date": "2020-08-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pyramid Double Helen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Run** 1,200 meters\n* **Kettlebell Swings** 63 reps\n* **Pull-ups** 36 reps\n* **Run** 800 meters\n* **Kettlebell Swings** 42 reps\n* **Pull-ups** 24 reps\n* **Run** 400 meters\n* **Kettlebell Swings** 21 reps\n* **Pull-ups** 12 reps\n\n(♀ 16-kg KB / ♂ 24-kg KB)",
+        "section_notes": [
+          "A descending pyramid of distance and reps; maintain a steady pace on the runs."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[Pyramid Double Helen](https://www.youtube.com/watch?v=MCO_bZChrxc)**    \r\n\r\nFor time:  \r\nRun 1,200 meters  \r\n63 kettlebell swing  \r\n36 pull-ups  \r\nRun 800 meters  \r\n42 kettlebell swings  \r\n24 pull-ups  \r\nRun 400 meters  \r\n21 kettlebell swings  \r\n12 pull-ups  \r\n\r\n♀ 16-kg KB ♂ 24-kg KB  \r\n\r\nPost time to comments.  \r\nCompare to [100719](https://www.crossfit.com/workout/2010/07/19).",
+      "date": "2020-08-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy DT",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Deadlifts** 12 reps\n* **Hang Power Cleans** 9 reps\n* **Push Jerks** 6 reps\n\n(♀ 145 lb / ♂ 205 lb)",
+        "section_notes": [
+          "This is a heavier version of the benchmark DT; focus on efficient barbell cycling."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Heavy DT](https://www.youtube.com/watch?v=q1IteiFVjcA)    \r\n\r\n5 rounds for time of:  \r\n\r\n12 deadlifts   \r\n9 hang power cleans   \r\n6 push jerks   \r\n\r\n♀ 145 lb.  ♂ 205 lb.  \r\n\r\nPost time to comments.",
+      "date": "2020-08-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Weighted Dip Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Weighted Dip**: 3-2-2-2-1-1-1-1-1 reps",
+        "section_notes": [
+          "Increase weight as reps decrease to find a heavy single."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Weighted dip 3-2-2-2-1-1-1-1-1 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [141007](https://www.crossfit.com/workout/2014/10/07).",
+      "date": "2020-08-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 1-minute rounds of:\n\n* **Thrusters** 3 reps (♀ 125-lb / ♂ 185-lb)\n* **Shuttle Sprint** 60-yards (5, 10, 15 yards)\n* **Chest-to-bar Pull-ups**: Max reps\n\nRest 2 minutes between rounds.",
+        "section_notes": [
+          "The goal is to maximize pull-ups in the remaining time of each 1-minute window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 1-minute rounds of:  \r\n\r\n3 thrusters  \r\n60-yard shuttle sprint (5 yards, 10 yards, 15 yards)  \r\nMax reps of chest-to-bar pull-ups  \r\nRest 2 minutes between rounds.  \r\n\r\n♀ 125-lb. thrusters    ♂ 185-lb. thrusters  \r\n\r\nPost number of pull-ups completed each round to comments.  \r\nCompare to [170608](https://www.crossfit.com/workout/2017/06/08).",
+      "date": "2020-08-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Back Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on consistent depth and bracing across all five sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-5-5-5-5 reps  \r\n\r\nPost loads to comments.   \r\nCompare to [191227](https://www.crossfit.com/191227).",
+      "date": "2020-08-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Fournier",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Shoulder-to-overheads** 50 reps (♀ 75-lb / ♂ 115-lb)\n* **Arm-over-arm Sled Pull** 50-ft\n* **Burpees** 40 reps\n* **Arm-over-arm Sled Pull** 50-ft\n* **Sumo Deadlift High Pulls** 30 reps (♀ 55-lb / ♂ 85-lb)\n* **Arm-over-arm Sled Pull** 50-ft",
+        "section_notes": [
+          "Use a challenging sled load that doesn't require extended rest periods."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Fournier**  \r\nFor time:  \r\n\r\n50 shoulder-to-overheads  \r\n50-ft. <a href=\"https://youtu.be/42H8sF5ydjg?t=222\" target=\"_blank\">arm-over-arm sled pull</a>  \r\n40 burpees  \r\n50-ft. arm-over-arm sled pull  \r\n30 sumo deadlift high pulls  \r\n50-ft. arm-over-arm sled pull  \r\n\r\n♀ 75-lb. STO, 55-lb. SDHP   \r\n♂ 115-lb. STO, 85-lb. SDHP  \r\nFor the sled pull, use a load that is challenging but doesn’t require extended rest periods.  \r\n\r\nPost time to comments.",
+      "date": "2020-08-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "strongman",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wall-ball Snatches",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Wall-ball Shots** 30 reps (♀ 14-lb / ♂ 20-lb)\n* **Squat Snatches** 30 reps (♀ 45-lb / ♂ 75-lb)",
+        "section_notes": [
+          "High rep count on the snatches; maintain a rhythmic pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[2009 Couplet](https://www.youtube.com/watch?v=43cXWumP00M)  \r\n3 rounds for time of:  \r\n\r\n30 wall-ball shots  \r\n30 squat snatches  \r\n\r\n♀ 14-lb. ball, 45-lb. snatch  \r\n♂ 20-lb. ball, 75-lb snatch  \r\n\r\nPost time to comments.  \r\nCompare to [100816](https://www.crossfit.com/workout/2010/08/16#/comments).",
+      "date": "2020-08-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Pull Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete the following with at least 2 minutes rest between exercises:\n\n* **Shoulder Press** (95/135 lb): Max reps\n* **L Pull-up**: Max reps\n* **Shoulder Press** (75/115 lb): Max reps\n* **Strict Pull-up**: Max reps\n* **Shoulder Press** (65/95 lb): Max reps\n* **Chest-to-bar Pull-up**: Max reps\n* **Shoulder Press** (45/65 lb): Max reps\n* **Pull-up**: Max reps",
+        "section_notes": [
+          "This is a test of muscular endurance across decreasing loads and varying pull-up difficulties."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Max reps shoulder press, 95/135 lb.  \r\nMax reps L pull-up   \r\nMax reps shoulder press, 75/115 lb.  \r\nMax reps strict pull-up  \r\nMax reps shoulder press, 65/95 lb.  \r\nMax reps chest-to-bar pull-up  \r\nMax reps shoulder press, 45/65 lb.  \r\nMax reps pull-up  \r\n\r\nRest at least 2 minutes between exercises.   \r\n\r\nPost total reps completed to comments.  \r\nCompare to [140720](https://www.crossfit.com/workout/2014/07/20).",
+      "date": "2020-08-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "strength"
+      ]
+    }
+  }
+]

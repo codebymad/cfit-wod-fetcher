@@ -1,0 +1,491 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Power Clean Peak",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Powerclean** 10-10-10-10-10-10-10 reps",
+        "section_notes": [
+          "Max load each set.",
+          "A set ends when the bar rests on the ground for even a second.",
+          "Pause at hang or rack positions only."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Powerclean 10-10-10-10-10-10-10 reps  \n  \nNotes:  \n1. Max load each set.   \n1. A set ends when the bar rests on the ground for even a second.   \nPause at hang or rack positions only",
+      "date": "2002-02-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 5-4-4-3-3-3-2-2-2-2-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on maintaining a neutral spine and driving through the floor."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 5-4-4-3-3-3-2-2-2-2-1-1-1-1-1 reps",
+      "date": "2002-02-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Steady State Jump",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Jump rope for 60 seconds, rest for 60 seconds. Continue this for 40 minutes.",
+        "section_notes": [
+          "Maintain a consistent pace throughout the entire 40-minute duration."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Jump rope for sixty seconds,   \nrest for sixty seconds.   \nContinue this for forty minutes",
+      "date": "2002-02-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 Rounds for time of:\n* 5 **Pull ups**\n* 7 **Dips** (use rings if available)\n* 1 **Rope climb**\n* 10 **Push ups**\n* 12 **Back/Hip Extension**\n* 15 **Sit ups**\n* 20 **Squats**",
+        "section_notes": [
+          "Steady pacing is key for this high-volume chipper style workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:  \n5 Pull ups  \n7 Dips (use rings if you got'em)  \n1 Rope climb  \n10 Push ups  \n12 Back/Hip Extension  \n15 Sit ups  \n20 Squats",
+      "date": "2002-02-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "chipper",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 Rounds for time of:\n* 5 **Pull ups**\n* 7 **Dips** (use rings if available)\n* 1 **Rope climb**\n* 10 **Push ups**\n* 12 **Back/Hip Extension**\n* 15 **Sit ups**\n* 20 **Squats**",
+        "section_notes": [
+          "Steady pacing is key for this high-volume chipper style workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:  \n5 Pull ups  \n7 Dips (use rings if you got'em)  \n1 Rope climb  \n10 Push ups  \n12 Back/Hip Extension  \n15 Sit ups  \n20 Squats",
+      "date": "2002-02-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "chipper",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Effort Trio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "In any order and within 30 minutes:\n* **Row** 1K, max effort\n* **Kettlebell Swing**, max reps (without stopping)\n* **Pull-ups**, max reps",
+        "section_notes": [
+          "Challenge: 50 KB swings (2 pood), 3:10 1K row, and 30 pull-ups in one set.",
+          "Entire workout must finish within 30 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "In any order and within thirty minutes:   \nRow a 1K, max effort.  \nKettlebell Swing max reps (without stopping).  \nPull-ups, max reps.   \n  \nNotes:  \n1. As an indication of the intensity we are looking for and as a challenge,   \nwho out there can perform 50 kettlebell swings with 2 \"pood\" kettlebell,   \nrow a 3:10 1K, and perform the 30 pull-ups in one set?  \nIf you can you are among the worlds fittest athletes.  \n2. Submit row time, k'bell reps, and pull-up count for ranking.   \nEntire workout must finish within thirty minutes. First place wins CrossFit T-shirt.",
+      "date": "2002-02-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Squat Day",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat** 5-5-5-3-3-3-1-1-1 reps",
+        "section_notes": [
+          "Load up!"
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-5-5-3-3-3-1-1-1 reps  \n  \nNotes:   \n1. Load up!",
+      "date": "2002-02-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle Up Volume",
+    "sections": [
+      {
+        "section_name": "gymnastics",
+        "section_content": "**Muscle ups** 3-3-3-3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "If you cannot perform a muscle-up, have someone spot or assist you.",
+          "Rest as needed between sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Muscle ups 3-3-3-3-3-3-3-3-3-3, reps  \n  \nNotes:  \n1. If you've not been able to perform the muscle-up yet,   \nhave someone spot/assist you.  \n2. Rest as needed between sets.",
+      "date": "2002-02-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* 400 meter **Run**\n* 20 **Thrusters** (1/2 body weight)\n* 15 **Pullups**\n* 20 **Sit ups**\n\nRest as needed.",
+        "section_notes": [
+          "Time each pass."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds each for time of:  \n400 meter Run  \n20 Thrusters; 1/2 body weight  \n15 Pullups  \n20 Sit ups   \nRest as needed.   \n  \nNotes:  \n1. Time each pass.",
+      "date": "2002-02-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Big Three",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat** 5-3-1-3-5 reps\n**Bench press** 5-3-1-3-5 reps\n**Deadlift** 5-3-1-3-5 reps",
+        "section_notes": [
+          "Load up!"
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-3-1-3-5, reps  \nBench press 5-3-1-3-5, reps  \nDeadlift 5-3-1-3-5, reps  \n  \nNotes.  \n1. Load up!",
+      "date": "2002-02-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mixed Modal Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* 800 meter **Run**\n* Rest 5 minutes\n* 500 meter **Row**\n* Rest 5 minutes\n* 50 **Wallball** shots (20 lb)\n* Rest 5 minutes\n* 1 mile **Bike**",
+        "section_notes": [
+          "Add times for all four efforts.",
+          "Wallball reps require a full squat and the shot must be two feet over reach."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "800 meter Run  \nRest 5 minutes  \n500 meter Row  \nRest 5 minutes.  \n20 pound Wallball, 50 shots.  \nREST 5 minutes.  \n1 mile Bike  \n  \nNotes:  \n1. Add times for all four efforts.  \n2. Wallball reps come from full squat and shot is two feet over reach.",
+      "date": "2002-02-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Super Set Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds (21-18-15-12-9 reps) for time of:\n* **Back Extensions**\n* **Pull ups**\n* **Sit ups**\n* **Dips**",
+        "section_notes": [
+          "These are 5 'super' sets. Move from Back Extension through to Dips with no rest.",
+          "After completion of all four exercises for each set, rest as needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds, 21-18-15-12 and 9 reps, for time of:  \nBack Extensions  \nPull ups  \nSit ups  \nDips   \n  \nNotes:  \n1. This is 5 \"super\" sets. Move from Back Extension through to Dips with no rest.   \n2. After completion of all four exercises for each set, rest as needed.",
+      "date": "2002-02-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat** 3-3-3-3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Pace as needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back sqaut 3-3-3-3-3-3-3-3-3-3, reps  \n  \nPace as needed.",
+      "date": "2002-02-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Pairings",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* 20 **Pull ups**\n* 5 **Dips**\n* 15 **Pull ups**\n* 10 **Dips**\n* 5 **Pull ups**\n* 20 **Dips**",
+        "section_notes": [
+          "Move quickly from pull-ups to dips, then rest before the next pairing.",
+          "Attempt to complete two or three rounds of this circuit."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "20 Pull ups  \n5 Dips  \n15 Pull ups  \n10 Dips  \n5 Pull ups  \n20 Dips  \n  \nNotes:  \n1. Move quickly from pull-ups to dips then rest before next pairing.  \n2. Can you make two, three rounds of this circuit?",
+      "date": "2002-02-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power and Plyo",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* 1 mile **Bike**\n* Rest as needed\n* 50 **Box jumps** (20 inch)\n* Rest as needed\n* 50 **Wallball** shots (20 lb)\n* Rest as needed\n* 100 **Jumping pull-ups**",
+        "section_notes": [
+          "Add time from all four efforts.",
+          "Jumping pull-ups: start with 15-20 degrees of arm flexion and jump to chin over bar."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "1 mile Bike  \nRest as needed.  \n20 inch Box jump, 50 reps.  \nRest as needed.  \n20 pound Wallball, 50 shots  \nRest as needed.  \nJumping pull-ups, 100 reps.  \n  \nNotes:  \n1. Add time from all four efforts.  \n2. Jumping pull-ups are performed starting with about fifteen to twenty   \ndegrees of flexion in the arm and then jump to chin over bar.",
+      "date": "2002-02-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Singles",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 1-1-1-1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Start light and build to heavy.",
+          "Rest as needed between sets.",
+          "Stretch and stay warm between sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 1-1-1-1-1-1-1-1-1-1, rep  \n  \nNotes:  \n1. Start light - go heavy.  \n2. Rest as needed between sets.  \n3. Stretch and stay warm between sets.",
+      "date": "2002-02-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Inverted EMOM",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Every Minute on the Minute (EMOM) for 30 minutes:\n* **Pull to inverted hang** (straight arm, body, and leg)\n* Lower to normal hang and perform 1 **Pull-up**\n* Lower to hang and **Pull knees to elbows**\n* 7 **Squats**\n* 3 **Push-ups**",
+        "section_notes": [
+          "Count total circuits completed within 30 minutes.",
+          "The pull to inverted hang is a tough curl-up movement; extend the body and lower back to normal hang."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Can you perform this sequence every minute on the minute for thirty minutes?  \n  \nStraight arm, straight body, straight leg pull to inverted hang on pull-up bar.  \nLower to normal hang and perform 1 pull-up.  \nLower to hang and pull knees to elbows.  \nDrop and perform 7 squats.  \nDrop to floor and perform three push-ups.  \n  \nNotes:  \n  \n1. Count total circuits completed within thirty minutes.   \n2. Straight-straight-straight pull to inverted hang is tough curl up enough   \nto more readily pull to inverted hang then extend the body and lower back   \nto normal hang \"straightened out.\"  \n3. Incidentally, this is a whole body workout of immense practicality.",
+      "date": "2002-02-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "EMOM",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 to 5 Rounds of:\n* 20 **Powercleans** (65 lb)\n* 400 meter **Run**\n* 20 **Powercleans** (65 lb)\n\nRest between rounds.",
+        "section_notes": [
+          "Sandbag the first round and try to improve the time on subsequent rounds.",
+          "Scale weight if 20 reps cannot be performed rapidly and with fluidity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three to five rounds of:   \n65 pound Powerclean, 20 reps   \n400 meter Run  \n65 pound Powerclean, 20 reps   \nRest.  \n  \nNotes:  \n1.\"Sandbag\" the first and try to improve the time   \non each of two to four subsequent rounds. Not easy.  \n2. Ladies, children, and neophytes: 65 pounds is a  \nfit-man's load for this workout. Reduce the weight   \nif all twenty reps cannot be performed rapidly,   \nconsistently, and with fluidity.",
+      "date": "2002-02-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strength Pair",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "7 Rounds of:\n* 3 **Deadlifts**\n* 3 **Bench press**",
+        "section_notes": [
+          "Focus on explosive power and controlled descent."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds of:  \n3 Deadlift  \n3 Bench press",
+      "date": "2002-02-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Back to Back Fights",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 1 mile **Bike**\n* 20 **Thrusters** (75 lb)\n* 1 mile **Bike**\n* 20 **Thrusters** (75 lb)\n\nRest 15 minutes\n\nFor time:\n* 500 meter **Row**\n* 20 **Powercleans** (75 lb)\n* 500 meter **Row**\n* 20 **Powercleans** (75 lb)",
+        "section_notes": [
+          "Sub 7 minutes for each fight is a good time; sub 6 is amazing."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n1 mile Bike  \n75 pound Thrusters, 20 reps  \n1 mile Bike  \n75 pound Thrusters, 20 reps  \n  \nRest fifteen minutes.  \n  \nFor time:  \n500 meter Row  \n75 pound Powerclean, 20 reps  \n500 meter Row  \n75 pound Powerclean, 20 reps  \n  \nNotes:  \n1. We call this \"back to back fights.\" Sub 7 minutes for each   \nis a good time; sub 6 is amazing",
+      "date": "2002-02-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Endurance Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Move through this circuit slowly but steadily for as long as you can:\n* 1 **Rope Climb**\n* 4 **Ring dips**\n* 10 **Back Extensions**\n* 10 **Sit-ups**",
+        "section_notes": [
+          "Challenge: Can you maintain movement for a full hour?"
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Move through this circuit slowly, but steadily, for as long as you can:  \n1 Rope Climb  \n4 Ring dips  \n10 Back Extensions  \n10 Sit-ups  \n  \nNotes:  \n1. Anyone good for a full hour of movement?",
+      "date": "2002-02-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  }
+]

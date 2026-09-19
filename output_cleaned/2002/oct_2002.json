@@ -1,0 +1,642 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Bike and Burn",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Squat** with weight: 20-10-5-3-1 reps",
+        "section_notes": [
+          "Focus on maintaining form as weight increases and reps decrease."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds each for time of:\n* 3 minute **Stand on bike** at 70 rpm\n* 2 **Rope climb**\n* 20 **Sit-ups**\n* 15 **Back extensions**",
+        "section_notes": [
+          "Maintain a steady cadence on the bike to recover for the rope climbs."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Squat with weight 20-10-5-3-1- reps  \nThen,  \nThree rounds each for time of:  \nThree minute stand on bike at 70 rpm  \n2 Rope climb  \n20 Sit-ups  \n15 Back extensions",
+      "date": "2002-10-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kettlebell Circuit",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "* **Kettlebell Swing**: 1 minute\n* **Glute-ham develop sit-up**: 1 minute\n* Rest",
+        "section_notes": [
+          "Use this as a dynamic warm-up to activate the posterior chain and core."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Perform 3-5 rounds for time of:\n* 10 **Thruster**\n* 12 **L-Pull-ups**\n* Rest",
+        "section_notes": [
+          "Keep the thrusters consistent and the pull-ups strict if possible."
+        ]
+      },
+      {
+        "section_name": "cooldown",
+        "section_content": "* **Glute-ham develop sit-up**: 1 minute\n* **Kettlebell Swing**: 1 minute",
+        "section_notes": [
+          "Flush out the muscles with a final steady-state effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Kettlebelll Swing, 1 minute  \nGlute-ham develop sit-up, 1 minute  \nRest  \nPerfrom 3-5 rounds for time of:  \n10 Thruster  \n12 L-Pull-ups  \nRest  \nGlute-ham develop sit-up, 1 minute  \nKettlebelll Swing, 1 minute",
+      "date": "2002-10-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row or Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Option 1: Rowing\n* 2000 meter **Row**\n* Rest for 2000 meter time\n* 1000 meter **Row**\n* Rest for 1000 meter time\n* 500 meter **Row**\n\nOption 2: Running\n* 800 meter **Run**\n* Rest for 800 meter time\n* 400 meter **Run**\n* Rest for 400 meter time\n* 200 meter **Run**",
+        "section_notes": [
+          "This is an interval piece; the rest period is determined by your performance in the previous distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "2000 meter Row  \nRest for 2000 meter time  \n1000 meter Row  \nRest for 1000 meter time  \n500 meter Row  \n  \nor  \n  \n800 meter Run  \nRest for 800 meter time  \n400 meter Run  \nRest for 400 meter time  \n200 meter Run",
+      "date": "2002-10-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval",
+        "conditioning"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mountain Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Clean and Jerk**: 15-12-9 reps\n* **Snatch**: 15-12-9 reps",
+        "section_notes": [
+          "Maintain a steady pace through the descending rep scheme."
+        ]
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "Climb a 1,000 to 2,000 foot climb on your **Mountain bike** or **Road bike**.",
+        "section_notes": [
+          "Focus on steady aerobic output during the climb."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and Jerk 15-12-9 reps  \nSnatch 15-12-9 reps  \n  \nClimb a thousand to two thousand foot climb   \non your mountain bike or road bike.",
+      "date": "2002-10-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "engine-builder",
+        "metcon"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Back extension**: 15-15-15 reps\n* **Thruster**: 20-15-10 reps\n* 1000 meter **Row**",
+        "section_notes": [
+          "Back extensions should be snake or wave style. Use max weight for each set of thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back extension 15-15-15 reps  \nThruster 20-15-10 reps  \n1000 meter Row  \n  \nNotes:  \nBack extensions are Snake or wave up  \nThrusters max weight each set",
+      "date": "2002-10-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* 15 **Deadlift** (Body weight)\n* 500 meter **Row**",
+        "section_notes": [
+          "Keep the deadlifts snappy and the row intensity high."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n15 Deadlift: Body weght  \n500 meter Row",
+      "date": "2002-10-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 10 **Power clean**\n* 500 meter **Row**\n* 7 **Power clean**\n* 500 meter **Row**\n* 5 **Power clean**\n* 500 meter **Row**\n* 3 **Power clean**",
+        "section_notes": [
+          "Goal: Power clean at bodyweight and row 500m in under 1:30."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n10 Power clean  \n500 meter Row  \n7 Power clean  \n500 meter Row  \n5 Power clean  \n500 meter Row  \n3 Power clean  \nNotes:  \n  \nCan you Powerclean at bodyweight and row sub 1:30 500's?",
+      "date": "2002-10-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Big Three",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Back squat**: 5-3-1 reps\n* **Deadlift**: 5-3-1 reps\n* **Bench press**: 5-3-1 reps",
+        "section_notes": [
+          "Rankings are based on total weight divided by body weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-3-1 reps  \nDeadlift 5-3-1- reps  \nBench press 5-3-1 reps  \n  \nRankings are based on total weight divided by body weight.",
+      "date": "2002-10-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump Rope Engine",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Intervals for 20 minutes:\n* **Jump rope**: 2 minutes\n* Rest: 1 minute\n\n*Advanced Option:* Use **Double unders** for the 2-minute work interval.",
+        "section_notes": [
+          "Focus on consistent pacing. Athletes who can sustain this for 30 minutes are considered extraordinary."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Jump rope for two minutes rest for one minute.   \nCan you continue this for thirty minutes?   \nThis is just twenty minutes of cardiovascular exercise.   \nGo for it!!  \n  \nIf you have considerable jump rope experience,   \n\"double under\" for two minutes rest for one.   \nAnyone who can keep this up for thirty minutes is an extraordinary athlete.",
+      "date": "2002-10-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval",
+        "conditioning"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Run Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Perform 3-5 rounds of this circuit:\n* 800 meter **Run**\n* 15 **Power clean**\n* Rest",
+        "section_notes": [
+          "Maintain a steady pace on the run to keep the power cleans explosive."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Perform 3-5 rounds of this circuit:  \n  \n800 meter Run  \n15 Power clean   \nRest",
+      "date": "2002-10-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Box and Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Box jump** (20 inch): 25 reps\n* 15 **Power clean**\n* Rest 1 minute",
+        "section_notes": [
+          "Scaling: Fit (20\" box / 50% BW clean), Superfit (26\" box / 75% BW clean), CrossFit (32\" box / 100% BW clean)."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n20 inch Box jump, 25 reps  \n15 Power clean  \nRest 1 minute  \n  \nFit: 20\" box and 50% bodyweight powerclean  \nSuperfit: 26\"; box and 75% bodyweight powerclean  \nCrossFit: 32\" box and 100% bodyweight powerclean",
+      "date": "2002-10-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Dips**: Max reps\n* **Walking lunges**: 20 steps\n* **Push-press** (1/3 Body weight): Max reps\n* **Walking lunges**: 20 steps\n* **Handstand Push-ups**: Max reps\n* **Walking lunges**: 20 steps",
+        "section_notes": [
+          "The walking lunges act as active recovery between the max rep sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \nDips, max reps  \nWalking lunges, 20 steps  \n1/3 Body weight Push-press, max reps  \nWalking lunges, 20 steps  \nHanstand Push-ups, max reps  \nWalking lunges, 20 steps",
+      "date": "2002-10-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Slow Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Five sets of the triple:\n* **Sit-up**\n* **Back extension**\n* **Bench-press** (5-10RM)",
+        "section_notes": [
+          "Move methodically and deliberately with precise SLOW movement. Minimize cardiovascular quality; this is strength training only."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five sets of the triple,  \nSit-up  \nBack extension  \nBench-press 5-10RM  \n  \nMove methodically, deliberately, with precise SLOW movement.   \nDon't hurry; minimize the cardiovascular quality.   \nThis is strength training only! Make each effort a serious challenge.",
+      "date": "2002-10-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Interval Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Interval pattern: 20 seconds work / 10 seconds rest x 8 rounds for each:\n* **Row** (Measure meters)\n* **Squat**\n* **Pull-ups**\n* **Push-ups**\n* **Sit-ups**",
+        "section_notes": [
+          "Go all out on the first rowing effort and try to match it. Transition between exercises as quickly as possible (max 1 minute)."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Set-up the rower for intervals of twenty seconds work and ten seconds rest.   \nSet the rower to display meters in the lower window. Go all out on the first effort.   \nOn subsequent efforts work to capture as many meters as in the first effort.  \nIn the same interval pattern, 20on/10off X 8,  \nSquat  \nPull-ups  \nPush-ups  \nSit-ups  \n  \nIf you transition from one exercise to the next in ten seconds,   \nthis is a twenty-minute workout. For all but the best athletes   \nthis will be all but impossible.   \n  \nTransition from one exercise to the next as quickly as you can.   \nOne-minute maximum transition break! No ranking will be   \nconsidered for total time that exceeds twenty-four minutes.   \n  \nRanking is based on least number of meters in each of eight   \nrowing intervals, and least reps in each of eight intervals for   \neach of the other four exercises.",
+      "date": "2002-10-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Press",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Bench Press**: 5-4-3-2-1 reps",
+        "section_notes": [
+          "Increase weight at each set. Take long breaks between sets to go for max weight at each lift."
+        ]
+      },
+      {
+        "section_name": "cooldown",
+        "section_content": "**Stretch**",
+        "section_notes": [
+          "Ensure a thorough cool-down after max effort lifting."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Bench Press 5-4-3-2-1 reps  \n  \nIncrease weight at each set.   \nTake long break between sets.   \nGo for max weight at each lift.  \n  \nStretch.",
+      "date": "2002-10-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* 15 **Muscle Snatch**\n* **Box jump** (20 inch): 15 reps\n* 15 **Back Extension**",
+        "section_notes": [
+          "Elite target: Snatch 2/3 body weight, 26\" box, and use a 20lb med ball for extensions. Aim to finish under 10 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n15 Muscle Snatch  \n20 inch Box jump, 15 reps  \n15 Back Extension  \n  \nOur best will:  \nSnatch 2/3 body weight.   \nJump 26\" box.  \nBack extension/Glute-ham raise with 20 pound medicine ball.  \nComplete three rounds in ten minutes.",
+      "date": "2002-10-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 800 meter **Run**\n* **Glute Ham developer Bench Press**: 15-15-15-15-15 reps\n* 800 meter **Run**",
+        "section_notes": [
+          "Lie parallel to the floor on the Roman Chair/GHD. Be very careful with the load; use light dumbbells if necessary. Start the second run immediately after the press."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n800 meter Run  \nGlute Ham developer Bench Press* 15-15-15-15-15 reps  \n800 meter Run  \n  \n(*Lie back on the Roman Chair or Glute-Ham developer until you are parallel to the floor.)  \n  \nNotes:  \n  \n1. Be very careful, you may break in two if you attempt too big a load.  \n2. Use light dumbbells if O'bar is too heavy.   \n3. Don't rush the movement.  \n4. Start Bench press after recovering somewhat from the first run.  \n5. Start second run immediately after Bench press.",
+      "date": "2002-10-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wall Ball Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* 2 **Rope climb**\n* 25 **Wall Ball**\n* **Muscle Snatch** (1/2 Body weight): 15 reps\n* **Box jump** (20 inch): 20 reps",
+        "section_notes": [
+          "High intensity chipper style; keep the muscle snatches explosive."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds for time of:  \n2 Rope climb  \n25 Wall Ball  \n1/2 Body weight Muscle Snatch, 15 reps  \n20 inch Box jump, 20 reps",
+      "date": "2002-10-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pull and Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Pull-ups**: Max reps\n* 800 meter **Run**\n* **Pull-ups**: Max reps\n* 400 meter **Run**\n* **Pull-ups**: Max reps\n* 200 meter **Run**",
+        "section_notes": [
+          "Push for maximum reps on pull-ups before each run interval."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Pull-ups, max reps  \n800 meter Run  \nPull-ups, max reps  \n400 meter Run  \nPull-ups, max reps  \n200 meter Run",
+      "date": "2002-10-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprints and Sets",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "* 800 meter **Run**\n* Rest\n* 800 meter **Run**\n* Rest",
+        "section_notes": [
+          "Warm up the lungs with two 800m sprints."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "Three supersets of:\n* **Sit-ups**\n* **Back Extensions**\n* Rest\n* **Bench Press**: 10-10-10-10-10\n* Rest",
+        "section_notes": [
+          "Focus on controlled movements during the supersets."
+        ]
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Jump rope** (Double unders): 10 minutes",
+        "section_notes": [
+          "Maintain a steady rhythm for the full 10 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 800 meters   \nRest  \nRun 800 meters  \nRest  \nThree supersets of:  \nSit-ups  \nBack Extensions  \nRest  \nBench Press 10-10-10-10-10  \nRest  \nJump rope\"double unders\", ten minutes",
+      "date": "2002-10-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "strength",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Climb",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk**: 1-1-1-1-1 reps",
+        "section_notes": [
+          "Work up to a heavy single for each rep."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* 1 **Rope climb**\n* 10 **Push press**",
+        "section_notes": [
+          "Keep the transitions fast between the rope and the press."
+        ]
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Kettle Bell Swing**: 2 minutes",
+        "section_notes": [
+          "Finish with a steady-state kettlebell effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and Jerk 1-1-1-1-1 reps  \n  \nThree round for time of:  \n1 Rope climb  \n10 Push press  \n  \nKettle Bell Swing, 2 minutes",
+      "date": "2002-10-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Snatch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* 1000 meter **Row**\n* **Snatch**: 10-10-10-10-10 reps\n* 1000 meter **Row**",
+        "section_notes": [
+          "Maintain a consistent pace on the row to keep the snatches stable."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "1000 meter Row  \nSnatch 10-10-10-10-10 reps  \n1000 meter Row",
+      "date": "2002-10-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Five",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete Tabata intervals (20s work / 10s rest x 8) of:\n* **Squat**\n* **Glute-ham developer sit ups**\n* **Pull-ups**\n* **Push press**\n* **Row** (Measure by calories)",
+        "section_notes": [
+          "Take any break needed between exercises. Score is the total of the weakest intervals from each exercise."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete tabata intervals of:  \nSquat  \nGlute-ham developer sit ups  \nPull-ups  \nPush press  \nRow  \n  \nNotes:  \n1. The Tabata interval is 20 seconds of work followed by   \n10 seconds of rest, repeated 8 times.  \n2. Take any break you need between exercises.  \n3. Total the weakest intervals from each of the 5 exercises for score.  \n4. On the rower, measure the intervals by calories, not meters.",
+      "date": "2002-10-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "EMOM",
+        "metcon",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wall Ball AMRAP",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Intervals of **Wall Ball**:\n* 30 seconds work / 30 seconds rest\n* 60 seconds work / 60 seconds rest\n* 90 seconds work / 90 seconds rest\n* 120 seconds work",
+        "section_notes": [
+          "Increasing duration of work and rest; maintain a steady rep rate."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 20 minutes:\n* 2 **Rope climb**\n* 10 **Walking lunges**\n* **Clean and Jerk** (1/2 Body weight): 10 reps",
+        "section_notes": [
+          "Keep moving steadily through the 20-minute window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Wall Ball 30 seconds  \nRest 30 seconds  \nWall Ball 60 seconds  \nRest 60 seconds  \nWall Ball 90 seconds  \nRest 90 seconds  \nWall Ball 120 seconds  \n  \nComplete as many rounds in 20 minutes as you can of:  \n2 Rope climb  \n10 Walking lunges  \n1/2 Body weight Clean and Jerk, 10 reps",
+      "date": "2002-10-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "metcon",
+        "olympic-lifting"
+      ]
+    }
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "McCluskey",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds of:\n* **Muscle-ups**: 9 reps\n* **Burpee pull-ups**: 15 reps\n* **Pull-ups**: 21 reps\n* **Run**: 800 meters",
+        "section_notes": [
+          "If you've got a twenty pound vest or body armor, wear it."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**McCluskey**\"  \n  \nThree rounds of:  \n9 Muscle-ups  \n15 Burpee pull-ups  \n21 Pull-ups  \nRun 800 meters  \n  \nIf you've got a twenty pound vest or body armor, wear it.  \n  \n[Kevin Montoya](http://www.crossfitflexgym.com/) 26:28 (20lb vest), [Rob Miller](http://www.crossfitatlanta.com/) 26:50 (20lb vest), [Carey Kepler](http://www.crossfitcentral.com/) 28:17, [Lance Cantu](http://www.crossfitcentral.com/) 30:07 (20lb vest), [Michael Giardina](http://www.crossfitatlanta.com/) 32:44 (20lb vest).  \nPost time to comments.",
+      "date": "2011-03-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprinting Snatch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Run**: 400 meters\n* **Squat snatch**: 15 reps (75 lb)\n* **Handstand push-ups**: 9 reps",
+        "section_notes": [
+          "Maintain a consistent pace on the run to keep the heart rate manageable for the snatches."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \nRun 400 meters  \n75 pound Squat snatch, 15 reps  \n9 Handstand push-ups  \n  \n[Kevin Montoya](http://www.crossfitflexgym.com/) 8:34, [Dave Lipson](http://reebokcrossfitone.com/) 9:14, [Camille Leblanc-Bazinet](http://www.crossfitbrossard.com/home/) 9:16 (55lbs), [Chad Wittman](http://reebokcrossfitone.com/) 10:42, [Elyse Umeda](http://www.808crossfit.com/) 12:46 (75lbs).  \nPost time to comments.",
+      "date": "2011-03-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Walk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Back squat**: 20 reps (135 lb)\n* **Handstand walk**: 20 yards",
+        "section_notes": [
+          "Focus on core stability during the handstand walk after the fatigue of the squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n135 pound Back squat, 20 reps  \nHandstand walk 20 yards  \n  \n[Connor Martin](http://www.crossfitbrandx.com/) 12:02, [Kim Malz](http://www.crossfit033.com/) 12:49 (95lbs), [Kevin Montoya](http://www.crossfitflexgym.com/) 13:20, [Duncan Martin](http://www.crossfitbrandx.com/) 10:18 (age 12, 65lbs, 10yds), [Jack Marks](http://www.crossfitbrandx.com/) 11:03 (age 12, 65lbs, 10yds).   \nPost time to comments.  \n  \nCompare to [100410](http://www.crossfit.com/mt-archive2/005362.html).",
+      "date": "2011-03-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Shoulder Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Shoulder Press**: 3-3-3-3-3-3-3",
+        "section_notes": [
+          "Build weight across 7 sets of 3 reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Shoulder Press 3-3-3-3-3-3-3  \n  \nPost loads to comments.  \n  \nCompare to [100923](http://www.crossfit.com/mt-archive2/007152.html).",
+      "date": "2011-03-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Lunge",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* **Muscle-ups**: 7 reps\n* **Deadlift**: 15 reps (225 lb)\n* **Walking Lunge**: 30 steps",
+        "section_notes": [
+          "Keep the back flat on the deadlifts and maintain an upright torso during lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds for time of:  \n7 Muscle-ups  \n225 pound Deadlift, 15 reps  \nWalking Lunge, 30 steps   \n  \n[Russell Berger](http://www.crossfithuntsville.com/) 6:55, [Austin Malleolo](http://www.albanycrossfit.com/) 7:03, [Lucas Brainerd](http://www.crossfitatlanta.com/) 8:14, [Michael Giardina](http://www.crossfitatlanta.com/) 9:37, [Rob Miller](http://www.crossfitatlanta.com/) 9:43, [Leah Polaski](http://www.crossfitatlanta.com/) 14:33.   \nPost time to comments.",
+      "date": "2011-03-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "powerlifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint Intervals",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Ten rounds, each for time of:\n* **Sprint**: 100 meters\n* **Rest**: 90 seconds",
+        "section_notes": [
+          "Max effort on every sprint; use the full rest period to recover."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Ten rounds, each for time of:  \n100 meter Sprint  \nRest 90 seconds  \n  \nPost times for each round to comments.  \n  \nCompare to [100618](http://www.crossfit.com/mt-archive2/006955.html).",
+      "date": "2011-03-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Iron Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 12 minutes of:\n* **Bench press**: 3 reps (185 lb)\n* **Back squat**: 5 reps (225 lb)",
+        "section_notes": [
+          "Steady pacing is key for this AMRAP; avoid early burnout on the squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 12 minutes of:  \n185 pound Bench press, 3 reps  \n225 pound Back squat, 5 reps  \n  \n[Rob Orlando](http://www.hybridathletics.net/) 19 rounds + 3 bench, [Jeremy Thiel](http://www.crossfitcentral.com/) 16 rounds + 3 bench, [Kristan Clever](http://www.valleycrossfit.com/) 15 rounds + 2 bench (125lb bench, 155lb squat), [Jake Cutting](http://www.crossfitbrandx.com/) 14 rounds + 3 squat, [Russell Berger](http://www.crossfithuntsville.com/) 13 rounds, [Nick Lobotsky](http://www.hybridathletics.net/) 10 rounds + 3 bench.   \nPost rounds completed to comments.",
+      "date": "2011-03-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pull-up Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "With a continuously running clock:\n* Minute 1: 1 **Pull-up**\n* Minute 2: 2 **Pull-ups**\n* Minute 3: 3 **Pull-ups**\n* Continue increasing by 1 rep per minute as long as possible.",
+        "section_notes": [
+          "Use as many sets each minute as needed to complete the required reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "With a continuously running clock do one pull-up the first minute, two pull-ups the second minute, three pull-ups the third minute... continuing as long as you are able.  \n  \nUse as many sets each minute as needed.  \n  \n[Lance Cantu](http://www.crossfitcentral.com/) 22 min + 11, [Kim Malz](http://www.crossfit033.com/) 21 min + 9, [Jose Santiago](http://stevesclub.typepad.com/) 18 min + 17.   \nPost number of minutes completed to comments.  \n  \nCompare to [100926](http://www.crossfit.com/mt-archive2/007161.html).",
+      "date": "2011-03-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "EMOM"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Miles",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run**: 1 mile\n* **Sit-ups**: 100 reps\n* **Back extensions**: 100 reps\n* **Run**: 1 mile",
+        "section_notes": [
+          "Mix and match back extensions and sit-ups as needed to maintain flow."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \nRun 1 mile  \n100 Sit-ups  \n100 Back extensions  \nRun 1 mile  \n  \nMix and match back extensions and sit-ups as needed.   \n  \nPost time to comments.  \n  \nCompare to [051206](http://www.crossfit.com/mt-archive2/000992.html).",
+      "date": "2011-03-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wall Ball Pulls",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Seven rounds for time of:\n* **Wallball shots**: 10 reps (20 lb ball)\n* **Pull-ups**: 10 reps",
+        "section_notes": [
+          "Keep the transition between the wall and the bar fast."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:  \n10 Wallball shots, 20 pound ball  \n10 Pull-ups  \n  \n[Russell Berger](http://www.crossfithuntsville.com/) 3:43, [Ben Smith](http://scores2010.crossfit.com/scoring/athlete/ben-smith,5023/) 3:50, [Austin Malleolo](http://www.albanycrossfit.com/) 4:01, [Chad Wittman](http://reebokcrossfitone.com/) 4:09, [Keegan Martin](http://www.crossfitbrandx.com/) 4:10 (age 17), [Kristan Clever](http://www.valleycrossfit.com/) 5:39 (16lb ball), [Rebecca Voigt](http://www.valleycrossfit.com/) 6:08 (16lb ball).   \nPost time to comments.  \n  \nCompare to [101023](http://www.crossfit.com/mt-archive2/007211.html).",
+      "date": "2011-03-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Behind Neck Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Behind the neck Jerk**: 1-1-1-1-1-1-1",
+        "section_notes": [
+          "Focus on vertical drive and stability in the catch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Behind the neck Jerk 1-1-1-1-1-1-1  \n  \n[Russell Berger](http://www.crossfithuntsville.com/): 265-275-285-295-300x-300x-300lbs.   \nPost loads to comments.",
+      "date": "2011-03-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 11.1",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds and reps as possible in 10 minutes of:\n* **Double-unders**: 30 reps\n* **Power snatches**: 15 reps\n\n**Power snatch loads**:\n* Men / Masters Men (45-54): 75 lbs\n* Women / Masters Women (45-54): 55 lbs\n* Masters Men (55+): 65 lbs\n* Masters Women (55+): 45 lbs",
+        "section_notes": [
+          "Maintain a steady rhythm on the double-unders to save energy for the snatches."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "CrossFit Games Open 11.1  \n  \nComplete as many rounds and reps as possible in 10 minutes of:  \n30 Double-unders  \n15 Power snatches  \n  \nThe Power snatch loads are as follows:  \nMen and Masters Men 45-49, 50-54: 75lbs/35kg  \nWomen and Masters Women 45-54: 55lbs/25kg  \nMasters Men 55-59, 60+: 65lbs/30kg  \nMasters Women 55-59, 60+: 45lbs/20kg  \n  \nFor a downloadable PDF of the workout, click [here](http://media.crossfit.com/games/pdf/GamesOpen_Workout_11-1.pdf).  \n  \nCrossFit Games Open 11.1 workout instructions - video [[wmv](http://pd.crossfit.com/games/video/Games2011_Open_ExplanationWod1.wmv)] [[mov](http://pd.crossfit.com/games/video/Games2011_Open_ExplanationWod1.mov)]  \n  \n[Jason Khalipa](http://crossfitsantaclara.typepad.com/) 7 rounds + 3 snatches, [Laurie Galassi](http://www.crossfitsantacruz.com/) 6 rounds + 27 double-unders (25kg).  \nPost rounds and fractions of rounds completed to comments and/or register and submit your results as part of the [CrossFit Games Open](http://games.crossfit.com/).",
+      "date": "2011-03-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Trinity",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Overhead squat**: 1-1-1-1-1 reps\n* **Front squat**: 1-1-1-1-1 reps\n* **Back squat**: 1-1-1-1-1 reps",
+        "section_notes": [
+          "Try to increase the load on each of the fifteen sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 1-1-1-1-1 reps  \nFront squat 1-1-1-1-1 reps  \nBack squat 1-1-1-1-1 reps  \n  \nTry to increase the load on each of the fifteen sets.  \n  \n[Rob Orlando](http://www.hybridathletics.net/): 255lb OHS, 385lb FS, 485lb BS  \n[Dave Leys](http://www.crossfitsantacruz.com/): 250lb OHS, 270lb FS, 300lb BS  \nPost loads to comments.  \n  \nCompare to [101109](http://www.crossfit.com/mt-archive2/007248.html).",
+      "date": "2011-03-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Weaver",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* **L-pull-ups**: 10 reps\n* **Push-ups**: 15 reps\n* **Chest to bar Pull-ups**: 15 reps\n* **Push-ups**: 15 reps\n* **Pull-ups**: 20 reps\n* **Push-ups**: 15 reps",
+        "section_notes": [
+          "High volume gymnastics; focus on strict form as you fatigue."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Weaver**\"  \n  \nFour rounds for time of:  \n10 L-pull-ups  \n15 Push-ups  \n15 Chest to bar Pull-ups  \n15 Push-ups  \n20 Pull-ups  \n15 Push-ups  \n  \nPost time to comments.",
+      "date": "2011-03-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Descending Squat Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 10 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 9 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 8 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 7 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 6 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 5 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 4 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 3 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 2 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)\n* 1 **Front squat** (135 lb) + 1 **Rope Climb** (15 ft)",
+        "section_notes": [
+          "The workout gets faster as the reps decrease; push the pace in the final rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n135 pound Front squat, 10 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 9 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 8 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 7 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 6 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 5 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 4 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 3 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 2 reps  \n15 ft Rope Climb, 1 ascent  \n135 pound Front squat, 1 rep  \n15 ft Rope Climb, 1 ascent  \n  \n[Chris Spealler](http://www.crossfitpc.com/) 4:47. Post time to comments.",
+      "date": "2011-03-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ten K Grind",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run**: 10K",
+        "section_notes": [
+          "Steady state aerobic effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 10K  \n  \nPost time to comments.  \n  \nCompare to [070209](http://www.crossfit.com/mt-archive2/001706.html).",
+      "date": "2011-03-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Chipper Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Burpees**: 70 reps\n* **Sit-ups**: 60 reps\n* **Kettlebell swings**: 50 reps (1.5 poods)\n* **Pull-ups**: 40 reps\n* **Handstand push-ups**: 30 reps",
+        "section_notes": [
+          "Break the burpees and sit-ups into manageable sets to avoid early failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \n70 Burpees  \n60 Sit-ups   \n50 Kettlebell swings, 1.5 poods  \n40 Pull-ups  \n30 Handstand push-ups  \n  \n[Kristan Clever](http://www.valleycrossfit.com/) 9:56 (1pood KB), [Michelle Kinney](http://crossfitbartlett.com/) 15:10 (1.5 pood KB).   \nPost time to comments.   \n  \nCompare to [100430](http://www.crossfit.com/mt-archive2/005405.html).",
+      "date": "2011-03-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ball Clean Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Medicine ball cleans**: 15 reps (20 lb ball)\n* **Wall ball shots**: 15 reps (20 lb ball)",
+        "section_notes": [
+          "Keep the ball moving; minimize the rest between the cleans and the wall balls."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n15 Medicine ball cleans, 20 pound ball  \n15 Wall ball shots, 20 pound ball  \n  \n[Keegan Martin](http://www.crossfitkids.com/) 6:32 (age 17), [Matt Ross](http://www.crossfitkids.com/) 7:05 (age 14). Post time to comments.",
+      "date": "2011-03-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Overhead",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps of:\n* **Deadlift**: 225 lb\n* **Overhead squat**: 135 lb",
+        "section_notes": [
+          "Focus on a strong brace for the deadlifts and stability for the overhead squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps of:  \n225 pound Deadlift  \n135 pound Overhead squat  \n  \nPost time to comments.  \n  \nCompare to [101024](http://www.crossfit.com/mt-archive2/007212.html).",
+      "date": "2011-03-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "olympic-lifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Abbate",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run**: 1 mile\n* **Clean and jerk**: 21 reps (155 lb)\n* **Run**: 800 meters\n* **Clean and jerk**: 21 reps (155 lb)\n* **Run**: 1 mile",
+        "section_notes": [
+          "Pace the runs to allow for explosive power on the clean and jerks."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Abbate**\"  \n  \nRun 1 mile  \n155 pound Clean and jerk, 21 reps  \nRun 800 meters  \n155 pound Clean and jerk, 21 reps  \nRun 1 Mile  \n  \n[Peter Egyed](http://www.crossfitfury.com/) 21:00, [Chad Wittman](http://reebokcrossfitone.com/athlete-visits-2/josh-everett/) 21:46, [Austin Malleolo](http://www.albanycrossfit.com/) 21:50, [Rob Miller](http://www.crossfitatlanta.com/) 28:11 (sq. clean), [Michael Giardina](http://www.crossfitatlanta.com/) 32:50 (sq. clean).   \nPost time to comments.",
+      "date": "2011-03-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Pyramid",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Squats**: 75 reps\n* **Pull-ups**: 50 reps\n* **Ring dips**: 20 reps\n* **Squats**: 50 reps\n* **Pull-ups**: 35 reps\n* **Ring dips**: 15 reps\n* **Squats**: 25 reps\n* **Pull-ups**: 20 reps\n* **Ring dips**: 10 reps",
+        "section_notes": [
+          "Break the reps early to avoid muscle failure in the later rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n75 Squats  \n50 Pull-ups  \n20 Ring dips  \n50 Squats  \n35 Pull-ups  \n15 Ring dips  \n25 Squats  \n20 Pull-ups  \n10 Ring dips  \n  \n[Russell Berger](http://www.crossfithuntsville.com/) 5:50, [Kim Malz](http://www.crossfit033.com/) 12:31. Post time to comments.",
+      "date": "2011-03-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Thruster**: 3-3-3-3-3-3-3",
+        "section_notes": [
+          "Build weight across 7 sets of 3 reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Thruster 3-3-3-3-3-3-3  \n  \n[Rob Orlando](http://www.hybridathletics.net/) 245lbs, [Brandon Pastorek](http://crossfitrockford.com/) 110kg. Post loads to comments.  \n  \nCompare to [100327](http://www.crossfit.com/mt-archive2/005331.html).",
+      "date": "2011-03-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 11.2",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds and reps as possible in 15 minutes of:\n* **Deadlift**: 9 reps (155 lb)\n* **Push-ups**: 12 reps\n* **Box jumps**: 15 reps (24\" box)",
+        "section_notes": [
+          "Maintain a steady pace; the box jumps are the primary cardiovascular challenge."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[CrossFit Games Open 11.2](http://games.crossfit.com/compete/workouts/deadlift-push-box-jump)  \n  \nComplete as many rounds and reps as possible in 15 minutes of:  \n155 pound Deadlift, 9 reps  \n12 Push-ups  \n15 Box jumps, 24\" box  \n  \n[Paige Nutt](http://www.santacruzstudio831.com/) 10 rounds + 9 deadlift (100lbs).  \nPost rounds and fractions of rounds completed to comments and/or register and submit your results as part of the [CrossFit Games Open](http://games.crossfit.com/).",
+      "date": "2011-03-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "AMRAP"
+      ]
+    }
+  }
+]

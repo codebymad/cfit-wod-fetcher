@@ -1,0 +1,549 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Drive",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n\n* **Dumbbell rows**, left arm: 15 reps\n* **Dumbbell rows**, right arm: 15 reps\n* **Handstand walk**: 50-ft\n\n♀ 35-lb DB ♂ 50-lb DB",
+        "section_notes": [
+          "Reduce the load if necessary.",
+          "If unable to hold a handstand, modify with plank holds, bear crawls, wall walks, or overhead weight holds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:\r\n\r\n15 dumbbell rows, left arm  \r\n15 dumbbell rows, right arm  \r\n50-ft handstand walk\r\n\r\n♀ 35-lb DB ♂ 50-lb DB\r\n\r\nPost rounds completed to comments.  \r\nCompare to [200417](https://www.crossfit.com/200417).\r\n___\r\n**Scaling:**  \r\nReduce the load. If you are unable to hold a handstand, modify the handstand walk and spend that portion practicing by putting weight on your hands — i.e., plank hold, bear crawl, wall walk, or hold a weight overhead.\r\n\r\n**Intermediate Option:**  \r\nComplete as many rounds as possible in 15 minutes of:  \r\n15 dumbbell rows, left arm  \r\n15 dumbbell rows, right arm  \r\n**25-ft** handstand walk\r\n\r\n**♀ 25-lb DB ♂ 35-lb DB**\r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in 15 minutes of:  \r\n**10** dumbbell rows, left arm  \r\n**10** dumbbell rows, right arm   \r\n**25-ft waiter walk, left arm  \r\n25-ft waiter walk, right arm**\r\n\r\n**♀ 15-lb DB ♂ 20-lb DB**",
+      "date": "2022-04-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Karen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n**Wall-ball shots**: 150 reps\n\n♀ 14-lb ball to 9-ft target\n♂ 20-lb ball to 10-ft target",
+        "section_notes": [
+          "This classic benchmark contains a high volume of a light weightlifting movement.",
+          "Choose a load that allows you to hang on for large sets; pacing and strategic rest are key."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Karen**  \r\nFor time:\r\n\r\n150 wall-ball shots\r\n\r\n♀ 14-lb ball to 9-ft target  \r\n♂ 20-lb ball to 10-ft target\r\n\r\nPost time to comments.  \r\nCompare to [210603](https://www.crossfit.com/210603).\r\n___\r\n**Scaling:**  \r\nThis classic benchmark contains a high volume of a light weightlifting movement. Choose a load that allows you to hang on for large sets. Pacing and strategic rest periods will be required to log your best time.\r\n\r\n**Intermediate Option:**  \r\nFor time:  \r\n150 wall-ball shots  \r\n\r\n**♀ 10-lb ball** to 9-ft target  \r\n**♂ 14-lb ball** to 10-ft target\r\n\r\n**Beginner Option:**  \r\nFor time:  \r\n75 wall-ball shots\r\n\r\n**♀ 6-lb ball  \r\n♂ 10-lb ball**",
+      "date": "2022-04-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Pull-ups**: 20 reps\n* **Run**: 400-m",
+        "section_notes": [
+          "Reduce the pull-ups to complete the reps in 1-2 sets when fresh."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:\r\n\r\n20 pull-ups  \r\n400-m run\r\n\r\nPost time to comments.\r\n___\r\n**Scaling:**  \r\nReduce the pull-ups to complete the reps in 1-2 sets when fresh. \r\n\r\n**Intermediate Option:**  \r\n5 rounds for time of:  \r\n**15** pull-ups  \r\n400-m run\r\n\r\n**Beginner Option:**  \r\n**3 rounds** for time of:  \r\n**15 jumping** pull-ups  \r\n400-m run",
+      "date": "2022-04-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jerk Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Split jerk**: 5-5-3-3-3-1-1-1-1 reps",
+        "section_notes": [
+          "Experienced athletes can go as heavy as possible.",
+          "Newer athletes can use this as an opportunity to drill the movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Split jerk 5-5-3-3-3-1-1-1-1 reps\r\n\r\nPost loads to comments.  \r\nCompare to [210818](https://www.crossfit.com/210818).\r\n___\r\n**Scaling:**  \r\nMost athletes can attempt the split jerk sets. Experienced athletes can go as heavy as possible, while newer athletes can use this workout as an opportunity to drill the movement.",
+      "date": "2022-04-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Amanda",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "9-7-5 reps for time of:\n\n* **Muscle-ups**\n* **Squat snatches**\n\n♀ 95 lb ♂ 135 lb",
+        "section_notes": [
+          "This benchmark involves two high-skill movements.",
+          "Target time: under 12 minutes for most, under 5 minutes for elite athletes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Amanda**  \r\n9-7-5 reps for time of:\r\n\r\nMuscle-ups  \r\nSquat snatches\r\n\r\n♀ 95 lb ♂  135 lb\r\n\r\nPost time to comments.  \r\nCompare to [170330](https://www.crossfit.com/workout/2017/03/30).\r\n___\r\n**Scaling:**  \r\nThis benchmark workout involves two high-skill movements. Reduce the load and modify the muscle-ups to complete the workout in 12 minutes or less. Elite athletes should shoot for 5 minutes or less. \r\n\r\n**Intermediate Option:**  \r\n9-7-5 reps for time of:  \r\nMuscle-ups  \r\nSquat snatches  \r\n\r\n**♀ 75 lb ♂  115 lb**\r\n\r\n**Beginner Option:**  \r\n9-7-5 reps for time of:  \r\n**Ring rows**  \r\n**Push-ups**  \r\nSquat snatches  \r\n\r\n**♀ 35 lb ♂  45 lb**",
+      "date": "2022-04-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tri-Sprint Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Row**: 500 meters\n* **Burpees**: 21 reps\n* **Run**: 400 meters\n* **Rest**: 3 minutes",
+        "section_notes": [
+          "Built-in rest allows for higher intensity.",
+          "Note your time after round one and attempt to hold that pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:\r\n\r\nRow 500 meters  \r\n21 burpees  \r\nRun 400 meters  \r\nRest 3 minutes  \r\n\r\nPost total time to comments.  \r\nCompare to [220110](https://www.crossfit.com/220110) (similar).\r\n___\r\n**Scaling:**  \r\nRecall your effort from a few months ago. Although the rounds are the same, today we have built-in rest. Go hard, note your time after round one, and try to hold your pace. \r\n\r\n**Beginner Option:**  \r\n3 rounds for time of:  \r\nRow **350** meters    \r\n**12** burpees  \r\nRun **200** meters  \r\nRest 3 minutes",
+      "date": "2022-04-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on maintaining sound mechanics rather than max loads for newer athletes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 3-3-3-3-3-3-3 reps\r\n\r\nPost loads to comments.  \r\nCompare to [210812](https://www.crossfit.com/210812).\r\n___\r\n**Scaling:**  \r\nMost athletes can perform this workout as prescribed. Newer athletes should focus on maintaining sound mechanics rather than trying for max loads.",
+      "date": "2022-04-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Eva",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Run**: 800 meters\n* **Kettlebell swings**: 30 reps\n* **Pull-ups**: 30 reps\n\n♀ 24-kg KB ♂ 32-kg KB",
+        "section_notes": [
+          "This is a long workout with significant volume.",
+          "Expect to need multiple sets to complete each 30-rep segment."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Eva**   \r\n5 rounds for time of:\r\n\r\nRun 800 meters  \r\n30 kettlebell swings  \r\n30 pull-ups  \r\n\r\n♀ 24-kg KB ♂32-kg KB\r\n\r\nPost time to comments.   \r\nCompare to [181201](https://www.crossfit.com/workout/2018/12/01#/comments).\r\n___\r\n**Scaling:**  \r\nThis classic benchmark is a long workout with significant volume. Reduce the volume or go lighter, but expect to need multiple sets to complete each 30-rep segment.\r\n\r\n**Intermediate Option:**  \r\n**4 rounds** for time of:  \r\nRun 800 meters  \r\n30 kettlebell swings  \r\n30 pull-ups  \r\n\r\n**♀ 16-kg KB ♂24-kg KB**\r\n\r\n**Beginner Option:**  \r\n**3 rounds** for time of:  \r\n**Jog 400** meters  \r\n**20** kettlebell swings  \r\n**20** pull-ups  \r\n\r\n**♀ 12-kg KB ♂16-kg KB**",
+      "date": "2022-04-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Max",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front squat**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Experienced athletes should go as heavy as possible.",
+          "Newer athletes should use this to drill the movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 1-1-1-1-1-1-1 reps\r\n\r\nPost loads to comments.  \r\nCompare to [130117](https://www.crossfit.com/workout/2013/01/17).\r\n___\r\n**Scaling:**   \r\nMost athletes can perform this workout as prescribed. Experienced athletes can go as heavy as possible, while newer athletes can use this workout as an opportunity to drill the movement.\r\n\r\n**Beginner Option:**  \r\nFront squat 3-3-3-3-3-3-3 reps",
+      "date": "2022-04-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pushing Stamina",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Strict handstand push-ups**: 15-12-9 reps\n* **Strict ring dips**: 15-12-9 reps\n* **Push-ups**: 15-12-9 reps\n\n*Complete 21 **sit-ups** after each set*",
+        "section_notes": [
+          "Tests pushing stamina similar to Hero WOD JT.",
+          "Modify movements to complete each set in 5 sets or less."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\n15-12-9 strict handstand push-ups  \r\nThen, 15-12-9 strict ring dips  \r\nThen, 15-12-9 push-ups  \r\n\r\n*Complete 21 sit-ups after each set\r\n\r\nPost time to comments.\r\n___\r\n**Scaling:**  \r\nSimilar to the Hero workout JT, this one will test your pushing stamina. This version, however, incorporates a break from pushing, with a set of sit-ups after each round. Modify the movements to complete each set in 5 sets or less.\r\n\r\n**Intermediate Option:**  \r\nFor time:  \r\n**12-9-6** strict handstand push-ups  \r\n**12-9-6** strict ring dips  \r\n15-12-9 push-ups  \r\n\r\n*Complete 21 sit-ups after each set\r\n\r\n**Beginner Option:**  \r\nFor time:  \r\n15-12-9 **dumbbell shoulder press**  \r\n15-12-9 **jumping** ring dips  \r\n15-12-9 **assisted** push-ups  \r\n\r\n*Complete 21 sit-ups after each set   \r\n\r\n**♀ 10-lb DB ♂ 15-lb DB**",
+      "date": "2022-04-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Fight Gone Bad!",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for max reps of:\n\n* 1 minute **Wall-ball shots**\n* 1 minute **Sumo deadlift high pulls**\n* 1 minute **Box jumps**\n* 1 minute **Push presses**\n* 1 minute **Rowing** (calories)\n* Rest 1 minute\n\n♀ 14-lb ball to 9 ft, 55-lb SDHP and press, 20-in box\n♂ 20-lb ball to 10 ft, 75-lb SDHP and press, 20-in box",
+        "section_notes": [
+          "Stick to the interval pattern.",
+          "Beginners should reduce loading and box height."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Fight Gone Bad!**  \r\n3 rounds for max reps of:\r\n \r\n1 minute of wall-ball shots  \r\n1 minute of sumo deadlift high pulls  \r\n1 minute of box jumps  \r\n1 minute of push presses  \r\n1 minute of rowing (calories)  \r\nRest 1 minute\r\n\r\n♀ 14-lb ball to 9 ft, 55-lb SDHP and press, 20-in box  \r\n♂ 20-lb ball to 10 ft, 75-lb SDHP and press, 20-in box\r\n\r\nPost total reps to comments.   \r\nCompare to [190421](https://www.crossfit.com/190421).\r\n___\r\n**Scaling:**  \r\nMost athletes should be able to stick with the interval pattern. Beginners should reduce the loading and height of the box. Intermediate athletes can complete this as prescribed.\r\n\r\n**Beginner Option:**\r\n♀ 6-lb ball to 9 ft, 35-lb SDHP and press, 12-in box  \r\n♂ 10-lb ball to 10 ft, 45-lb SDHP and press, 15-in box",
+      "date": "2022-04-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Walk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Deadlifts**: 21 reps / **Handstand walk**: 21-m\n* **Deadlifts**: 15 reps / **Handstand walk**: 15-m\n* **Deadlifts**: 9 reps / **Handstand walk**: 9-m\n\n♀ 155 lb ♂ 225 lb",
+        "section_notes": [
+          "Reduce deadlift weight if needed.",
+          "Modify handstand walk with plank holds, bear crawls, or wall walks if unable to hold a handstand."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\n21 deadlifts  \r\n21-m handstand walk  \r\n15 deadlifts  \r\n15-m handstand walk  \r\n9 deadlifts  \r\n9-m handstand walk\r\n\r\n♀ 155 lb ♂ 225 lb  \r\n\r\nPost time to comments.  \r\nCompare to [131015](https://www.crossfit.com/search/131015).\r\n___\r\n**Scaling:**  \r\nReduce the weight on the deadlift. If you are unable to hold a handstand, modify the handstand walk and spend that portion practicing by putting weight on your hands — i.e., plank hold, bear crawl, wall walk, or hold a weight overhead.\r\n\r\n**Intermediate Option:**  \r\nFor time:  \r\n21 deadlifts  \r\n**15-m** handstand walk   \r\n15 deadlifts  \r\n**9-m** handstand walk  \r\n9 deadlifts  \r\n**6-m** handstand walk\r\n\r\n♀ 155 lb ♂ 225 lb\r\n\r\n**Beginner Option:**  \r\nFor time:  \r\n21 deadlifts    \r\n21-m **overhead plate carry, 10 lb**  \r\n15 deadlifts  \r\n15-m **overhead plate carry, 10 lb**  \r\n9 deadlifts  \r\n9-m **overhead plate carry, 10 lb**  \r\n\r\n**♀ 75 lb ♂ 115 lb**",
+      "date": "2022-04-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge Burpee Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Lunge in AFSAP**: 50-m\n* **Burpees**: 1 per lunge step taken",
+        "section_notes": [
+          "Athletes with longer lunge steps will perform fewer burpees.",
+          "Newer athletes can reduce the distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:\r\n\r\n50-m lunge in AFSAP  \r\n1 burpee per lunge step taken \r\n\r\nPost time to comments.  \r\nCompare to [191225](http://crossfit.com/191225).\r\n___\r\n**Scaling:**  \r\nAthletes with longer lunge steps will be rewarded with fewer burpees after each round. Newer athletes can reduce the distance.\r\n\r\n**Beginner Option:**  \r\n3 rounds for time of:   \r\n**25-m** lunge in AFSAP  \r\n1 burpee per lunge step taken",
+      "date": "2022-04-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tommy V",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Thrusters**: 21 reps / **Rope climbs** (15 ft): 12 reps\n* **Thrusters**: 15 reps / **Rope climbs** (15 ft): 9 reps\n* **Thrusters**: 9 reps / **Rope climbs** (15 ft): 6 reps\n\n♀ 75 lb ♂ 115 lb",
+        "section_notes": [
+          "Classic couplet of thrusters and a pull exercise.",
+          "Modify the pull exercise or reduce reps for beginners."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Tommy V**  \r\nFor time:\r\n\r\n21 thrusters  \r\n12 rope climbs, 15 ft  \r\n15 thrusters  \r\n9 rope climbs,15 ft  \r\n9 thrusters  \r\n6 rope climbs, 15 ft  \r\n\r\n♀ 75 lb  ♂  115 lb  \r\n\r\nPost time to comments.  \r\nCompare to [160426](https://www.crossfit.com/workout/2008/03/12#/comments).\r\n___\r\n**Scaling:**  \r\nThis hero workout is a classic couplet of thrusters and a pull exercise. Beginner-level athletes should look back to their performance from a few months ago, on 220206, and choose a weight on the thruster that is slightly heavier. Reduce the reps or modify the pull exercise for the rope climb. \r\n\r\n**Intermediate Option:**  \r\nFor time:  \r\n21 thrusters  \r\n**9** rope climbs, 15 ft  \r\n15 thrusters  \r\n**6** rope climbs,15 ft  \r\n9 thrusters  \r\n**3** rope climbs, 15 ft    \r\n\r\n♀ 75 lb  ♂ 115 lb\r\n\r\n**Beginner Option:**  \r\nFor time:  \r\n21 thrusters  \r\n12 rope climbs, **lying to standing**  \r\n15 thrusters    \r\n9 rope climbs, **lying to standing**  \r\n9 thrusters  \r\n6 rope climbs, **lying to standing**  \r\n\r\n**♀ 45 lb  ♂ 65 lb**",
+      "date": "2022-04-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Pace",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Bench press**: 5-5-3-3-3-1-1-1-1-1 reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run**: 1 mile",
+        "section_notes": [
+          "Deconditioned athletes can walk or jog the mile."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Bench press 5-5-3-3-3-1-1-1-1-1 reps  \r\nThen,   \r\nRun 1 mile\r\n\r\nPost bench press loads and run time to comments.  \r\nCompare to [020827](https://www.crossfit.com/workout/2002/08/27).\r\n___\r\n**Scaling:**  \r\nMost athletes should be able to do this workout as prescribed. Deconditioned athletes can walk or jog a mile. \r\n\r\n**Beginner Option:**  \r\nBench press 5-5-3-3-3-1-1-1-1-1 reps  \r\nThen,   \r\n**Jog** 1 mile",
+      "date": "2022-04-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pistol Pulls",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n\n* **Single-leg squats**: 30 reps\n* **Sumo deadlift high pulls**: 15 reps\n\n♀ 75 lb ♂ 115 lb",
+        "section_notes": [
+          "Practice proper technique for single-leg squats; modify to a box if heels cannot stay on the ground."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:\r\n\r\n30 single-leg squats  \r\n15 sumo deadlift high pulls\r\n\r\n♀ 75 lb  ♂ 115 lb \r\n\r\nPost time to comments.\r\n___\r\n**Scaling:**  \r\nWatch [“Pistol Variations”](https://www.youtube.com/watch?v=FW5JT6KIaq4) and practice proper technique in the single-leg squats. If you are unable to perform single-leg squats with your heel on the ground throughout the rep, modify the movement to a box, as seen in the video. Reduce the load on the SDHP.\r\n\r\n**Intermediate Option:**  \r\n4 rounds for time of:  \r\n**20** single-leg squats  \r\n15 sumo deadlift high pulls \r\n\r\n♀ 75 lb  ♂ 115 lb\r\n\r\n**Beginner Option:**  \r\n**3 rounds** for time of:  \r\n30 **squats**  \r\n15 sumo deadlift high pulls\r\n\r\n**♀ 26 lb KB ♂ 35 lb KB**",
+      "date": "2022-04-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Quarterfinal Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Toes-to-bars**: 20 reps\n* **Alternating dumbbell snatches**: 20 reps\n\n♀ 50-lb dumbbell ♂ 70-lb dumbbell",
+        "section_notes": [
+          "This is a sprint; top athletes will complete it unbroken.",
+          "Choose a weight that is challenging but won't slow you down."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[2022 Age-Group Quarterfinal Workout 1](https://games.crossfit.com/workouts/onlinequalifiers/2022/1)  \r\n3 rounds for time of:\r\n\r\n20 toes-to-bars  \r\n20 alternating dumbbell snatches\r\n\r\n♀ 50-lb dumbbell ♂ 70-lb dumbbell \r\n\r\n**Scaling:**  \r\nThis workout is a sprint that top athletes will complete unbroken. Choose a dumbbell weight that is challenging but will not slow you down. Scale the toes-to-bars to something that can be completed in a single set in the first round but may need to be broken up in later rounds.\r\n\r\n**Intermediate Option:**  \r\n3 rounds for time of:  \r\n20 toes-to-bars  \r\n20 alternating dumbbell snatches  \r\n\r\n**♀ 35-lb dumbbell   ♂ 50-lb dumbbell**  \r\n\r\n**Beginner Option:**  \r\n3 rounds for time of:  \r\n20 **hanging knee-raises**  \r\n20 alternating dumbbell snatches  \r\n\r\n**♀ 15-lb dumbbell   ♂ 25-lb dumbbell**",
+      "date": "2022-04-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Engine",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead squat**: 5-5-3-3-3-1-1-1-1-1 reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Row**: 2,000 m",
+        "section_notes": [
+          "Deconditioned athletes can row for total meters in 10 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 5-5-3-3-3-1-1-1-1-1 reps  \r\n\r\nThen,   \r\nRow 2,000 m\r\n\r\nPost OHS loads and row time to comments.\r\n___\r\n**Scaling:**  \r\nMost athletes should be able to do this workout as prescribed. Deconditioned athletes can row for total meters in 10 minutes.",
+      "date": "2022-04-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Hop",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 12 minutes of:\n\n* **Burpees**: 10 reps\n* **Double-unders**: 25 reps",
+        "section_notes": [
+          "If unable to string double-unders together, perform single-unders to keep moving."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 12 minutes of:  \r\n\r\n10 burpees  \r\n25 double-unders\r\n\r\nPost rounds completed to comments.  \r\nCompare to [130627](https://www.crossfit.com/workout/2013/06/27). \r\n___\r\n**Scaling:**  \r\nIf you’re new to the double-under, spend some time practicing during your warm-up. If you’re unable to string sets of double-unders together, perform single-unders for this workout so you can keep moving.\r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in **7 minutes** of:  \r\n**7** burpees  \r\n25 **single**-unders",
+      "date": "2022-04-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Skill Couplet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "12-9-6 reps for time of:\n\n* **Deadlifts**\n* **Bar muscle-ups**\n\n♀ 205 lb ♂ 315 lb",
+        "section_notes": [
+          "Meant to be heavy and high skill.",
+          "Target time: under 10 minutes for most, under 5 minutes for elite athletes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "12-9-6 reps for time of:\r\n\r\nDeadlifts  \r\nBar muscle-ups\r\n\r\n♀ 205 lb ♂ 315 lb\r\n\r\nPost time to comments.  \r\nCompare to [200207](https://www.crossfit.com/200207).\r\n___\r\n**Scaling:**  \r\nThis couplet is meant to be heavy and high skill. Reduce the load and modify the muscle-up to keep this one under 10 minutes. Elite athletes will be closer to 5 minutes or less. \r\n\r\n**Intermediate Option:**  \r\n12-9-6 reps of:   \r\nDeadlifts  \r\n9-6-3 reps of:   \r\nBar muscle-ups\r\n\r\n**♀ 185 lb ♂ 265 lb**\r\n\r\n**Beginner Option:**  \r\n12-9-6 reps for time of:  \r\nDeadlifts  \r\n**Assisted strict pull-ups**\r\n\r\n**♀ 95 lb ♂ 135 lb**",
+      "date": "2022-04-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Wall walks**: 10 reps\n* **Box jumps**: 30 reps\n* **Strict knees-to-elbows**: 30 reps\n* **Box jumps**: 30 reps\n* **Strict toes-to-bars**: 30 reps\n* **Box jumps**: 30 reps\n* **Wall walks**: 10 reps\n\n♀ 20 in ♂ 24 in",
+        "section_notes": [
+          "Reduce the range of motion on wall walks if needed.",
+          "Practice handstand drills and safety tips for bailing."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:\r\n\r\n10 wall walks   \r\n30 box jumps  \r\n30 strict knees-to-elbows  \r\n30 box jumps  \r\n30 strict toes-to-bars  \r\n30 box jumps  \r\n10 wall walks\r\n\r\n♀ 20 in ♂ 24 in\r\n\r\nPost time to comments.\r\n___\r\n**Scaling:**  \r\nIf you are not proficient in the handstand, review the article “[Handstands](http://library.crossfit.com/free/pdf/17_04_Handstands.pdf),” and practice the drills provided as well as the safety tips for bailing out. Reduce the range of motion on the wall walks to a distance you can comfortably support yourself in while inverted. For example, begin the movement in a plank with your feet touching the wall, walk your feet up the wall while keeping both hands on the ground, then walk your feet back to a plank. \r\n\r\n**Intermediate Option:**  \r\nFor time:  \r\n10 wall walks  \r\n30 box jumps  \r\n**20** strict knees-to-elbows  \r\n30 box jumps  \r\n**20** strict toes-to-bars  \r\n30 box jumps  \r\n10 wall walks\r\n\r\n♀ 20 in ♂ 24 in\r\n\r\n**Beginner Option:**  \r\nFor time:  \r\n10 **scaled wall walks**  \r\n30 box jumps  \r\n30 **hanging knee-raises**   \r\n30 box jumps  \r\n30 **hanging knee-raises**   \r\n30 box jumps  \r\n10 **scaled wall walks**\r\n\r\n**♀ 12 in ♂ 18 in**",
+      "date": "2022-04-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Manion",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time of:\n\n* **Run**: 400 meters\n* **Back squats**: 29 reps\n\n♀ 95 lb ♂ 135 lb",
+        "section_notes": [
+          "This Hero workout is long with high volume.",
+          "Reduce reps and load to keep the workout under 40 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Manion**  \r\n7 rounds for time of:\r\n\r\nRun 400 meters  \r\n29 back squats\r\n\r\n♀ 95 lb ♂ 135 lb\r\n\r\nPost time to comments.  \r\nCompare to [210429](https://www.crossfit.com/210429).\r\n___\r\n**Scaling:**    \r\nThis Hero workout is long, with a high volume of running and squats. Reduce the reps and load to keep the workout under 40 minutes.\r\n\r\n**Intermediate Option:**  \r\n5 rounds for time of:  \r\nRun 400 meters  \r\n29 back squats\r\n\r\n**♀ 75 lb ♂ 115 lb**\r\n\r\n**Beginner Option:**  \r\n**4 rounds** for time of:  \r\n**Jog** 400 meters  \r\n29 back squats\r\n\r\n**♀ 35 lb ♂ 45 lb**",
+      "date": "2022-04-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "engine-builder",
+        "powerlifting"
+      ]
+    }
+  }
+]

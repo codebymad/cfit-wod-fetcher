@@ -1,0 +1,465 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Descending Muscle Ups",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10-9-8-7-6-5-4-3-2-1 reps of:\n* **Muscle ups**",
+        "section_notes": [
+          "Maintain a consistent rhythm as the rep count drops."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10-9-8-7-6-5-4-3-2-1 reps of:  \nMuscle ups",
+      "date": "2003-02-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pull and Paddle",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds, each for time of:\n* **Deadlift** (225 lb): 10 reps\n* **Row**: 500 meters",
+        "section_notes": [
+          "Keep the back flat during deadlifts and maintain a steady pace on the rower."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds, each for time of:  \n225 pound Deadlift, 10 reps  \n500 meter Row",
+      "date": "2003-02-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Pace",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 30 minutes as you can of:\n* **Sit-ups**: 25 reps\n* **Push press** (85 lb): 21 reps\n* **Run**: 400 meters",
+        "section_notes": [
+          "Pace yourself for the long duration; avoid burnout in the first 10 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 30 minutes as you can of:  \n25 Sit-ups  \n85 pound Push press, 21 reps  \n400 meter Run",
+      "date": "2003-02-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead Squats**:\n* 5 very light **Overhead squats**, 5 reps\n* 65 lb **Overhead squat**, 10 reps\n* Add 5 lbs at a time keeping the reps at 10.",
+        "section_notes": [
+          "Goal: How many sets of 10 can you get while increasing the weight each time?",
+          "If familiar with the movement, you may take greater weight increases."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead Squats:  \n  \n5 very light Overhead squats, 5 reps.  \n65 pound Overhead squat, 10 reps  \n  \nAdd 5 lbs at a time keeping the reps at 10.  \n  \nHow many sets of 10 can you get while   \nincreasing the weight each time?   \n( If you are familiar with the movement   \nyou may take greater weight increases.)",
+      "date": "2003-02-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Dip",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* **Row**: 1000 meters\n* **Dips**: 25 reps",
+        "section_notes": [
+          "Maintain a consistent rowing split across all four rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds for time of:  \n1000 meter Row  \n25 Dips",
+      "date": "2003-02-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Power cleans** (95 lb): 15 reps\n* **Jump rope \"Double Unders\"**: 25 reps\n* **Push-ups**: 20 reps",
+        "section_notes": [
+          "Keep the power cleans snappy and the double unders controlled."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n95 pound Power cleans, 15 reps  \n25 Jump rope \"Double Unders\"  \n20 Push-ups",
+      "date": "2003-02-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Climb and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Rope climb** \"double up\"\n* **Sumo deadlift high pull** (3/4 body weight): 10 reps",
+        "section_notes": [
+          "Double up: up and back only touching a toe to ground before reascent."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \nRope climb \"double up\"  \n 3/4 body weight Sumo deadlift high pull, 10 reps",
+      "date": "2003-02-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Moderate Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Row**: 500 meters (moderate pace - not all out)\n* **Push-ups**: 15 reps\n* **Plate Squats** (25 lb plate): 25 reps",
+        "section_notes": [
+          "Focus on a steady, sustainable aerobic pace on the rower."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n500 meter Row (moderate pace- not all out)  \n15 Push-ups  \n25 pound plate Squats, 25 reps",
+      "date": "2003-02-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Tabata",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Sets of Tabata Squats:\n* **Tabata Squats**\n* Rest\n* **Tabata Squats**\n* Rest\n* **Tabata Squats**",
+        "section_notes": [
+          "Tabata: 20 seconds of work, 10 seconds of rest for 8 rounds per set."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata Squats  \nRest  \nTabata Squats  \nRest  \nTabata Squats",
+      "date": "2003-02-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Cycle",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds, each for time of:\n* **Clean and Jerk** (135 lb): 15 reps\n* **Bike**: 2 miles (level 20)",
+        "section_notes": [
+          "Maintain a strong core during the clean and jerk to avoid fatigue on the bike."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds, each for time of:  \n135 pound Clean and Jerk, 15 reps  \nBike 2 miles, level 20",
+      "date": "2003-02-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Triple Threat Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 30 minutes as you can of:\n* **Pull-ups**: 10 reps\n* **Push press** (115 lb): 10 reps\n* **Row**: 1000 meters",
+        "section_notes": [
+          "This is a long grind; manage your heart rate on the row to keep the movements crisp."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 30 minutes as you can of:  \n10 Pull-ups  \n115 pound Pushpress, 10 reps  \n1000 meter Row",
+      "date": "2003-02-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hang Clean Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Hang Clean**:\n* 10RM load x 10 reps\n* 7RM load x 7 reps\n* 5RM load x 5 reps\n* 3RM load x 3 reps\n\nThen, using the 3RM load, complete in as few sets as possible:\n* 10 reps\n* 7 reps\n* 5 reps\n* 3 reps",
+        "section_notes": [
+          "Focus on explosive hip extension during the hang cleans."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang Clean 10RM load X 10,  \n7RM load X 7,  \n5RM load X 5,   \n3RM load X 3,  \nthen in as few sets as possible and with the last (3RM) load:  \n  \n10 reps,  \n7 reps,  \n5 reps,  \n3 reps.",
+      "date": "2003-02-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mile Jump Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* **Run**: 1 mile\n* **Box Jump** (20 in): 50 reps",
+        "section_notes": [
+          "Keep a steady pace on the run to allow for explosive box jumps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds for time of:  \nRun 1 mile  \n20 inch Box Jump, 50 reps",
+      "date": "2003-02-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Hybrid",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* 4 Rounds of Tabata: **Push press** (65 lb) (20s work / 10s rest)\n* **Double unders**: 20 reps\n* **Sit ups on Glute Ham developer** (holding 25 lb): 20 reps",
+        "section_notes": [
+          "Keep the weight close to your chest and just under the chin during sit-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \nFour Rounds of Tabata: 65 pound push press  \nComplete as many reps as you can in 20 seconds, rest for 10 seconds. Repeat this 4 more times.   \n  \n 20 double unders  \n  \n20 Sit ups on Glute Ham developer holding 25 lbs.  \nMake sure the weight stays close to your chest and just under the chin.",
+      "date": "2003-02-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Pull Volume",
+    "sections": [
+      {
+        "section_name": "gymnastics",
+        "section_content": "Complete as many **Strict pull-ups** in 20 minutes as you can.",
+        "section_notes": [
+          "Score: Total pull-ups minus the number of sets performed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many Strict pull-ups in 20 minutes as you can.  \n  \nSubtract number of sets from pull-up total for score.",
+      "date": "2003-02-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Run**: 400 meters\n* **Overhead squat** (65 lb): 21 reps",
+        "section_notes": [
+          "Maintain a strong overhead position during the squats despite the running fatigue."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \nRun 400 meters  \n65 pound Overhead squat, 21 reps",
+      "date": "2003-02-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Bike Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Push-ups**: 25 reps\n* **Bike**: 1 mile\n* **Deadlift** (Double body weight): 12 reps",
+        "section_notes": [
+          "The deadlift is heavy; prioritize form over speed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n25 Push-ups  \nBike 1 mile  \nDouble body weight Deadlift, 12 reps",
+      "date": "2003-02-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Choice Cardio",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Pick your least favorite, yet available:\n* **Row**: 5K\n* **Run**: 5K\n* **Bike**: 10K\n* **Swim**: 1K",
+        "section_notes": [
+          "Mental toughness workout: choose the modality you enjoy the least."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Pick your least favorite, yet available:   \nRow 5K  \nRun 5K  \nBike 10K  \nSwim 1K",
+      "date": "2003-02-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Swing and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time:\n* **Kettlebell swing** (1.5 pood): 21 reps\n* **Rope climb** \"double up\"",
+        "section_notes": [
+          "Double up: up and back only touching a toe to ground before reascent."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time:  \n  \n1.5 pood Kettlebell swing, 21 reps  \nRope climb, \"double up\"  \n  \n (up and back only touching a toe to ground before reascent)",
+      "date": "2003-02-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bodyweight Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Run**: 400 meters\n* **Front squat** (Body weight): 15 reps\n* **Sit-ups**: 30 reps",
+        "section_notes": [
+          "Keep the front squats strict and the run steady."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \nRun 400 meters  \n15 Front squat: body weight  \n30 Sit-ups",
+      "date": "2003-02-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  }
+]

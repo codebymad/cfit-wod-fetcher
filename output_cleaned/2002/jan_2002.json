@@ -1,0 +1,537 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Run and Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 3-5 rounds of:\n* **800 meter Run**\n* **15 Powercleans**\n* Rest",
+        "section_notes": [
+          "Maintain a consistent pace across all rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3-5 rounds of:  \n800 meter Run  \n15 Powercleans  \nRest",
+      "date": "2002-01-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Sprint",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 5-3-1-3-5 reps",
+        "section_notes": [
+          "Pick challenging loads for each of the first five deadlift sets."
+        ]
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run** 1 mile",
+        "section_notes": [
+          "Run the mile for time, i.e., hard and fast."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 5-3-1-3-5 reps",
+        "section_notes": [
+          "Try to duplicate the loads for the second five sets of deadlift.",
+          "Rest as needed before and after the run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 5-3-1-3-5 reps  \nRun 1 mile  \nDeadlift 5-3-1-3-5 reps  \n  \nNotes:  \n1. Pick challenging loads for each of the first five deadlift sets.  \n2. Rest as needed before and after the run.   \n3. Run the mile for time, i.e., hard and fast.  \n4. Try to duplicate the loads for the second five sets of deadlift.",
+      "date": "2002-01-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Assisted Ascent",
+    "sections": [
+      {
+        "section_name": "gymnastics",
+        "section_content": "Have a partner gently assist you through **20 consecutive muscle-ups**.\nSwitch.\nRepeat.",
+        "section_notes": [
+          "The most effective spotting/assisting technique is to lift from the bottom of the feet or about the ribs.",
+          "This is a high-difficulty skill session."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Have a partner gently assist you through twenty consecutive muscle-ups.  \nSwitch.  \nRepeat.  \n  \nNotes:  \n1. The most effective spotting/assisting technique is to lift from the   \nbottom of the feet or about the ribs.  \n2. This is REALLY tough. Potentially for both.",
+      "date": "2002-01-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "partner",
+        "gymnastic",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Snatch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **1000 meter Row**\n* **Snatch** 10-10-10-10-10 reps\n* **1000 meter Row**",
+        "section_notes": [
+          "Focus on explosive power during the snatches and steady pacing on the row."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "1000 meter Row  \nSnatch 10-10-10-10-10 reps  \n1000 meter Row",
+      "date": "2002-01-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Box and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **24 inch Box jump**, 15 reps\n* **20 Sit ups**",
+        "section_notes": [
+          "Give yourself one point for each round.",
+          "Add two points if you puke."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n24 inch Box jump, 15 reps  \n20 Sit ups  \n  \nNotes:   \n1. Give yourself one point for each round.  \n2. Add two points if you puke.",
+      "date": "2002-01-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "High Rep Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **45 pound Front squat**, 50 reps\n* **20 Pull ups**\n* **20 Dips**",
+        "section_notes": [
+          "Rest only where continuing is physically impossible.",
+          "If you can't complete the pull-ups or dips in one set, break it into several with minimal rest.",
+          "Squat to a 10\" box or platform."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n45 pound Front squat, 50 reps  \n20 Pull ups  \n20 Dips  \n  \nNotes:  \n1. Rest only where continuing is physically impossible.  \n2. If you can't complete the pull-ups or dips in one set break it into   \nseveral with minimal rest.   \n3. Squat to a 10\" box or platform.",
+      "date": "2002-01-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **15 Power cleans**; 20 RM load\n* **400 meter Run**",
+        "section_notes": [
+          "Maintain a steady pace to maximize rounds within the time cap."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n15 Power cleans; 20 RM load  \n400 meter Run",
+      "date": "2002-01-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **7 Bench press**; body weight\n* **1 Rope climb**",
+        "section_notes": [
+          "Focus on strict form for the bench press and efficient climbing."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n7 Bench press; body weight  \n1 Rope climb",
+      "date": "2002-01-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Tabata Squats**\n* **50 Sit ups**",
+        "section_notes": [
+          "Tabata style: 20 seconds of work, 10 seconds of rest for 8 rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \nTabata Squats  \n50 Sit ups",
+      "date": "2002-01-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **400 meter Run**\n* **10 Pull Ups**",
+        "section_notes": [
+          "Keep a consistent transition between the run and the pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n400 meter Run  \n10 Pull Ups",
+      "date": "2002-01-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Complex",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Powerclean/Push-press** 5RM load",
+        "section_notes": [
+          "Use a weight that represents your 5-rep maximum for the complex."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complets as many rounds in 20 minutes as you can of:  \nPowerclean/Push-press 5RM load",
+      "date": "2002-01-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Box Jump Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Repeat each of the three couplets:\n1. **24 inch Box jump**, 25 reps / **25 Pull-ups** / Rest\n2. **22 inch Box jump**, 25 reps / **20 Pull-ups** / Rest\n3. **20 inch Box jump**, 25 reps / **15 Pull-ups** / Rest",
+        "section_notes": [
+          "Complete the pull-ups in as few sets as possible.",
+          "Compare the time for the first three couplets to the second three."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "24 inch Box jump, 25 reps  \n25 Pull-ups  \nRest  \n22 inch Box jump, 25 reps  \n20 Pull-ups  \nRest  \n20 inch Box jump, 25 reps  \n15 Pull-ups  \nRest  \n  \nRepeat each of the three couplets.  \n  \nNotes:   \n1. Complete the pull-ups in as few sets as possible.  \n2. Compare the time for the first three couplets to the second three",
+      "date": "2002-01-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Sprint",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**20 Back squat**",
+        "section_notes": []
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run 800 meters**",
+        "section_notes": [
+          "Rest 5 minutes between each movement."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "**Tabata Squat** (20 seconds on/10 seconds off X 8)",
+        "section_notes": []
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run 800 meters**",
+        "section_notes": []
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**20 Overhead squat**",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "20 Back squat  \nRest 5 minutes  \nRun 800 meters  \nRest 5 minutes  \nTabata Squat (20 seconds on/10 seconds off X 8)  \nRest 5 minutes  \nRun 800 meters  \nRest 5 minutes  \n20 Overhead squat",
+      "date": "2002-01-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Press",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Alternating for ten minutes:\n* **Row 1 minute** at sub 1:30/500 meter pace\n* **Row 1 minute** at 2:00/500 meter pace",
+        "section_notes": [
+          "Rest as needed after the rowing interval."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "**45 pound Push press** intervals:\n* 30 seconds: Max reps\n* Rest 2 minutes\n* 60 seconds: Match 30 second rep count\n* Rest 2 minutes\n* 90 seconds: Match 30 second rep count\n* Rest 2 minutes\n* 120 seconds: Match 30 second rep count",
+        "section_notes": []
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "Alternating for ten minutes:\n* **Row 1 minute** at sub 1:30/500 meter pace\n* **Row 1 minute** at 2:00/500 meter pace",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 1 minute at sub 1:30/500 meter pace,   \nRow 1 minute at 2:00/500 meter pace alternating for ten minutes.  \nRest as needed.  \n45 pound Push press, 30 seconds, max reps.  \nRest 2 minutes.  \n45 pound Push press 60 seconds, match 30 second effort's rep count.  \nRest 2 minutes.  \n45 pound Push press 90 seconds, again match 30 second effor'ts rep count.  \nRest 2 minutes.  \n45 pound Push press120 seconds, again match 30 second effort's reps count.   \nRest as needed.  \nRow 1 minute at sub 1:30/500 meter pace,   \nRow 1 minute at 2:00/500 meter pace alternating for ten minutes.",
+      "date": "2002-01-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds of:\n* **Jump Rope \"double-unders\"**; 2 minutes\n* Rest 30 seconds\n* **Powerclean bodyweight**, max reps, no rest\n* Rest 5 minutes",
+        "section_notes": [
+          "If you can't double under then jump hard, high, and fast.",
+          "If you can't powerclean your bodyweight then use less weight.",
+          "No rest on the powercleans implies that you don't put the weight down, though you may pause at hang or rack."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds of:  \nJump Rope \"double-unders\"; 2 minutes  \nRest 30 seconds.  \nPowerclean bodyweight, max reps, no rest.  \nRest 5 minutes.  \n  \nNotes:  \n1. If you can't double under then jump hard, high, and fast.  \n2. If you can't powerclean your bodyweight then use less weight (duhhhh..)  \n3. No rest on the powercleans implies that you don't put the weight down,   \nthough you may pause at hang or rack.",
+      "date": "2002-01-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "gymnastic",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five Round Flyer",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **15 Back/Hip Extension**\n* **15 Sit ups**\n* **10 Pull ups**\n* **10 Dips**\n* **1 mile Bike**",
+        "section_notes": [
+          "Maintain a steady pace across the five rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n15 Back/Hip Extension  \n15 Sit ups  \n10 Pull ups  \n10 Dips  \n1 mile Bike",
+      "date": "2002-01-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strongman Cycle",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Bike ten minutes**, hard",
+        "section_notes": [
+          "Rest five minutes after the first bike."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "Perform seven sets of:\n* **Turkish Get-up** (with dumbbell)\n* **5 one-armed, overhead squats**\n* Switch arms and repeat",
+        "section_notes": [
+          "Repeat with a heavier dumbbell for subsequent sets."
+        ]
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "**Bike ten minutes**, hard",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Bike ten minutes, hard.  \nRest five minutes.  \nFrom a standing start, with a dumbbell, perform a Turkish Get-up.   \nOn returning to the stand, perform five one -armed, overhead squats,   \nswitch arms and repeat with the other arm. This is one set.  \nRepeat with heavier dumbbell. Perform seven sets in this manner.   \nBike ten minutes, hard.",
+      "date": "2002-01-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strongman",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Deadlift 5RM**\n* **2 Rope climb**",
+        "section_notes": [
+          "Use your 5-rep maximum load for the deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \nDeadlift 5RM  \n2 Rope climb",
+      "date": "2002-01-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row or Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Option 1 (Row):\n* **Row 2000 meters**\n* Rest for 2000 meter time\n* **Row 1000 meters**\n* Rest for 1000 meter time\n* **Row 500 meters**\n\nOR\n\nOption 2 (Run):\n* **Run 800 meters**\n* Rest for 800 meters time\n* **Run 400 meters**\n* Rest for 400 meters time\n* **Run 200 meters**",
+        "section_notes": [
+          "The rest period is equal to the time it took to complete the previous distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 2000 meters  \nRest for 2000 meter time.  \nRow 1000 meters  \nRest for 1000 meter time.  \nRow 500 meters   \n  \nOR  \n  \nRun 800 meters  \nRest for 800 meters time.  \nRun 400 meters.  \nRest for 400 meters time.  \nRun 200 meters.",
+      "date": "2002-01-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Set Tally",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time (Perform in any order):\n* **50 Push-ups**\n* **50 Pull-ups**\n* **75 Sit-ups**\n* **75 Kettlebell Swings**, 1 \"pood\" kettlebell (16kg)\n* **150 Air Squats**",
+        "section_notes": [
+          "Perform each in as few sets as possible. You do not have to complete all reps of one exercise before starting another.",
+          "Final score = total number of sets multiplied by time in minutes to completion.",
+          "Seven sets total in ten minutes for a \"70\" is an excellent score!"
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n50 Push-ups  \n50 Pull-ups  \n75 Sit-ups  \n75 Kettlebell Swings, 1 \"pood\" kettlebell (16kg)  \n150 Air Squats  \n  \nPerform in any order. The idea is to perform each in as   \nfew sets as possible. All of the reps from each exercise do not have   \nto be completed before starting some from another exercise.   \nKeep track of the reps and tally the total sets to completion.   \nNote time to completion. Final score is total number of sets   \nmultiplied by time in minutes to completion.  \n  \nNotes:   \n1. One possible approach is to perform a near max set of push-ups,   \ngo on to the pull-ups, do the same with the sit-ups, etc. After the squats,   \ngo back to the push-ups and run through the list again finishing as much   \nas you can at each exercise.   \n2. Seven sets total in ten minutes for a \"70\" is an excellent score!",
+      "date": "2002-01-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  }
+]

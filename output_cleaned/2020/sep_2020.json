@@ -1,0 +1,572 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Core and Carry",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "**Midline March**",
+        "section_notes": [
+          "Focus on maintaining a neutral spine and steady breathing."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **GHD sit-ups**: 25 reps\n* **Handstand walk**: 50-ft.\n* **Overhead walking lunge**: 50-ft.\n\n♀ 115-lb. OH lunge / ♂ 155-lb. OH lunge",
+        "section_notes": [
+          "Maintain a locked-out elbow during the overhead lunges for stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Midline March](https://www.youtube.com/watch?v=nIKMO4BFnrs)  \r\n3 rounds for time of:  \r\n\r\n25 GHD sit-ups  \r\n50-ft. handstand walk  \r\n50-ft. overhead walking lunge   \r\n\r\n♀ 115-lb. OH lunge   ♂ 155-lb. OH lunge   \r\n\r\nPost time to comments.   \r\nCompare to [170320](https://www.crossfit.com/workout/2017/03/20#/comments).",
+      "date": "2020-09-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Burpee Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n\n* **Burpees**: 15 reps\n* **Row**: 30-calorie",
+        "section_notes": [
+          "Maintain a consistent pace to maximize rounds over the 20-minute window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n\r\n15 burpees  \r\n30-calorie row  \r\n\r\nPost rounds completed to comments.  \r\nCompare to [171016](https://www.crossfit.com/workout/2017/10/16#/comments).",
+      "date": "2020-09-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "First Cut",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n\n* **Run**: 400-m\n* **Legless rope climbs**: 3 reps\n* **Squat snatches**: 7 reps\n\n♀ 130 lb. / ♂ 185 lb.",
+        "section_notes": [
+          "Legless rope climbs require significant upper body and grip strength; pace the run to recover."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[First Cut](https://youtu.be/n7oz4e7kztI)    \r\n4 rounds for time of:  \r\n\r\n400-m run  \r\n3 legless rope climbs  \r\n7 squat snatches  \r\n\r\n♀ 130 lb. ♂ 185 lb.  \r\n\r\nPost time to comments.  \r\nCompare to [190801](https://www.crossfit.com/190801).",
+      "date": "2020-09-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "olympic-lifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on a neutral spine and driving through the floor on every rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 3-3-3-3-3-3-3 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [191106](https://www.crossfit.com/191106).",
+      "date": "2020-09-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ring and Rope",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n\n* **Ring L-sit**: 30-second\n* **Ring push-ups**: 15 reps\n* **Double-unders**: 50 reps",
+        "section_notes": [
+          "Keep the core tight during the L-sit and maintain a rigid plank during push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n\r\n30-second ring L-sit  \r\n15 ring push-ups  \r\n50 double-unders  \r\n\r\nPost rounds completed to comments.",
+      "date": "2020-09-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Double DT",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds for time of:\n\n* **Deadlifts**: 12 reps\n* **Hang power cleans**: 9 reps\n* **Push jerks**: 6 reps\n\n♀ 105 lb. / ♂ 155 lb.",
+        "section_notes": [
+          "This is a high-volume barbell workout; maintain a steady rhythm to avoid early burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[Double DT](https://youtu.be/2RHcNtzZEJ8)**  \r\n10 rounds for time of:  \r\n\r\n12 deadlifts  \r\n9 hang power cleans  \r\n6 push jerks  \r\n\r\n♀ 105 lb. ♂ 155 lb.  \r\n\r\nPost time to comments.",
+      "date": "2020-09-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Interval Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "On a 10-minute running clock:\n\n* **Sit-ups**: 2 minutes\n* **Squats**: 2 minutes\n* **Sit-ups**: 90 seconds\n* **Squats**: 90 seconds\n* **Sit-ups**: 1 minute\n* **Squats**: 1 minute\n* **Sit-ups**: 30 seconds\n* **Squats**: 30 seconds",
+        "section_notes": [
+          "The intervals get shorter and more intense; try to increase your rep rate as the time decreases."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "On a 10-minute running clock:  \r\n\r\n2 minutes of sit-ups  \r\n2 minutes of squats  \r\n90 seconds of sit-ups  \r\n90 seconds of squats  \r\n1 minute of sit-ups  \r\n1 minute of squats  \r\n30 seconds of sit-ups  \r\n30 seconds of squats  \r\n\r\nPost total reps to comments.",
+      "date": "2020-09-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Ring",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n\n* **Run**: 400 meters\n* **Muscle-ups**: 7 reps",
+        "section_notes": [
+          "Break the muscle-ups early if needed to maintain a consistent pace throughout the 20 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n\r\nRun 400 meters  \r\n7 muscle-ups  \r\n\r\nPost rounds completed to comments.  \r\nCompare to [150325](https://www.crossfit.com/workout/2015/03/25#/comments).",
+      "date": "2020-09-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy 17.5",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds for time of:\n\n* **Thrusters**: 9 reps\n* **Double-unders**: 35 reps\n\n♀ 85 lb. / ♂ 125 lb.",
+        "section_notes": [
+          "Keep the thrusters unbroken to maintain the intensity of the workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Heavy 17.5**  \r\n10 rounds for time of:  \r\n\r\n9 thrusters  \r\n35 double-unders  \r\n\r\n♀ 85 lb. ♂ 125 lb.  \r\n\r\nPost time to comments.",
+      "date": "2020-09-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Big Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Row**: 50 calories\n* **Handstand push-ups**: 50 reps\n* **L pull-ups**: 50 reps\n* **Sumo deadlift high pulls**: 50 reps\n* **Inverted burpees**: 50 reps\n* **Toes-to-bars**: 50 reps\n* **Row**: 50 calories\n\n♀ 65-lb. SDHP / ♂ 95-lb. SDHP",
+        "section_notes": [
+          "This is a long chipper; manage your heart rate and break the gymnastics movements into manageable sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\nRow 50 calories  \r\n50 handstand push-ups  \r\n50 L pull-ups  \r\n50 sumo deadlift high pulls  \r\n50 inverted burpees  \r\n50 toes-to-bars  \r\nRow 50 calories  \r\n\r\n♀ 65-lb. SDHP ♂ 95-lb. SDHP  \r\n\r\nPost time to comments.  \r\nCompare to [161128](https://www.crossfit.com/workout/2016/11/28#/comments).",
+      "date": "2020-09-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and jerk**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on explosive hip extension and a stable catch position."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and jerk 3-3-3-3-3 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [200401](https://www.crossfit.com/200401).",
+      "date": "2020-09-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Sprint",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front squat**: 1-1-1-1-1 reps",
+        "section_notes": [
+          "Build up to a heavy single for the day."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "**Row**: 1,000-m for time",
+        "section_notes": [
+          "Sprint the row after the heavy squats to test anaerobic capacity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 1-1-1-1-1 reps  \r\n\r\nThen,  \r\n1,000-m row for time  \r\n\r\nPost squat loads and row time to comments.",
+      "date": "2020-09-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Friendly Fran",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Thrusters**: 21 reps\n* **Chest-to-bar pull-ups**: 21 reps\n\n♀ 85 lb. / ♂ 115 lb.",
+        "section_notes": [
+          "Reduce reps and/or loading to try to finish within 12 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[Friendly Fran](https://games.crossfit.com/workouts/games/2020)**  \r\n\r\n3 rounds for time of:  \r\n21 thrusters  \r\n21 chest-to-bar pull-ups  \r\n\r\n♀ 85 lb.  ♂ 115 lb.  \r\n\r\nReduce reps and/or loading to try to finish within 12 minutes.  \r\n\r\nPost time to comments.",
+      "date": "2020-09-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Damn Diane",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "**Freestanding handstand hold**: Max time",
+        "section_notes": [
+          "Focus on shoulder stability and a tight midline."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Deadlifts**: 15 reps\n* **Strict deficit handstand push-ups**: 15 reps\n\n♀ 205 lb., 2-in. deficit / ♂ 315 lb., 3.5-in. deficit",
+        "section_notes": [
+          "Reduce reps and/or loading to try to finish within 15 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Max freestanding handstand hold  \r\n\r\nThen,  \r\n\r\n**[Damn Diane](https://games.crossfit.com/workouts/games/2020)**  \r\n\r\n3 rounds for time of:  \r\n15 deadlifts  \r\n15 strict deficit handstand push-ups  \r\n\r\n♀ 205 lb., 2-in. deficit  \r\n♂ 315 lb., 3.5-in. deficit  \r\n\r\nReduce reps and/or loading to try to finish within 15 minutes.  \r\n\r\nPost times to comments.",
+      "date": "2020-09-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Nasty Nancy",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Run**: 500-m\n* **Overhead squats**: 15 reps\n* **Bar facing burpees**: 15 reps\n\n♀ 125 lb. / ♂ 185 lb.",
+        "section_notes": [
+          "Reduce reps and/or load to try to finish within 30 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[Nasty Nancy](https://games.crossfit.com/workouts/games/2020)**  \r\n\r\n5 rounds for time of:  \r\n500-m run  \r\n15 overhead squats  \r\n15 bar facing burpees  \r\n\r\n♀ 125 lb.  ♂ 185 lb.  \r\n\r\nReduce reps and/or load to try to finish within 30 minutes.  \r\n\r\nPost time to comments.",
+      "date": "2020-09-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Awful Annie",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Double-unders**: 50 / **GHD sit-ups**: 50 / **Cleans**: 5\n* **Double-unders**: 40 / **GHD sit-ups**: 40 / **Cleans**: 4\n* **Double-unders**: 30 / **GHD sit-ups**: 30 / **Cleans**: 3\n* **Double-unders**: 20 / **GHD sit-ups**: 20 / **Cleans**: 2\n* **Double-unders**: 10 / **GHD sit-ups**: 10 / **Cleans**: 1\n\n♀ 185 lb. / ♂ 275 lb.",
+        "section_notes": [
+          "Reduce reps and/or load to try to finish within 20 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[Awful Annie](https://games.crossfit.com/workouts/games/2020)**    \r\n\r\nFor time:  \r\n50 double-unders  \r\n50 GHD sit-ups  \r\n5 cleans  \r\n40 double-unders  \r\n40 GHD sit-ups  \r\n4 cleans  \r\n30 double-unders  \r\n30 GHD sit-ups  \r\n3 cleans  \r\n20 double-unders  \r\n20 GHD sit-ups  \r\n2 cleans  \r\n10 double-unders  \r\n10 GHD sit-ups  \r\n1 clean  \r\n\r\n♀ 185 lb.  ♂ 275 lb.  \r\n\r\nReduce reps and/or load to try to finish within 20 minutes.\r\nPost time to comments.",
+      "date": "2020-09-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Run**: 5,000 meters",
+        "section_notes": [
+          "Maintain a steady aerobic pace for the duration of the run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5,000 meters  \r\n\r\nPost time to comments.  \r\nCompare to [200406](https://www.crossfit.com/200406).",
+      "date": "2020-09-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Press and Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n\n* **Dumbbell hang squat cleans**: 21/15/9\n* **Handstand push-ups**: 21/15/9\n\n♀ 35-lb. DBs / ♂ 50-lb. DBs",
+        "section_notes": [
+          "Keep the dumbbells close to the body during the cleans to maintain efficiency."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps for time of:  \r\n\r\nDumbbell hang squat cleans  \r\nHandstand push-ups  \r\n\r\n♀ 35-lb. DBs  ♂ 50-lb. DBs  \r\n\r\nPost time to comments.  \r\nCompare to [170605](https://www.crossfit.com/workout/2017/06/05).",
+      "date": "2020-09-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "2007 Row and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Row**: 1,000-meter\n* 5 rounds of:\n    * **Pull-ups**: 25 reps\n    * **Push jerks**: 7 reps\n\n♀ 85 lb. / ♂ 135 lb.",
+        "section_notes": [
+          "The row is the buy-in; maintain a sustainable pace before hitting the high-rep pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**2007**   \r\nFor time:  \r\n\r\n1,000-meter row  \r\nThen, 5 rounds of:  \r\n   25 pull-ups  \r\n   7 push jerks  \r\n\r\n♀ 85 lb.  ♂ 135 lb.  \r\n\r\nPost time to comments.  \r\n\r\nCompare to [130728](https://www.crossfit.com/workout/2013/07/28).",
+      "date": "2020-09-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n\n* **Overhead squats**: 21/15/9\n* **Toes-to-bars**: 21/15/9\n\n♀ 80 lb. / ♂ 115 lb.",
+        "section_notes": [
+          "Keep the core braced and chest up during the overhead squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps for time of:  \r\n\r\nOverhead squats  \r\nToes-to-bars  \r\n\r\n♀ 80 lb.  ♂ 115 lb.  \r\n\r\nPost time to comments.  \r\nCompare to [180414](https://www.crossfit.com/workout/2018/04/14).",
+      "date": "2020-09-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bench and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as much as possible in 20 minutes of:\n\n* **Body-weight bench press**: Reps\n* **Legless rope climb (from seated)**: Feet",
+        "section_notes": [
+          "This is a max-effort workout; focus on quality of movement over speed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as much as possible in 20 minutes of:  \r\n\r\nReps of body-weight bench press    \r\nFeet of legless rope climb (from seated)  \r\n\r\nPost total for each and sum to comments.  \r\nCompare to [010725](https://www.crossfit.com/workout/2001/07/25#/comments).",
+      "date": "2020-09-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "2012 Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Overhead squats**: 10 reps\n* **Box jump-overs**: 10 reps\n* **Thrusters**: 10 reps\n* **Power cleans**: 10 reps\n* **Toes-to-bars**: 10 reps\n* **Burpee muscle-ups**: 10 reps\n* **Toes-to-bars**: 10 reps\n* **Power cleans**: 10 reps\n* **Thrusters**: 10 reps\n* **Box jump-overs**: 10 reps\n* **Overhead squats**: 10 reps\n\n♀ 105-lb. OHS, 20-in. box, 95-lb. thruster, 125-lb. clean\n♂ 155-lb. OHS, 24-in. box, 135-lb. thruster, 205-lb. clean",
+        "section_notes": [
+          "This is a pyramid-style chipper; the burpee muscle-ups are the midpoint and the hardest part of the workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[2012 Chipper](https://games.crossfit.com/workouts/games/2012)  \r\n  \r\nFor time:  \r\n10 overhead squats  \r\n10 box jump-overs  \r\n10 thrusters  \r\n10 power cleans  \r\n10 toes-to-bars  \r\n10 burpee muscle-ups  \r\n10 toes-to-bars  \r\n10 power cleans  \r\n10 thrusters  \r\n10 box jump-overs  \r\n10 overhead squats  \r\n\r\n♀ 105-lb. OHS, 20-in. box, 95-lb. thruster, 125-lb. clean  \r\n♂ 155-lb. OHS, 24-in. box, 135-lb. thruster, 205-lb. clean  \r\n\r\nPost time to comments.  \r\nCompare to [120722](https://www.crossfit.com/workout/2012/07/22).",
+      "date": "2020-09-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Big Three",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Back squat**: 10-8-6-4-2 reps\n* **Shoulder press**: 10-8-6-4-2 reps\n* **Deadlift**: 10-8-6-4-2 reps",
+        "section_notes": [
+          "Increase the weight as the reps decrease for each movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 10-8-6-4-2 reps  \r\nShoulder press 10-8-6-4-2 reps  \r\nDeadlift 10-8-6-4-2 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [171207](https://www.crossfit.com/workout/2017/12/07#/comments).",
+      "date": "2020-09-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  }
+]

@@ -1,0 +1,629 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Muscle Up Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Muscle-ups**: 3\n* **Sit-ups**: 50",
+        "section_notes": [
+          "Maintain a steady pace on the sit-ups to recover for the muscle-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three round for time of:  \n3 Muscle-ups  \n50 Sit-ups",
+      "date": "2002-11-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Static Balance",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Two rounds for time of:\n* **Tabata Squat**\n* **Handstand walk**: 4 minutes",
+        "section_notes": [
+          "If you can't walk on your hands, hold a handstand for as much of the 4 minutes as possible."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Two rounds for time of:  \nTabata Squat  \nHandstand walk, 4 minutes  \n  \nNote: If you can't walk on your hands hold a handstand   \nfor as much of the 4 minutes as possible.",
+      "date": "2002-11-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Snatch**: 15\n* **Knees to elbows**: 15\n* **Snatch**: 10\n* **Snatch**: 10\n* **Knees to elbows**: 15\n* **Snatch**: 5\n* **Snatch**: 5\n* **Snatch**: 5\n* **Knees to elbows**: 15",
+        "section_notes": [
+          "Focus on consistent cycling of the snatch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n15 Snatch  \n15 Knees to elbows  \n10 Snatch  \n10 Snatch  \n15 Knees to elbows  \n5 Snatch  \n5 Snatch  \n5 Snatch  \n15 Knees to elbows",
+      "date": "2002-11-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rope Climb Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Back Extension**: 15\n* **Rope climb**: 1\n* **Push-ups**: 20\n* **Rope climb**: 1\n* **Sit-ups**: 25\n* **Rope climb**: 1",
+        "section_notes": [
+          "If able, climb the rope from a seated posture and maintain an 'L' throughout.",
+          "No ugly push-ups.",
+          "Sit-up of your choice.",
+          "Don't swing the back extension, no momentum."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n15 Back Extension  \nRope climb  \n20 Push-ups  \nRope climb  \n25 Sit-ups  \nRope climb  \n  \nNotes:  \n1. If able climb the rope from a seated posture and maintain an \"L\" throughout.  \n2. No ugly push-ups.  \n3. Sit-up of your choice.  \n4. Don't swing the back extension, no momentum.",
+      "date": "2002-11-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Morning Dip",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Good mornings**: 5-5-3-3-1-1 reps",
+        "section_notes": [
+          "Do not hurry through the opening Good Mornings."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 7 minutes as you can of:\n* **Dips**: 7\n* **Good mornings**: 7",
+        "section_notes": [
+          "'Mow' through the Dip/Good Morning circuit."
+        ]
+      },
+      {
+        "section_name": "accessory",
+        "section_content": "Max reps of **Dips** in the following intervals:\n* 2 minutes\n* 90 seconds\n* 60 seconds",
+        "section_notes": [
+          "Bad form can cripple; prioritize quality over quantity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Good mornings 5-5-3-3-1-1 reps  \nRest  \nComplete as many rounds in 7 minutes as you can of:  \n7 Dips  \n7 Good mornings  \nRest  \nDips, max reps in 2 minutes  \nRest  \nDips, max reps in 90 seconds  \nRest  \nDips, max reps in 60 seconds  \n  \nNotes:  \n1. The idea is to not hurry through the opening Good Mornings   \nand the Finishing Dips, yet \"mow\" through the Dip/Good Morning circuit.  \n2. Bad form can cripple.",
+      "date": "2002-11-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pressing Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Push press**: 15-10-5-3-3-3 reps",
+        "section_notes": [
+          "Start very light, work to heavy. Fifteen and ten rep sets are warm-ups.",
+          "Increase rest between sets as load increases and reps decrease."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "**Push press**: Max reps in 2 minutes",
+        "section_notes": [
+          "Final effort is with plateless bar. Looking for max heart rate. Don't stop."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Push press 15-10-5-3-3-3 reps  \nRest  \nPush press, 2 minutes  \n  \nNotes:  \n1. Start very light, work to heavy.   \nFifteen rep set and ten rep set are warm-ups.  \n2. With each set increase rest between sets as   \nload increases and reps decrease.   \n3. Final effort is with plateless bar.   \nLooking for max heart rate. Don't stop.",
+      "date": "2002-11-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Climb",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "**Wall Ball**: 1 minute",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Three to five rounds for time of:\n* **Rope climbs**: 3\n* **Power Cleans**: 10",
+        "section_notes": []
+      },
+      {
+        "section_name": "cooldown",
+        "section_content": "**Wall Ball**: 1 minute",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Wall Ball, 1 minute  \nRest  \nThree to five round for time of:  \n3 Rope climbs  \n10 Power Cleans  \nRest  \nWall Ball, 1 minute",
+      "date": "2002-11-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bodyweight Jerk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time, 21-18-15-12 reps of:\n* **Clean and Jerk**: 1/2 body weight",
+        "section_notes": [
+          "Scale weight to exactly half of your body weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n21-18-15-12 reps of:  \nClean and Jerk: 1/2 body weight",
+      "date": "2002-11-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Press",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch**: 1-1-1-1-1 reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Push-ups**: 20\n* **Squat cleans**: 10",
+        "section_notes": []
+      },
+      {
+        "section_name": "accessory",
+        "section_content": "**Glute Ham developer Medicine Ball Throw Sit-up**: 2 minutes",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Snatch 1-1-1-1-1 reps  \nRest  \n  \nThree rounds for time of:  \n20 Push-ups  \n10 Squat cleans  \n  \nGlute Ham developer Medicine Ball Throw Sit-up: 2 minutes",
+      "date": "2002-11-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Deadlift",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Row**: 1000 meters\n* **Deadlift**: 3-3-3-3-3 reps\n* **Row**: 1000 meters\n* **Deadlift**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Maintain a consistent rowing pace across both intervals."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n1000 meter Row  \nDeadlift 3-3-3-3-3 reps  \n1000 meter Row  \nDeadlift 3-3-3-3-3 reps",
+      "date": "2002-11-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Five",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Squats**: 25\n* **Pull Ups**: 10\n* **Dips**: 10",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n25 Squats  \n10 Pull Ups  \n10 Dips",
+      "date": "2002-11-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Tempo",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "**Bike**: 20 minutes at a warm-up pace",
+        "section_notes": []
+      },
+      {
+        "section_name": "strength",
+        "section_content": "Perform 21 reps of each squat variation:\n* **Power squat**: Lower and rise as quickly as possible with perfect form.\n* **Bottom to bottom squat**: Lower to full squat, hold 10s, rise, immediately return to bottom and hold 10s.\n* **Super slow squat**: 20s to reach bottom, 20s to reach top.",
+        "section_notes": [
+          "Focus on strict form and time under tension."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "**Row**: Maintain a 2:00 min/500m pace average (2:10 for women) for as long as possible.",
+        "section_notes": [
+          "Record the time at the instant the average pace falls below the target."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Bike 20 minutes at a warm-up pace.  \n  \n21 \"Power squat\":  \nLower and rise as quickly as you can while maintaining PERFECT form.   \n21 \"Bottom to bottom squat\":   \nLower to full squat position (thighs parallel to floor), hold for a full ten seconds, rise and immediately upon full extension of hip and leg return to bottom and hold for ten seconds.   \n21 \"Super slow squat\":   \nTake twenty seconds to reach bottom and twenty seconds to reach top again.   \n  \nHow long can you maintain a 2:00 min. 500-meter pace average?   \nSet the rower for \"Avg 500 meter pace\" and stop and record the   \ntime at the instant you fall under the 2:00 minute average   \n(2:00 for men and 2:10 for women).",
+      "date": "2002-11-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Interval Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Two rounds of:\n* **Run**: 1 minute out, turn around and run back (\"1 in/1 out\")\n* Rest: 2 minutes\n* **Powerclean**: 3-5-7 reps\n* Rest: 2 minutes",
+        "section_notes": [
+          "For the run, push hard enough that you cannot make it back in one minute.",
+          "Pick a tough 3-rep load and hold it for all sets.",
+          "Try to match the 'outspot' on the second run.",
+          "Substitute run with 500m row, 5 min stairclimb, or 5 min cycle if needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run one minute turn around and run back. \"1 in/1 out\"  \nRest two minutes  \nPowerclean 3-5-7 reps  \nRest two minutes  \n\"1 in/1 out\"  \nRest two minutes  \nPowerclean 3-5-7 reps  \n  \nNotes:  \n1. For 1in/1out, set watch to continuous countdown mode for one minute.  \nIt will beep every minute in this mode. Start run and make mental note of   \nlocation at turn around. Push hard enough that you cannot make it back   \nin one minute, i.e., done right you come in \"late.\"  \n2. Pick tough three rep load. Hold for all six sets.   \n3. Try for same one minute \"outspot\" on second run. Again record time   \n\"late\" on return. Compare to first run.   \n4. If you don't want to run substitute 500 meter row or 5 minutes stairclimb   \nor 5 minute cycle.",
+      "date": "2002-11-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bench Row Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Bench press**: 5\n* **Row**: 500 meters\n* **Bench press**: 3\n* **Row**: 500 meters\n* **Bench press**: 2\n* **Row**: 500 meters\n* **Bench press**: 1",
+        "section_notes": [
+          "Start with a weight you can press 5 times but not 6.",
+          "Match the distance of the first row (target 1:45) on subsequent efforts.",
+          "Keep the same load for the bench press throughout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n5 Bench press  \n500 meter Row  \n3 Bench press  \n500 meter Row  \n2 Bench press  \n500 meter Row  \n1 Bench press  \n  \nNotes:  \n1) Start with a bench press that you can press 5 times but not 6.  \n2) On the first row (try for 1:45), note the meters accomplished   \nand match that distance on the second and third efforts.  \n3) Keep the same load for the bench press throughout the workout.",
+      "date": "2002-11-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mixed Modality",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds:\n* **Double unders**: 1 minute\n* Rest: 1 minute",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds:\n* **Muscle up**: 1\n* **Dips**: 10",
+        "section_notes": []
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch**: 15-12 reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds:\n* **Swim**: 100 meters",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds:  \nJump rope, \"Double unders\": 1 minute  \nRest 1 minute  \n  \nFive rounds:  \n1 Muscle up  \n10 Dips  \n  \nSnatch 15-12 reps  \n  \nFour rounds:  \n100 meter Swim",
+      "date": "2002-11-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Endurance",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "**Bike**: 20 minutes at a warm-up pace",
+        "section_notes": [
+          "Warm up thoroughly with air squats and stretching first."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "Three sets of **Back Squats** (21 reps each) using these variations:\n* **Power squat**: 20 reps (fast as possible with perfect form)\n* **Bottom to bottom**: 20 reps (10s hold at bottom, rise, 10s hold at bottom)\n* **Super slow**: 20 reps (20s down, 20s up)",
+        "section_notes": [
+          "Choose a weight you can handle comfortably for 21 regular back squats."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "**Row**: Maintain a 2:00 min/500m pace average (2:10 for women) for as long as possible.",
+        "section_notes": [
+          "Record the time at the instant the average pace falls below the target."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "1) \"Warm Up\": Bike 20 minutes at a warm-up pace.   \nWe are doing three sets of back squats at twenty-one reps each.   \nChoose a weight that you feel you can handle comfortably for   \ntwenty-one reps of regular back squats. These specialized   \nmovements are tough! Make damned sure you warm-up thoroughly   \nwith \"air squats\" and stretching first.   \n2) \"Power squat\": Lower and rise as quickly as you can while   \nmaintaining PERFECT form. Repeat 20 times.   \n3) \"Bottom to bottom\": Lower to full squat position   \n(thighs parallel to floor), hold for a full ten seconds,   \nrise and immediately upon full extension of hip and leg return   \nto bottom and hold for ten seconds. Repeat 20 times.  \n4) \"Super slow\": Take twenty seconds to reach bottom and   \ntwenty seconds to reach top again. Repeat 20 times.   \n5) Finally, how long can you maintain a 2:00 min. 500-meter pace average?   \nSet the rower for \"Avg 500 meter pace\" and stop and record the time at   \nthe instant you fall under the 2:00 minute average   \n(2:00 for men and 2:10 for women).",
+      "date": "2002-11-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnast's Gauntlet",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Ab-bench**: 30 reps at max weight\n* **Back extension**: 25 reps\n* **Squats**: 50 reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "gymnastics",
+        "section_content": "Max effort sets (record total, rest as needed):\n* **Pull-ups**: 6 sets\n* **Dips**: 6 sets\n\n*Alternative if Muscle-up proficient:*\n* **Muscle-ups**: 10 sets (record total time to complete)",
+        "section_notes": []
+      },
+      {
+        "section_name": "gymnastics",
+        "section_content": "* **Rope climb**: 1 (no legs) or 5 (with legs)\n* **Handstand push-ups**: 20 reps\n* **Planche practice**: 10 attempts (lower from handstand to parallel, hold 5s with spotter)",
+        "section_notes": [
+          "Perform planche practice on a padded mat or crash pad."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "* **Ab-bench**: 30 reps at max weight\n* **Back extension**: 25 reps\n* **Squats**: 50 reps",
+        "section_notes": [
+          "This is a really tough day. Don't hold back."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "30 Ab-bench at max weight   \n(or other sit-up that ranges from trunk extension through to flexion)   \n25 Back extension  \n50 Squats  \n  \nSix sets of pull-ups   \n(max effort, record the total, take as much time as needed between sets)  \nSix sets of dips   \n(max effort, record the total, take as much time as needed between sets)  \n  \nOR, if you have a muscle-up,  \n  \nTen sets of muscle-ups   \n(max effort, take as much time as needed, record the time to complete all ten)  \nOne rope climb with no legs or five with legs.  \nTwenty handstand push-ups by any means. Have spotter pull you up by ankles if needed.   \n  \nPractice lowering from handstand to planche   \n(body parallel to floor, arms locked)   \nHave spotter support your ankles and lower you to parallel.   \nHold at parallel, with spotter minimally helping, for five full seconds.   \nRepeat for ten attempts. Do on padded mat, crash pad, or other padded surface!!  \n  \n30 Ab-bench at max weight   \n(or other sit-up that ranges from trunk extension through to flexion)   \n25 Back extension  \n50 Squats  \n  \nThis is a really tough day. Don't hold back.   \nTomorrow is met-con only, so you will be able to rest your arms, back, and shoulders.   \nYou are getting a small taste of the demands of a gymnast's workout.",
+      "date": "2002-11-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Recovery",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Powerclean**: 21 reps (at 21 RM weight)\n* **Sit-ups**: 50\n* **Powerclean**: 18 reps\n* **Sit-ups**: 50\n* **Powerclean**: 15 reps\n* **Sit-ups**: 50\n* **Powerclean**: 12 reps",
+        "section_notes": [
+          "The sit-ups are intended as a recovery period between powerclean sets.",
+          "Perform sit-ups slowly and calmly.",
+          "Move deliberately and with control."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \nPowerclean 21 RM weight (weight you can lift 21 reps but not 22)  \n50 sit-ups  \nPowerclean 18 reps same weight as above  \n50 sit-ups  \nPowerclean 15 reps same weight  \n50 sit-ups  \nPowerclean 12 reps same weight  \n  \nThere is no rest here other than the sit-ups.   \nRelative to the powerclean the sit-up is a rest.   \nMove deliberately, and with control from one exercise to the next.   \nPerform the sit-ups slowly and calmly to recover from the powerclean.   \nOn completion of the sit-ups move directly to the next set of powercleans.",
+      "date": "2002-11-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Run Loop",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* **Power clean**: 15 reps (at 20 RM load)\n* **Run**: 400 meters",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n20 RM load Power clean, 15 reps  \n400 meter Run",
+      "date": "2002-11-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "engine-builder",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Olympic Max",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Two rounds of:\n* **Clean and Jerk**: 10 reps\n* **Clean and Jerk**: 3 reps\n* **Snatch**: 10 reps\n* **Snatch**: 3 reps",
+        "section_notes": [
+          "Take as much rest as needed between sets.",
+          "Maximize loads at each set."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and Jerk 10 reps.  \nClean and Jerk 3 reps.  \nSnatch 10 reps.  \nSnatch 3 reps.  \nRepeat all four sets.  \n  \nNotes:  \n  \n1. Take as much rest as needed between sets.  \n2. Maximize loads at each set",
+      "date": "2002-11-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rope and Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* **Rope climb**: 1\n* **Push-ups**: 25",
+        "section_notes": []
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Squat**: 15-5-3 reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "**Row**: 1000 meters",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds for time of:  \nRope climb  \n25 Push-ups  \n  \nThen,  \n  \nSquat 15-5-3 reps  \n  \nRow 1000 meters",
+      "date": "2002-11-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "strength",
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pistol Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run**: 800 meters\n* **Left-legged pistols**: 15\n* **Right-legged pistols**: 15\n* **Sit-ups**: 25\n* **Left-legged pistols**: 12\n* **Right-legged pistols**: 12\n* **Sit-ups**: 25\n* **Right-legged pistols**: 9\n* **Left-legged pistols**: 9\n* **Sit-ups**: 25\n* **Run**: 800 meters",
+        "section_notes": [
+          "Pistol is a one-legged squat with a Kettlebell or dumbbell.",
+          "Use 1.5 pood Kettlebell or 55 pound dumbbell."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \nRun 800 meters  \n15 left-legged pistols   \n15 right-legged pistols  \n25 sit-ups  \n12 left-legged pistols  \n12 right-legged pistols  \n25 sit-ups  \n9 right-legged pistols  \n9 left legged pistols  \n25 sit-ups  \nRun 800 meters  \n  \n\"Pistol\" is one-legged squat with Kettlebell or dumbbell. Use 1Â½ pood Kettlebell or 55 pound dumbbell for pistols. Post time to comments.",
+      "date": "2002-11-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  }
+]

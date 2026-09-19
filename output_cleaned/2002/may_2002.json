@@ -1,0 +1,397 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Cycle",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk** 15-15-15-15-15 reps",
+        "section_notes": [
+          "Don't rest weight on ground until final rep (touch and go only).",
+          "Use max % of bodyweight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and Jerk 15-15-15-15-15, reps  \n  \nNotes:  \n  \n1. Don't rest weight on ground until final rep (touch and go only).  \n2. Use max % of bodyweight.",
+      "date": "2002-05-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Vertical Limit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Rope Climb**, max trips, 30 minutes",
+        "section_notes": [
+          "Maintain a steady pace to maximize total trips over the 30 minute window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Rope Climb, max trips, 30 minutes",
+      "date": "2002-05-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Tabata Sit-up**\n* **Thruster** 3-3-3-3-3-3-3 reps\n* **Tabata Sit-up**",
+        "section_notes": [
+          "Max rest between sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata Sit-up  \nThruster 3-3-3-3-3-3-3 reps  \nTabata Sit-up  \n  \nNotes:  \n1. Max rest between sets.",
+      "date": "2002-05-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Legs and Lungs",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **800 meter Run**\n* **Back Squat** 10-10-10-10-10 reps\n* **800 meter Run**",
+        "section_notes": [
+          "Rest as needed between run and squat.",
+          "Max load on squats, min time on runs."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "800 meter Run  \nBack Squat 10-10-10-10-10 reps.  \n800 meter Run  \n  \nNotes:  \n1. Rest as needed between run and squat.  \n2. Max load on squats, min time on runs.",
+      "date": "2002-05-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bike and Body",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **50 Sit-ups**\n* **Sprint 2 miles on Bike**\n* **30 Handstand Push-ups**\n* **Sprint 2 miles on Bike**\n* **50 Sit-ups**",
+        "section_notes": [
+          "Rest as needed between efforts.",
+          "Use spotters on the handstand push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50 Sit-ups.  \nSprint 2 miles on Bike.  \n30 Handstand Push-ups.  \nSprint 2 miles on Bike.  \n50 Sit-ups.  \n  \n1. Rest as needed between efforts.  \n2. Use spotters on the handstand push-ups. We use ankle straps and block and tackle. Great.",
+      "date": "2002-05-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Clock",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For 20 minutes:\n* **Jump rope** 1 minute\n* **Hang Clean** 1 minute\nRepeat.",
+        "section_notes": [
+          "No rest for twenty minutes.",
+          "Use 50% bodyweight for Cleans.",
+          "No standing around during jump rope, constant movement.",
+          "Score is total Clean reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For 20 minutes:  \nJump rope 1 minute.  \nHang Clean 1 minute.  \nRepeat.  \n  \nNotes:  \n1. No rest for twenty minutes.  \n2. Use 50% bodyweight for Cleans.  \n3. No standing around during jump rope, constant movement.  \n4. Total Clean reps.",
+      "date": "2002-05-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Hops",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **10 Deadlift** (body weight)\n* **20 inch box jump**, 25 reps",
+        "section_notes": [
+          "Maintain explosive power on the box jumps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n10 Deadlift; body weight  \n20 inch box jump, 25 reps",
+      "date": "2002-05-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **30 Pull ups**\n* **10 Dips**\n* **20 Pull ups**\n* **20 Dips**\n* **10 Pull ups**\n* **30 Dips**",
+        "section_notes": [
+          "It doesn't matter if you cannot complete each effort in a single set.",
+          "Complete in as few sets as possible."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n30 Pull ups  \n10 Dips  \n20 Pull ups  \n20 Dips  \n10 Pull ups  \n30 Dips  \n  \nNotes:  \n1. It doesn't matter if you cannot complete each effort in a single set.  \n2. Complete in as few sets as possible",
+      "date": "2002-05-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Push Jerk Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk** 5-5-5-5-5-5-5 reps",
+        "section_notes": [
+          "60 Seconds rest between sets.",
+          "Use Push-Jerk instead of Split Jerk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and Jerk 5-5-5-5-5-5-5, reps  \n  \nNotes:  \n1. 60 Seconds rest between sets.  \n2. Use Push-Jerk instead of Split Jerk.",
+      "date": "2002-05-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Reps",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **400 meter Run**\n* **10 Pull ups**\n* **10 Dips**",
+        "section_notes": [
+          "Keep a consistent pace on the run to allow for unbroken gymnastics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n400 meter Run  \n10 Pull ups  \n10 Dips",
+      "date": "2002-05-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Sit ups** 30-30-30 reps\n* **Tabata Thruster** (65 pounds)\n* **Sit ups** 30-30-30 reps",
+        "section_notes": [
+          "Maintain strict form on thrusters during the Tabata interval."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Sit ups 30-30-30, reps  \nTabata Thruster; 65 pounds  \nSit ups 30-30-30, reps",
+      "date": "2002-05-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Elite Gymnastics",
+    "sections": [
+      {
+        "section_name": "gymnastics",
+        "section_content": "Five rounds for time of:\n* **5 Muscle ups**\n* **5 Press to handstand**",
+        "section_notes": [
+          "Focus on stability and control during the press to handstand."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n5 Muscle ups  \n5 Press to handstand",
+      "date": "2002-05-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Pair",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Bench press** 3-3-3-3-3 reps\n* **Deadlift** 3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on heavy loads and explosive concentric movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Bench press 3-3-3-3-3, reps  \nDeadlift 3-3-3-3-3, reps",
+      "date": "2002-05-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Climb and Cardio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Seven rounds for time of:\n* **400 meter Run**\n* **3 Rope climbs**",
+        "section_notes": [
+          "Steady pacing on the run to keep the rope climbs efficient."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:  \n400 meter Run  \n3 Rope climbs",
+      "date": "2002-05-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Press",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Hang clean** 3-3-3-3-3 reps\n* **Push Jerk** 3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on technical precision for each rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang clean 3-3-3-3-3, reps  \nPush Jerk 3-3-3-3-3, reps",
+      "date": "2002-05-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Swing and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **30 Kettlebell swings**\n* **30 Sit ups**",
+        "section_notes": [
+          "Keep the core tight and the swings explosive."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n30 Kettlebell swings  \n30 Sit ups",
+      "date": "2002-05-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four efforts of:\n* **500 meter Row**",
+        "section_notes": [
+          "Max effort on each sprint."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four efforts of:  \n  \n500 meter Row",
+      "date": "2002-05-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  }
+]

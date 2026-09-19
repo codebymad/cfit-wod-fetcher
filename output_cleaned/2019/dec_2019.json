@@ -1,0 +1,560 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "On a 25-minute clock, 5 rounds of:\n\n* **Row** for 50 seconds, rest 10 seconds\n* **Row** for 40 seconds, rest 20 seconds\n* **Row** for 30 seconds, rest 30 seconds\n* **Row** for 20 seconds, rest 40 seconds\n* **Row** for 10 seconds, rest 50 seconds",
+        "section_notes": [
+          "Maintain a consistent pace across the intervals to maximize total distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "On a 25-minute clock, 5 rounds of:    \r\n\r\nRow for 50 seconds, rest 10 seconds  \r\nRow for 40 seconds, rest 20 seconds  \r\nRow for 30 seconds, rest 30 seconds  \r\nRow for 20 seconds, rest 40 seconds    \r\nRow for 10 seconds, rest 50 seconds  \r\n\r\nPost total distance rowed to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2018/01/07#/comments\" target=\"_blank\">180107</a>.",
+      "date": "2019-12-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n\n* 5 **Strict Toes-to-Bars**\n* 10 **GHD Sit-ups**\n* 15 **Hip Extensions**",
+        "section_notes": [
+          "Focus on strict movement quality and core tension throughout the AMRAP."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:  \r\n\r\n5 strict toes-to-bars  \r\n10 GHD sit-ups  \r\n15 hip extensions  \r\n\r\nPost rounds completed to comments.",
+      "date": "2019-12-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Strength",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* 10 **Strict Muscle-ups** in AFSAP\n* 100-ft. **Handstand Walk** in AFSAP\n* 10 **Strict Muscle-ups** in AFSAP\n\nEach time you break, stop and **L-sit** from the floor for 20 seconds.",
+        "section_notes": [
+          "AFSAP means As Fast As Sustainably Possible. The L-sit is a penalty for breaking sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n \r\n10 strict muscle-ups in AFSAP  \r\n100-ft. handstand walk in AFSAP  \r\n10 strict muscle-ups in AFSAP  \r\n\r\nEach time you break, stop and L-sit from the floor for 20 seconds.  \r\n\r\nPost time to comments.",
+      "date": "2019-12-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Grind",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "Practice **Planks** for 20 minutes.",
+        "section_notes": [
+          "Focus on maintaining a neutral spine and engaging the core."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 5-5-5-5-5-5-5 reps",
+        "section_notes": [
+          "Build weight across the sets, focusing on consistent form."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice planks for 20 minutes.  \r\n\r\nDeadlift 5-5-5-5-5-5-5 reps   \r\n\r\nPost loads to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2010/02/06#/comments\" target=\"_blank\">100206</a>.",
+      "date": "2019-12-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Carry",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n\n* 200-m **Run**\n* 100-m **Farmers Carry**\n* 20 **Dumbbell Front Squats**\n\nWeights:\n* Female: 35-lb. dumbbells\n* Male: 50-lb. dumbbells",
+        "section_notes": [
+          "Keep the chest up during the front squats and maintain a brisk pace on the run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:  \r\n\r\n200-m run   \r\n100-m farmers carry  \r\n20 dumbbell front squats  \r\n\r\n♀ 35-lb. dumbbells  \r\n♂ 50-lb. dumbbells  \r\n\r\nPost rounds completed to comments.",
+      "date": "2019-12-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "strongman"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Session",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "Practice SLIPS for 20 minutes.",
+        "section_notes": [
+          "Focus on mobility and movement patterns before lifting."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch** 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Work toward a heavy single for the day."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes.  \r\n\r\nSnatch 1-1-1-1-1-1-1 reps  \r\n\r\nPost loads to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2017/12/01#/comments\" target=\"_blank\">171201</a>.",
+      "date": "2019-12-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "The Tabata interval is 20 seconds of work followed by 10 seconds of rest for eight intervals.\n\n* **Back Squats** (65 / 95 lb)\n* Rest 1 minute\n* **L-sit**\n* Rest 1 minute\n* **Ring Rows**\n* Rest 1 minute\n* **Handstand Hold**\n* Rest 1 minute\n* **Row**",
+        "section_notes": [
+          "For L-sit and handstand hold, count the total seconds maintained across the intervals."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata back squats, 65 | 95 lb.  \r\nRest 1 minute  \r\nTabata L-sit  \r\nRest 1 minute  \r\nTabata ring rows  \r\nRest 1 minute  \r\nTabata handstand hold  \r\nRest 1 minute  \r\nTabata row  \r\n\r\nThe Tabata interval is 20 seconds of work followed by 10 seconds of rest for eight intervals. For L-sit and handstand hold, count the number of seconds maintained in the hold.  \r\n\r\nPost total reps/seconds/calories for each exercise to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2017/11/07#/comments\" target=\"_blank\">171107</a>.",
+      "date": "2019-12-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Peak",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "Practice SLIPS for 20 minutes.",
+        "section_notes": [
+          "Focus on hip and ankle mobility."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 5-3-3-1-1-1 reps",
+        "section_notes": [
+          "Taper the reps down to find a heavy single."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes.  \r\n\r\nDeadlift 5-3-3-1-1-1 reps  \r\n\r\nPost loads to comments. | Compare to <a href=\"https://www.crossfit.com/190517\" target=\"_blank\">190517</a>.",
+      "date": "2019-12-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 10 minutes of:\n\n* 10 **Clean and Jerks**\n* 10 **Front Squats**\n\nWeights:\n* Female: 95 lb\n* Male: 135 lb",
+        "section_notes": [
+          "Keep the barbell close to the body and maintain a strong upright torso in the squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n10 clean and jerks  \r\n10 front squats  \r\n\r\n♀ 95 lb. ♂ 135 lb.  \r\n\r\nPost rounds completed to comments.",
+      "date": "2019-12-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n\n* 5 **Strict Chest-to-Bar Pull-ups**\n* 10 **Ring Push-ups**\n* 20 **Box Step-ups**\n\nBox Height:\n* Female: 24-in.\n* Male: 30-in.",
+        "section_notes": [
+          "Focus on strict movements; avoid using momentum on the pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n\r\n5 strict chest-to-bar pull-ups  \r\n10 ring push-ups  \r\n20 box step-ups  \r\n\r\n♀ 24-in. box ♂ 30-in. box  \r\n\r\nPost rounds completed to comments.",
+      "date": "2019-12-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Triple",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for max reps of:\n\n* 1 minute of **Sumo Deadlift High Pulls**\n* 1 minute of **Push Presses**\n* 1 minute of **Rowing** for calories\n* Rest 1 minute\n\nWeights:\n* Female: 65 lb\n* Male: 95 lb",
+        "section_notes": [
+          "Go for maximum intensity during each 1-minute window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for max reps of:  \r\n\r\n1 minute of sumo deadlift high pulls  \r\n1 minute of push presses  \r\n1 minute of rowing for calories  \r\nRest 1 minute  \r\n\r\n♀ 65 lb. ♂ 95 lb.  \r\n\r\nPost total reps per round to comments.",
+      "date": "2019-12-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* 30 **GHD Sit-ups**\n* 30-m **Lunge with Dumbbells**\n\nWeights:\n* Female: 35-lb. DBs\n* Male: 50-lb. DBs",
+        "section_notes": [
+          "Maintain a steady rhythm on the GHD and keep the torso upright during lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n30 GHD sit-ups  \r\n30-m lunge with dumbbells  \r\n\r\n♀ 35-lb. DBs ♂ 50-lb. DBs  \r\n\r\nPost time to comments.",
+      "date": "2019-12-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* 800-m **Run**\n* 15 **Split Cleans**\n* 3 **Legless Rope Climbs** (15-ft. rope)\n\nWeights:\n* Female: 95 lb\n* Male: 135 lb",
+        "section_notes": [
+          "Legless rope climbs require significant upper body and core strength; scale if necessary."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n800-m run   \r\n15 split cleans  \r\n3 legless rope climbs, 15-ft. rope  \r\n\r\n♀ 95 lb. ♂ 135 lb.  \r\n\r\nPost time to comments.",
+      "date": "2019-12-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Karen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* 150 **Wall-ball Shots**\n\nWeights/Targets:\n* Female: 14-lb. ball to 9-ft. target\n* Male: 20-lb. ball to 10-ft. target",
+        "section_notes": [
+          "Break the reps into manageable sets early to avoid burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Karen**  \r\n  \r\nFor time:  \r\n150 wall-ball shots  \r\n\r\n♀ 14-lb. ball to 9-ft. target   \r\n♂ 20-lb. ball to 10-ft. target  \r\n\r\nPost time to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2018/11/03\" target=\"_blank\">181103</a>.",
+      "date": "2019-12-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* 15 **Strict Handstand Push-ups**\n* 15 **Strict Ring Dips**\n* 1,000-m **Row**",
+        "section_notes": [
+          "The strict movements will fatigue the shoulders; use the row to recover your breath."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\n15 strict handstand push-ups  \r\n15 strict ring dips  \r\n1,000-m row  \r\n\r\nPost time to comments.",
+      "date": "2019-12-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hang Snatch",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "Practice SLIPS for 20 minutes.",
+        "section_notes": [
+          "Focus on the transition from the hang position to the pull."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Hang Squat Snatch** 1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Prioritize a deep catch and stability in the bottom of the squat."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes.  \r\n\r\nHang squat snatch 1-1-1-1-1-1 reps  \r\n\r\nPost loads to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2014/12/30#/comments\" target=\"_blank\">141230</a>.",
+      "date": "2019-12-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Pulls",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* 15 **Thrusters**\n* 15 **Pull-ups**\n\nWeights:\n* Female: 65 lb\n* Male: 95 lb",
+        "section_notes": [
+          "Keep the thrusters continuous and use a consistent breathing pattern on pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\n15 thrusters  \r\n15 pull-ups  \r\n\r\n♀ 65 lb. ♂ 95 lb.  \r\n\r\nPost time to comments.",
+      "date": "2019-12-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Get-up Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds of:\n\n* 3 minutes of **Turkish Get-ups**\n* 2 minutes of **Double-unders**\n* 1 minute of rest\n\nWeights:\n* Female: 25-lb. dumbbell\n* Male: 35-lb. dumbbell",
+        "section_notes": [
+          "Focus on the technical precision of the get-up before increasing speed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds of:  \r\n\r\n3 minutes of Turkish get-ups  \r\n2 minutes of double-unders  \r\n1 minute of rest  \r\n\r\n♀ 25-lb. dumbbell  \r\n♂ 35-lb. dumbbell  \r\n\r\nPost total reps for each exercise to comments.",
+      "date": "2019-12-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "strongman"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge Burpee",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* 50-m **Lunge** in AFSAP\n* 1 **Burpee** per lunge step taken",
+        "section_notes": [
+          "The number of burpees is determined by how many steps you take to cover 50m."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n50-m lunge in AFSAP  \r\n1 burpee per lunge step taken  \r\n\r\nPost time to comments.",
+      "date": "2019-12-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Strength",
+    "sections": [
+      {
+        "section_name": "warmup",
+        "section_content": "Practice SLIPS for 20 minutes.",
+        "section_notes": [
+          "Focus on hip opening and ankle mobility."
+        ]
+      },
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat** 5-5-5-5-5 reps",
+        "section_notes": [
+          "Maintain a consistent tempo and depth across all sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice SLIPS for 20 minutes.  \r\n\r\nBack squat 5-5-5-5-5 reps  \r\n\r\nPost loads to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2018/08/31#/comments\" target=\"_blank\">180831</a>.",
+      "date": "2019-12-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "30 **Clean and Jerks** for time\n\nWeights:\n* Female: 125 lb\n* Male: 185 lb",
+        "section_notes": [
+          "Choose a weight that allows you to maintain a steady pace without long breaks."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "30 clean and jerks for time  \r\n\r\n♀ 125 lb.  ♂ 185 lb.   \r\n\r\nPost time to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2012/09/16#/comments\" target=\"_blank\">120916</a>.",
+      "date": "2019-12-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n\n* 10 **Strict Knees-to-Elbows**\n* 20 **Single-leg Squats** (alternating)\n* 30-foot **Handstand Walk**",
+        "section_notes": [
+          "Maintain strict form on the knees-to-elbows and balance on the handstand walk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n\r\n10 strict knees-to-elbows  \r\n20 single-leg squats, alternating  \r\n30-foot handstand walk  \r\n\r\nPost rounds completed to comments. | Compare to <a href=\"https://www.crossfit.com/workout/2016/05/02#/comments\" target=\"_blank\">160502</a>.",
+      "date": "2019-12-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Rep Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many reps as possible in 12 minutes of:\n\n* 1 **Strict Pull-up**, 2 **Push-ups**, 3 **Squats**\n* 2 **Strict Pull-ups**, 4 **Push-ups**, 6 **Squats**\n* 3 **Strict Pull-ups**, 6 **Push-ups**, 9 **Squats**\n* Etc.\n\nNote: Start at a higher round if it allows for more total reps (e.g., 5-10-15).",
+        "section_notes": [
+          "This is a scaling ladder; find the starting point that maximizes your volume within the time cap."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many reps as possible in 12 minutes of:  \r\n\r\n1 strict pull-up, 2 push-ups, 3 squats  \r\n2 strict pull-ups, 4 push-ups, 6 squats  \r\n3 strict pull-ups, 6 push-ups, 9 squats  \r\nEtc.  \r\n\r\nStart at a higher round if you think it will allow you to complete more reps in the 12 minutes—e.g., 5-10-15, then 6-12-18, then 7-14-21, etc.\r\n\r\nPost starting point, finishing point and total reps completed to comments. | Compare to <a href=\"https://www.crossfit.com/190101\" target=\"_blank\">190101</a>.",
+      "date": "2019-12-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  }
+]

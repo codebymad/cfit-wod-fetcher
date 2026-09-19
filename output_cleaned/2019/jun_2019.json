@@ -1,0 +1,550 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Descent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Row** 2,000 meters\n* **Cleans** 21\n* **Thrusters** 15\n* **Row** 1,000 meters\n* **Cleans** 15\n* **Thrusters** 12\n* **Row** 500 meters\n* **Cleans** 9\n* **Thrusters** 9\n\n♀ 95 lb. ♂ 135 lb.",
+        "section_notes": [
+          "Maintain a steady pace on the row to allow for explosive movements on the cleans and thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\nRow 2,000 meters  \r\n21 cleans  \r\n15 thrusters  \r\nRow 1,000 meters  \r\n15 cleans  \r\n12 thrusters  \r\nRow 500 meters  \r\n9 cleans  \r\n9 thrusters  \r\n\r\n♀ 95 lb. ♂ 135 lb. \r\n\r\nPost time to comments.",
+      "date": "2019-06-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Ascent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Rope climb** (15-ft.), legless ascent and descent\n* **Strict push-ups** 21, chest to ground, feet on 20-in. box",
+        "section_notes": [
+          "Focus on a controlled descent on the rope to build eccentric strength."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n15-ft. rope climb, legless ascent and descent  \r\n21 strict push-ups, chest to ground, feet on 20-in. box  \r\n\r\nPost time to comments.",
+      "date": "2019-06-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Endurance and Skill",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run** 5,000 meters",
+        "section_notes": [
+          "Steady state aerobic effort."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "Practice **SLIPS** for the same duration as the 5K run.",
+        "section_notes": [
+          "Focus on technique and consistency during the skill practice."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5,000 meters  \r\n\r\nPractice SLIPS for same duration as 5K run.  \r\n\r\nPost time to comments.",
+      "date": "2019-06-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat** 15-12-9-6-3 reps",
+        "section_notes": [
+          "Increase weight as the repetitions decrease."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 15-12-9-6-3 reps  \r\n\r\nPost loads to comments.",
+      "date": "2019-06-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Nicole",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n\n* **Run** 400 meters\n* **Strict pull-ups** Max-rep",
+        "section_notes": [
+          "This is a strict variation of the 'Nicole' benchmark; prioritize form over speed on the pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Strict Nicole**  \r\n\r\nComplete as many rounds as possible in 20 minutes of:  \r\nRun 400 meters  \r\nMax-rep strict pull-ups  \r\n\r\nPost number of pull-ups completed for each round to comments.",
+      "date": "2019-06-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "benchmark",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Static Strength",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n**L-sit** for a total of 5 minutes",
+        "section_notes": [
+          "Accumulate the total time; break it into smaller sets as needed."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "Practice controlled descents from a **handstand** for 20 minutes.",
+        "section_notes": [
+          "Focus on core tension and slow, controlled movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n\r\nL-sit for a total of 5 minutes  \r\n\r\nThen, practice controlled descents from a handstand for 20 minutes.  \r\n\r\nPost L-sit time to comments.",
+      "date": "2019-06-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 15-12-9-6-3 reps",
+        "section_notes": [
+          "Increase load as reps drop to challenge strength and power."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 15-12-9-6-3 reps  \r\n\r\nPost loads to comments.",
+      "date": "2019-06-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Ring",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Row** 1,000 meters\n* **Jumping pull-ups** 30\n* **Jumping ring dips** 30",
+        "section_notes": [
+          "Keep the rowing pace consistent to manage heart rate for the gymnastics."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "Practice **SLIPS** for 20 minutes.",
+        "section_notes": [
+          "Focus on the specific mechanics of the SLIPS movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\nRow 1,000 meters  \r\n30 jumping pull-ups  \r\n30 jumping ring dips  \r\n\r\nThen, practice SLIPS for 20 minutes.  \r\n\r\nPost time to comments.",
+      "date": "2019-06-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Long Distance Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run** 10,000 meters",
+        "section_notes": [
+          "Pure aerobic capacity test. Maintain a steady, sustainable pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 10,000 meters  \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/09/19\" target=\"_blank\">160919</a>.",
+      "date": "2019-06-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pistol Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n\n* **Strict muscle-ups** 5\n* **Single-leg squats** 10, alternating",
+        "section_notes": [
+          "Focus on full range of motion for both the muscle-ups and the pistols."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:  \r\n\r\n5 strict muscle-ups  \r\n10 single-leg squats, alternating  \r\n\r\nPost rounds completed to comments.",
+      "date": "2019-06-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Hold",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n\n* **Row** 500-m\n* **L-sit** (from the ground) for same time as row",
+        "section_notes": [
+          "The L-sit is a time-match; the faster you row, the shorter your hold."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \r\n\r\n500-m row  \r\nL-sit, from the ground, for same time as row  \r\n\r\nPost time to comments.",
+      "date": "2019-06-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CrossFit Total",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat**, 1 rep\n**Shoulder press**, 1 rep\n**Deadlift**, 1 rep",
+        "section_notes": [
+          "Find a 1-rep max for each movement. This is a benchmark for overall strength."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[CrossFit Total](https://journal.crossfit.com/article/cfj-the-crossfit-total)**  \r\n\r\nBack squat, 1 rep  \r\nShoulder press, 1 rep  \r\nDeadlift, 1 rep  \r\n\r\nPost loads to comments.  \r\nCompare to [190525](https://www.crossfit.com/190525).",
+      "date": "2019-06-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hold and Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Handstand hold** 2-minute\n* **Row** 500 m\n* **Plank hold** 2-minute\n* **Row** 500 m\n* **Support on rings** 2-minute\n* **Row** 500 m",
+        "section_notes": [
+          "The holds are static; focus on breathing and core stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n2-minute handstand hold  \r\nRow 500 m  \r\n2-minute plank hold  \r\nRow 500 m  \r\n2-minute support on rings  \r\nRow 500 m    \r\n\r\nPost time to comments.",
+      "date": "2019-06-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Thrusters** 15\n* **Rope climbs** 3 (15-ft.), legless ascent and descent\n\n♀ 105 lb. ♂ 155 lb.",
+        "section_notes": [
+          "High intensity; keep the thrusters unbroken if possible."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n15 thrusters  \r\n3 15-ft. rope climbs, legless ascent and descent  \r\n\r\n♀ 105 lb. ♂ 155 lb.  \r\n\r\nPost time to comments.",
+      "date": "2019-06-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **Bench presses** 21\n* **Strict L chest-to-bar pull-ups** 21\n* **Run** 800 m\n* **Bench presses** 15\n* **Strict L chest-to-bar pull-ups** 15\n* **Run** 800 m\n* **Bench presses** 9\n* **Strict L chest-to-bar pull-ups** 9\n* **Run** 800 m\n\n♀ 115 lb. ♂ 175 lb.",
+        "section_notes": [
+          "A classic descending rep scheme; maintain a strong pace on the runs."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n21 bench presses  \r\n21 strict L chest-to-bar pull-ups  \r\nRun 800 m  \r\n15 bench presses  \r\n15 strict L chest-to-bar pull-ups  \r\nRun 800 m  \r\n9 bench presses  \r\n9 strict L chest-to-bar pull-ups  \r\nRun 800 m   \r\n\r\n♀ 115 lb. ♂ 175 lb.\r\n\r\nPost time to comments.",
+      "date": "2019-06-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Tension",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Tabata thruster**\n\n* Odd-numbered rest intervals: hold at the bottom of the squat.\n* Even-numbered rest intervals: hold with the load overhead.\n\n♀ 45 lb. ♂ 65 lb.",
+        "section_notes": [
+          "The 'rest' intervals are active holds, increasing time under tension."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "3 max-duration **L-sits** from the floor.",
+        "section_notes": [
+          "Focus on maximum compression and stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata thruster  \r\nOn odd-numbered rest intervals, hold at the bottom of the squat. On even-numbered rest intervals, hold with the load overhead.  \r\n\r\n♀ 45 lb. ♂ 65 lb.  \r\n\r\n3 max-duration L-sits from the floor.  \r\n\r\nPost Tabata reps and L-sit times to comments.",
+      "date": "2019-06-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Plank",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Power cleans** 21\n* **Run** 400 m\n* **Plank hold** for time equal to run time\n\n♀ 105 lb. ♂ 155 lb.",
+        "section_notes": [
+          "The plank is a penalty for a slower run; push the pace on the 400m."
+        ]
+      },
+      {
+        "section_name": "cooldown",
+        "section_content": "**Stretch** for 20 minutes.",
+        "section_notes": [
+          "Focus on hips and lower back after the cleans and running."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n21 power cleans  \r\nRun 400 m  \r\nPlank hold for time equal to run time  \r\n\r\n♀ 105 lb. ♂ 155 lb.  \r\n\r\nStretch for 20 minutes.  \r\n\r\nPost time to comments.",
+      "date": "2019-06-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "mobility"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pressing Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* **L chest-to-bar pull-ups** 10\n* **Shoulder presses** 10\n* **L pull-ups** 15\n* **Push presses** 20\n* **Strict pull-ups** 20\n* **Push jerks** 30\n* **Kipping pull-ups** 25\n\n♀ 70 lb. ♂ 105 lb.",
+        "section_notes": [
+          "A mix of strict and kipping movements; maintain quality on the strict sets."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "Practice **scales** for 20 minutes.",
+        "section_notes": [
+          "Work on the technical aspects of the scale movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n10 L chest-to-bar pull-ups  \r\n10 shoulder presses  \r\n15 L pull-ups  \r\n20 push presses  \r\n20 strict pull-ups  \r\n30 push jerks  \r\n25 kipping pull-ups  \r\n\r\n♀ 70 lb. ♂ 105 lb.  \r\n\r\nPractice scales for 20 minutes.  \r\n\r\nPost time to comments.",
+      "date": "2019-06-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Deadlift",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 1-1-1-1-1 reps.",
+        "section_notes": [
+          "Build up to a heavy single for the day."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 1-1-1-1-1 reps. \r\n\r\nPost loads to comments.  \r\nCompare to [190131](https://www.crossfit.com/190131).",
+      "date": "2019-06-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Chipper Trio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Row** 1,000-m\n* **Wall-ball shots** 50\n* **Handstand walk** 100-ft.\n* **Double-unders** 100\n\n♀ 14-lb. ball to 9 ft.\n♂ 20-lb. ball to 10 ft.",
+        "section_notes": [
+          "This is a high-volume chipper; pace the rowing to save energy for the handstand walk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n1,000-m row  \r\n50 wall-ball shots  \r\n100-ft. handstand walk  \r\n100 double-unders  \r\n\r\n♀ 14-lb. ball to 9 ft.   \r\n♂ 20-lb. ball to 10 ft.  \r\n\r\nPost time to comments.",
+      "date": "2019-06-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 10 minutes of:\n\n* **Run** 400-m\n* **Strict pull-ups** Max set\n* **Strict ring dips** Max set",
+        "section_notes": [
+          "Focus on maximum effort on the strict sets; do not use momentum."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n400-m run  \r\nMax set of strict pull-ups  \r\nMax set of strict ring dips  \r\n\r\nPost number of pull-ups and dips completed each round to comments.",
+      "date": "2019-06-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rope and Hold",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Without rest, 2 rounds of:\n\n* **Support on rings** 1-minute\n* **Rope climb** (15-ft.), legless ascent and descent\n* **Plank hold** 1-minute\n* **Rope climb** (15-ft.), legless ascent and descent\n* **Handstand hold** 1-minute\n* **Rope climb** (15-ft.), legless ascent and descent",
+        "section_notes": [
+          "The rope climbs are the primary movement; the holds are designed to fatigue the core and shoulders."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Without rest, 2 rounds of:  \r\n\r\n1-minute support on rings  \r\n15-ft. rope climb, legless ascent and descent  \r\n1-minute plank hold  \r\n15-ft. rope climb, legless ascent and descent  \r\n1-minute handstand hold  \r\n15-ft. rope climb, legless ascent and descent  \r\n\r\nPost time to comments.",
+      "date": "2019-06-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  }
+]

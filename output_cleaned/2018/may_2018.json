@@ -1,0 +1,567 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Five K Sprint",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Run **5,000 meters**",
+        "section_notes": [
+          "This is a longer-duration workout.",
+          "Beginner Option: Run 3,000 meters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5,000 meters  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/02/15\" target=\"_blank\">160215</a>.    \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180502\" target=\"_blank\">CrossFit WOD 180502 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/5k-trail-run-with-the-crossfit-media-team\" target=\"_blank\">5K Trail Run With the CrossFit Media Team</a>",
+      "date": "2018-05-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Heavy",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat** 1-1-1-1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Pick loads that allow you to attempt to set a PR in the later sets.",
+          "Beginner Option: Front squat 3-3-3-2-2-1-1-1 reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 1-1-1-1-1-1-1-1-1-1 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.   \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/12/13\" target=\"_blank\">171213</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180503\" target=\"_blank\">CrossFit WOD 180503 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/front-squat-development-with-pat-sherwood\" target=\"_blank\">Front Squat Development With Pat Sherwood</a>",
+      "date": "2018-05-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* 1 sub-0:45 **250-m row**\n* 50 unbroken **double-unders**\n\n*If the row takes longer than 45 seconds, or you trip up on your double-unders, redo it before moving back to the other exercise.*",
+        "section_notes": [
+          "If you missed any row intervals, rest more so as not to miss any this time.",
+          "If you made all the intervals, try to rest less to improve overall time."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n1 sub-0:45 250-m row  \r\n50 unbroken double-unders  \r\n\r\nIf the row takes longer than 45 seconds, or you trip up on your double-unders, redo it before moving back to the other exercise.   \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2018/04/28#/comments\" target=\"_blank\">last week</a>.     \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180504\" target=\"_blank\">CrossFit WOD 180504 Tips With Rory McKernan</a>    \r\n• <a href=\"https://journal.crossfit.com/article/fixing-common-rowing-errors\" target=\"_blank\">Fixing Common Rowing Errors</a>",
+      "date": "2018-05-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Push Press Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Push Press** 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Ideally, each set will be as heavy as possible for 3 reps.",
+          "Newer athletes should start light and slowly add weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Push press 3-3-3-3-3-3-3 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/10/18\" target=\"_blank\">151018</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180506\" target=\"_blank\">CrossFit WOD 180506 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/points-of-performance-in-the-push-press\" target=\"_blank\">Points of Performance in the Push Press</a>",
+      "date": "2018-05-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time, fast and heavy:\n* 21 **dumbbell thrusters**\n* Run **400 meters**\n* 18 **dumbbell thrusters**\n* Run **400 meters**\n* 15 **dumbbell thrusters**\n* Run **400 meters**",
+        "section_notes": [
+          "Pick dumbbells that are relatively heavy yet allow you to complete each round in very few sets.",
+          "Treat this like a sprint; run hard and avoid resting until finished."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time, fast and heavy:  \r\n21 dumbbell thrusters  \r\nRun 400 meters  \r\n18 dumbbell thrusters  \r\nRun 400 meters  \r\n15 dumbbell thrusters  \r\nRun 400 meters  \r\n\r\nScroll for scaling options.  \r\nPost time and load to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/01/01\" target=\"_blank\">170101</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180507\" target=\"_blank\">CrossFit WOD 180507 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-dumbbell-thruster\" target=\"_blank\">The Dumbbell Thruster</a>",
+      "date": "2018-05-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle Up Mix",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n3 rounds of:\n* 5 **bar muscle-ups**\n* 5 **snatches**\n\nThen, 3 rounds of:\n* 15 **deadlifts**\n* 30 **squats**\n\nThen, 3 rounds of:\n* 5 **bar muscle-ups**\n* 5 **cleans**\n\n**Weights:**\n* Men: 155 lb.\n* Women: 105 lb.",
+        "section_notes": [
+          "Three back-to-back-to-back couplets.",
+          "Reduce load and modify movements so each set can be performed unbroken."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n_3 rounds of:_  \r\n  &nbsp;&nbsp;5 bar muscle-ups    \r\n  &nbsp;&nbsp;5 snatches    \r\n_Then, 3 rounds of:_   \r\n  &nbsp;&nbsp;15 deadlifts   \r\n  &nbsp;&nbsp;30 squats  \r\n_Then, 3 rounds of:_  \r\n  &nbsp;&nbsp;5 bar muscle-ups  \r\n  &nbsp;&nbsp;5 cleans  \r\n\r\nMen: 155 lb.  \r\nWomen: 105 lb.  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180508\" target=\"_blank\">CrossFit WOD 180508 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-kipping-bar-muscle-up\" target=\"_blank\">The Kipping Bar Muscle-Up</a>",
+      "date": "2018-05-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Burpee Box Blast",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for reps of:\n* 2 minutes of **burpee box jumps**\n* Rest 1 minute\n\n**Box Height:**\n* Men: 36-in.\n* Women: 30-in.",
+        "section_notes": [
+          "Pick a box height that is challenging but doesn't hinder movement as you fatigue.",
+          "Maintain a quick pace to avoid resting during the 2-minute interval."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for reps of:  \r\n2 minutes of burpee box jumps  \r\nRest 1 minute  \r\n\r\nMen: 36-in. box  \r\nWomen: 30-in. box  \r\n\r\nScroll for scaling options.  \r\nPost reps completed to comments.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180510\" target=\"_blank\">CrossFit WOD 180510 Tips With Rory McKernan</a>",
+      "date": "2018-05-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Static and Strong",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n* 60-second **handstand hold**\n* 60-second **static hang**\n* 15 **dumbbell shoulder presses**\n* 15 **weighted pull-ups**\n\n**Weights:**\n* Men: 2 50-lb. DBs for presses, 1 for pull-ups\n* Women: 2 35-lb. DBs for presses, 1 for pull-ups",
+        "section_notes": [
+          "Reduce static movements to something that can be done unbroken for at least the first round.",
+          "Presses and pulls should be challenging enough to require breaking in later rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \r\n60-second handstand hold  \r\n60-second static hang  \r\n15 dumbbell shoulder presses  \r\n15 weighted pull-ups  \r\n\r\nMen: Use 2 50-lb. DBs for presses, 1 for pull-ups  \r\nWomen: Use 2 35-lb. DBs for presses, 1 for pull-ups  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180511\" target=\"_blank\">CrossFit WOD 180511 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-dumbell-press\" target=\"_blank\">The Dumbell Press</a>",
+      "date": "2018-05-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* 50 **medicine-ball cleans**\n* Run **800 meters**\n\n**Ball Weight:**\n* Men: 20-lb.\n* Women: 14-lb.",
+        "section_notes": [
+          "Tailor the workout so you can keep moving the entire time.",
+          "Use a ball that allows for large sets of cleans."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n50 medicine-ball cleans  \r\nRun 800 meters  \r\n\r\nMen: 20-lb. ball  \r\nWomen: 14-lb. ball  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/06/14\" target=\"_blank\">140614</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180512\" target=\"_blank\">CrossFit WOD 180512 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-medicine-ball-clean\" target=\"_blank\">The Medicine-Ball Clean</a>",
+      "date": "2018-05-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Midline",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 10 minutes of:\n* 10 **deadlifts**\n* 20 **GHD sit-ups**\n\n**Weights:**\n* Men: 275 lb.\n* Women: 185 lb.",
+        "section_notes": [
+          "This AMRAP is heavy with high GHD volume.",
+          "The deadlift should be heavy yet manageable."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n10 deadlifts  \r\n20 GHD sit-ups  \r\n\r\nMen: 275 lb.  \r\nWomen: 185 lb.  \r\n\r\nScroll for scaling options.  \r\nPost rounds completed to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/01/16\" target=\"_blank\">150116</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180514\" target=\"_blank\">CrossFit WOD 180514 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/simplifying-the-deadlift-with-coach-glassman\" target=\"_blank\">Simplifying the Deadlift With Coach Glassman</a>  \r\n• <a href=\"https://journal.crossfit.com/article/cfj-midline-stabilization-the-ghd-sit-up-3\" target=\"_blank\">Midline Stabilization: The GHD Sit-Up</a>",
+      "date": "2018-05-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "metcon",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Helen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* Run **400 meters**\n* 21 **kettlebell swings**\n* 12 **pull-ups**\n\n**Weights:**\n* Men: 1.5-pood kettlebell\n* Women: 1-pood kettlebell",
+        "section_notes": [
+          "This benchmark workout is an all-out sprint.",
+          "Swings and pull-ups should be easy enough to maintain pace on the runs."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Helen**  \r\n3 rounds for time of:  \r\nRun 400 meters  \r\n21 kettlebell swings  \r\n12 pull-ups  \r\n\r\nMen: 1.5-pood kettlebell  \r\nWomen: 1-pood kettlebell  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare <a href=\"https://www.crossfit.com/workout/2017/01/08\" target=\"_blank\">170108</a>.   \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180515\" target=\"_blank\">CrossFit WOD 180515 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/rob-forte-and-chris-hogan-do-helen\" target=\"_blank\">Rob Forte and Chris Hogan do Helen</a>    \r\n• <a href=\"https://journal.crossfit.com/article/helen-demo\" target=\"_blank\">Helen Demo</a>",
+      "date": "2018-05-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "metcon",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Back Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat** 5-5-5-5-5 reps",
+        "section_notes": [
+          "Ideally, each set will be as heavy as possible for 5 reps.",
+          "Newer athletes should start light and slowly add weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-5-5-5-5 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/06/09\" target=\"_blank\">170609</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180516\" target=\"_blank\">CrossFit WOD 180516 Tips With Rory McKernan</a>",
+      "date": "2018-05-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Triple 3",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "For time:\n* **3,000-m row**\n* **300 double-unders**\n* **3-mile run**",
+        "section_notes": [
+          "Massively reduce the volume if needed.",
+          "This should be a long-duration workout, but not so long that you die."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2018/1#events-tabs\" target=\"_blank\">Triple 3</a>      \r\nFor time:  \r\n3,000-m row  \r\n300 double-unders  \r\n3-mile run  \r\n\r\nScroll for scaling options.  \r\nPost time completed to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/07/24\" target=\"_blank\">140724</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180518\" target=\"_blank\">CrossFit WOD 180518 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/bwtb1-kinnick\" target=\"_blank\">You and Mat Fraser Vs. Linda and Triple 3</a>",
+      "date": "2018-05-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "conditioning",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Burpees",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n2 rounds of:\n* 10 **snatches**, 175 / 125 lb.\n* 12 **burpees**\n\nThen, 2 rounds of:\n* 10 **snatches**, 115 / 75 lb.\n* 12 **burpees**",
+        "section_notes": [
+          "Reduce load and volume to keep this a sprint.",
+          "Weight should be challenging but light enough to string reps together without dropping the bar."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2018/4#events-tabs\" target=\"_blank\">Regionals Event 4</a>    \r\n\r\nFor time:  \r\n2 rounds of:  \r\n   &nbsp;&nbsp;10 snatches, 175 / 125 lb.  \r\n   &nbsp;&nbsp;12 burpees  \r\nThen, 2 rounds of:  \r\n   &nbsp;&nbsp;10 snatches, 115 / 75 lb.  \r\n   &nbsp;&nbsp;12 burpees  \r\n\r\nScroll for scaling options.     \r\nPost time to comments.   \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180519\" target=\"_blank\">CrossFit WOD 180519 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-power-snatch\" target=\"_blank\">The Power Snatch</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-burpee\" target=\"_blank\">The Burpee</a>",
+      "date": "2018-05-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 50 **handstand push-ups**\n* 50 **toes-to-bars**\n* 50-cal. **bike**\n* 50 **dumbbell box step-overs**\n* 50-ft. right-arm **dumbbell overhead lunge**\n* 50-ft. left-arm **dumbbell overhead lunge**\n\n**Weights/Box:**\n* Men: 70-lb. dumbbells, 24-in. box\n* Women: 50-lb. dumbbells, 20-in. box",
+        "section_notes": [
+          "This chipper is moderately long and includes difficult skills.",
+          "Modify movements you struggle with and choose lighter dumbbells if needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2018/5#events-tabs\" target=\"_blank\">Regionals Event 5</a>     \r\n\r\nFor time:  \r\n50 handstand push-ups  \r\n50 toes-to-bars  \r\n50-cal. bike  \r\n50 dumbbell box step-overs  \r\n50-ft. right-arm dumbbell overhead lunge  \r\n50-ft. left-arm dumbbell overhead lunge  \r\n\r\nMen: 70-lb. dumbbells, 24-in. box  \r\nWomen: 50-lb. dumbbells, 20-in. box  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.\r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180520\" target=\"_blank\">CrossFit WOD 180520 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/scaling-the-handstand-push-up\" target=\"_blank\">Scaling the Handstand Push-Up (Pike Push-Ups)</a>  \r\n• <a href=\"https://journal.crossfit.com/article/cfj-the-dumbbell-overhead-lunge\" target=\"_blank\">The Dumbbell Overhead Lunge</a>",
+      "date": "2018-05-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk Heavy",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk** 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Pick loads that allow you to attempt to set a PR in the later sets.",
+          "If not comfortable with very heavy loads, add reps to drill mechanics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and jerk 1-1-1-1-1-1-1 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/12/03\" target=\"_blank\">171203</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180522\" target=\"_blank\">CrossFit WOD 180522 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/chad-vaughn-315-pound-clean-and-jerk\" target=\"_blank\">Chad Vaughn, 315-lb. Clean and Jerk</a>",
+      "date": "2018-05-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Midline and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds of:\n* 1 minute of **sumo deadlift high pulls**\n* 1 minute of **GHD sit-ups**\n* 1 minute of **push presses**\n* 1 minute of **GHD sit-ups**\n* Rest 1 minute\n\n**Weights:**\n* Men: 95 lb.\n* Women: 65 lb.",
+        "section_notes": [
+          "Reduce loads on weightlifting and modify GHD sit-ups if needed.",
+          "High volume of GHD sit-ups; newer athletes can avoid the GHD completely."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds of:  \r\n1 minute of sumo deadlift high pulls  \r\n1 minute of GHD sit-ups  \r\n1 minute of push presses  \r\n1 minute of GHD sit-ups  \r\nRest 1 minute  \r\n\r\nMen: 95 lb.  \r\nWomen: 65 lb.   \r\n\r\nScroll for scaling options.  \r\nPost reps completed to comments.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180523\" target=\"_blank\">CrossFit WOD 180523 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/cfj-midline-stabilization-the-ghd-sit-up-3\" target=\"_blank\">Midline Stabilization: The GHD Sit-Up</a>",
+      "date": "2018-05-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Muscle Ups",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* 10 **dumbbell hang squat snatches**, left arm\n* 5 **bar muscle-ups**\n* 10 **dumbbell hang squat snatches**, right arm\n* 5 **bar muscle-ups**\n\n**Weights:**\n* Men: 55-lb. dumbbell\n* Women: 40-lb. dumbbell",
+        "section_notes": [
+          "Pairs a light weightlifting movement requiring flexibility with a high-skill gymnastics movement.",
+          "Use a dumbbell that allows for sound mechanics at the end range of flexibility."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n10 dumbbell hang squat snatches, left arm  \r\n5 bar muscle-ups  \r\n10 dumbbell hang squat snatches, right arm  \r\n5 bar muscle-ups  \r\n\r\nMen: 55-lb. dumbbell  \r\nWomen: 40-lb. dumbbell  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/12/28\" target=\"_blank\">151228</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180524\" target=\"_blank\">CrossFit WOD 180524 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-bar-muscle-up-with-boz-journal\" target=\"_blank\">The Bar Muscle-Up With Boz</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-dumbbell-hang-snatch-2\" target=\"_blank\">The Dumbbell Hang Snatch</a>",
+      "date": "2018-05-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Linda",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10-9-8-7-6-5-4-3-2-1 reps for time of:\n* 1½-body-weight **deadlift**\n* Body-weight **bench press**\n* ¾-body-weight **clean**",
+        "section_notes": [
+          "Set up three bars and storm through for time.",
+          "Reduce loads or eliminate early rounds to decrease total volume."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Linda**     \r\n\r\n10-9-8-7-6-5-4-3-2-1 reps for time of:  \r\n1½-body-weight deadlift  \r\nBody-weight bench press  \r\n¾-body-weight clean  \r\n\r\nSet up three bars and storm through for time.  \r\nScroll for scaling options.   \r\n\r\nPost time to comments.   \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/01/13\" target=\"_blank\">170103</a>.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180526\" target=\"_blank\">CrossFit WOD 180526 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/nicole-carroll-does-linda\" target=\"_blank\">Nicole Carroll Does Linda</a>",
+      "date": "2018-05-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "metcon",
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ropes and Thrusters",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 4 **rope climbs**\n* 16 **thrusters**\n* 3 **rope climbs**\n* 12 **thrusters**\n* 2 **rope climbs**\n* 8 **thrusters**\n\n**Weights/Rope:**\n* Men: 15-ft. rope, 155 lb.\n* Women: 15-ft. rope, 105 lb.",
+        "section_notes": [
+          "This couplet is a sprint.",
+          "Choose a load and modification that allow you to complete each set unbroken."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2018/6#events-tabs\" target=\"_blank\">Regionals Event 6</a>     \r\n\r\nFor time:  \r\n4 rope climbs  \r\n16 thrusters  \r\n3 rope climbs   \r\n12 thrusters  \r\n2 rope climbs  \r\n8 thrusters  \r\n\r\nMen: 15-ft. rope, 155 lb.  \r\nWomen: 15-ft. rope, 105 lb.  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180527\" target=\"_blank\">CrossFit WOD 180527 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/the-j-hook-rope-climb-2\" target=\"_blank\">The J-Hook Rope Climb</a>",
+      "date": "2018-05-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hero Choice",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Hero Workout of your choice**",
+        "section_notes": [
+          "Review the list of 193 heroes and honor one with an all-out effort.",
+          "Reduce the work to a level that is attainable yet still challenging."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://crossfit.com/cf/faq?q=wod/hero\" target=\"_blank\">Hero Workout of your choice</a>.  \r\n\r\nReview the list of <a href=\"https://crossfit.com/cf/faq?q=wod/hero\" target=\"_blank\">193 heroes</a> and honor one with an all-out effort.    \r\n\r\nPost choice of Hero and result to comments.\r\n \r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180528\" target=\"_blank\">CrossFit WOD 180528 Tips With Rory McKernan</a>  \r\n• Read: <a href=\"https://journal.crossfit.com/article/fallen-but-never-forgotten-2\" target=\"_blank\">Fallen But Never Forgotten</a>",
+      "date": "2018-05-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Sprints",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "10 rounds, each for time, of:\n* **200-m row**\n* Rest 90 seconds",
+        "section_notes": [
+          "Beginners can reduce the total number of rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds, each for time, of:  \r\n200-m row  \r\nRest 90 seconds  \r\n\r\nScroll for scaling options.  \r\nPost times for each sprint to comments.\r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180530\" target=\"_blank\">CrossFit WOD 180530 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/rowing\" target=\"_blank\">Rowing</a>",
+      "date": "2018-05-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "conditioning",
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Triple Threat Lift",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Front Squat** 3-3-3 reps\n* **Push Press** 3-3-3 reps\n* **Thruster** 3-3-3 reps",
+        "section_notes": [
+          "Experienced athletes can go as heavy as possible.",
+          "Newer athletes can use this session to drill the movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 3-3-3 reps  \r\nPush press 3-3-3 reps  \r\nThruster 3-3-3 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\n---\r\nRelated:   \r\n• <a href=\"https://journal.crossfit.com/article/cfj-crossfit-wod-180531\" target=\"_blank\">CrossFit WOD 180531 Tips With Rory McKernan</a>  \r\n• <a href=\"https://journal.crossfit.com/article/front-squat-development-with-pat-sherwood\" target=\"_blank\">Front Squat Development With Pat Sherwood</a>",
+      "date": "2018-05-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "olympic-lifting"
+      ]
+    }
+  }
+]

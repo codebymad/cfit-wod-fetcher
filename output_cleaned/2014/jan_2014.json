@@ -1,0 +1,554 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Strict Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Strict Ring Dips**: 20 reps\n* **Thrusters** (135 lb): 14 reps",
+        "section_notes": [
+          "There should be no bend of the leg or hip in the strict ring dip."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n20 Strict ring dips  \n135 pound Thruster, 14 reps  \n  \nThere should be no bend of the leg or hip in the strict ring dip.  \n  \nPost time to comments.",
+      "date": "2014-01-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hard Cindy",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n* **Weighted Pull-ups** (35 lb): 5 reps\n* **Push-ups** (feet on 30\" box): 10 reps\n* **Squats** (holding a 45 lb plate): 15 reps",
+        "section_notes": [
+          "This is a weighted variation of the benchmark Cindy."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Hard Cindy**\"   \n  \nComplete as many rounds as possible in 20 minutes of:  \n5 Weighted pull-ups, 35 pounds   \n10 Push-ups with feet on 30\" box  \n15 Squats holding a 45 pound plate  \n  \nPost rounds completed to comments.",
+      "date": "2014-01-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "benchmark",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Sprints",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Snatch** (155 lb): 9 reps\n* **Row**: 2,000 meters\n* **Snatch** (155 lb): 15 reps\n* **Row**: 1,000 meters\n* **Snatch** (155 lb): 21 reps\n* **Row**: 500 meters",
+        "section_notes": [
+          "Maintain a consistent pace on the rower to recover for the heavy snatches."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n155 pound Snatch, 9 reps  \nRow 2,000 meters  \n155 pound Snatch, 15 reps  \nRow 1,000 meters  \n155 pound Snatch, 21 reps  \nRow 500 meters  \n  \nPost time to comments.",
+      "date": "2014-01-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Back Squat** (95 lb): 50 reps\n* **GHD Sit-ups**: 50 reps\n* **Back Squat** (75 lb): 50 reps\n* **Back Extensions**: 50 reps\n* **Back Squat** (55 lb): 50 reps\n* **GHD Sit-ups**: 50 reps",
+        "section_notes": [
+          "Focus on maintaining a neutral spine during GHD and back extensions."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n95 pound Back squat, 50 reps  \n50 GHD Sit-ups  \n75 pound Back squat, 50 reps  \n50 Back extensions  \n55 pound Back squat, 50 reps  \n50 GHD Sit-ups  \n  \nPost time to comments.",
+      "date": "2014-01-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Upper Body",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Strict Handstand Push-ups**: 10 reps\n* **Strict Ring Dips**: 15 reps\n* **Strict Push-ups**: 20 reps\n* **Strict Pull-ups**: 45 reps",
+        "section_notes": [
+          "No kipping allowed; focus on pure strength and control."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:   \n10 Strict handstand push-ups  \n15 Strict ring dips  \n20 Strict push-ups  \n45 Strict pull-ups  \n  \nPost time to comments.",
+      "date": "2014-01-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n* **GHD Sit-ups**: 15 reps\n* **Deadlift** (135 lb): 21 reps",
+        "section_notes": [
+          "Steady pacing is key for this 20-minute AMRAP."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \n15 GHD Sit-ups  \n135 pound Deadlift, 21 reps  \n  \nPost rounds completed to comments.",
+      "date": "2014-01-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Jerk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Run**: 400 meters\n* **Dumbbell Clean & Jerk** (50 lb): 21 reps",
+        "section_notes": [
+          "Keep the run steady to allow for unbroken dumbbell sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:   \nRun 400 meters  \n50 pound Dumbbell Clean & Jerk, 21 reps  \n  \nPost time to comments.",
+      "date": "2014-01-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Cindy XXX",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as much as possible in 20 minutes of:\n* **Pull-ups**: 10, 15, 20, 25, 30 reps\n* **Push-ups**: 20, 30, 40, 50, 60 reps\n* **Squats**: 30, 45, 60, 75, 90 reps",
+        "section_notes": [
+          "This is an ascending volume variation of Cindy."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "Practice **L-sits** from the floor for 10 minutes.",
+        "section_notes": [
+          "Focus on how much of the ten minutes you can spend in the 'L' position."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Cindy XXX**\"  \n  \nComplete as much as possible in 20 minutes of:   \n10 Pull-ups  \n20 Push-ups  \n30 Squats  \n15 Pull-ups  \n30 Push-ups  \n45 Squats  \n20 Pull-ups  \n40 Push-ups  \n60 Squats  \n25 Pull-ups  \n50 Push-ups  \n75 Squats  \n30 Pull-ups  \n60 Push-ups  \n90 Squats  \n  \nPost reps completed to comments and practice L-sits from the floor for ten minutes. How much of ten minutes can you spend in the \"L\"?",
+      "date": "2014-01-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "benchmark",
+        "gymnastic",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row Intervals",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Four rounds of:\n* **Row**: 1,000 meters\n* **Rest**: 90 seconds",
+        "section_notes": [
+          "Focus on consistent split times across all four rounds."
+        ]
+      },
+      {
+        "section_name": "mobility",
+        "section_content": "10 minutes of **hamstring stretching** with an extended lumbar spine.",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds of:   \nRow 1,000 meters  \nRest 90 seconds  \n  \nPost splits times to comments and give ten minutes to hamstring stretching with an extended lumbar spine.",
+      "date": "2014-01-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder",
+        "mobility"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-18-15-12-9-6-3 reps for time of:\n* **Back Extensions**\n* **GHD Sit-ups**\n* **Overhead Squat** (135 lb)",
+        "section_notes": [
+          "Maintain a strong core and vertical torso during the overhead squats."
+        ]
+      },
+      {
+        "section_name": "skill",
+        "section_content": "Practice **handstands** for 20 minutes, focusing on controlled descents.",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-18-15-12-9-6-3 reps for time of:  \nBack extension  \nGHD Sit-up  \n135 pound Overhead Squat  \n  \nPost time to comments and then practice handstands for 20 minutes, focusing on controlled descents.",
+      "date": "2014-01-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "skill-work"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Marguerita",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50 reps for time of:\n* **Burpee / Push-up / Jumping-Jack / Sit-up / Handstand**",
+        "section_notes": [
+          "Perform the movements as a complex for 50 total repetitions."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Marguerita**\"  \n  \n50 reps for time of:  \n[Burpee/Push-up/Jumping-Jack/Sit-up/Handstand](http://media.crossfit.com/awset/CrossFit_MaggieClip_h264_52d5a6ba894f6_SD.mp4)  \n  \nPost time to comments.",
+      "date": "2014-01-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CrossFit Total",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Find 1 rep max of:\n* **Back Squat**: 1 rep\n* **Shoulder Press**: 1 rep\n* **Deadlift**: 1 rep",
+        "section_notes": [
+          "The total is the sum of all three lifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"[CrossFit Total](http://journal.crossfit.com/2006/12/the-crossfit-total-by-mark-rip.tpl)\"  \n  \nBack squat, 1 rep  \nShoulder Press, 1 rep  \nDeadlift, 1 rep  \n  \nPost total to comments.  \n  \nCompare to [131113](http://www.crossfit.com/mt-archive2/009033.html).",
+      "date": "2014-01-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle and Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Muscle-ups**: 30 reps\n* **Clean & Jerk** (135 lb): 21 reps\n* **Row**: 2,000 meters",
+        "section_notes": [
+          "Break the muscle-ups into manageable sets to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n30 Muscle-ups  \n135 pound Clean & Jerk, 21 reps  \nRow 2,000 meters  \n  \nPost time to comments.",
+      "date": "2014-01-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Seven rounds for time of:\n* **GHD Sit-ups**: 15 reps\n* **Back Extensions**: 15 reps\n* **Thrusters** (135 lb): 10 reps\n* **Clean & Jerk** (135 lb): 10 reps",
+        "section_notes": [
+          "High volume of heavy movements; maintain strict form on the lifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:   \n15 GHD Sit-ups  \n15 Back extensions  \n135 pound Thruster, 10 reps  \n135 pound Clean & Jerk, 10 reps  \n  \nPost time to comments.",
+      "date": "2014-01-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Row",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Row**: 5,000 meters",
+        "section_notes": [
+          "Pure aerobic capacity test."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 5K  \n  \nPost time to comments.  \n  \nCompare to [131220](http://www.crossfit.com/mt-archive2/009069.html).",
+      "date": "2014-01-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bench and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n* **Bench Press** (135 lb): 21 reps\n* **L-Pull-ups**: 21 reps",
+        "section_notes": [
+          "Maintain a steady rhythm between the push and pull movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \n135 pound Bench press, 21 reps  \n21 L-Pull-ups  \n  \nPost rounds completed to comments.",
+      "date": "2014-01-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Mastery",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Strict Muscle-ups**: 5 reps\n* **Strict Handstand Push-ups**: 10 reps\n* **One Legged Squats**: 15 reps per leg",
+        "section_notes": [
+          "Focus on full range of motion and strict movement standards."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n5 Strict muscle-ups  \n10 Strict handstand push-ups  \n15 One legged squats, each leg  \n  \nPost time to comments.",
+      "date": "2014-01-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Deadlift",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 1-1-1-1-1 reps",
+        "section_notes": [
+          "Build up to a heavy single for the day."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 1-1-1-1-1 reps  \n  \nPost loads to comments.",
+      "date": "2014-01-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Row**: 500 meters\n* **GHD Sit-ups**: 50 reps\n* **Row**: 1,000 meters\n* **GHD Sit-ups**: 30 reps\n* **Row**: 2,000 meters\n* **GHD Sit-ups**: 20 reps",
+        "section_notes": [
+          "The rowing distance increases while the sit-up volume decreases."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \nRow 500 meters  \n50 GHD Sit-ups  \nRow 1,000 meters  \n30 GHD Sit-ups  \nRow 2,000 meters   \n20 GHD Sit-ups  \n  \nPost time to comments.",
+      "date": "2014-01-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Timed Reps",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "In front of a clock set for 15 minutes:\n* 1 minute of **Squats**\n* 2 minutes of **Double-unders**\n* 3 minutes of **Push-ups**\n* 4 minutes of **Back Extensions**\n* 5 minutes of **Pull-ups**",
+        "section_notes": [
+          "Perform as many reps as possible within each specific time window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "In front of a clock set for 15 minutes:  \n1 minute of Squats  \n2 minutes of Double-unders  \n3 minutes of Push-ups  \n4 minutes of Back extensions  \n5 minutes of Pull-ups  \n  \nPost number for each exercise and total reps for 15 minutes to comments.",
+      "date": "2014-01-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Thruster** (135 lb): 15 reps\n* **Sumo Deadlift High-Pull** (135 lb): 21 reps\n* **Thruster** (135 lb): 12 reps\n* **Sumo Deadlift High-Pull** (135 lb): 15 reps\n* **Thruster** (135 lb): 9 reps\n* **Sumo Deadlift High-Pull** (135 lb): 9 reps",
+        "section_notes": [
+          "Descending rep scheme for both movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n135 pound Thruster, 15 reps  \n135 pound Sumo deadlift high-pull, 21 reps  \n135 pound Thruster, 12 reps  \n135 pound Sumo deadlift high-pull, 15 reps  \n135 pound Thruster, 9 reps  \n135 pound Sumo deadlift high-pull, 9 reps  \n  \nPost time to comments.",
+      "date": "2014-01-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Murph",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run**: 1 mile\n* **Pull-ups**: 100 reps\n* **Push-ups**: 200 reps\n* **Squats**: 300 reps\n* **Run**: 1 mile",
+        "section_notes": [
+          "Partition the pull-ups, push-ups, and squats as needed. Wear a 20 lb vest if available."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"[Murph](http://www.crossfit.com/mt-archive2/000881.html)\"  \n  \nFor time:  \n1 mile Run  \n100 Pull-ups  \n200 Push-ups  \n300 Squats  \n1 mile Run  \n  \nPartition the pull-ups, push-ups, and squats as needed. Start and finish with a mile run. If you've got a twenty pound vest or body armor, wear it.  \n  \nPost time to comments.  \n  \nCompare to [111111](http://www.crossfit.com/mt-archive2/007996.html).",
+      "date": "2014-01-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "benchmark",
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "PR Pursuit",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Attempt PRs of:\n* **Overhead Squat**: 1RM\n* **Row**: 1,000 meters\n* **Ring Dips**: Max Reps",
+        "section_notes": [
+          "Allow for ample warm-up and rest between efforts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Attempt PRs with as much warm-up, ramp-up, and rest between efforts as needed of:  \n1RM Overhead squat  \n1,000 meter Row  \nRing Dips  \n  \nPost load, time, and reps to comments. Annotate PRs.",
+      "date": "2014-01-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Ascent",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "With a running clock, every minute perform 1 **Deadlift** and add weight.\n\n* Women increase by 10 lb\n* Men increase by 20 lb\n\nStart with a 185-lb barbell for women and a 275-lb barbell for men, and deadlift for as long as possible.",
+        "section_notes": [
+          "Intermediate athletes can start with a lighter load to ensure 10+ rounds.",
+          "Newer athletes should ignore the clock and focus on practicing the deadlift mechanics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "With a running clock, every minute perform 1 deadlift and add weight. Women increase by 10 lb, men increase by 20 lb after each successful lift.\r\n\r\nStart with a 185-lb barbell for women and a 275-lb barbell for men, and [deadlift](https://www.crossfit.com/essentials/the-deadlift) for as long as possible.\r\n\r\nPost heaviest deadlift to comments.\r\n___\r\n**Scaling:**  \r\nIntermediate athletes can maintain the format of this workout, but start with a lighter load in order to get through 10+ rounds. Newer athletes should ignore the clock and spend more time practicing the deadlift. \r\n\r\n**Beginner Option:**  \r\n[Deadlift](https://www.crossfit.com/essentials/the-deadlift) 1-1-1-1-1-1-1-1-1-1 reps",
+      "date": "2023-05-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n* 25 **Pull-ups**\n* Run 200 meters\n* 15 **Box jump-overs**\n* Run 200 meters\n\n♀ 12-in box / ♂ 20-in box",
+        "section_notes": [
+          "Jump completely over the box for the jump-overs.",
+          "Newer athletes should reduce pull-up volume or modify the movement if unable to string together 10 reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:   \r\n25 [pull-ups](https://www.crossfit.com/essentials/the-kipping-pull-up)     \r\nRun 200 meters  \r\n15 box jump-overs*  \r\nRun 200 meters \r\n\r\n*For the box jump-overs, jump completely over the box.   \r\n\r\n♀ 12-in box  ♂ 20-in box  \r\n\r\nPost time to comments.\r\n___\r\n**Scaling:**  \r\nNewer athletes should reduce the pull-up volume and modify the movement if you are unable to string together 10 reps. For the box jump-overs, choose to land on top of the box, and step down.\r\n\r\n**Intermediate Option:**  \r\n4 rounds for time of:   \r\n**15** pull-ups   \r\nRun 200 meters  \r\n15 box jump-overs*  \r\nRun 200 meters   \r\n\r\n*For the box jump-overs, jump completely over the box. \r\n\r\n♀ 12-in box  ♂ 20-in box\r\n\r\n**Beginner Option:**  \r\n**3 rounds** for time of:    \r\n**15 assisted** pull-ups   \r\nRun 200 meters  \r\n15 **box jumps**   \r\nRun 200 meters   \r\n\r\n♀ 12-in box  ♂ 20-in box",
+      "date": "2023-05-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 10 **Squat snatches** (♀ 75 lb / ♂ 115 lb)\n* 10 **Squat snatches** (♀ 85 lb / ♂ 125 lb)\n* 10 **Squat snatches** (♀ 95 lb / ♂ 135 lb)",
+        "section_notes": [
+          "Reduce the load on each set to maintain solid mechanics while pushing the intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \r\n10 [squat snatches](https://www.crossfit.com/essentials/the-snatch), ♀ 75 lb ♂ 115 lb  \r\n10 squat snatches, ♀ 85 lb ♂ 125 lb  \r\n10 squat snatches, ♀ 95 lb ♂ 135 lb  \r\n\r\nPost time to comments.  \r\n___\r\n**Scaling:**  \r\nReduce the load on each set to maintain solid mechanics while pushing the intensity. \r\n\r\n**Intermediate Option:**  \r\nFor time:   \r\n10 squat snatches, **♀ 65 lb ♂ 95 lb**  \r\n10 squat snatches, **♀ 75 lb ♂ 115 lb**  \r\n10 squat snatches, **♀ 85 lb ♂ 125 lb**  \r\n\r\n**Beginner Option:**  \r\nFor time:   \r\n10 squat snatches, **PVC pipe or dowel**   \r\n10 squat snatches, **empty barbell ♀ 35 lb ♂ 45 lb**  \r\n10 squat snatches, **♀ 45 lb ♂ 55 lb**",
+      "date": "2023-05-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20-10 reps for time of:\n* **Bike calories**\n* **GHD sit-ups**",
+        "section_notes": [
+          "If unfamiliar with the GHD, modify to AbMat sit-ups.",
+          "Reduce the range of motion on GHD sit-ups if you have not performed high volume recently."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50-40-30-20-10 reps for time of:  \r\nBike calories   \r\n[GHD sit-ups](https://www.crossfit.com/essentials/the-ghd-sit-up) \r\n\r\nPost time to comments.  \r\n___\r\n**Scaling:**  \r\nReduce the overall volume of this couplet. If you’re unfamiliar with the GHD, modify the movement to AbMat sit-ups. If you have not recently done a high volume of GHD sit-ups, reduce the range of motion. If you have not performed GHD sit-ups in a workout, practice the movement and consider using AbMat sit-ups in the workout.   \r\n\r\n**Intermediate Option:**  \r\nFor time:   \r\n50-40-30-20-10 reps of:   \r\nBike calories   \r\n**30-25-20-15-10** reps of:    \r\nGHD sit-ups   \r\n\r\n**Beginner Option:**   \r\n**30-20-10** reps for time of:   \r\nBike calories   \r\n**Sit-ups**",
+      "date": "2023-05-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Chief",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Max rounds in 3 minutes of:\n* 3 **Power cleans**\n* 6 **Push-ups**\n* 9 **Squats**\n\n♀ 95 lb / ♂ 135 lb\n\nRest 1 minute. Repeat for a total of 5 cycles.",
+        "section_notes": [
+          "Intermediate athletes should aim for 3+ rounds per cycle.",
+          "Reduce the load and number of cycles if needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**The Chief** \r\n\r\nMax rounds in 3 minutes of:  \r\n3 [power cleans](https://www.crossfit.com/essentials/the-power-clean)  \r\n6 [push-ups](https://www.crossfit.com/essentials/the-push-up)      \r\n9 [squats](https://www.crossfit.com/essentials/the-air-squat)    \r\n\r\n♀ 95 lb  ♂135 lb\r\n\r\nRest 1 minute. Repeat for a total of 5 cycles.\r\n\r\nPost rounds completed for each of the 5 cycles.   \r\nCompare to [130203](https://www.crossfit.com/workout/2013/02/03). \r\n___\r\n**Scaling:**  \r\nReduce the load and number of cycles. Intermediate athletes should aim to complete 3+ rounds per cycle. \r\n\r\n**Intermediate Option:**  \r\nMax rounds in 3 minutes of:  \r\n3 power cleans   \r\n6 push-ups  \r\n9 squats\r\n\r\n**♀ 85 lb  ♂125 lb**\r\n\r\nRest 1 minute. Repeat for a total of 5 cycles.\r\n\r\n**Beginner Option:**   \r\nMax rounds in 3 minutes of:  \r\n3 [dumbbell power cleans](https://www.crossfit.com/essentials/the-dumbbell-power-clean)   \r\n6 push-ups  \r\n9 squats\r\n\r\n**♀ 15-lb DBs  ♂20-lb DBs**\r\n\r\nRest 1 minute. Repeat for a total of **3 cycles**.",
+      "date": "2023-05-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mile and Max",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For 20 minutes:\n* Run 1 mile\n* In the remaining time, complete as many rounds as possible of:\n    * 7 **Strict toes-to-bars**\n    * 14 **Handstand shoulder taps**",
+        "section_notes": [
+          "Gymnastics can be reduced to hanging knee raises and plank shoulder taps for scaling."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For 20 minutes:   \r\nRun 1 mile   \r\nIn the remaining time, complete as many rounds as possible of:   \r\n7 [strict toes-to-bars](https://www.crossfit.com/essentials/the-strict-toes-to-bar)  \r\n14 handstand shoulder taps \r\n\r\nPost reps completed to comments. \r\n___\r\n**Scaling:**  \r\nDeconditioned athletes can take a stopwatch on a 4-minute walk or jog, then turn around and return for a modified mile run. The gymnastics portion of this workout can be reduced to hanging knee raises and plank shoulder taps. \r\n\r\n**Beginner Option:**  \r\nFor **15 minutes**:   \r\n**Jog 800 meters**   \r\nIn the remaining time, complete as many rounds as possible of:   \r\n7 strict **hanging knee raises**   \r\n14 **plank** shoulder taps",
+      "date": "2023-05-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pressing Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Push press** 5-5-3-3-3-1-1-1-1-1 reps",
+        "section_notes": [
+          "Each set should be as heavy as possible.",
+          "Newer athletes should start light and slowly add weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Push press](https://www.crossfit.com/essentials/the-push-press) 5-5-3-3-3-1-1-1-1-1 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [140312](https://www.crossfit.com/workout/2014/03/12).\r\n ___\r\n**Scaling:**  \r\nIdeally, each set will be as heavy as possible, but newer athletes should start light and slowly add weight as they become comfortable.",
+      "date": "2023-05-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ignite Complex",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "With an 18-minute running clock, complete:\n\n21-15-9 reps of:\n* **Thrusters** (♀ 65 lb / ♂ 95 lb)\n* **Lateral burpees over the bar**\n* **Sit-ups**\n\nIn the remaining time, establish a max weight of the complex:\n* 1 **Power clean** + 1 **Hang squat clean**",
+        "section_notes": [
+          "Reduce thruster weight if needed.",
+          "Focus on proper mechanics for the barbell complex before adding weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[IGNITE Workout](https://forgingyouthresilience.org/)  \r\n\r\nWith an 18-minute running clock, complete:   \r\n\r\n21-15-9 reps of:  \r\n[Thrusters](https://www.crossfit.com/essentials/the-thruster)    \r\nLateral [burpees](https://www.crossfit.com/essentials/the-burpee-2) over the bar  \r\nSit-ups  \r\n\r\n♀ 65 lb  ♂95 lb\r\n\r\nIn the remaining time, establish a max weight of the complex:   \r\n \r\n1 [power clean](https://www.crossfit.com/essentials/the-power-clean) + 1 [hang squat clean](https://www.crossfit.com/essentials/the-hang-squat-clean)\r\n\r\nJoin thousands of athletes participating in [Forging Youth Resilience's annual IGNITE fundraiser](https://secure.givelively.org/donate/fyr/ignite-workout-fundraiser-2023) to celebrate fitness as a pathway toward positive mental health for under-resourced youth.\r\n\r\nPost time of the triplet and max load to comments.\r\n\r\n**Forging Youth Resilience Fundraiser, May 1-31**  \r\nThousands of CrossFit athletes around the world will be performing the IGNITE workout during the month of May – Mental Health Awareness Month. Proceeds from the event support Forging Youth Resilience programs bringing fitness, nutrition, and mentorship to youth who otherwise would not have access to these services. To learn more about the event or start fundraising, visit [Forging Youth Resilience](https://secure.givelively.org/donate/fyr/ignite-workout-fundraiser-2023).\r\n___\r\n**Scaling:**  \r\nReduce the weight on the thrusters. If you’re new to weightlifting, watch “[The Power Clean](https://www.crossfit.com/essentials/the-power-clean)” and “[The Hang Squat Clean](https://www.crossfit.com/essentials/the-hang-squat-clean),” and start with an empty barbell on the barbell complex. Add weight only if you’re able to maintain proper mechanics. \r\n\r\n**Beginner Option:**  \r\nWith an 18-minute running clock, complete:   \r\n21-15-9  \r\nThrusters  \r\nLateral burpees over the bar  \r\nSit-ups  \r\n\r\n**♀ 35 lb ♂ 45 lb**   \r\n\r\nIn the remaining time, establish a max weight of the complex:  \r\n1 power clean + 1 hang squat clean",
+      "date": "2023-05-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "metcon",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Double Snatch Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* 50 **Double-unders**\n* 16 **Dumbbell snatches**\n\n♀ 35-lb DB / ♂ 50-lb DB",
+        "section_notes": [
+          "This workout is meant to be a sprint.",
+          "Choose a dumbbell that allows for maximal speed while maintaining proper mechanics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n50 [double-unders](https://www.crossfit.com/essentials/the-double-under)  \r\n16 [dumbbell snatches](https://www.crossfit.com/essentials/the-dumbbell-power-snatch) \r\n\r\n♀ 35-lb DB ♂ 50-lb DB\r\n\r\nPost time to comments. \r\n___\r\n**Scaling:**  \r\nThis workout is meant to be a sprint. Choose a dumbbell that will allow you to move at maximal speed while maintaining proper mechanics. Go hard. \r\n\r\n**Intermediate Option:**   \r\n5 rounds for time of:    \r\n**40** double-unders  \r\n16 dumbbell snatches \r\n\r\n**♀ 25-lb DB ♂ 35-lb DB**\r\n\r\n**Beginner Option:**  \r\n5 rounds for time of:  \r\n50 **single**-unders  \r\n16 dumbbell snatches \r\n\r\n**♀ 15-lb DB ♂ 20-lb DB**",
+      "date": "2023-05-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clovis",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* Run 10 miles\n* 150 **Burpee pull-ups**\n\nPartition the run and burpee pull-ups as needed.",
+        "section_notes": [
+          "This workout is a mental and physical grind.",
+          "Significantly reduce distance if not accustomed to this running volume."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Clovis**\r\n\r\nFor time:  \r\nRun 10 miles  \r\n150 burpee pull-ups\r\n\r\nPartition the run and burpee pull-ups as needed.  \r\n\r\nPost time to comments.  \r\nCompare to [121111](https://www.crossfit.com/workout/2012/11/11).\r\n___\r\n**Scaling:**    \r\nThis workout is a mental and physical grind. If you are not accustomed to this running volume, significantly reduce the distance. Partition the work in order to sustain intensity. \r\n\r\n**Intermediate Option:**  \r\nFor time:  \r\nRun **5 miles**  \r\n**100** burpee pull-ups\r\n\r\nPartition the run and burpee pull-ups as needed.\r\n\r\n**Beginner Option:**  \r\nFor time:  \r\n**Jog 2 miles**    \r\n**75 burpees**   \r\n\r\nPartition the run and burpees as needed.",
+      "date": "2023-05-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "chipper",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Stability",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat** 3-3-3-3-3 reps",
+        "section_notes": [
+          "Experienced athletes can go as heavy as possible.",
+          "If you performed Clovis yesterday, use moderate loading for recovery."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Back squat](https://www.crossfit.com/essentials/the-back-squat) 3-3-3-3-3 reps\r\n\r\nPost loads to comments.  \r\nCompare to [230403](https://www.crossfit.com/230403).\r\n___\r\n**Scaling:**  \r\nAthletes at all skill levels should perform triples. Experienced athletes can go as heavy as possible, while newer athletes can use this workout as an opportunity to drill the movement. If you performed \"Clovis\" yesterday, choose moderate loading and treat these squats as a recovery day.",
+      "date": "2023-05-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kettlebell Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds of:\n* 1 minute of **Kettlebell swings**\n* 1 minute of **Sit-ups**\n* 1 minute of **Lunges**\n\n♀ 35-lb KB / ♂ 53-lb KB",
+        "section_notes": [
+          "Maintain the format of the workout; newer athletes can reduce loading and total rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds of:  \r\n1 minute of kettlebell swings   \r\n1 minute of sit-ups   \r\n1 minute of lunges   \r\n\r\n♀ 35-lb KB ♂ 53-lb KB\r\n\r\nPost total reps to comments.\r\n___\r\n**Scaling:**  \r\nAll athletes should be able to maintain the format of this workout. Newer athletes can reduce the loading on the kettlebell and drop the total rounds. Intermediate athletes can do this workout as prescribed. \r\n\r\n**Beginner Option:**  \r\n**3 rounds** of:  \r\n1 minute of kettlebell swings   \r\n1 minute of sit-ups   \r\n1 minute of lunges \r\n\r\n**♀ 26-lb KB ♂ 35-lb KB**",
+      "date": "2023-05-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as much as possible in 15 minutes of:\n* **Row** 500 meters\n* Max set **Push-ups**",
+        "section_notes": [
+          "Push the row and work for virtuosity on the push-ups.",
+          "If unable to do 10 consecutive push-ups, use modifications to ensure 10+ reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as much as possible in 15 minutes of:  \r\n[Row](https://www.crossfit.com/essentials/rowing) 500 meters  \r\nMax set [push-ups](https://www.crossfit.com/essentials/the-push-up) \r\n\r\nPost rounds completed to comments.\r\n___\r\n**Scaling:**  \r\nExperienced athletes should push the row on today’s workout and work for virtuosity on the push-ups. If you do not yet have 10 consecutive push-ups, consider modifications which challenge your current abilities and allow for 10+ reps.\r\n\r\n**Beginner Option:**  \r\nComplete as many reps as possible in 15 minutes of:  \r\nRow 500 meters  \r\nMax-set **assisted** push-ups",
+      "date": "2023-05-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Triple",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For max reps:\n* Tabata **Bike calories**\n* Rest 1 minute\n* Tabata **Squats**\n* Rest 1 minute\n* Tabata **Bike calories**\n\n*Tabata interval: 20 seconds work / 10 seconds rest for 8 intervals.*",
+        "section_notes": [
+          "Go hard and accumulate as much work as possible throughout all 24 intervals."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For max reps:  \r\nTabata bike calories   \r\nRest 1 minute  \r\nTabata [squats](https://www.crossfit.com/essentials/the-air-squat)  \r\nRest 1 minute  \r\nTabata bike calories \r\n\r\nThe Tabata interval is 20 seconds of work followed by 10 seconds of rest for eight intervals.\r\n\r\nPost total calories/reps for each exercise to comments. \r\n___\r\n**Scaling:**  \r\nAll athletes should be able to perform today’s tabata intervals. Go hard and accumulate as much work as possible throughout all 24 intervals.",
+      "date": "2023-05-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Skill and Strength",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* 15 **Overhead squats**\n* 15 **L pull-ups**\n* 15 **Split jerks**\n* 15 **Knees-to-elbows**\n* 15 **Hang cleans**\n* 15 **Weighted hip extensions**\n\n♀ 65-lb barbell, 15-lb plate for extensions / ♂ 95-lb barbell, 25-lb plate for extensions",
+        "section_notes": [
+          "Light-weight, high-skill movements. Modify to push the intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\n15 [overhead squats](https://www.crossfit.com/essentials/the-overhead-squat)   \r\n15 [L pull-ups](https://www.crossfit.com/essentials/the-l-pull-up)  \r\n15 [split jerks](https://www.crossfit.com/essentials/the-split-jerk)   \r\n15 [knees-to-elbows](https://www.crossfit.com/essentials/the-strict-knees-to-elbow)    \r\n15 [hang cleans](https://www.crossfit.com/essentials/the-hang-squat-clean)   \r\n15 weighted [hip extensions](https://www.crossfit.com/essentials/the-ghd-hip-extension)    \r\n\r\nHold a plate or dumbbell to chest for back extensions.\r\n\r\n♀ 65-lb barbell, 15-lb plate for back extensions   \r\n♂ 95-lb barbell, 25-lb plate for back extensions \r\n\r\nPost time to comments.  \r\nCompare to [131031](https://www.crossfit.com/workout/2013/10/31).\r\n___\r\n**Scaling:**  \r\nToday we have light-weight, high-skill movements. Modify the movements in order to push the intensity. \r\n\r\n**Intermediate Option:**   \r\n3 rounds for time of:  \r\n15 overhead squats   \r\n**10** L pull-up, **knees bent**   \r\n15 split jerks   \r\n15 knees-to-elbows  \r\n15 hang cleans   \r\n15 weighted hip extensions\r\n\r\nHold a plate or dumbbell to chest for back extensions.\r\n\r\n♀ 65-lb barbell, 15-lb plate for back extensions   \r\n♂ 95-lb barbell, 25-lb plate for back extensions \r\n\r\n**Beginner Option:**  \r\n3 rounds for time of:  \r\n**10** overhead squats   \r\n**10 jumping** pull-ups  \r\n**10** push jerks   \r\n**10 hanging knee raises**   \r\n**10** hang cleans   \r\n**10 hip extensions**  \r\n\r\nHold a plate or dumbbell to chest for back extensions.\r\n\r\n**♀ 35-lb barbell  \r\n♂ 45-lb barbell**",
+      "date": "2023-05-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Progression",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Snatch balance** 1-1-1-1-1-1-1 reps\n* **Squat snatch** 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "This progression prepares you for a 1-rep-max squat snatch.",
+          "Experienced lifters should go heavy; newer athletes should focus on mechanics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Snatch balance](https://www.crossfit.com/essentials/the-snatch-balance) 1-1-1-1-1-1-1 reps  \r\n[Squat snatch](https://www.crossfit.com/essentials/the-snatch) 1-1-1-1-1-1-1 reps\r\n\r\nPost loads to comments.  \r\nSimilar to [220826](https://www.crossfit.com/220826). \r\n___\r\n**Scaling:**  \r\nThis progression of snatch variations should prepare you for a solid attempt at a 1-rep-max squat snatch. Experienced lifters should try to go heavy, while newer athletes should focus on mechanics and worry less about adding weight.",
+      "date": "2023-05-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mile Repeats",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds, each for time of:\n* Run 1 mile\n\nRest 4 minutes between efforts.",
+        "section_notes": [
+          "Work at about 80% effort.",
+          "Aim to complete each mile in approximately the same time."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds, each for time of:   \r\nRun 1 mile  \r\n\r\nRest 4 minutes between efforts.   \r\n\r\nPost times to comments.\r\n___\r\n**Scaling:**   \r\nFor today’s mile repeats, attempt to work on your run pace, working at about 80% effort. Shoot to complete each mile around the same time.\r\n\r\n**Beginner Option:**  \r\n3 rounds, each for time of:  \r\nRun **800 meters**   \r\n \r\nRest 4 minutes between efforts.",
+      "date": "2023-05-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds for time of:\n* 5 **Front squats**\n* 5 **Parallette handstand push-ups**\n\n♀ 145 lb / ♂ 205 lb",
+        "section_notes": [
+          "Reduce front squat load to a challenging set of 5 that can be completed unbroken.",
+          "Choose a HSPU modification that is more challenging than previous attempts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds for time of:  \r\n5 [front squats](https://www.crossfit.com/essentials/the-front-squat)  \r\n5 [parallette handstand push-ups](https://www.crossfit.com/essentials/the-kipping-deficit-handstand-push-up)\r\n\r\n♀ 145 lb ♂ 205 lb\r\n\r\nPost time to comments.  \r\nCompare to [210827](https://www.crossfit.com/210827).\r\n___\r\n**Scaling:**  \r\nReduce the load of the front squats to a challenging set of 5 that still allows you to complete each set unbroken. Similarly on the HSPU, choose a modification that is more challenging than the last time you performed HSPU.\r\n\r\n**Intermediate Option:**  \r\n10 rounds for time of:  \r\n5 front squats  \r\n5 **strict handstand push-ups, hands on 25-lb plates**\r\n\r\n**♀ 110 lb ♂ 165 lb**\r\n\r\n**Beginner Option:**   \r\n5 rounds for time of:  \r\n5 front squats  \r\n5 **push-ups**\r\n\r\n**♀ 35 lb ♂ 55 lb**",
+      "date": "2023-05-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ring Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "In 15 minutes, complete as many reps as possible of:\n* 50 **Box step-ups**\n* 50 **Jumping pull-ups**\n* 40 **Lunges**\n* 40 **Burpees**\n* 30 **Toes-to-bars**\n* 30 **Push-ups**\n* Max-reps **Ring muscle-ups**\n\n♀ 20-in box / ♂ 24-in box",
+        "section_notes": [
+          "Perform chipper-style; move through push-ups quickly to maximize time at the rings.",
+          "If unable to perform muscle-ups, use the time to develop pulling and pushing strength."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "In 15 minutes, complete as many reps as possible of:   \r\n50 [box step-ups](https://www.crossfit.com/essentials/the-box-step-up)   \r\n50 jumping pull-ups   \r\n40 [lunges](https://www.crossfit.com/essentials/the-walking-lunge)   \r\n40 [burpees](https://www.crossfit.com/essentials/the-burpee-2)   \r\n30 [toes-to-bars](https://www.crossfit.com/essentials/the-kipping-toes-to-bar)   \r\n30 [push-ups](https://www.crossfit.com/essentials/the-push-up)   \r\nMax-reps ring [muscle-ups](https://www.crossfit.com/essentials/the-kipping-muscle-up)\r\n\r\n♀ 20-in box ♂ 24-in box\r\n\r\nPost reps completed to comments.  \r\n___\r\n**Scaling:**   \r\nPerform today’s workout chipper-style, attempting to get through the push-ups as quickly as possible in order to spend as much time as possible at the rings. If you do not yet have a muscle-up, use this time to develop your pulling and pushing strength. Intermediate athletes can do this workout as prescribed. \r\n\r\n**Beginner Option:**  \r\nIn 15 minutes, complete as many reps as possible of:   \r\n**40** box step-ups   \r\n**40** jumping pull-ups   \r\n**30** lunges   \r\n**30** burpees   \r\n**20 hanging knee raises**   \r\n**20 assisted** push-ups   \r\nMax-reps **3 ring rows + 3 jumping dips**\r\n\r\n**♀ 12-in box ♂ 20-in box**",
+      "date": "2023-05-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three 4-minute intervals of:\n* 21-calorie **Row**\n* Then, as many rounds as possible of:\n    * 7 **Deadlifts**\n    * 14 **Sit-ups**\n\nRest 4 minutes between rounds.\n\n♀ 155 lb / ♂ 225 lb",
+        "section_notes": [
+          "Reduce deadlift loading to maintain solid mechanics throughout the workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three 4-minute intervals of:   \r\n21-calorie [row](https://www.crossfit.com/essentials/rowing)   \r\nThen, as many rounds as possible of:   \r\n7 [deadlifts](https://www.crossfit.com/essentials/the-deadlift)   \r\n14 [sit-ups](https://www.crossfit.com/essentials/the-abmat-sit-up) \r\n\r\nRest 4 minutes between rounds. \r\n\r\n♀ 155 lb ♂ 225 lb\r\n\r\nPost number of reps completed each round to comments.  \r\n___\r\n**Scaling:**  \r\nReduce the loading on the deadlifts in order to maintain solid mechanics throughout today’s workout. \r\n\r\n**Beginner Option:**  \r\nThree 3-minute intervals of:   \r\n**15**-calorie row   \r\nThen, as many rounds as possible of:   \r\n7 deadlifts   \r\n14 sit-ups   \r\n\r\nRest 3 minutes between rounds. \r\n\r\n**♀ 75 lb ♂ 115 lb**",
+      "date": "2023-05-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lynne",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for max reps of:\n* Body-weight **Bench presses**\n* **Pull-ups**",
+        "section_notes": [
+          "Choose a modification that allows for 10+ reps of each, even as you fatigue.",
+          "Allow ample rest after pull-ups before starting the next round of bench presses."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Lynne**  \r\n\r\n5 rounds for max reps of:  \r\nBody-weight [bench presses](https://www.crossfit.com/essentials/the-bench-press)  \r\n[Pull-ups](https://www.crossfit.com/essentials/the-butterfly-pull-up)\r\n\r\nPost reps for both exercises in all rounds.   \r\nCompare to [180409](https://www.crossfit.com/workout/2018/04/09#/comments).\r\n___\r\n**Scaling:**  \r\nThis workout offers five max-effort attempts at each exercise, regardless of how you modify the movements. Choose something that will allow you to get 10+ reps of each, even as you fatigue. Give yourself ample rest time after the pull-ups before beginning the next round of bench presses so you recover enough to get another big set.\r\n\r\n**Intermediate Option:**  \r\n5 rounds for max reps of:  \r\n**¾-body-weight** bench presses  \r\nPull-ups\r\n\r\n**Beginner Option:**    \r\n5 rounds for max reps of:    \r\n**Push-ups**  \r\n[Ring rows](https://www.crossfit.com/essentials/the-ring-row)",
+      "date": "2023-05-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hero Honor",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Hero workout of your choice. Review the list of heroes and honor one with an all-out effort.",
+        "section_notes": [
+          "Hero workouts are often grueling with high volume; reduce work to an attainable yet challenging level."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Hero workout of your choice.](https://www.crossfit.com/heroes/)   \r\nReview the list of 203 heroes and honor one with an all-out effort.\r\n\r\nPost choice of workout and result to comments.  \r\nCompare to [220530](https://www.crossfit.com/220530).\r\n\r\n**Scaling:**  \r\nMost Hero workouts are meant to be extremely grueling, arduous, and mentally challenging. Many contain a very high volume of reps. Reduce the work to a level that is attainable yet still challenging.",
+      "date": "2023-05-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 19.1",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n* 19 **Wall-ball shots**\n* 19-cal. **Row**\n\n♀ 14-lb ball to 9 ft. / ♂ 20-lb ball to 10 ft.",
+        "section_notes": [
+          "Experienced athletes should attempt to PR this Open workout.",
+          "Newer athletes can reduce the medicine-ball weight but maintain the rep scheme."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Open Workout 19.1](https://games.crossfit.com/)  \r\n\r\nComplete as many rounds as possible in 15 minutes of:  \r\n19 wall-ball shots   \r\n19-cal. row \r\n\r\n♀ 14-lb ball to 9 ft. ♂ 20-lb ball to 10 ft. \r\n\r\nPost rounds completed to comments.    \r\nCompare to [190222](https://www.crossfit.com/190222).\r\n___\r\n**Scaling:**  \r\nExperienced athletes should attempt to PR this Open workout. Newer athletes can reduce the medicine-ball weight but maintain the rep scheme and take note of rounds completed for your records. \r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in 15 minutes of:  \r\n19 wall-ball shots  \r\n19-calorie row\r\n\r\n**♀ 6-lb ball ♂ 10-lb ball**",
+      "date": "2023-05-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "AMRAP"
+      ]
+    }
+  }
+]
