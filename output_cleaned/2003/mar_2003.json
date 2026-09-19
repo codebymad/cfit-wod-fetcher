@@ -1,0 +1,165 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Pure Pull",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 3-3-3-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on maintaining a neutral spine and driving through the heels."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 3-3-3-1-1-1-1-1 reps",
+      "date": "2003-03-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Spin and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three Rounds for time of:\n* 1 mile **bike**\n* 15 **Pull-ups**",
+        "section_notes": [
+          "Maintain a steady pace on the bike to allow for unbroken pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three Rounds for time of:  \n1 mile bike  \n15 Pull-ups",
+      "date": "2003-03-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes as you can of:\n* 10 **Hang clean**: 15RM load\n* **Run** 400 Meters\n* 25 **Sit-ups**",
+        "section_notes": [
+          "Use a weight that is approximately your 15-rep max for the cleans."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:   \n10 Hang clean: 15RM load   \nRun 400 Meters  \n25 Sit-ups.",
+      "date": "2003-03-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Vertical Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 30 **Handstand Push-ups**",
+        "section_notes": [
+          "If you cannot do Handstand push-ups, practice for 30 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n  \n30 Handstand Push-ups   \n  \nIf you cannot do Handstand push-ups practice for 30 minutes",
+      "date": "2003-03-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* 21 **Back squat** (135 pound)\n* **Run** 400 meters",
+        "section_notes": [
+          "Keep the squats consistent and use the run as active recovery."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n135 pound Back squat, 21 reps  \nRun 400 meters",
+      "date": "2003-03-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds in 20 minutes of:\n* 10 **Bench press**: body weight\n* 10 **Pull-ups**\n* 10 **Jump Rope** \"Double unders\"",
+        "section_notes": [
+          "Maintain a steady rhythm across all three movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes of:  \n10 Bench press: body weight  \n10 Pull-ups  \n10 Jump Rope \"Double unders\"",
+      "date": "2003-03-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strength Index",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "1. Perform a max single rep **bench press**\n2. Within 30 seconds of racking weight, perform max set of **pull-ups**\n\n*Multiply bench press load by pull-up reps for \"useful upper body strength index\".*\n\nTest again in five minutes.",
+        "section_notes": [
+          "This is a strength-to-weight ratio test. Rest fully between the two attempts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Perform a max single rep bench press   \nwithin thirty seconds of racking weight   \nperform max set of pull-ups.  \n  \nMultiply bench press load by pull-up reps for  \n“useful upper body strength index” – a CrossFit original!  \n  \nTest again in five minutes.",
+      "date": "2003-03-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  }
+]

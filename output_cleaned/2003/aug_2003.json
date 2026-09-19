@@ -1,0 +1,560 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk PR",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean & Jerk**: 15-12-9 reps",
+        "section_notes": [
+          "Go for a PR today.",
+          "Do not put the bar down throughout the set; you may rest overhead, at the rack, or hang.",
+          "Touch and go at the floor only.",
+          "Use the same weight for all three sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Clean & Jerk ](http://media.crossfit.com/cf-video/cleanandjerk.wmv)15-12-9 reps.   \n  \nGo for PR on this today! The rules are that you don’t put the bar down throughout the set. You can rest overhead, at rack, or hang – touch and go at the floor only. Rest as needed between sets. Use same weight for all three sets. Post load and bodyweight to comments.",
+      "date": "2003-08-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "1. **Tabata Jump Interval**: Jump and touch an object 12” above maximum reach.\n2. **Inverted Hang Pulls**: 50 reps (as few sets as possible).\n3. **Tabata Jump Interval**: Repeat.",
+        "section_notes": [
+          "Tabata parameters: 20 seconds work, 10 seconds rest for 8 intervals.",
+          "Keep arms and legs as straight as possible during pulls."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Attach an object at precisely 12” above your maximum reach with rope or cord. Within Tabata interval parameters jump and touch the attached object. Score as other Tabata exercises – lowest count in any of eight intervals.   \n  \nPull to inverted hang from pull-up bar or rings 50 reps in as few sets as possible (keep arms and legs as straight as you can).  \n  \nRepeat Tabata jump interval.   \n  \nPost first Tabata jump scores, number of sets for 50 pulls, and second Tabata Jump score. E.G., 12/3/9 (twelve jumps minimum in first effort/3 sets for 50 pulls/9 jumps minimum in second effort).",
+      "date": "2003-08-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bodyweight EMOM",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Every minute on the minute (EMOM):\n- 5 **Pull-ups**\n- 10 **Push-ups**\n- 15 **Squats**",
+        "section_notes": [
+          "Attempt to continue for 10, 20, or 30 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Set up before a clock and every minute, on the minute, perform 5 pull-ups, 10 push-ups, and 15 squats.   \n  \nCan you continue for thirty minutes? Twenty? How about 10? Post results to comments.",
+      "date": "2003-08-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "EMOM",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Press and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time (15-12-9 reps):\n- **Deadlift** 225 lbs\n- **Handstand Push-ups**",
+        "section_notes": [
+          "Take nose to ground on handstand push-ups.",
+          "Partition deadlift and push-up sets as needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete three rounds, 15-12-9 reps, for time:  \nDeadlift 225 lbs  \nHandstand Push-ups  \n  \nTake nose to ground on handstand push-ups. Partition deadlift and push-up sets as needed to get through. Post time to comments.",
+      "date": "2003-08-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Thruster Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time (21-15-9 reps):\n- **Thruster** 85 lbs\n- **Pull-ups**",
+        "section_notes": [
+          "Thruster is a rock bottom front squat and push-press combo.",
+          "Keep pull-ups strict."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3 rounds, 21-15-9 reps, for time.  \n“Thruster” 85 lbs.  \nPull-ups  \n  \n“[Thruster](http://media.crossfit.com/cf-video/Barbell_Thruster.wmv)” is rock bottom front squat push-press combo. Keep pull-ups strict. Post time to comments.",
+      "date": "2003-08-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Dip",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time (15-12-9 reps):\n- **Clean** 135 lbs\n- **Ring Dips**",
+        "section_notes": [
+          "Take dips to muscle-up depth."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete three rounds, 15-12-9 reps, for time of:  \nClean 135 lbs  \nRing dips   \n  \nTake your dips to muscle-up depth. Post time to comments.",
+      "date": "2003-08-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Challenge Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time:\n- **Run** 400 meters\n- **Kettlebell Swings** 21 reps (1.5 pood or 50 lb dumbbell)\n- **Pull-ups** 12 reps",
+        "section_notes": [
+          "This workout served as a competition piece for the CrossFit North Challenge."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time:  \nRun 400 meters  \n1Â½ pood Kettlebell X 21 swings (or 50 pound dumbbell swing)  \n12 Pull-ups  \n  \nPost total time to comments.  \n  \nCrossFit Norrth is hosting the first CrossFit Challenge this September 13. This workout is the competition. The current best-known time is Greg Amundson’s 8:25 from this afternoon. (Ha!)",
+      "date": "2003-08-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Big Complex",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "4 sets of 5 reps of the following complex:\n- **Clean**\n- **Front Squat**\n- **Push Press**\n- **Back Squat**\n- **Push Press** (wide grip)\n- **Overhead Squat**",
+        "section_notes": [
+          "One rep consists of the entire sequence of 6 movements.",
+          "Rest as needed between sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 x 5 x (Cln+FS+PP+BS+PP+OHS)  \n  \nThis complex is a clean right into a front squat into a push press into a back squat into a (wide grip) push press into an overhead squat. The clean, the three squats, and the two push-presses constitute 'one' rep.   \n  \nThe notation “4 x 5 x (Cln+FS+PP+BS+PP+OHS)” indicates four sets of five 'reps.' This complex comes to us from Lincoln Brigham. Thanks, Lincoln!   \n  \nRest as needed between sets. Post load to comments.",
+      "date": "2003-08-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle Up Pace",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Perform 1 **Muscle Up** every 30 seconds for 30 minutes.",
+        "section_notes": [
+          "The goal is to see how long you can maintain this pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "At the rate of one muscle up every thirty seconds, how long can you continue?   \n  \nWork for thirty minutes and report reps to comments.",
+      "date": "2003-08-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n- 10 **Pull-ups**\n- 10 **Two arm dumbbell swings**\n- 10 **Pull-ups**\n- 10 **Right arm push-presses**\n- 10 **Pull-ups**\n- 10 **Left arm push-presses**\n- 10 **Pull-ups**\n- 10 **Right arm snatches**\n- 10 **Pull-ups**\n- 10 **Left arm snatches**\n- 10 **Pull-ups**",
+        "section_notes": [
+          "Select a 35, 55, or 70 lb dumbbell (or 1, 1.5, or 2 pood kettlebell)."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \r\n10 Pull-ups  \r\n10 Two arm dumbbell swings  \r\n10 Pull-ups  \r\n10 Right arm push-presses  \r\n10 Pull-ups  \r\n10 Left arm push-presses  \r\n10 Pull-ups  \r\n10 Right arm snatches  \r\n10 Pull-ups  \r\n10 Left arm snatches  \r\n10 Pull-ups  \r\n  \r\nSelect either a 35, 55, or 70 pound dumbbell (or 1, 1.5, or 2 pood kettlebell). Post load and time to comments.",
+      "date": "2003-08-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Steady State 5K",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run** 5K",
+        "section_notes": [
+          "Steady state aerobic effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5K  \n  \nPost time to comments.",
+      "date": "2003-08-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Power Pair",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Find max weight for:\n- **Deadlift**\n- **Bench Press**",
+        "section_notes": [
+          "Use any progression of your choosing to find the 1RM."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "By any progression of your choosing find a max deadlift and max bench press.   \n  \nPost lifts and body weight to comments.",
+      "date": "2003-08-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster EMOM",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Every minute on the minute for 20 minutes:\n- 10 **Thrusters** 95 lbs",
+        "section_notes": [
+          "Thruster is a front squat and push press combo."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"Thruster\" 95 pounds 10 reps every minute on the minute for twenty minutes.   \n  \nHow far did you get? Work for twenty minutes and post results to comments. (Thruster is front squat push press combo.)",
+      "date": "2003-08-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "EMOM"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Century Bodyweight",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n- 100 **Pull-ups**\n- 100 **Push-ups**\n- 100 **Sit-ups**\n- 100 **Squats**",
+        "section_notes": [
+          "Perform movements in the order listed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n100 Pull-ups  \n100 Push-ups  \n100 Sit-ups  \n100 Squats  \n  \nIn that order. Post time to comments.",
+      "date": "2003-08-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Mix",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds (21-15-9 reps) for time:\n- **Dumbbell Clean & Jerk**\n- **Dumbbell Snatch**",
+        "section_notes": [
+          "Alternate movements. Use the same dumbbells for all three sets.",
+          "If you fail, start over with lighter dumbbells."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Dumbbell, alternate Clean & Jerk and Snatch, 21-15-9 reps.  \n  \n  \n  \nUse same dumbbells for all three sets. If you fail, start over with lighter dumbbells. Post load and body weight to comments.",
+      "date": "2003-08-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Run Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n- 150 **Squats**\n- **Run** 800 meters\n- 150 **Squats**",
+        "section_notes": [
+          "High volume leg endurance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n150 Squats  \nRun 800 meters  \n150 Squats  \n  \nPost time to comments.",
+      "date": "2003-08-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "HSPU Volume",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 Minutes:\n- **Handstand Push-ups**",
+        "section_notes": [
+          "Against the wall, nose to ground, arms to lockout.",
+          "No parallettes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "How many handstand push-ups can you do in 20 minutes?   \n  \nNo parallettes, against the wall, nose to ground, arms to lockout. No bad ones. Post reps to comments.",
+      "date": "2003-08-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pull-up Volume",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 Minutes:\n- **Pull-ups**",
+        "section_notes": [
+          "Focus on consistent movement and volume."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "How many pull-ups can you do in 20 minutes?  \r\n  \r\nPost reps to comments.   \r\n  \r\nWe've featured acclaimed science journalist Gary Taubes' work on dietary fat several times. Here from Taubes is [\"The (Political) Science of Salt.\"](http://garytaubes.com/wp-content/uploads/2011/08/science-political-science-of-salt1.pdf) It looks as though the case against dietary salt, like that against fat, is weak.",
+      "date": "2003-08-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Fran",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time (21-15-9 reps):\n- **Thruster** 95 lbs\n- **Pull-ups**",
+        "section_notes": [
+          "Thrusters are rock bottom front squat/push-press combo.",
+          "Pull-ups are from full extension to Adam's Apple touching bar."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds, 21-15- and 9 reps, for time of:  \n95-pound Thruster  \nPull-ups   \n  \nBest Greg Amundson's time of 3:59 for this workout (\"Fran\") and win a T-shirt! \"Thrusters\" are rock bottom front squat/push-press combo. Pull-ups are from full extension to Adam's Apple touching bar. Post time to comments.",
+      "date": "2003-08-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time:\n- **Squat Clean** (50% bodyweight) 21 reps\n- **Run** 400 meters",
+        "section_notes": [
+          "Maintain a steady pace across the 7 rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 7 rounds for time:  \nSquat clean 50% bodyweight 21 reps  \nRun 400 meters  \n  \nPost time to comments.",
+      "date": "2003-08-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 7 sets of 3 reps",
+        "section_notes": [
+          "Focus on form and consistent loading."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 7 sets of 3 reps each.  \n  \nPost loads to comments.",
+      "date": "2003-08-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time (30-20-10 reps):\n- **Dumbbell Snatch** (1/3 body weight, alternating arms)\n- **Pull-ups**",
+        "section_notes": [
+          "High intensity, fast transitions."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "30-20-10 reps for time of:  \nAlternating left and right arm, dumbbell snatch, 1/3 body weight  \nPull-ups  \n  \nPost time, load, and bodyweight to comments.",
+      "date": "2003-08-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time:\n- **Back Squat** (bodyweight) 20 reps\n- **Run** 800 meters",
+        "section_notes": [
+          "Keep the squats consistent and the run steady."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3 rounds for time of:  \nBack Squat bodyweight 20 reps  \nRun 800 meters  \n  \nPost time to comments.",
+      "date": "2003-08-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rope and Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 Minutes:\n- **Rope Climb** (double-up)\n- **Push-ups** 15 reps",
+        "section_notes": [
+          "Double-up is two ascents with only a toe-touch-and-go in between."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Repeat for twenty minutes:  \nRope Climb double-up  \n15 Push-ups  \n  \nDouble-up is two ascents with only a toe-touch-and-go in between. Post number of completed rounds to comments.",
+      "date": "2003-08-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  }
+]

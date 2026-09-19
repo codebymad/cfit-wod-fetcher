@@ -1,0 +1,536 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **1,600/2,000-meter row**\n\nEvery 90 seconds, including the start, perform **3 wall walks** until you complete the row.",
+        "section_notes": [
+          "This effort should take 15 minutes or less to complete.",
+          "Choose a movement for the wall walks that allows you to finish your reps in 30 seconds or less.",
+          "To increase stroke rate on the rower, get hands away from the body in the return and use feet to pull the body quicker to the catch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n1,600/2,000-meter row\r\n\r\nEvery 90 seconds, including the start, perform 3 wall walks until  you complete the row.\r\n\r\nPost time to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is a single distance on the rower. However, every 90 seconds, including at the start, you have to perform a task: wall walks. Continue this until the distance on the rower is completed. This effort should take 15 minutes or less to complete. With every precious second, push the pace on the rower. Choose a movement for the wall walks that allows you to finish your reps in 30 seconds or less.\r\n\r\n**Scaling:**  \r\nReduce the distance on the rower. Reduce the reps of the wall walks.\r\n\r\nTo reduce the complexity of the wall walks, shorten the range of motion. Consider taking only 2-3 steps toward the wall and returning to the start.\r\n\r\nIn case of injury or limitation, perform 3,500/5,000 meters on the Echo bike or run 1,600 meters. For the wall walks, perform an inchworm, plus a push-up from the knees.\r\n\r\n**Intermediate option:**    \r\nFor time:  \r\n1,600/2,000-meter row\r\n\r\nEvery 90 seconds, including the start, perform **2** wall walks until you complete the row.\r\n\r\n**Beginner option:**   \r\nFor time:  \r\n**800/1,000**-meter row  \r\n\r\nEvery 90 seconds, including the start, perform **2 inchworms + a push-up from the knees** until you complete the row.\r\n\r\n**Coaching cues:**  \r\nTo increase your stroke rate on the rower, think about getting your hands away from your body in the return and using your feet to pull your body in quicker to the catch position.\r\n\r\n**Resources:**    \r\n[Rowing Technique Tips](https://www.crossfit.com/essentials/rowing)    \r\n[The Wall Walk](https://www.crossfit.com/essentials/the-wall-walk)    \r\n[Inchworm + Push-Up From the Knees](https://youtu.be/rC8sMk5WgA4)",
+      "date": "2025-06-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Barbell Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **30 deadlifts**\n* **20 hang squat cleans**\n* **10 shoulder-to-overheads**\n\n♀ 145 lb\n♂ 205 lb",
+        "section_notes": [
+          "Heavy conditioning effort; manage reps and pace as movements get more difficult.",
+          "Avoid sprinting through deadlifts to prevent posterior fatigue affecting later movements.",
+          "In the hang squat clean, focus on getting the shoulder behind the barbell at full extension before pulling into the squat."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n30 deadlifts  \r\n20 hang squat cleans  \r\n10 shoulder-to-overheads\r\n\r\n♀ 145 lb  \r\n♂ 205 lb\r\n\r\nPost time to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is just you and a barbell. This is meant to be a heavy conditioning effort. While the deadlifts will be the “easiest” part of the workout, each movement will continue to get more difficult. Manage your reps and your pace accordingly. Beware of “sprinting” through the deadlifts. A fatigued posterior can create trouble in the movements that follow. Today is a great day to work with a load that is challenging, as long as the safety and integrity of the movements are maintained. Have fun!\r\n\r\n**Scaling:**  \r\nReduce the loading of the barbell.\r\n\r\nTo reduce the complexity of the hang squat cleans, consider breaking the movement into a hang power clean and then a front squat. For all of these movements, using a single dumbbell or pair of dumbbells would reduce the complexity.\r\n\r\nIn case of injury or limitation, perform any or all of the movements with a single dumbbell or kettlebell.\r\n\r\n**Intermediate option:**   \r\nFor time:  \r\n30 deadlifts  \r\n20 hang squat cleans  \r\n10 shoulder-to-overheads\r\n\r\n♀ **105** lb  \r\n♂ **155** lb\r\n\r\n**Beginner option:**   \r\nFor time:   \r\n30 deadlifts  \r\n20 hang squat cleans  \r\n10 shoulder-to-overheads\r\n\r\n♀ **35** lb  \r\n♂ **45** lb\r\n\r\n**Coaching cues:**  \r\nIn the hang squat clean, focus on getting the shoulder behind the barbell at full extension before pulling yourself into the squat. \r\n\r\n**Resources:**    \r\n[The Deadlift](https://www.crossfit.com/essentials/the-deadlift)    \r\n[The Hang Squat Clean](https://www.crossfit.com/essentials/the-hang-squat-clean)    \r\n[The Push Press](https://www.crossfit.com/essentials/the-push-press)    \r\n[The Push Jerk](https://www.crossfit.com/essentials/the-push-jerk)",
+      "date": "2025-06-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Triple Threat Reps",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For total reps:\n1. **Tabata double-unders** (20s work / 10s rest x 8)\n2. **4-minute AMRAP**:\n    * **8 alternating dumbbell hang snatches**\n    * **8 alternating single-leg squats**\n3. **Tabata double-unders** (20s work / 10s rest x 8)\n\n♀ 35-lb dumbbell\n♂ 50-lb dumbbell",
+        "section_notes": [
+          "Score is total reps across all three 4-minute efforts.",
+          "Dumbbell loading should allow for unbroken reps.",
+          "For single-leg squats, keep chest over the thigh of the squatting leg and lean slightly toward that leg for balance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For total reps:   \r\nTabata double-unders\r\n\r\nThen, complete as many reps as possible in 4 minutes of:  \r\n8 alternating dumbbell hang snatches  \r\n8 alternating single-leg squats  \r\n\r\nThen, Tabata double-unders\r\n\r\nTabata is 20 seconds of work and 10 seconds of rest for 8 sets. \r\n\r\n♀ 35-lb dumbbell  \r\n♂ 50-lb dumbbell\r\n\r\nPost reps to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is essentially three 4-minute efforts. Two of these efforts are Tabata double-unders and the couplet is a 4-minute AMRAP (as many reps as possible). Your score today is total reps. The loading of the dumbbell should be relatively light and allow you to complete your reps unbroken. Choose an option for the single-leg squats that allows you to keep moving.\r\n\r\n**Scaling:**  \r\nReduce the loading of the dumbbell.\r\n\r\nTo reduce the complexity of the double-unders, perform single-unders. For the single-leg squats, consider performing single-leg squats to a target or single-leg squats with the non-squatting leg wrapped around the heel of the squatting leg.\r\n\r\nIn case of injury or limitation, perform calories on any available machine in place of the double-unders. For the dumbbell hang snatches, perform dumbbell hang cleans (overhead limitation). For the single-leg squats, consider reverse lunges or air squats.\r\n\r\n**Intermediate option:**    \r\nFor total reps:  \r\nTabata double-unders\r\n\r\nThen, complete as many reps as possible in 4 minutes of:  \r\n8 alternating dumbbell hang snatches  \r\n8 alternating single-leg squats **to a target**\r\n\r\nThen, Tabata double-unders\r\n\r\nTabata is 20 seconds of work and 10 seconds of rest for 8 sets. \r\n\r\n♀ **20**-lb dumbbell  \r\n♂ **35**-lb dumbbell\r\n\r\n**Beginner option:**   \r\nFor total reps:  \r\nTabata **single**-unders\r\n\r\nThen, complete as many reps as possible in 4 minutes of:  \r\n8 alternating dumbbell hang snatches  \r\n8 alternating **reverse lunges**\r\n\r\nThen, Tabata **single**-unders\r\n\r\n♀ **10**-lb dumbbell  \r\n♂ **15**-lb dumbbell\r\n\r\n**Coaching cues:**  \r\nTo maintain balance in the single-leg squat, focus on keeping your chest over the thigh of the squatting leg and leaning slightly toward the leg you are squatting on.\r\n\r\n**Resources:**    \r\n[The Double-Under](https://www.crossfit.com/essentials/the-double-under)    \r\n[The Dumbbell Hang Snatch](https://www.youtube.com/watch?v=BxoGj6GM_LU)    \r\n[The Single-Leg Squat](https://www.crossfit.com/essentials/the-single-leg-squat)    \r\n[The Single-Under](https://www.crossfit.com/essentials/the-single-under)    \r\n[Reverse Lunge](https://youtu.be/sawaLnx43vQ)    \r\n[Single-Leg Squat Scaling](https://www.youtube.com/watch?v=qCizQ0FG8to)",
+      "date": "2025-06-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "G.I. Jane",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **100 burpee pull-ups**\n\nJump to a pull-up bar 1 foot above your reach.",
+        "section_notes": [
+          "Benchmark workout focusing on mental fortitude and endurance.",
+          "Use your legs to jump your chin over the bar.",
+          "Draw a line on the floor directly underneath the bar to ensure optimal jumping position."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**G.I. Jane**\r\n\r\nFor time:  \r\n100 burpee pull-ups\r\n\r\nJump to a pull-up bar 1 foot above your reach.\r\n\r\nPost time to comments.\r\n\r\nCompare to [210420.](http://www.crossfit.com/workout/2021/04/20)  \r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is a benchmark workout called G.I. Jane. If you have completed this workout before, look back at your previous score to help you navigate today’s effort. This workout is all about mental fortitude and your ability to endure the monotony of the task in front of you. There is nothing fancy here — just “fall” to the floor, get up, and get your chin over the pull-up bar. Your legs are your best friend when it comes to these pull-ups. Use them to jump your chin up over the bar. Choose a height for your pull-up bar that allows you to keep moving. When in doubt, lower the pull-up bar and go faster.\r\n\r\n**Scaling:**  \r\nReduce the reps and/or the height of the pull-up bar.\r\n\r\nTo reduce the complexity of the burpee, consider performing an up-down. For the pull-up portion of the movement, reduce the height of the pull-up bar to allow yourself the opportunity to jump your chin over the bar.\r\n\r\nIn case of injury or limitation, perform burpees or up-downs with a jump to touch the pull-up bar (instead of performing the pull-up).\r\n\r\n**Intermediate option:**   \r\nFor time:  \r\n**70** burpee pull-ups\r\n\r\nJump to a pull-up bar **6 inches** above your reach.\r\n\r\n**Beginner option:**   \r\nFor time:  \r\n50 burpee pull-ups\r\n\r\nJump to a pull-up bar **at the middle of your forearms when your arms are extended overhead.**\r\n\r\n**Coaching cues:**  \r\nDraw a line on the floor directly underneath the pull-up bar. On each burpee, place your hands on this line and focus on jumping your feet to your hands. This will position you in the best spot to jump to your bar.\r\n\r\n**Resources:**   \r\n[Burpee Pull-Up | Movement Demo](https://www.youtube.com/watch?v=WVyFdjd96rM)    \r\n[The Burpee Pull-Up With Greg Amundson](https://www.crossfit.com/essentials/the-burpee-pull-up-with-greg-amundson)    \r\n[Burpee Pull-Up Tips](https://youtu.be/iQWQ4JgtqXo)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Leg Stamina",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n* **400-meter run**\n* **10 bodyweight back squats**",
+        "section_notes": [
+          "Tests lower-body stamina with a moderate-to-heavy load.",
+          "Maintain unbroken back squats; use the run as recovery if needed.",
+          "Focus on sending hips back and down while 'screwing' feet into the ground during the squat."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \r\n400-meter run  \r\n10 bodyweight back squats\r\n\r\nPost time to comments.\r\n  \r\n**Stimulus and Strategy:**\r\nToday’s workout aims to test your lower-body stamina with moving a relatively moderate-to-heavy load. The loading of this barbell should be challenging, but you should be able to grind through 10 reps unbroken in each set. Take the barbell from a rack if available. Push the pace on the run only if you can maintain unbroken back squats. Otherwise, use this run as “recovery.” If you are planning on performing the Community Cup workouts, consider reducing the loading in today’s workout, focusing on quality of movement, and preparing for the week ahead.\r\n\r\n**Scaling:**  \r\nReduce the loading of the barbell.\r\n\r\nTo reduce the complexity of the back squats, consider performing goblet squats with a dumbbell or kettlebell.\r\n\r\nIn case of injury or limitation, perform 400/500 meters on the rower or ski erg, or 900/1,250 meters on the Echo bike. For the back squats, consider air squats to a target that allows for a pain-free range of motion.\r\n\r\n**Intermediate option:**    \r\n4 rounds for time of:  \r\n400-meter run  \r\n10 **¾-bodyweight** back squats\r\n\r\n**Beginner option:**   \r\n4 rounds for time of:  \r\n**200**-meter run  \r\n10 back squats\r\n\r\n♀ **35-lb barbell**   \r\n♂ **45-lb barbell**\r\n\r\n**Coaching cues:**  \r\nIn the descent of the back squat, focus on sending your hips back and down while trying to “screw” your feet into the ground.\r\n\r\n**Resources:**    \r\n[Pose Running Drills | Lean and Pull](https://youtu.be/9R-3UT1Vd9o)    \r\n[The Back Squat](https://www.crossfit.com/essentials/the-back-squat) \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Community Cup 1",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 20 minutes:\n* **15 box jump-overs**\n* **10 dumbbell snatches**\n* **5 strict handstand push-ups**\n\n♀ 35-lb dumbbell, 24-inch box\n♂ 50-lb dumbbell, 30-inch box",
+        "section_notes": [
+          "Focus on lowering the head into a proper tripod position for strict HSPU.",
+          "Keep quads, glutes, and abdominals tight throughout the rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**CrossFit Community Cup Workout 1 - Pro**\r\n\r\nComplete as many rounds and reps as possible in 20 minutes of:  \r\n15 box jump-overs  \r\n10 dumbbell snatches  \r\n5 strict handstand push-ups\r\n\r\n♀ 35-lb dumbbell, 24-inch box  \r\n♂ 50-lb dumbbell, 30-inch box \r\n \r\nPost reps completed to comments, and submit your score as part of the 2025 CrossFit Community Cup.\r\n\r\n**Scaling:**  \r\nHead over to the [Community Cup website](https://games.crossfit.com/workouts/pro/2025) for additional variations of today’s workout based on your level and tier earned in the 2025 CrossFit Open.\r\n\r\n**Coaching cues:**  \r\nOn the strict handstand push-ups, focus on lowering your head into the proper tripod position and keep your quads, glutes, and abdominals tight throughout the rep.\r\n\r\n**Resources:**    \r\n[Box Jump-Over Variations](https://www.youtube.com/watch?v=4o2duvMXo1Y)  \r\n[The Dumbbell Power Snatch](https://www.crossfit.com/essentials/the-dumbbell-power-snatch)  \r\n[The Kipping Handstand Push-Up](https://www.crossfit.com/essentials/the-kipping-handstand-push-up)\r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "benchmark",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Community Cup 2",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Intervals: 2m work / 1m rest (x3), then 3m work.\n\n**Rounds 1 & 2**:\n* **15 toes-to-bars**\n* **15 overhead squats**\n* **Max-calorie row**\n\n**Rounds 3 & 4**:\n* **15-calorie row**\n* **15 overhead squats**\n* **Max bar muscle-ups**\n\n♀ 75-lb barbell\n♂ 115-lb barbell",
+        "section_notes": [
+          "Score is total reps completed.",
+          "For toes-to-bar, actively pull feet back and down during the descent and move chest/shoulders forward into the arch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**CrossFit Community Cup Workout 2 - Pro**\r\n\r\nComplete as many reps as possible following the interval of:   \r\n2 minutes of work, 1-minute rest  \r\n2 minutes of work, 1-minute rest  \r\n2 minutes of work, 1-minute rest  \r\n3 minutes of work \r\n\r\nRounds 1 and 2  \r\n15 toes-to-bars  \r\n15 overhead squats  \r\nMax-calorie row\r\n\r\nRounds 3 and 4  \r\n15-calorie row  \r\n15 overhead squats  \r\nMax bar muscle-ups\r\n\r\nYour score is the total number of reps completed.\r\n\r\n♀ 75-lb barbell  \r\n♂ 115-lb barbell\r\n\r\nPost reps completed to comments, and submit your score as part of the 2025 Community Cup, [presented by YETI.](https://cf.games/23_yeti)\r\n\r\n**Scaling:**  \r\nHead over to the [Community Cup website](https://games.crossfit.com/workouts/pro/2025/2) for additional variations of today’s workout based on your level and tier earned in the 2025 CrossFit Open.\r\n\r\n**Coaching cues:**  \r\nTo effectively link together multiple toes-to-bar reps, focus on actively pulling your feet back and down as you lower your legs, and move your chest and shoulders forward into the arch position.\r\n\r\n**Resources:**    \r\n[The Kipping Toes-to-Bar](https://www.crossfit.com/essentials/the-kipping-toes-to-bar)    \r\n[The Overhead Squat](https://www.crossfit.com/essentials/the-overhead-squat)    \r\n[Rowing Technique Tips](https://www.crossfit.com/essentials/rowing)    \r\n[The Kipping Bar Muscle-Up](https://www.crossfit.com/essentials/the-kipping-bar-muscle-up)",
+      "date": "2025-06-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Community Cup 3",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "In 20 minutes, establish:\n* **1-rep-max front squat**\n* **1-rep-max hang power clean**",
+        "section_notes": [
+          "Score is total weight lifted across both lifts.",
+          "When initiating the front squat, elevate chest and shoulders upward to prevent hips from rising too quickly."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**CrossFit Community Cup Workout 3**\r\n\r\nIn 20 minutes, establish:  \r\n1-rep-max front squat  \r\n1-rep-max hang power clean\r\n\r\nPost the total weight lifted across both lifts to comments, and submit your score as part of the 2025 Community Cup, [presented by YETI.](https://cf.games/23_yeti) \r\n\r\n**Coaching cues:**  \r\nWhen initiating the lifting phase of the front squat, focus on elevating your chest and shoulders upward toward the ceiling. This may help reduce issues of the hips elevating at a faster rate than shoulders, which may cause you to lean excessively forward. \r\n\r\n**Resources:**    \r\n[The Front Squat](https://www.crossfit.com/essentials/the-front-squat)    \r\n[The Hang Power Clean](https://www.crossfit.com/essentials/the-hang-power-clean)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "olympic-lifting",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Triplet Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **100 double-unders**\n* **15 deadlifts**\n* **15 bar-facing burpees**\n\n♀ 155-lb barbell\n♂ 225-lb barbell",
+        "section_notes": [
+          "Goal is to finish in 15 minutes or less.",
+          "Barbell should be moderate, allowing reps in 2 sets or fewer.",
+          "In the deadlift descent, press palms toward thighs to keep the bar tight to the body."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:   \r\n100 double-unders  \r\n15 deadlifts  \r\n15 bar-facing burpees\r\n\r\n♀ 155-lb barbell  \r\n♂ 225-lb barbell\r\n\r\nPost time to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is a triplet. The goal is to move through this workout in 15 minutes or less. The loading of the barbell should be moderate and allow you to perform your reps in 2 sets or fewer. For the double-unders, spend no more than 2 minutes accumulating your reps or practicing this exercise. Coming off the Community Cup workouts, adjust today’s workout based on how you are feeling (soreness, recovery status, and overall ability to push).\r\n\r\n**Scaling:**  \r\nReduce the loading of the barbell. Reduce the reps of the double-unders and burpees.\r\n\r\nTo reduce the complexity of the double-unders, perform 90 seconds to 2 minutes of double-under attempts or single-unders. For the bar-facing burpees, consider regular burpees or up-downs.\r\n\r\nIn case of injury or limitation, perform 15/20 calories on the Echo bike in place of the double-unders. For the deadlifts, to keep your torso more upright and avoid having to navigate the knees, consider sumo-stance kettlebell or dumbbell deadlifts. You may also choose unloaded good mornings.\r\n\r\n**Intermediate option:**    \r\n3 rounds for time of:  \r\n**60** double-unders  \r\n15 deadlifts   \r\n15 bar-facing burpees\r\n\r\n♀ **125**-lb barbell  \r\n♂ **185**-lb barbell\r\n\r\n**Beginner option:**   \r\n3 rounds for time of:  \r\n**60 single**-unders  \r\n15 deadlifts  \r\n**10 burpees**\r\n\r\n♀ **55**-lb barbell  \r\n♂ **75**-lb barbell\r\n\r\n**Coaching cues:**  \r\nIn the descent of the deadlift, focus on pressing the palms of your hands toward your thighs as you lower the bar down your legs. This will help keep the barbell in tight to your body.\r\n\r\n**Resources:**   \r\n[The Double-Under](https://www.crossfit.com/essentials/the-double-under)    \r\n[The Deadlift](https://www.crossfit.com/essentials/the-deadlift)    \r\n[Bar-Facing Burpee Efficiency Tips](https://youtu.be/PCdMS9QLtaE?si=kQIxeELylOwx2yAD)    \r\n[The Single-Under](https://www.crossfit.com/essentials/the-single-under)    \r\n[The Burpee](https://www.crossfit.com/essentials/the-burpee-2)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Descending Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **800-meter run**\n* **40 wall-ball shots**\n* **400-meter run**\n* **30 wall-ball shots**\n* **200-meter run**\n* **20 wall-ball shots**\n\n♀ 14-lb medicine ball to a 9-foot target\n♂ 20-lb medicine ball to a 10-foot target",
+        "section_notes": [
+          "Push to complete wall-ball sets in big chunks or unbroken.",
+          "Transition immediately from wall-balls to the next run.",
+          "Bring hands down in front of face and relax shoulders after the throw to reduce fatigue."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n800-meter run  \r\n40 wall-ball shots  \r\n400-meter run  \r\n30 wall-ball shots  \r\n200-meter run  \r\n20 wall-ball shots\r\n\r\n♀ 14-lb medicine ball to a 9-foot target  \r\n♂ 20-lb medicine ball to a 10-foot target\r\n\r\nPost time to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is a descending ladder of running and wall-ball shots. Push to complete each set of wall-ball shots in big chunks. If you can go unbroken, do it and then push the pace on the runs. As soon as you finish a set of wall-ball shots, get moving on to the next run.\r\n\r\n**Scaling:**  \r\nReduce the load of the medicine ball. Reduce the distance of each run.\r\n\r\nTo reduce the complexity of the wall-ball shots, lower the height of the target and reduce the loading of the medicine ball.\r\n\r\nIn case of injury or limitation, perform a 1,750/2,500-meter Echo bike or 800/1,000-meter row in place of the 800-meter run. For the 400-meter run, perform 900/1,250-meter Echo bike or 400/500-meter row. For the 200-meter run, perform a 500/700-meter Echo bike or 200/250-meter row. For the wall-ball shots, perform a medicine-ball squat (overhead limitation) or a medicine-ball push press (squat limitation).\r\n\r\n**Intermediate option:**    \r\nFor time:  \r\n800-meter run  \r\n40 wall-ball shots  \r\n400-meter run  \r\n30 wall-ball shots  \r\n200-meter run  \r\n20 wall-ball shots\r\n\r\n♀ **10**-lb medicine ball to a 9-foot target  \r\n♂ **14**-lb medicine ball to a 10-foot target\r\n\r\n**Beginner option:**   \r\nFor time:   \r\n**400**-meter run  \r\n**20** wall-ball shots  \r\n**200**-meter run  \r\n**15** wall-ball shots  \r\n**200**-meter run  \r\n**10** wall-ball shots\r\n\r\n♀ **6**-lb medicine ball to a 9-foot target  \r\n♂ **10**-lb medicine ball to a 10-foot target\r\n\r\n**Coaching cues:**  \r\nAfter you throw the medicine ball in the wall-ball shot, bring your hands down right in front of your face and relax your shoulders. This will help you reduce shoulder fatigue.\r\n\r\n**Resources:**    \r\n[CrossFit Running Course](https://oc.crossfit.com/course?id=15)    \r\n[The Wall-Ball Shot](https://www.crossfit.com/essentials/the-burpee-2)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Snatch Load",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "EMOM for 5 minutes:\n* **3 touch-and-go power snatches**\n\nEMOM for 5 minutes:\n* **2 touch-and-go power snatches**\n\nEMOM for 5 minutes:\n* **1 power snatch**",
+        "section_notes": [
+          "Opportunity to lift heavy; heavy is relative to individual capacity.",
+          "Goal is the heaviest load for each 5-minute section.",
+          "Continuous work for 15 minutes without designated rest between segments.",
+          "Focus on pressing hips back and brushing thighs as the bar returns to the floor."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Every minute on the minute for 5 minutes for load:  \r\n3 touch-and-go power snatches\r\n\r\nEvery minute on the minute for 5 minutes for load:  \r\n2 touch-and-go power snatches\r\n\r\nEvery minute on the minute for 5 minutes for load:  \r\n1 power snatch\r\n\r\nPost loads to comments.\r\n\r\nCompare to [250303.](http://www.crossfit.com/workout/2025/03/03)  \r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is an opportunity to lift heavy. Keep in mind, heavy is relative to each individual's capacity and competence with the lift. Look back at your previous score to help you navigate today’s effort. The goal is to lift your heaviest load for each 5-minute section. Keep in mind, this is 15 minutes of continuous work without designated rest between segments. You can increase the loading across each minute, maintain the same weight for multiple sets, or stay at one weight for the entire workout. Newer and less-experienced athletes should focus on refining technique at submaximal loads rather than increasing the weight throughout the workout.\r\n\r\n**Scaling:**  \r\nReduce the loading of the barbell to maintain the integrity of the lift.\r\n\r\nTo reduce the complexity of the lift, reduce the loading, and consider performing a hang power snatch to avoid having to navigate the knees.\r\n\r\nIn case of an injury or limitation, consider performing a power clean for an overhead limitation. You can also perform single-arm snatches with a dumbbell or kettlebell.\r\n\r\n**Intermediate option:**    \r\nSame as Rx’d.\r\n\r\n**Beginner option:**   \r\nSame as Rx’d.\r\n\r\n**Coaching cues:**  \r\nAs you cycle the barbell, focus on pressing the hips back, pulling the barbell into the body, and brushing the thighs as the barbell returns to the floor.\r\n\r\n**Resources:**    \r\n[The Power Snatch](https://www.crossfit.com/essentials/the-power-snatch)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "EMOM",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes:\n* **20 GHD sit-ups**\n* **2 rope climbs to 15 feet**",
+        "section_notes": [
+          "Sneaky couplet; GHD sit-ups will make rope climbs more difficult.",
+          "Be intentional with the foot hook as fatigue accumulates.",
+          "Lean back and bring knees to elbows before securing the foot hook to reduce the number of pulls."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds and reps as possible in 10 minutes of:  \r\n20 GHD sit-ups  \r\n2 rope climbs to 15 feet\r\n\r\nPost rounds and reps to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout is a sneaky couplet. Expect the GHD sit-ups to make the rope climbs a bit more difficult than they might normally be. If you have limited experience with the GHD, reduce the range of motion and reduce reps. If you do not have a GHD, check below for alternatives. For the rope climbs, only go up if you are confident you can complete the rep safely. Have fun with this workout and remember to be intentional with your foot hook in anticipation of accumulated fatigue.\r\n\r\n**Scaling:**  \r\nReduce the reps of the GHD sit-ups and rope climbs.\r\n\r\nTo reduce the demand of the GHD sit-ups, reduce the range of motion to parallel or a quarter. For the rope climbs, reduce the height of the climb.\r\n\r\nIn case of an injury or limitation, perform V-ups or AbMat sit-ups in place of the GHD sit-ups. For the rope climbs, consider pull-to-stands or strict pull-ups.\r\n\r\n**Intermediate option:**    \r\nComplete as many rounds and reps as possible in 10 minutes of:  \r\n20 GHD sit-ups **to parallel**  \r\n2 rope climbs to **12 feet**\r\n\r\n**Beginner option:**   \r\nComplete as many rounds and reps as possible in 10 minutes of:  \r\n20 **AbMat** sit-ups  \r\n**4 pull-to-stands**  \r\nStop if you complete 4 rounds before time is up.\r\n\r\n**Coaching cues:**  \r\nTo reduce the number of pulls it takes to get to the top on each rope climb, focus on leaning back and bringing your knees to your elbows before you secure your foot hook and stand up.\r\n\r\n**Resources:**   \r\n[The GHD Sit-Up](https://www.crossfit.com/essentials/the-ghd-sit-up)   \r\n[The Rope Climb (Wrapping)](https://www.crossfit.com/essentials/the-rope-climb-wrapping)    \r\n[The Rope Climb (Basket)](https://www.crossfit.com/essentials/the-rope-climb-basket)    \r\n[The AbMat Sit-Up](https://www.crossfit.com/essentials/the-abmat-sit-up)    \r\n[Pull-to-Stand](https://youtu.be/BsDRv1fiXIY?si=cI3nbEIzkzc-KzRi)",
+      "date": "2025-06-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint and Bike",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four sprint-style efforts. Each on a 2-minute clock, followed by 2 minutes rest:\n\n1. **25 front squats** + Max-calorie Echo bike\n2. **20 push presses** + Max-calorie Echo bike\n3. **15 thrusters** + Max-calorie Echo bike\n4. **10 squat clean thrusters** + Max-calorie Echo bike\n\n♀ 75-lb barbell\n♂ 115-lb barbell",
+        "section_notes": [
+          "Score is total calories accumulated.",
+          "Barbell movements are progressive; complete them as quickly as possible to maximize bike time.",
+          "On thrusters, keep weight glued to shoulders and launch the bar as you stand up from the squat."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "On a 2-minute clock:   \r\n25 front squats  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes \r\n\r\nOn a 2-minute clock:   \r\n20 push presses  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes \r\n\r\nOn a 2-minute clock:   \r\n15 thrusters  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes \r\n\r\nOn a 2-minute clock:   \r\n10 squat clean thrusters  \r\nMax-calorie Echo bike in the remaining time\r\n\r\nYour score is the total number of calories accumulated. \r\n\r\n♀ 75-lb barbell   \r\n♂ 115-lb barbell\r\n\r\nPost total calories to comments.\r\n\r\n**Stimulus and Strategy:**   \r\nToday’s workout is four sprint-style efforts. The barbell movements are progressive and build on the previous set as the final set is a combination of the three sets prior. The loading of the barbell should be on the lighter side. Push to complete the barbell movements as quickly as possible to give yourself more time on the bike.\r\n\r\n**Scaling:**  \r\nReduce the load of the barbell.\r\n\r\nTo reduce the complexity of the barbell movements, perform each movement with a single dumbbell or pair of dumbbells.\r\n\r\nIn case of an injury or limitation, perform the calories on any machine available. If you have a squatting limitation, perform deadlifts, push presses, hang power cleans, and hang power clean and jerks (instead of the movements in the workout).\r\n\r\n**Intermediate option:**    \r\nOn a 2-minute clock:   \r\n25 front squats  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes\r\n\r\nOn a 2-minute clock:     \r\n20 push presses  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes\r\n\r\nOn a 2-minute clock:   \r\n15 thrusters  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes\r\n\r\nOn a 2-minute clock:   \r\n10 squat clean thrusters  \r\nMax-calorie Echo bike in the remaining time\r\n\r\nYour score is the total number of calories accumulated. \r\n\r\n♀ **65**-lb barbell  \r\n♂ **95**-lb barbell\r\n\r\n**Beginner option:**   \r\nOn a 2-minute clock:   \r\n**20** front squats  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes\r\n\r\nOn a 2-minute clock:   \r\n**15** push presses  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes\r\n\r\nOn a 2-minute clock:    \r\n**10** thrusters  \r\nMax-calorie Echo bike in the remaining time  \r\nRest 2 minutes\r\n\r\nOn a 2-minute clock:   \r\n**5** squat clean thrusters  \r\nMax-calorie Echo bike in the remaining time\r\n\r\nYour score is the total number of calories accumulated. \r\n\r\n♀ **35**-lb barbell  \r\n♂ **45**-lb barbell\r\n\r\n**Coaching cues:**   \r\nOn the thrusters, focus on keeping the weight glued to your shoulders and then launching the barbell off your body as you stand up out of the squat.\r\n\r\n**Resources:**    \r\n[The Front Squat](https://www.crossfit.com/essentials/the-front-squat)    \r\n[The Push Press](https://www.crossfit.com/essentials/the-push-press)    \r\n[The Thruster](https://www.crossfit.com/essentials/the-thruster)    \r\n[Rogue Echo Bike](https://www.roguefitness.com/rogue-echo-bike?srsltid=AfmBOopTG0im8_AH4pBChe8JKSkf5QczxxSHPtwocL5NAKwauyFeclbl)  \r\n\r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Half-Mile Sprints",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds, each for time, of:\n* **800-meter run**\n* Rest 3 minutes",
+        "section_notes": [
+          "Goal is to run each interval as quickly as possible and maintain similar times across all rounds.",
+          "Run tall and lead with the hips; lean forward with the entire body to increase speed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds, each for time, of:  \r\n800-meter run  \r\nRest 3 minutes\r\n\r\nPost time for each interval to comments.\r\n\r\nCompare to [240617.](http://www.crossfit.com/workouts/2024/06/17)  \r\n\r\n**Stimulus and Strategy:**  \r\nIn today’s workout, we are going to tackle 5 half-mile runs. The half-mile is arguably one of the most challenging events in track. Look back at your previous score to help you navigate today’s effort. The goal is to run each interval as quickly as possible. With a significant amount of rest, aim to perform each run in a similar time. Newer athletes should reduce the distance to ensure they complete each interval in less than 5 minutes. Intermediate athletes can perform this workout as prescribed. Have fun!\r\n\r\n**Scaling:**  \r\nReduce the distance of each run. \r\n \r\nIn case of an injury or limitation, perform a 1,750/2,500-meter Echo bike, 1,600/2,000-meter C2 bike, or  800/1,000 meters on the rower.\r\n\r\n**Intermediate option:**    \r\nSame as Rx’d. \r\n \r\n**Beginner option:**   \r\n**4** rounds, each for time, of:  \r\n**600**-meter run  \r\nRest 3 minutes\r\n\r\n**Coaching cues:**  \r\nOn each run, focus on running tall and leading with the hips. To pick up speed, lean forward with your entire body.\r\n\r\n**Resources:**   \r\n[Running | Change in Support Drill](https://youtu.be/nOgI1BSZjYo)    \r\n[Running | Falling Forward](https://youtu.be/zSrMZRh3ymk)    \r\n[Running | Line Drills](https://youtu.be/FSe4IEzTns0)    \r\n[Running | Position Drill](https://youtu.be/KdfURwxmSHE)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell DT",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes:\n* **12 dumbbell deadlifts**\n* **9 dumbbell hang power cleans**\n* **6 dumbbell shoulder-to-overheads**\n\n♀ 35-lb dumbbells\n♂ 50-lb dumbbells",
+        "section_notes": [
+          "Dumbbell variation of the Hero workout DT.",
+          "Loading should be light-moderate, allowing 27 reps in 3 sets or less.",
+          "Press weight overhead with biceps next to ears during shoulder-to-overheads."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds and reps as possible in 10 minutes of:  \r\n12 dumbbell deadlifts  \r\n9 dumbbell hang power cleans  \r\n6 dumbbell shoulder-to-overheads  \r\n\r\n♀ 35-lb dumbbells  \r\n♂ 50-lb dumbbells\r\n\r\nPost time to comments.\r\n\r\nCompare to [240712.](http://www.crossfit.com/workout/2024/07/12)  \r\n\r\n**Stimulus and Strategy:**  \r\nToday’s workout should look familiar. This is a dumbbell variation of the Hero workout DT. The loading of the dumbbells should be on the lighter side of moderate and allow you to perform all 27 reps in 3 sets or less. More advanced athletes should try to maintain unbroken reps for as many rounds as possible, while less-experienced athletes should consider strategic breaks to keep moving through the rounds. For example, perform 11 deadlifts, then break. After a quick breath, perform your 12th deadlift and move right into 8 hang power cleans before breaking. After a quick breath, perform your last hang power clean and finish the round by completing 6 shoulder-to-overheads. Look back at your previous score to help you navigate today’s effort.\r\n\r\n**Scaling:**  \r\nReduce the load of the dumbbells.\r\n\r\nTo reduce the complexity of the movements, perform each with a single dumbbell.\r\n\r\nIn case of an injury or limitation, consider performing unloaded good mornings in place of the deadlifts. Perform jumping squats for the hang power cleans, and push-ups for the shoulder-to-overheads.\r\n\r\n**Intermediate option:**    \r\nComplete as many rounds and reps as possible in 10 minutes of:  \r\n12 dumbbell deadlifts  \r\n9 dumbbell hang power cleans  \r\n6 dumbbell shoulder-to-overheads\r\n\r\n♀ **20**-lb dumbbells  \r\n♂ **35**-lb dumbbells\r\n\r\n**Beginner option:**   \r\nComplete as many rounds and reps as possible in 10 minutes of:  \r\n12 dumbbell deadlifts  \r\n9 dumbbell hang power cleans  \r\n6 dumbbell shoulder-to-overheads\r\n\r\n♀ **10**-lb dumbbells  \r\n♂ **15**-lb dumbbells\r\n\r\n**Coaching cues:**  \r\nWhen performing shoulder-to-overheads with the dumbbells, focus on pressing the weight overhead with your biceps next to your ears.\r\n\r\n**Resources:**    \r\n[The Dumbbell Deadlift](https://www.crossfit.com/essentials/the-dumbbell-deadlift)    \r\n[The Dumbbell Hang Power Clean](https://www.crossfit.com/essentials/the-dumbbell-hang-power-clean?topicId=article.20210809075643175)    \r\n[The Dumbbell Push Press](https://www.crossfit.com/essentials/the-dumbbell-push-press)     \r\n[The Dumbbell Push Jerk](https://www.crossfit.com/essentials/the-dumbbell-push-jerk)   \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "hero"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Chipper Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **50 double-unders**\n* **50 ring dips**\n* **50 double-unders**\n* **50 dumbbell box step-ups**\n* **50 double-unders**\n* **50 burpees**\n* **50 double-unders**\n\n♀ 35-lb dumbbells, 20-inch box\n♂ 50-lb dumbbells, 24-inch box",
+        "section_notes": [
+          "Chipper-style workout; advanced athletes aim for under 12 minutes.",
+          "Fast pace on double-unders; slower grind on dips, step-ups, and burpees.",
+          "For ring dips, drive knees up toward the chest at the bottom to kip more efficiently."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n50 double-unders  \r\n50 ring dips  \r\n50 double-unders  \r\n50 dumbbell box step-ups  \r\n50 double-unders  \r\n50 burpees  \r\n50 double-unders\r\n\r\n♀ 35-lb dumbbells, 20-inch box  \r\n♂ 50-lb dumbbells, 24-inch box\r\n\r\nPost time to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nToday’s effort is a chipper-style workout that could extend into the 15-minute time domain, while advanced athletes can push to finish in under 12 minutes. Attempt to move at a fast pace on the double-unders while the ring dips, step-ups, and burpees will be more of a slower grind. Consider breaking the ring dips up early to avoid muscular failure and attempt to maintain a steady and consistent pace on the step-ups and burpees. \r\n\r\n**Scaling:**  \r\nReduce the load of the dumbbells and the height of the box. Reduce the reps of each movement. Consider 30 reps of each movement.\r\n\r\nTo reduce the complexity of the jump rope, perform 1 minute of double-under attempts for each set or perform single-unders. For the ring dips, perform jumping ring dips or foot-assisted ring dips.\r\n\r\nIn case of an injury or limitation, consider performing 10 calories on any machine in place of the jump rope. For the ring dips, consider banded ring dips, box dips, or push-ups. For the burpees, consider performing up-downs. For the dumbbell box step-ups, perform step-ups with no weight.\r\n\r\n**Intermediate option:**    \r\nFor time:  \r\n**30** double-unders  \r\n**30** jumping ring dips  \r\n**30** double-unders   \r\n**30** dumbbell box step-ups  \r\n**30** double-unders  \r\n**30** burpees  \r\n**30** double-unders\r\n\r\n♀ **20**-lb dumbbells, 20-inch box  \r\n♂ **35**-lb dumbbells, 24-inch box\r\n\r\n**Beginner option:**   \r\nFor time:  \r\n**30 single**-unders  \r\n**30 foot-assisted** ring dips  \r\n**30 single**-unders  \r\n**30 box step-ups**  \r\n**30 single**-unders  \r\n**30 up-downs**  \r\n**30 single**-unders\r\n\r\n♀ **12**-inch box  \r\n♂ **20**-inch box\r\n\r\n**Coaching cues:**  \r\nAs you descend to the bottom of a kipping ring dip, try to keep your legs somewhat straight. When you reach the bottom, drive your knees up toward your chest and press down into the rings. This knee drive will help you kip your dips more efficiently. \r\n\r\n**Resources:**    \r\n[The Double-Under](https://www.crossfit.com/essentials/the-double-under)    \r\n[The Ring Dip](https://www.crossfit.com/essentials/the-ring-dip)    \r\n[Dumbbell Box Step-Up](https://www.youtube.com/watch?v=tCZ5yde3F2U)    \r\n[The Burpee](https://www.crossfit.com/essentials/the-burpee-2)    \r\n[The Single-Under](https://www.crossfit.com/essentials/the-single-under)     \r\n[Ring Dip Scaling](https://www.youtube.com/watch?v=1X0GuD3twd0)     \r\n[Up-Down](https://www.youtube.com/watch?v=EbCy4PTp2Gs)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Squat Day",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat**\n\n10 sets of **2 reps**",
+        "section_notes": [
+          "Heavy day; build to a heavy set of 2 and attempt to maintain that load across all sets.",
+          "Focus on driving chest up and back into the bar during the lifting phase to keep torso upright."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat\r\n\r\n2-2-2-2-2-2-2-2-2-2\r\n\r\nPost loads to comments.\r\n\r\nCompare to [250331.](https://www.crossfit.com/workout/2025/03/31) \r\n\r\n**Stimulus and Strategy:**  \r\nToday is a heavy day. Keep in mind, heavy is relative to each athlete's capacity and experience. Look back at your previous attempt to help navigate today’s workout. As long as you are working to your limits, you will benefit from this effort. Experienced athletes should build to a heavy set of 2 and plan to go as heavy as possible across all sets. Newer athletes should start light, focus on mechanics, and slowly add weight as they are comfortable.\r\n\r\n**Scaling:**  \r\nTo adjust the complexity of the lift, consider performing goblet squats with a dumbbell or kettlebell.\r\n\r\nIn case of an injury or limitation, consider squatting with a single dumbbell or kettlebell. You can also lunge with a load or perform an unloaded air squat.\r\n\r\n**Intermediate option:**    \r\nSame as Rx’d.\r\n\r\n**Beginner option:**   \r\nSame as Rx’d.\r\n\r\n**Coaching cues:**  \r\nFocus on driving your chest up and back into the bar on the lifting phase. This will help to keep your torso upright and reduce issues of the hips raising too quickly. \r\n\r\n**Resources:**    \r\n[The Back Squat](https://www.crossfit.com/essentials/the-back-squat)\r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Helen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **Run 400 meters**\n* **21 kettlebell swings**\n* **12 pull-ups**\n\n♀ 35 lb\n♂ 53 lb",
+        "section_notes": [
+          "Classic benchmark; intended for fast pace with unbroken sets.",
+          "Tighten abdominals, glutes, and quads during the swing to avoid overextending the trunk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Helen**\r\n\r\n3 rounds for time of:  \r\nRun 400 meters  \r\n21 kettlebell swings  \r\n12 pull-ups\r\n\r\n♀ 35 lb  \r\n♂ 53 lb\r\n\r\nPost times to comments.\r\n\r\nCompare to [240327.](https://www.crossfit.com/240327)  \r\n\r\n**Stimulus and Strategy:**  \r\nHelen is a classic benchmark known for being a simple workout that packs a potent punch. The rep scheme is intended to allow athletes to perform this workout at a fast pace with unbroken sets and minimal transition time between movements. Advanced athletes can challenge themselves to complete this workout in under 7 minutes. \r\n\r\n**Scaling:**  \r\nReduce the load of the kettlebell. Reduce the distance of the run.\r\n\r\nTo reduce the demands of the pull-ups, consider reducing the reps to 6-8 or perform jumping pull-ups. For the kettlebell swings, reduce the range of motion and perform Russian kettlebell swings.\r\n\r\nIn case of injury or limitation, for the 400-meter run, perform 900/1,250 meters on the Echo bike or 400/500 meters on the rower. For the kettlebell swings, consider single-arm Russian kettlebell swings or kettlebell deadlifts. For the pull-ups, perform ring rows.\r\n\r\n**Intermediate option:**    \r\n3 rounds for time of:  \r\nRun 400 meters  \r\n21 kettlebell swings  \r\n**6** pull-ups\r\n\r\n♀ **26** lb  \r\n♂ **35** lb\r\n\r\n**Beginner option:**   \r\n3 rounds for time of:  \r\nRun **200** meters  \r\n**15** kettlebell swings  \r\n**9 jumping** pull-ups \r\n \r\n♀ **18** lb  \r\n♂ **26** lb  \r\n\r\n**Coaching cues:**  \r\nIn the kettlebell swing, tighten the abdominals, glutes, and quads to avoid overextension of the trunk when the kettlebell is in the overhead position. \r\n\r\n**Resources:**    \r\n[Running | Pulling and Foot Tapping](https://youtu.be/LSz-m-Gf3es)    \r\n[The Kettlebell Swing](https://www.crossfit.com/essentials/the-kettlebell-swing)    \r\n[The Kipping Pull-Up](https://www.crossfit.com/essentials/the-kipping-pull-up)    \r\n[Jumping Pull-Up Progression](https://youtu.be/KdjfFHefFkg)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "girls",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Topsy",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 25 minutes:\n* **3 ring muscle-ups**\n* **8 thrusters**\n* **17-calorie row**\n\n♀ 75 lb\n♂ 115 lb",
+        "section_notes": [
+          "Hero workout; maintain a consistent pace throughout.",
+          "Thrusters and muscle-ups are intended to be completed unbroken.",
+          "Use the row for recovery to maintain performance on other movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Topsy**\r\n\r\nComplete as many rounds and reps as possible in 25 minutes of:  \r\n3 ring muscle-ups  \r\n8 thrusters  \r\n17-calorie row\r\n\r\n♀ 75 lb  \r\n♂ 115 lb\r\n\r\nPost rounds and reps to comments.\r\n\r\nMcCoy “Topsy” Turner, a loved member of the CrossFit community and former Seminar Staff trainer, died by suicide on March 8, 2025, after suffering from complex post-traumatic stress. \r\n\r\nTurner served for 17 years in the Royal Navy, specializing as an exercise rehabilitation instructor. He was part of Operation Herrick when he served in Afghanistan before relocating to Bali and continuing his work in CrossFit education. Turner worked more than 250 Level 1 and Level 2 Seminars. \r\n\r\nTurner was known for his warmth and kindness, and touched countless lives who attended CrossFit courses. He is survived by his sons Brodie and Tommy.\r\n\r\n**Stimulus and Strategy:**  \r\nThis Hero workout is a triplet where athletes can attempt to move at a consistent pace throughout the duration of the workout. The load on the thruster and the ring muscle-ups are intended to be completed unbroken. Row at a pace that allows for some recovery to allow for adequate performance on the remaining movement. Since this is a Hero workout, athletes can attempt it as prescribed even if the intended stimulus is not met. Embrace the challenge. \r\n\r\n**Scaling:**  \r\nReduce the loading of the barbell. Reduce the reps of the ring muscle-ups. Reduce the calories on the rower.\r\n\r\nTo reduce the complexity of the ring muscle-ups, consider jumping ring muscle-ups.\r\n\r\nIn case of injury or limitation, consider performing low-ring muscle-up transitions for the ring muscle-up. If necessary, consider a combination of 2-3 ring rows and 2-3 push-ups from the knees. For the thrusters, perform front squats if you have an overhead limitation or push presses for a squat limitation. For the rower, consider performing the same calories on any available machine.\r\n\r\n**Intermediate option:**    \r\nComplete as many rounds and reps as possible in 25 minutes of:  \r\n3 **jumping** ring muscle-ups  \r\n8 thrusters  \r\n17-calorie row\r\n\r\n♀ **55** lb  \r\n♂ **75** lb\r\n\r\n**Beginner option:**   \r\n**Every 5 minutes for 5 sets:**  \r\n3 **low-ring** muscle-up **transitions**  \r\n8 thrusters  \r\n**12**-calorie row\r\n\r\n♀ **35** lb  \r\n♂ **45** lb\r\n\r\n**Coaching cues:**  \r\nOn the thruster, keep the barbell connected to the shoulders until the lower body aggressively extends. At this point, use the upper body to press the bar into the overhead position. Proper timing will enhance the efficiency of this movement and allow for better performance in the muscle-up.  \r\n\r\n**Resources:**   \r\n[The Kipping Ring Muscle-Up](https://www.crossfit.com/essentials/the-kipping-muscle-up)     \r\n[The Thruster](https://www.crossfit.com/essentials/the-thruster)    \r\n[Rowing Technique Tips](https://www.crossfit.com/essentials/rowing)    \r\n[Jumping Ring Muscle-Up](https://youtu.be/ozRLBoADeDo)    \r\n[Low-Ring Muscle-Up Transition](https://youtu.be/_YA5xtji-KM)",
+      "date": "2025-06-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "hero",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time and load of:\n* **10 box jumps**\n* **10 deadlifts**\n\nRest 1 minute between rounds.\n\n♀ 24-inch box\n♂ 30-inch box",
+        "section_notes": [
+          "Short efforts with incomplete recovery.",
+          "Deadlift weight is athlete's choice; must allow 10 consecutive reps with sound mechanics.",
+          "Use an upward swinging motion of the arms to enhance box jump performance."
+        ]
+      },
+      {
+        "section_name": "accessory",
+        "section_content": "Accumulate **3 minutes of an L-sit** in as few sets as possible.",
+        "section_notes": []
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time and load of:  \r\n10 box jumps  \r\n10 deadlifts\r\n\r\n\r\nRest 1 minute between rounds.\r\n\r\n♀ 24-inch box  \r\n♂ 30-inch box\r\n\r\n**Post-Workout**  \r\nAccumulate 3 minutes of an L-sit in as few sets as possible.\r\n\r\nPost time for each interval and load used on the deadlifts to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nEach effort of this interval workout is intended to be short with a rest period that won’t allow for total recovery. The box jump height is intended to be challenging but allow for a consistent pace. The deadlift weight is up to you and can be changed as needed throughout the workout. The goal is to use a challenging load that allows for all 10 reps to be completed consecutively with sound mechanics. Expect the fatigue in the posterior chain to make each movement significantly more difficult in the later rounds. \r\n\r\n**Scaling:**  \r\nReduce the height of the box and the weight on the deadlift. \r\n\r\nTo reduce the complexity of the box jumps, perform step-ups. For the post-workout skill work, reduce the length of the legs by bending the knees and tucking them in close to your chest.\r\n\r\nIn case of injury or limitation, for the deadlifts, to keep your torso more upright and avoid having to navigate the knees, consider sumo-stance kettlebell or dumbbell deadlifts. You may also choose unloaded good mornings. For the L-sit holds, perform seated leg raise holds or plank holds.\r\n\r\n**Intermediate option:**    \r\n5 rounds for time and load of:  \r\n10 box jumps  \r\n10 deadlifts\r\n\r\nRest 1 minute between rounds.\r\n\r\n♀ **20**-inch box  \r\n♂ **24**-inch box\r\n\r\n**Post-Workout**  \r\nAccumulate 3 minutes of an L-sit **with both knees tucked** in as few sets as possible\r\n\r\n**Beginner option:**   \r\n5 rounds for time and load of:  \r\n10 box **step-ups**   \r\n10 deadlifts\r\n\r\nRest 1 minute between rounds. \r\n\r\n♀ **12**-inch box  \r\n♂ **20**-inch box\r\n\r\n**Post Workout**  \r\nAccumulate **2** minutes of a **plank hold with the knees on the ground** in as few sets as possible\r\n\r\n**Coaching cues:**  \r\nThe box jump is not just about legs. Use an upward swinging motion of your arms as you prepare to jump to enhance your performance.\r\n\r\n**Resources:**    \r\n[The Box Jump](https://www.crossfit.com/essentials/the-box-jump)    \r\n[The Deadlift](https://www.crossfit.com/essentials/the-deadlift)    \r\n[The Box Step-Up](https://www.crossfit.com/essentials/the-box-step-up)  \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "accessory"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Grace Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **400-meter run**\n* **30 clean and jerks**\n* **200-meter run**\n\n♀ 95 lb\n♂ 135 lb",
+        "section_notes": [
+          "Combines benchmark Grace with 600m total running.",
+          "Intended as a short, fast effort (target 5-6 minutes).",
+          "Transition immediately from the clean catch position into the drive phase of the jerk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n400-meter run  \r\n30 clean and jerks  \r\n200-meter run\r\n\r\n♀ 95 lb  \r\n♂ 135 lb\r\n\r\nPost time to comments.\r\n\r\n**Stimulus and Strategy:**  \r\nThis chipper combines the classic benchmark workout Grace, alongside 600 total meters of running. This is intended to be a short effort with a fast pace in mind. The load on the clean and jerks is intended to be moderate and allow for some small unbroken sets combined with consistent singles performed with minimal rest between reps. Advanced athletes can storm through this workout at a blistering pace and attempt to complete it in around 5-6 minutes. Can anyone complete this in sub-5 minutes?\r\n\r\n**Scaling:**  \r\nReduce the loading of the barbell. Reduce the distance of each run.\r\n\r\nTo reduce the complexity of the clean and jerk, consider performing a hang clean and jerk with a barbell or a pair of dumbbells.\r\n\r\nIn case of injury or limitation, for the 400-meter run, perform 400/500 meters on the rower or ski erg, or 900/1,250 meters on the Echo bike. For the 200-meter run, perform 200/250 meters on the rower or ski erg, or 500/700 meters on the Echo bike. For the clean and jerks, if there is an overhead limitation, perform a power clean only. If there is a wrist limitation, use one or two dumbbells.\r\n\r\n**Intermediate option:**    \r\nFor time:  \r\n400-meter run  \r\n30 clean and jerks  \r\n200-meter run\r\n\r\n♀ **65** lb  \r\n♂ **95** lb\r\n\r\n**Beginner option:**   \r\nFor time:  \r\n**200**-meter run  \r\n30 clean and jerks  \r\n200-meter run\r\n\r\n♀ **35** lb  \r\n♂ **45** lb\r\n\r\n**Coaching cues:**  \r\nFor clean and jerks, attempt to transition immediately from the clean catch position into the drive phase of the jerk. \r\n\r\n**Resources:**    \r\n[Banded Running Drill](https://youtu.be/rQmYOLMfSTo)    \r\n[The Power Clean and Jerk](https://www.crossfit.com/essentials/the-power-clean-split-jerk)    \r\n\r\n**Find a gym near you:**  \r\n[View the CrossFit map](https://www.crossfit.com/map?utm_source=owned&utm_medium=internal&utm_campaign=mswod)",
+      "date": "2025-06-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  }
+]

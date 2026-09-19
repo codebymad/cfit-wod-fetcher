@@ -1,0 +1,535 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Strict Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 10 minutes of:\n\n* **Echo Bike**: 10-cal\n* **Strict Handstand Push-ups**: 10 reps",
+        "section_notes": [
+          "Modify the gymnastics element to a pushing exercise that allows you to complete the reps in 1-2 sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \r\n\r\n10-cal Echo bike  \r\n10 strict handstand push-ups\r\n\r\nPost rounds completed to comments.\r\n___\r\n**Scaling:**  \r\nModify the gymnastics element to a pushing exercise that allows you to complete the reps in 1-2 sets.\r\n\r\n**Intermediate Option:**   \r\n Complete as many rounds as possible in 10 minutes of:  \r\n10-cal Echo bike  \r\n**5** strict handstand push-ups\r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in 10 minutes of:  \r\n10-cal Echo bike  \r\n10 **push-ups**",
+      "date": "2022-03-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead Squat**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Heavy overhead squats challenge your strength while demanding solid mechanics and good flexibility."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 3-3-3-3-3 reps\r\n\r\nPost loads to comments.  \r\nCompare to [210128](https://www.crossfit.com/210128).\r\n___\r\n**Scaling:**  \r\nHeavy overhead squats challenge your strength while demanding solid mechanics and good flexibility. Athletes at all skill levels should attempt overhead squat triples. Experienced athletes can go as heavy as possible, while newer athletes will use this workout as an opportunity to drill the movement, potentially increasing the reps for more practice.",
+      "date": "2022-03-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 22.2",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "1-2-3-4-5-6-7-8-9-10-9-8-7-6-5-4-3-2-1 reps for time of:\n\n* **Deadlifts**: ♀ 155 lb / ♂ 225 lb\n* **Bar-facing Burpees**\n\nTime cap: 10 minutes",
+        "section_notes": [
+          "Maintain a steady pace through the ascending and descending rep scheme."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Workout 22.2](https://games.crossfit.com/workouts/open/2022/2)  \r\n1-2-3-4-5-6-7-8-9-10-9-8-7-6-5-4-3-2-1 reps for time of:  \r\n\r\nDeadlifts  \r\nBar-facing burpees \r\n \r\n♀ 155 lb  ♂ 225 lb \r\n \r\nTime cap: 10 minutes \r\n \r\nVisit the [CrossFit Games website](https://games.crossfit.com/) for all versions of the workout.",
+      "date": "2022-03-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Engine Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 25 minutes of:\n\n* **Push-ups**: 20 reps\n* **Sit-ups**: 30 reps\n* **Row**: 40-cal",
+        "section_notes": [
+          "Reduce the number of reps of each exercise in this longer AMRAP so you can keep moving with very little rest."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 25 minutes of:  \r\n\r\n20 push-ups    \r\n30 sit-ups  \r\n40-cal. row\r\n\r\nPost rounds completed to comments.  \r\nCompare to [180418](https://www.crossfit.com/workout/2018/04/18#/comments).\r\n___\r\n**Scaling:**  \r\nReduce the number of reps of each exercise in this longer AMRAP so you can keep moving with very little rest.\r\n\r\n**Intermediate Option:**\r\n Complete as many rounds as possible in 25 minutes of:  \r\n**10** push-ups    \r\n**20** sit-ups  \r\n**30-cal.** row   \r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in **20 minutes** of:  \r\n**10 knee** push-ups    \r\n**15** sit-ups  \r\n**20-cal.** row",
+      "date": "2022-03-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk Max",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Experienced athletes should pick loads that allow them to attempt to set a PR in the later sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and jerk 1-1-1-1-1-1-1 reps\r\n\r\nPost loads to comments.  \r\nCompare to [210209](https://www.crossfit.com/210209).\r\n___\r\n**Scaling:**  \r\nExperienced athletes should pick loads that allow them to attempt to set a PR in the later sets. Newer athletes should maintain the single repetitions of the clean and jerk, but focus on mechanics for each rep.",
+      "date": "2022-03-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "8 rounds for time of:\n\n* **Run**: 400 meters\n* **Rest**: 90 seconds",
+        "section_notes": [
+          "Each run should be an all-out effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "8 rounds for time of:\r\n\r\nRun 400 meters  \r\nRest 90 seconds\r\n \r\nPost total time to comments, not including eighth rest.  \r\nCompare to [180221](https://www.crossfit.com/search/180221).\r\n___\r\n**Scaling:**  \r\nEach run should be an all-out effort. If you cannot run 400 meters in less than 2 minutes, reduce the distance. Intermediate athletes can complete this workout as prescribed. Newer athletes might want to reduce the number of rounds.\r\n \r\n**Beginner Option:**  \r\n**5 rounds** for time of:  \r\nRun 400 meters  \r\nRest 90 seconds",
+      "date": "2022-03-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Progression",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Muscle Snatch**: 1-1-1-1-1 reps\n* **Power Snatch**: 1-1-1-1-1 reps\n* **Squat Snatch**: 1-1-1-1-1 reps",
+        "section_notes": [
+          "This progression of snatch variations should prepare you well for the attempts at a 1-rep-max squat snatch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Muscle snatch 1-1-1-1-1 reps  \r\nPower snatch 1-1-1-1-1 reps  \r\nSquat snatch 1-1-1-1-1 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [210323](https://www.crossfit.com/210323).\r\n___\r\n**Scaling:**  \r\nMost athletes will be able to do this workout as prescribed. This progression of snatch variations should prepare you well for the attempts at a 1-rep-max squat snatch. Experienced lifters should try to go heavy, while newer athletes should focus on mechanics and worry less about adding weight.",
+      "date": "2022-03-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 22.3",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* 21 **Pull-ups**\n* 42 **Double-unders**\n* 21 **Thrusters** (♀ 65 lb / ♂ 95 lb)\n* 18 **Chest-to-bar Pull-ups**\n* 36 **Double-unders**\n* 18 **Thrusters** (♀ 75 lb / ♂ 115 lb)\n* 15 **Bar Muscle-ups**\n* 30 **Double-unders**\n* 15 **Thrusters** (♀ 85 lb / ♂ 135 lb)\n\nTime cap: 12 minutes",
+        "section_notes": [
+          "Weight increases as the reps decrease."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Workout 22.3](https://games.crossfit.com/workouts/open/2022/3)  \r\nFor time:  \r\n\r\n21 pull-ups  \r\n42 double-unders  \r\n21 thrusters (weight 1)  \r\n18 chest-to-bar pull-ups   \r\n36 double-unders  \r\n18 thrusters (weight 2)   \r\n15 bar muscle-ups  \r\n30 double-unders  \r\n15 thrusters (weight 3)  \r\n\r\n♀ 65 lb, then 75 lb, then 85 lb  \r\n♂ 95 lb, then 115 lb, then 135 lb  \r\n\r\nTime cap: 12 minutes \r\n\r\nVisit the [CrossFit Games website](https://games.crossfit.com/) for all versions of the workout.",
+      "date": "2022-03-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n\n* **Row**: 500 meters\n* **Hang Power Snatches**: 21 reps (♀ 55 lb / ♂ 75 lb)",
+        "section_notes": [
+          "This is meant to be a light weight for the hang power snatch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n\r\nRow 500 meters  \r\n21 hang power snatches\r\n\r\n♀ 55 lb ♂ 75 lb\r\n\r\nPost time to comments.  \r\nCompare to [070418](https://www.crossfit.com/search/070418).\r\n___\r\n**Scaling:**  \r\nThis is meant to be a light weight for the hang power snatch. Choose a loading that allows you to complete the reps in 3 sets or less. \r\n \r\n**Beginner Option:**  \r\n3 rounds for time of:  \r\nRow **300 meters**  \r\n**15** hang power snatches\r\n\r\n**♀ 22 lb ♂ 35 lb**",
+      "date": "2022-03-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Volume",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Strict Handstand Push-ups**: 15 reps\n* **Strict Ring Dips**: 15 reps\n* **Row**: 1,000 meters",
+        "section_notes": [
+          "This is a high-volume workout; each round will likely need to be broken into multiple small sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\n15 strict handstand push-ups  \r\n15 strict ring dips  \r\n1,000-m row \r\n \r\nPost time to comments.  \r\nCompare to [210426](https://www.crossfit.com/210426).\r\n***\r\n**Scaling:**  \r\nModify the gymnastics movements while keeping it challenging. Each round will likely need to be broken into multiple small sets, particularly as you fatigue in the later rounds. This is a high-volume workout, so newer athletes may choose to reduce the reps and/or rounds.\r\n\r\n**Intermediate Option:**   \r\n5 rounds for time of:  \r\n**10** strict handstand push-ups  \r\n**10** strict ring dips  \r\n1,000-m row  \r\n\r\n**Beginner Option:**  \r\n**3** rounds for time of:  \r\n15 **assisted push-ups**  \r\n15 **assisted** ring dips  \r\n**750**-m row",
+      "date": "2022-03-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pull and Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many reps as possible in 21 minutes of:\n\n* **Run** (Distance varies by time window):\n    * 0:00-7:00: 400 meters\n    * 7:00-14:00: 200 meters\n    * 14:00-21:00: 100 meters\n* **Max-rep Strict Pull-ups**\n\n*Note: Each time you break a set of pull-ups, complete the corresponding run.*",
+        "section_notes": [
+          "Choose a pulling exercise that allows you to complete at least 10 reps unbroken in the early rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many reps as possible in 21 minutes of:\r\n \r\nRun 400/200/100 meters  \r\nMax-rep strict pull-ups  \r\n \r\nEach time you break a set of pull-ups, complete a run. From 0:00-7:00 run 400, from 7:00-14:00 run 200, and from 14:00-21:00 run 100. \r\n \r\nPost number of strict pull-ups completed each round to comments.\r\nCompare to [210102](https://www.crossfit.com/210102).\r\n___\r\n**Scaling:**   \r\nChoose a pulling exercise that is challenging but allows you to complete at least 10 reps unbroken in the early rounds. If at any point you cannot complete 3 reps unbroken, switch to an easier form of pull-up.\r\n \r\n**Beginner Option:**  \r\nComplete as many reps as possible in 14 minutes of:   \r\nJog 200 meters  \r\n10 ring rows",
+      "date": "2022-03-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hang Squat Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Hang Squat Clean**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "The hang squat clean is a good opportunity to practice full hip and leg extension, and speed under the bar."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang squat clean 3-3-3-3-3-3-3 reps  \r\n \r\nPost loads to comments.  \r\nCompare to [210719](https://www.crossfit.com/210719).\r\n___\r\n**Scaling:**  \r\nThe hang squat clean is a good opportunity to practice full hip and leg extension, and speed under the bar. Ideally, each set will be as heavy as possible for 3 reps, but newer athletes should start light and slowly add weight as they are comfortable.",
+      "date": "2022-03-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Triple Threat AMRAP",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n\n* **Wall-ball Shots**: 10 reps (♀ 14-lb / ♂ 20-lb)\n* **Toes-to-bars**: 10 reps\n* **Box Jumps**: 10 reps (♀ 20-in / ♂ 24-in)",
+        "section_notes": [
+          "Choose modifications that allow you to complete each set with minimal rest."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:\r\n\r\n10 wall-ball shots  \r\n10 toes-to-bars  \r\n10 box jumps\r\n\r\n♀ 14-lb ball, 20-in box   \r\n♂ 20-lb ball, 24-in box\r\n\r\nPost rounds completed to comments.  \r\nCompare to [110926](https://www.crossfit.com/workout/2011/09/26#/comments).\r\n___\r\n**Scaling:**  \r\nChoose modifications that allow you to complete each set with minimal rest. Intermediate athletes can do this workout as prescribed, while deconditioned athletes should limit the number of rounds. \r\n \r\n**Beginner Option:**  \r\n**4 rounds for time of:**   \r\n10 wall-ball shots  \r\n10 **hanging knee raises**   \r\n10 box jumps\r\n\r\n**♀ 6-lb ball, 12-in box  \r\n♂ 10-lb ball, 20-in box**",
+      "date": "2022-03-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Weighted Pull Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five 3-minute rounds of:\n\n* **Push Presses**: 10 reps (♀ 105 lb / ♂ 155 lb)\n* **Weighted Strict Pull-ups**: Max reps\n\nRest 2 minutes between rounds. Each round, decrease weight on the pull-ups:\n* ♀: 25-20-15-10-5 lb\n* ♂: 35-30-25-20-15 lb",
+        "section_notes": [
+          "Choose a weight you can use to complete at least 5 push presses when fresh."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five 3-minute rounds of:\r\n\r\n10 push presses  \r\nMax-rep weighted strict pull-ups  \r\nRest 2 minutes between rounds. Each round, decrease weight on the pull-ups.  \r\n\r\n♀ push press 105 lb, pull-up 25-20-15-10-5 lb  \r\n♂ push press 155 lb, pull-up 35-30-25-20-15 lb\r\n \r\nPost reps completed each round to comments.\r\n\r\n___\r\n**Scaling:**  \r\nReduce the weight on both exercises. Choose a weight you can use to complete at least 5 push presses when fresh. If you do not yet have a strict pull-up, use a band for assistance or perform ring rows.\r\n\r\n**Intermediate Option:**  \r\n Five 3-minute rounds of:\r\n\r\n10 push presses  \r\nMax-rep weighted strict pull-ups  \r\nRest 2 minutes between rounds. Each round, decrease weight on the pull-ups.\r\n\r\n**♀ push press 95 lb, pull-up 20-15-10-5-5 lb  \r\n♂ push press 135 lb, pull-up 30-25-20-15-10 lb**\r\n\r\n**Beginner Option:**  \r\n**Three 3-minute rounds of:**\r\n\r\n10 push presses  \r\nMax-rep **assisted** pull-ups  \r\nRest 2 minutes between rounds. \r\n\r\n**♀ barbell-75 lb.  \r\n♂ barbell-55 lb.**",
+      "date": "2022-03-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "strength",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Back Squat Max",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Pick loads that allow you to attempt to set a PR in the later sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 1-1-1-1-1-1-1 reps \r\n\r\nPost load to comments.  \r\nCompare to [181021](https://www.crossfit.com/workout/2018/10/21).\r\n___\r\n**Scaling:**  \r\nPick loads that allow you to attempt to set a PR in the later sets. If you are not comfortable performing very heavy back squats, add a few reps to each set and drill your mechanics, but try to expose yourself to a load that is relatively heavy for you.\r\n \r\n**Beginner Option:**  \r\nBack squat **3-3-3-2-2-1-1-1** reps",
+      "date": "2022-03-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n\n* **Barbell Lunges**: 15 reps (♀ 95 lb / ♂ 135 lb)\n* **Double-unders**: 75 reps",
+        "section_notes": [
+          "Reduce the load on the lunges if needed. If not proficient in double-unders, reduce reps or work on them for 2:00 each round."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n\r\n15 barbell lunges  \r\n75 double-unders\r\n \r\n♀ 95 lb ♂ 135 lb\r\n\r\nPost time to comments.\r\n___\r\n**Scaling:**  \r\nReduce the load on the lunges. If you are not proficient on the double-unders, reduce the reps or work on double-unders for 2:00 each round. \r\n\r\n**Intermediate Option:**  \r\n5 rounds for time of:  \r\n15 barbell lunges  \r\n**50** double-unders  \r\n\r\n**♀ 65 lb ♂ 95 lb**\r\n\r\n**Beginner Option:**  \r\n**4 rounds** for time of:  \r\n15 **lunges**  \r\n50 **single**-unders",
+      "date": "2022-03-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Step-up",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 20 minutes of:\n\n* **Strict Chest-to-bar Pull-ups**: 5 reps\n* **Ring Push-ups**: 10 reps\n* **Box Step-ups**: 20 reps (♀ 24-in / ♂ 30-in)",
+        "section_notes": [
+          "Consider the benchmark Cindy and choose modifications that are more challenging than your last performance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n\r\n5 strict chest-to-bar pull-ups  \r\n10 ring push-ups  \r\n20 box step-ups  \r\n \r\n♀ 24-in box ♂ 30-in box\r\n\r\nPost rounds completed to comments.   \r\nCompare to [200720](https://www.crossfit.com/200720).\r\n___\r\n**Scaling:**  \r\nConsider the benchmark Cindy and choose modifications that are more challenging than your last performance. \r\n\r\n**Intermediate Option:**    \r\n Complete as many rounds as possible in 20 minutes of:  \r\n5 **strict pull-ups**  \r\n**7** ring push-ups   \r\n20 box step-ups\r\n \r\n**♀ 24-in box ♂ 30-in box**\r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in 20 minutes of:  \r\n5 assisted pull-ups  \r\n10 assisted push-ups  \r\n20 box step-ups   \r\n \r\n**♀ 16-in box ♂ 20-in box**",
+      "date": "2022-03-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 7 minutes of:\n\n* **Squat Cleans**: 10 reps (♀ 65 lb / ♂ 95 lb)\n* **Sit-ups**: 20 reps",
+        "section_notes": [
+          "This couplet is light and short. Choose a weight for the squat clean that allows you to complete the reps in 1-2 sets each round."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 7 minutes of:\r\n\r\n10 squat cleans   \r\n20 sit-ups\r\n\r\n♀ 65 lb ♂ 95 lb \r\n\r\nPost rounds completed to comments.  \r\nCompare to [100506](https://www.crossfit.com/workout/2010/05/06#/comments).\r\n___\r\n**Scaling:**  \r\nThis couplet is light and short. Choose a weight for the squat clean that allows you to complete the reps in 1-2 sets each round. \r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in 7 minutes of:  \r\n10 squat cleans   \r\n20 sit-ups\r\n\r\n**♀ 22 lb ♂ 35 lb**",
+      "date": "2022-03-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Shoulder Press Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Shoulder Press**: 10-10-10-10-10 reps",
+        "section_notes": [
+          "Newer athletes should focus on maintaining sound mechanics rather than trying for max loads."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Shoulder press 10-10-10-10-10 reps  \r\n\r\nPost loads to comments.  \r\nCompare to [200423](https://www.crossfit.com/200423).\r\n___\r\n**Scaling:**  \r\nMost athletes can perform this workout as prescribed. Newer athletes should focus on maintaining sound mechanics rather than trying for max loads.",
+      "date": "2022-03-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Quarterfinal Workout 3",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n* 8 **Wall-ball Shots** / 4 **Shuttle Runs** / 1 **Rope Climb**\n* 16 **Wall-ball Shots** / 8 **Shuttle Runs** / 2 **Rope Climbs**\n* 24 **Wall-ball Shots** / 12 **Shuttle Runs** / 3 **Rope Climbs**\n* 32 **Wall-ball Shots** / 16 **Shuttle Runs** / 4 **Rope Climbs**\n* 24 **Wall-ball Shots** / 12 **Shuttle Runs** / 3 **Rope Climbs**\n* 16 **Wall-ball Shots** / 8 **Shuttle Runs** / 2 **Rope Climbs**\n* 8 **Wall-ball Shots** / 4 **Shuttle Runs** / 1 **Rope Climb**\n\nTime cap: 25 minutes\n\n♀ 14-lb ball, 10-ft target, 50-ft shuttle, 15-ft rope\n♂ 20-lb ball, 10-ft target, 50-ft shuttle, 15-ft rope",
+        "section_notes": [
+          "Choose a medicine ball that allows you to complete the large middle rounds in no more than 3 sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[2022 Individual Quarterfinal Workout 3](https://games.crossfit.com/workouts/onlinequalifiers/2022/3?division=1)\r\n\r\nFor time:  \r\n8 wall-ball shots  \r\n  &nbsp;&nbsp;4 shuttle runs   \r\n  &nbsp;&nbsp;1 rope climb  \r\n16 wall-ball shots  \r\n  &nbsp;&nbsp;8 shuttle runs  \r\n  &nbsp;&nbsp;2 rope climbs  \r\n24 wall-ball shots  \r\n  &nbsp;&nbsp;12 shuttle runs  \r\n  &nbsp;&nbsp;3 rope climbs  \r\n32 wall-ball shots  \r\n  &nbsp;&nbsp;16 shuttle runs  \r\n  &nbsp;&nbsp;4 rope climbs  \r\n24 wall-ball shots  \r\n &nbsp;&nbsp;12 shuttle runs  \r\n  &nbsp;&nbsp;3 rope climbs  \r\n16 wall-ball shots  \r\n  &nbsp;&nbsp;8 shuttle runs  \r\n  &nbsp;&nbsp;2 rope climbs  \r\n8 wall-ball shots  \r\n  &nbsp;&nbsp;4 shuttle runs  \r\n  &nbsp;&nbsp;1 rope climb  \r\n \r\nTime cap: 25 minutes\r\n \r\n ♀ 14-lb medicine ball, 10-ft target, 50-ft shuttle (25 out, 25 back), 15-ft rope  \r\n ♂ 20-lb medicine ball, 10-ft target, 50-ft shuttle (25 out, 25 back), 15-ft rope\r\n___\r\n**Scaling:**  \r\nIntermediate athletes can complete this workout as prescribed and just stop at the 25-minute cap. Choose a medicine ball that allows you to complete the large middle rounds in no more than 3 sets. Consider reducing the number of shuttle runs.\r\n\r\n**Beginner Option:**  \r\n 6-lb medicine ball, 9-ft target, 25-ft shuttle (out and back counts as 2), lying to standing rope climbs  \r\n 10-lb medicine ball, 9-ft target, 25-ft shuttle (out and back counts as 2), lying to standing rope climbs",
+      "date": "2022-03-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Burpees",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "9-6-3 reps for time of:\n\n* **Snatches** (♀ 135 lb / ♂ 185 lb)\n* **Burpee Box Jump-overs** (30-in box)",
+        "section_notes": [
+          "This workout should be performed at a sprint pace. The snatch load should be heavy enough that touch-and-go is not sustainable."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "9-6-3 reps for time of:  \r\n\r\nSnatches  \r\nBurpee box jump-overs\r\n\r\n♀ 30-in box, 135 lb  \r\n♂ 30-in box, 185 lb  \r\n\r\nPost time to comments.  \r\nCompare to [210411](https://www.crossfit.com/210411).\r\n___\r\n**Scaling:**  \r\nThis workout contains difficult movements at a low enough volume that they should be performed at a sprint pace. The snatch load should be heavy enough that touch-and-go is not sustainable but light enough that long breaks between reps can be avoided.\r\n\r\n**Intermediate Option:**  \r\n 9-6-3 reps for time of:  \r\nSnatches  \r\nBurpee box jump-overs  \r\n\r\n**♀ 24-in box, 115 lb**  \r\n♂ 30-in box, **155 lb**\r\n\r\n**Beginner Option:**  \r\n9-6-3 reps for time of:  \r\nSnatches  \r\nBurpee box step-overs  \r\n\r\n**♀ 15-in box, 55 lb  \r\n♂ 20-in box, 75 lb**",
+      "date": "2022-03-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Push AMRAP",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 10 minutes of:\n\n* **Deadlifts**: 15 reps (♀ 95 lb / ♂ 135 lb)\n* **Hand-release Push-ups**: 15 reps",
+        "section_notes": [
+          "The deadlifts are meant to be light and fast. Maintain a solid plank on the hand-release push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:\r\n\r\n15 deadlifts   \r\n15 hand-release push-ups  \r\n\r\n♀ 95 lb ♂135 lb\r\n\r\nPost rounds completed to comments.\r\n___\r\n**Scaling:**    \r\nA classic combo of deadlifts and pushing. The deadlifts are meant to be light and fast. On the hand-release push-up, descend to the floor in a solid plank, maintain tension, release the hands from the ground, and finally, rise with your chest and hips at the same rate. \r\n\r\n**Intermediate Option:**  \r\nComplete as many rounds as possible in 10 minutes of:   \r\n15 deadlifts   \r\n15 hand-release push-ups \r\n\r\n**♀ 75 lb ♂115 lb** \r\n\r\n**Beginner Option:**  \r\nComplete as many rounds as possible in 10 minutes of:  \r\n**10** deadlifts   \r\n**10 elevated** push-ups\r\n\r\n**♀ 45 lb ♂ 65 lb**",
+      "date": "2022-03-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Back Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**: 5-5-3-3-3-1-1-1-1-1 reps",
+        "section_notes": [
+          "Experienced athletes should pick loads that allow them to attempt to set a PR in the later sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-5-3-3-3-1-1-1-1-1 reps\r\n\r\nPost loads to comments.  \r\nCompare to [150319](https://www.crossfit.com/workout/2015/03/19).\r\n___\r\n**Scaling:**  \r\nExperienced athletes should pick loads that allow them to attempt to set a PR in the later sets. Newer athletes can use this session as an opportunity to drill the movement. \r\n\r\n**Beginner Option:**  \r\nBack squat **5-5-3-3-3-3-3-3-3-3 reps**",
+      "date": "2022-03-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  }
+]

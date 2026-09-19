@@ -1,0 +1,516 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds, for total reps, with 60 seconds at each exercise:\n* **95-pound Thruster**\n* **Pull-ups**",
+        "section_notes": [
+          "This is a fourteen-minute workout; the clock does not stop though the athlete may."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "7 rounds, for total reps, with 60 second at each exercise:  \n95-pound Thruster  \nPull-ups  \n  \nThis is a fourteen-minute workout; the clock does not stop though the athlete may. Post total reps to comments.",
+      "date": "2004-02-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* **Run 400 meters**\n* **50 Squats**",
+        "section_notes": [
+          "Maintain a steady pace on the run to allow for high-intensity squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds for time of:  \nRun 400 meters  \n50 Squats  \n  \nPost time to comments.",
+      "date": "2004-02-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kettlebell Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For total time, 30-20- and then 10 rep rounds of:\n* **1½ pood Kettlebell snatch** (left, then right arm)\n* **Pull-ups**",
+        "section_notes": [
+          "Focus on a powerful hip drive for the snatches."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For total time, 30-20- and then 10 rep rounds of:  \n1Â½ pood Kettlebell snatch, left, then right arm  \nPull-ups  \n  \nPost time to comments.",
+      "date": "2004-02-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Descent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Rounds at 15-13-11-9-7-5-3 and 1 reps of:\n* **Deadlift**\n* **Ring Dip**",
+        "section_notes": [
+          "Use one weight for all the deadlifts.",
+          "Dips are rock bottom. If dips are not done on rings, add five reps to each dip set."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Rounds at 15-13-11-9-7-5-3 and 1 reps of:  \nDeadlift  \nRing Dip  \n  \nPost load and time to comments. Use one weight for all the deadlifts. Dips are rock bottom. If dips are not done on rings add five reps to each dip set. Divide load in pound by time to completion to the nearest minute.   \n  \nTotal loads and times for Thursday, Friday, and Saturday workouts. Divide total weight in pounds by total time in minutes, rounding to the nearest minute.",
+      "date": "2004-02-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Rounds at 15-13-11-9-7-5-3 and 1 reps of:\n* **Barbell Thruster**\n* **Pull-ups**",
+        "section_notes": [
+          "Use one weight for all the thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Rounds at 15-13-11-9-7-5-3 and 1 reps of:   \nBarbell Thruster  \nPull-ups  \n  \nPost load and time to comments. Use one weight for all the thrusters. Divide load in pounds by time to completion to the nearest minute.   \n  \nTotal loads and times for Thursday, Friday, and Saturday workouts. Divide total weight in pounds by time in minutes, rounding to the nearest minute.",
+      "date": "2004-02-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Rounds at 15-13-11-9-7-5-3 and 1 reps of:\n* **Hang squat clean**\n* **Push-up**",
+        "section_notes": [
+          "Use one weight for all the cleans."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Rounds at 15-13-11-9-7-5-3 and 1 reps of:  \nHang squat clean   \nPush-up  \n  \nPost load and time to comments. Use one weight for all the cleans. Divide load in pounds by time to completion to the nearest minute.   \n  \nTotal loads and times for Thursday, Friday, and Saturday workouts. Divide total weight in pounds by total time in minutes, rounding to the nearest minute.",
+      "date": "2004-02-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wall Ball Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Wall-ball (28-pound ball)**: 50 reps\n* **Pull-ups**: 30 reps\n* **Wall-ball (28-pound ball)**: 30 reps\n* **Pull-ups**: 20 reps\n* **Wall-ball (28-pound ball)**: 20 reps\n* **Pull-ups**: 15 reps",
+        "section_notes": [
+          "Default wall-ball travel is two feet, calculated from an average 8 foot reach and ten foot center of target."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \nWall-ball 28-pound ball, 50 reps  \n30 Pull-ups  \nWall-ball 28-pound ball, 30 reps  \n20 Pull-ups  \nWall-ball 28-pound ball, 20 reps  \n15 Pull-ups  \n  \nOur wall-ball default value is 28 pound ball, two feet of travel calculated from an average 8 foot reach and ten foot center of target. Calculate your ball weight times reach to match 56 foot-pounds per rep.   \n  \nPost time to comments.",
+      "date": "2004-02-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Reach",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time:\n* **Overhead squat (65 pounds)**: 15 reps\n* **Row**: 500 meters\n* **Sit-ups**: 25 reps",
+        "section_notes": [
+          "Keep the core tight during overhead squats to maintain stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time:  \nOverhead squat 65 pounds, 15 reps  \nRow 500 meters  \n25 Sit-ups  \n  \nPost time to comments.",
+      "date": "2004-02-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle-up Mastery",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **30 Muscle-ups** (or 60 pull-ups and 60 dips)",
+        "section_notes": [
+          "Dips must be rock-bottom (below the nipples).",
+          "Pull-ups must be pulled to the sternum to approximate the muscle-up's value."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \n30 Muscle-ups or 60 pull-ups and 60 dips.  \nDips are rock-bottom (below the nipples), and pull-ups are pulled to the sternum to approximate the muscle-up's value.   \n  \nPost time to comments.",
+      "date": "2004-02-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bodyweight Burnout",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five slow rounds of:\n* **Deadlift (bodyweight)**: 15 reps\n* **Pull-ups**: Max reps\n* **Dips**: Max reps",
+        "section_notes": [
+          "Focus on controlled movement and quality reps since this is a slow-paced workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five slow rounds of:  \nDeadlift bodyweight, 15 reps  \nMax reps pull-ups  \nMax reps dips  \n  \nPost load and reps for each round to comments.",
+      "date": "2004-02-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Steady State 5K",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Run or Row 5K**",
+        "section_notes": [
+          "Choose the modality that best challenges your aerobic capacity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run or Row 5K  \n  \nPost time and modality to comments.",
+      "date": "2004-02-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Trio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Seven rounds for time of:\n* **5 Handstand push-ups**\n* **10 Pull-ups**\n* **20 Squats**",
+        "section_notes": [
+          "Maintain a consistent pace across all seven rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time of:   \n5 Handstand push-ups  \n10 Pull-ups  \n20 Squats  \n  \nPost time to comments.",
+      "date": "2004-02-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For Time:\n* **30 reps Clean & Jerk**",
+        "section_notes": [
+          "Score is calculated as pounds per second."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For Time:  \n30 reps Clean & Jerk   \n  \nPost load and time to comments as pounds per second. Example: 135 pounds/3:20 = .675 pounds/second",
+      "date": "2004-02-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Cardio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* **Run 400 meters**\n* **50 sit-ups**",
+        "section_notes": [
+          "Keep the transition between the run and sit-ups fast."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Four rounds for time of:  \nRun 400 meters   \n50 sit-ups  \n  \nPost time to comments.",
+      "date": "2004-02-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Descent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Dumbbell Snatch**\n* 20 right, 20 left\n* 10 right, 10 left\n* 5 right, 5 left",
+        "section_notes": [
+          "Focus on explosive power from the hips."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Dumbbell Snatch   \r\n20 right, 20 left  \r\n10 right , 10 left  \r\n5 right, 5 left  \r\n  \r\nPost loads to comments.",
+      "date": "2004-02-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For total time, 21-18-15-12-9-6- and then 3 rep rounds of:\n* **95-pound barbell thruster**\n* **Pull-ups**",
+        "section_notes": [
+          "Thrusters are from deep squat (less than ten inches) to overhead lockout.",
+          "Pull-ups are from full extension to chin over bar."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For total time, 21-18-15-12-9-6- and then 3 rep rounds of:  \n95-pound barbell thruster  \nPull-ups  \n  \n \"Thrusters\" are from deep squat (less than ten inches) to overhead lockout. Pull-ups are from full extension to chin over bar. Post time to comments.",
+      "date": "2004-02-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Swing and Throw",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For total time, 21-18-15-12-9-6- and then 3 rep rounds of:\n* **2 pood Kettlebell swing**\n* **20-pound medicine ball sit-up throw**",
+        "section_notes": [
+          "Kettlebell swing is to overhead (2 pood KB or 75 pound dumbbell).",
+          "For medicine ball throw, anchor feet under loaded bar and sit-up and throw to ten foot high target."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For total time, 21-18-15-12-9-6- and then 3 rep rounds of:  \n2 pood Kettlebell swing  \n20-pound medicine ball sit-up throw  \n  \nKettlebell swing is to overhead (2 pood KB or 75 pound dumbbell). For medicine ball throw anchor feet under loaded bar and sit-up and throw to ten foot high target for each rep. Post time to comments.",
+      "date": "2004-02-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For total time, 21-18-15-12-9-6- and then 3 rep rounds of:\n* **95 pound hang squat clean**\n* **Handstand push-ups**",
+        "section_notes": [
+          "Each rep of hang squat clean must be caught at deep squat and then brought to full hip and leg extension before unloading."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For total time, 21-18-15-12-9-6- and then 3 rep rounds of:  \n95 pound hang squat clean  \nHandstand push-ups  \n  \nEach rep of hang squat clean must be caught at deep squat and then brought to full hip and leg extension before unloading for next rep. Post time to comments.",
+      "date": "2004-02-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Double-unders",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds of:\n* **185 lb deadlift** x 10 reps\n* **25 Double unders**",
+        "section_notes": [
+          "Maintain a flat back during deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "7 rounds of:  \n185 lb deadlift x 10 reps  \n25 [double unders](http://media.crossfit.com/cf-video/doubleunders.wmv)  \n  \nPost time to comments.",
+      "date": "2004-02-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Run Mix",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete the following sequence:\n* **Tabata push-up**\n* **Run 800 meters**\n* **Tabata sit-ups**\n* **Run 800 meters**\n* **Tabata jumping pull-ups**\n* **Run 800 meters**",
+        "section_notes": [
+          "Rest 60 seconds after each Tabata effort and after each run effort.",
+          "Tabata interval: 8 intervals of 20 seconds work and 10 seconds rest."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata push-up  \nRun 800 meters  \nTabata sit-ups  \nRun 800 meters  \nTabata jumping pull-ups  \nRun 800 meters  \n  \nRest 60 seconds after each Tabata effort and after each run effort. The Tabata interval is 8 intervals of 20 seconds work and 10 seconds rest. It is scored by the least number of reps achieved in the 8 intervals.  \n  \nAdd your Tabata scores and divide the total by your totaled run times in seconds (i.e. 50/390 = .128 reps/second). Post score to comments.",
+      "date": "2004-02-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "EMOM",
+        "interval",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rock Bottom Squats",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squats**\n* 5-3-3-2-2-2-1-1-1-1 reps",
+        "section_notes": [
+          "Rock bottom! Aim for maximum depth and intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squats  \n5-3-3-2-2-2-1-1-1-1 reps  \n  \nRock bottom! Post loads to comments.",
+      "date": "2004-02-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jerk and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "How many rounds can you complete in 20 minutes of:\n* **95 lb Push Jerk** x 15 reps\n* **30 Air squats**",
+        "section_notes": [
+          "Keep a steady pace to maximize rounds within the 20-minute window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "How many rounds can you complete in 20 minutes of:  \n95 lb Push Jerk x 15 reps  \n30 Air squats  \n  \nPost rounds and reps completed to comments.",
+      "date": "2004-02-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP"
+      ]
+    }
+  }
+]

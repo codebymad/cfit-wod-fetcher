@@ -1,0 +1,562 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Press and Extend",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time of:\n* **Shoulder Presses** (75-lb): 21 reps\n* **Back Extensions**: 21 reps",
+        "section_notes": [
+          "Maintain a tight core during shoulder presses to avoid arching the back.",
+          "Focus on a full range of motion for the back extensions."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "7 rounds for time of:  \r\n75-lb. shoulder presses, 21 reps  \r\n21 back extensions  \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2008/10/12#/comments\" target=\"_blank\">081012</a>.",
+      "date": "2017-05-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Hang Squat Snatch**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on explosive hip extension and a fast descent into the squat.",
+          "Increase weight incrementally across the sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang squat snatch 3-3-3-3-3-3-3 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/06/29\" target=\"_blank\">160629</a>.",
+      "date": "2017-05-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 15 **Push Presses**\n* 5 **Rope Ascents**\n* 12 **Push Presses**\n* 4 **Rope Ascents**\n* 9 **Push Presses**\n* 3 **Rope Ascents**\n* 6 **Push Presses**\n* 2 **Rope Ascents**\n* 3 **Push Presses**\n* 1 **Rope Ascent**\n\n*Use 3/4 body weight for push presses and climb a 15-ft. rope.*",
+        "section_notes": [
+          "Maintain a consistent pace on the rope climbs to avoid early burnout.",
+          "Use a powerful dip and drive for the push presses."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n15 push presses  \r\n5 rope ascents  \r\n12 push presses  \r\n4 rope ascents  \r\n9 push presses  \r\n3 rope ascents  \r\n6 push presses  \r\n2 rope ascents   \r\n3 push presses  \r\n1 rope ascent  \r\n\r\nUse ¾ body weight for push presses and climb a 15-ft. rope.  \r\n\r\nPost time to comments.",
+      "date": "2017-05-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ball and Box",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20-10 reps for time of:\n* **Wall-ball Shots** (20-lb ball)\n* **Box Jumps** (24-in box)",
+        "section_notes": [
+          "Keep the chest up during wall-ball shots.",
+          "Step down from the box to save your Achilles and maintain a steady rhythm."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50-40-30-20-10 reps for time of:  \r\nWall-ball shots, 20-lb. ball  \r\nBox jumps, 24-in. box  \r\n\r\nPost time to comments.",
+      "date": "2017-05-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Quarter Gone Bad",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for total reps of:\n* **Thrusters** (135-lb): 15 seconds\n* Rest 45 seconds\n* **Weighted Pull-ups** (50-lb): 15 seconds\n* Rest 45 seconds\n* **Burpees**: 15 seconds\n* Rest 45 seconds",
+        "section_notes": [
+          "This is a high-intensity interval piece; go all-out during the 15-second work windows.",
+          "Focus on explosive movements to maximize reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Quarter Gone Bad**  \r\n \r\n5 rounds for total reps of:  \r\n135-lb. thrusters, 15 seconds  \r\nRest 45 seconds  \r\n50-lb. weighted pull-ups, 15 seconds  \r\nRest 45 seconds  \r\nBurpees, 15 seconds  \r\nRest 45 seconds  \r\n\r\nPost total reps for all five rounds to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2008/04/13#/comments\" target=\"_blank\">080413</a>.",
+      "date": "2017-05-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upside Down Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 12 minutes:\n* **Run**: 200 meters\n* **Handstand Walk**: 50-ft\n* **Handstand Hold**: 30 seconds",
+        "section_notes": [
+          "Maintain a steady pace on the run to keep your heart rate manageable for the gymnastics.",
+          "Keep a tight midline during the handstand walk and hold."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 12 minutes of:  \r\nRun 200 meters    \r\n50-ft. handstand walk   \r\n30-second handstand hold  \r\n\r\nPost rounds completed to comments.",
+      "date": "2017-05-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Muscle",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 150 **Single-unders**\n* 20 **Bar Muscle-ups**\n* 10 **Squat Cleans** (115 lb)\n* 150 **Single-unders**\n* 15 **Bar Muscle-ups**\n* 15 **Squat Cleans** (115 lb)\n* 150 **Single-unders**\n* 10 **Bar Muscle-ups**\n* 20 **Squat Cleans** (115 lb)\n* 150 **Single-unders**",
+        "section_notes": [
+          "Break the muscle-ups into manageable sets to avoid failure.",
+          "Keep the squat cleans crisp and avoid rounding the back."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n150 single-unders  \r\n20 bar muscle-ups  \r\n10 squat cleans, 115 lb.  \r\n150 single-unders  \r\n15 bar muscle-ups  \r\n15 squat cleans, 115 lb.  \r\n150 single-unders  \r\n10 bar muscle-ups  \r\n20 squat cleans, 115 lb.  \r\n150 single-unders  \r\n\r\nPost time to comments.",
+      "date": "2017-05-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Power Pair",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Dumbbell Snatches**\n* **Ring Dips**\n\n*Men: 80-lb dumbbell / Women: 55-lb dumbbell*",
+        "section_notes": [
+          "Use a powerful hip drive for the snatches.",
+          "Keep the core tight during ring dips to minimize swinging."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2017/2\" target=\"_blank\">2017 Regional Event 2</a>    \r\n\r\n21-15-9 reps for time of:  \r\nDumbbell snatches  \r\nRing dips  \r\n\r\nMen use an 80-lb. dumbbell  \r\nWomen use a 55-lb. dumbbell \r\n\r\nPost time to comments.",
+      "date": "2017-05-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "open"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 20 minutes:\n* **Run**: 400 meters\n* **GHD Sit-ups**: 20 reps\n* **Overhead Squats** (95-lb): 10 reps",
+        "section_notes": [
+          "Maintain a steady pace on the run to allow for quality overhead squats.",
+          "Keep the bar path vertical and the core braced during the squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\nRun 400 meters  \r\n20 GHD sit-ups  \r\n95-lb. overhead squats, 10 reps  \r\n\r\nPost rounds completed to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/04/02#/comments\" target=\"_blank\">160402</a>.",
+      "date": "2017-05-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Lifts",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Sumo Deadlift**: 5-5-5-5-5 reps\n* **Bench Press**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on explosive concentric movements and controlled eccentrics.",
+          "Ensure a stable base for the sumo deadlift."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Sumo deadlift 5-5-5-5-5 reps  \r\nBench press 5-5-5-5-5 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/10/22#/comments\" target=\"_blank\">151022</a>.",
+      "date": "2017-05-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Dumbbell Overhead Walking Lunge**: 100-ft\n* **Double-unders**: 100 reps\n* **Wall-ball Shots**: 50 reps\n* **Rope Climb** (15-ft): 10 ascents\n* **Wall-ball Shots**: 50 reps\n* **Double-unders**: 100 reps\n* **Dumbbell Overhead Walking Lunge**: 100-ft\n\n*Men: 80-lb DB / 30-lb ball | Women: 55-lb DB / 20-lb ball*",
+        "section_notes": [
+          "Keep the dumbbell locked out overhead during the lunges.",
+          "Pace the rope climbs to avoid grip failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2017/3\" target=\"_blank\">2017 Regional Event 3</a>      \r\n  \r\nFor time:  \r\n100-ft. dumbbell overhead walking lunge  \r\n100 double-unders  \r\n50 wall-ball shots  \r\n15-ft. rope climb, 10 ascents  \r\n50 wall-ball shots  \r\n100 double-unders  \r\n100-ft. dumbbell overhead walking lunge  \r\n\r\nMen use an 80-lb. dumbbell and 30-lb. ball  \r\nWomen use a 55-lb. dumbbell and 20-lb. ball  \r\n\r\nPost time to comments.",
+      "date": "2017-05-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "benchmark",
+        "open"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pure Row",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Row**: 1,000 meters",
+        "section_notes": [
+          "Maintain a consistent split time throughout the row.",
+          "Focus on powerful leg drive."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 1,000 meters  \r\n\r\nPost time to comments.",
+      "date": "2017-05-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 20 minutes:\n* **Run**: 400 meters\n* **Body-weight Overhead Squats**: Max reps",
+        "section_notes": [
+          "The goal is to maximize the number of overhead squats each round.",
+          "Keep the chest up and maintain stability in the overhead position."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many reps as possible in 20 minutes of:   \r\nRun 400 meters  \r\nMax rep body-weight overhead squats  \r\n\r\nPost number of overhead squats completed each round to comments.",
+      "date": "2017-05-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Vest Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time, wearing a weight vest:\n* **Run**: 1,200-m\n* 12 rounds of:\n    * 4 **Strict Handstand Push-ups**\n    * 8 **Chest-to-bar Pull-ups**\n    * 12 **Squats**\n\n*Men: 20-lb vest / Women: 14-lb vest*",
+        "section_notes": [
+          "The run is a buy-in; don't sprint it so hard that you fail the strict HSPU.",
+          "Maintain a strict press on the handstand push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2017/1\" target=\"_blank\">2017 Regional Event 1</a>\r\n\r\nFor time, wearing a weight vest:  \r\n1,200-m run  \r\nThen, 12 rounds of:  \r\n  4 strict handstand push-ups  \r\n  8 chest-to-bar pull-ups  \r\n  12 squats  \r\n  \r\nMen wear a 20-lb. vest  \r\nWomen wear a 14-lb. vest\r\n\r\nPost time to comments.",
+      "date": "2017-05-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "open",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Heavy Walk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Handstand Walk**: 60-ft\n* **Toes-to-bars**: 10 reps\n* **Double Kettlebell Deadlifts**: 10 reps\n* **Handstand Walk**: 60-ft\n* **Toes-to-bars**: 12 reps\n* **Double Kettlebell Deadlifts**: 12 reps\n* **Handstand Walk**: 60-ft\n* **Toes-to-bars**: 14 reps\n* **Double Kettlebell Deadlifts**: 14 reps\n* **Handstand Walk**: 60-ft\n* **Toes-to-bars**: 16 reps\n* **Double Kettlebell Deadlifts**: 16 reps\n\n*Kettlebells should be heavy.*",
+        "section_notes": [
+          "Keep the core braced during the heavy deadlifts.",
+          "Focus on shoulder stability during the handstand walk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2017/4\" target=\"_blank\">2017 Regional Event 4</a>\r\n\r\nFor time:  \r\n60-ft. handstand walk  \r\n10 toes-to-bars  \r\n10 double kettlebell deadlifts  \r\n60-ft. handstand walk  \r\n12 toes-to-bars  \r\n12 double kettlebell deadlifts  \r\n60-ft. handstand walk  \r\n14 toes-to-bars  \r\n14 double kettlebell deadlifts  \r\n60-ft. handstand walk  \r\n16 toes-to-bars  \r\n16 double kettlebell deadlifts  \r\n\r\nKettlebells should be heavy. If you don’t have heavy kettlebells or dumbbells, use 2 barbells.\r\n\r\nPost time to comments.",
+      "date": "2017-05-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "open",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Snatch",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **Row**: 250 meters\n* **Squat Snatches** (65-lb): 12 reps\n* **Push-ups**: 21 reps",
+        "section_notes": [
+          "Keep the snatch movements fluid and efficient.",
+          "Maintain a flat back during the push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\nRow 250 meters  \r\n65-lb. squat snatches, 12 reps  \r\n21 push-ups  \r\n\r\nPost time to comments.",
+      "date": "2017-05-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Olympic Triple",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Hang Squat Clean**: 3-3-3 reps\n* **Front Squat**: 3-3-3 reps\n* **Split Jerk**: 3-3-3 reps",
+        "section_notes": [
+          "Focus on technical precision over weight.",
+          "Ensure full depth on the front squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang squat clean 3-3-3 reps  \r\nFront squat 3-3-3 reps  \r\nSplit jerk 3-3-3 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2005/02/19#/comments\" target=\"_blank\">050219</a>.",
+      "date": "2017-05-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Overhead Pair",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Muscle-ups**\n* **Single-arm Overhead Squats**\n\n*Men: 80-lb dumbbell / Women: 55-lb dumbbell*",
+        "section_notes": [
+          "Keep the dumbbell locked out and stable during the overhead squats.",
+          "Break the muscle-ups early to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2017/5\" target=\"_blank\">2017 Regional Event 5</a>  \r\n\r\n21-15-9 reps for time of:  \r\nMuscle-ups  \r\nSingle-arm overhead squats  \r\n\r\nMen use an 80-lb. dumbbell  \r\nWomen use a 55-lb. dumbbell \r\n\r\nPost time to comments.",
+      "date": "2017-05-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "open",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pistol and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **One-legged Squats** (with 45-lb dumbbell): 20 reps, alternating\n* **GHD Sit-ups**: 30 reps",
+        "section_notes": [
+          "Maintain balance and control during the pistol squats.",
+          "Keep the core engaged during GHD sit-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n20 one-legged squats with a 45-lb. dumbbell, alternating  \r\n30 GHD sit-ups  \r\n\r\nPost time to comments.",
+      "date": "2017-05-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Robbie",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 25 minutes:\n* **Freestanding Handstand Push-ups**: 8 reps\n* **L-sit Rope Climb** (15-foot): 1 ascent",
+        "section_notes": [
+          "Focus on a strict press for the handstand push-ups.",
+          "Maintain a strong L-sit position during the rope climb."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://crossfit.com/workout/2015/01/24#/comments\" target=\"_blank\">Robbie</a>  \r\n\r\nComplete as many rounds as possible in 25 minutes of:  \r\n8 freestanding handstand push-ups  \r\n15-foot L-sit rope climb, 1 ascent  \r\n\r\nPost rounds completed to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/04/04#/comments\" target=\"_blank\">160404</a>.",
+      "date": "2017-05-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "benchmark",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Odd Object",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Bike**: 30-cal\n* **Burpee Box Jump-overs**: 20 reps\n* **Odd-object Cleans**: 10 reps\n\n*Men: 30-in box / Women: 24-in box*",
+        "section_notes": [
+          "Use a sandbag or medicine ball for the odd-object cleans.",
+          "Maintain a steady pace on the bike to start."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://games.crossfit.com/workouts/regionals/2017/6\" target=\"_blank\">2017 Regional Event 6</a>    \r\n\r\nFor time:  \r\n30-cal. bike  \r\n20 burpee box jump-overs  \r\n10 odd-object cleans  \r\n\r\nMen use a 30-in. box  \r\nWomen use a 24-in. box\r\n\r\nFind a sandbag, medicine ball or other heavy odd object for the cleans.  \r\n\r\nPost time to comments.",
+      "date": "2017-05-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "open",
+        "strongman"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Wearing a 20-lb vest, 6 rounds for time:\n* **Pull-ups**: 25 reps\n* **Front-rack Lunge** (75 lb): 50-ft\n* **Push-ups**: 25 reps\n* **Front-rack Lunge** (75 lb): 50-ft",
+        "section_notes": [
+          "This is a Hero WOD; maintain a steady pace throughout the rounds.",
+          "Keep the weight tight to the chest during the lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Pat**  \r\n\r\nWearing a 20-lb. vest, 6 rounds for time:  \r\n25 pull-ups  \r\n50-ft. front-rack lunge, 75 lb.  \r\n25 push-ups  \r\n50-ft. front-rack lunge, 75 lb.  \r\n\r\nPost time to comments.",
+      "date": "2017-05-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "hero"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Bodyweight",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "15-12-9 reps for time of:\n* **Deadlifts**: Double body-weight\n* **Shoulder Presses**: 3/4 body-weight",
+        "section_notes": [
+          "This is a high-intensity strength piece; ensure form remains perfect as you fatigue.",
+          "Use a controlled descent on the deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "15-12-9 reps for time of:  \r\nDouble body-weight deadlifts  \r\n3/4 body-weight shoulder presses  \r\n\r\nPost time to comments.",
+      "date": "2017-05-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds, each for time of:\n* **Row** 250 meters\n* Rest 2 minutes",
+        "section_notes": [
+          "Maintain a consistent pace across all ten intervals.",
+          "Focus on explosive power during the row and full recovery during the rest."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds, each for time of:  \nRow 250 meters  \nRest 2 minutes  \n  \nPost times of each row interval to comments.",
+      "date": "2014-10-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Feeks",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 2 x 100-meter **Shuttle Sprint**, 2 **Squat Clean Thrusters** (65-lb. dumbbells)\n* 4 x 100-meter **Shuttle Sprint**, 4 **Squat Clean Thrusters** (65-lb. dumbbells)\n* 6 x 100-meter **Shuttle Sprint**, 6 **Squat Clean Thrusters** (65-lb. dumbbells)\n* 8 x 100-meter **Shuttle Sprint**, 8 **Squat Clean Thrusters** (65-lb. dumbbells)\n* 10 x 100-meter **Shuttle Sprint**, 10 **Squat Clean Thrusters** (65-lb. dumbbells)\n* 12 x 100-meter **Shuttle Sprint**, 12 **Squat Clean Thrusters** (65-lb. dumbbells)\n* 14 x 100-meter **Shuttle Sprint**, 14 **Squat Clean Thrusters** (65-lb. dumbbells)\n* 16 x 100-meter **Shuttle Sprint**, 16 **Squat Clean Thrusters** (65-lb. dumbbells)",
+        "section_notes": [
+          "This is a ladder-style workout that increases in volume.",
+          "Keep a steady transition between the sprints and the dumbbell movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Feeks**  \n  \nFor time:  \n2 x 100-meter shuttle sprint  \n2 squat clean thrusters, 65-lb. dumbbells  \n4 x 100-meter shuttle sprint  \n4 squat clean thrusters, 65-lb. dumbbells  \n6 x 100-meter shuttle sprint  \n6 squat clean thrusters, 65-lb. dumbbells  \n8 x 100-meter shuttle sprint  \n8 squat clean thrusters, 65-lb. dumbbells  \n10 x 100-meter shuttle sprint  \n10 squat clean thrusters, 65-lb. dumbbells  \n12 x 100-meter shuttle sprint  \n12 squat clean thrusters, 65-lb. dumbbells  \n14 x 100-meter shuttle sprint  \n14 squat clean thrusters, 65-lb. dumbbells  \n16 x 100-meter shuttle sprint  \n16 squat clean thrusters, 65-lb. dumbbells  \n  \nPost time to comments.",
+      "date": "2014-10-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Strength",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n* 45-second **L-sit hold**\n* 30 **Deadlifts** (135-lb.)\n* 15 **Handstand Push-ups**",
+        "section_notes": [
+          "Focus on a tight core during the L-sit to prepare for the deadlifts.",
+          "Maintain a strict press in the handstand push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \n45-second L-sit hold  \n135-lb. deadlift, 30 reps  \n15 handstand push-ups  \n  \nPost time to comments.",
+      "date": "2014-10-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* 30-second **L-sit hold**\n* 20 **Pull-ups**\n* 10 **Thrusters** (135-lb.)",
+        "section_notes": [
+          "Keep the thrusters rhythmic and use the legs to drive the bar up.",
+          "Maintain a hollow body position during the L-sit."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \n30-second L-sit hold  \n20 pull-ups  \n135-lb. thrusters, 10 reps  \n  \nPost time to comments.",
+      "date": "2014-10-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Weighted Dip Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Weighted Dip**: 3-2-2-2-1-1-1-1-1 reps",
+        "section_notes": [
+          "Increase weight with each set to find a heavy single.",
+          "Ensure full range of motion on every rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Weighted dip 3-2-2-2-1-1-1-1-1 reps  \n  \nPost loads to comments.  \n  \nCompare to [130516](http://www.crossfit.com/mt-archive2/008847.html).",
+      "date": "2014-10-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Steady State Row",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Row** 5,000 meters",
+        "section_notes": [
+          "Maintain a steady, sustainable pace throughout the distance.",
+          "Focus on breathing and efficient stroke mechanics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 5,000 meters  \n  \nPost time to comments.  \n  \nCompare to [140120](http://www.crossfit.com/mt-archive2/009100.html).",
+      "date": "2014-10-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Double Under Descent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 100 **Double-unders**, 21 **Front Squats** (115-lb.), 21 **Push Presses** (115-lb.)\n* 100 **Double-unders**, 15 **Front Squats** (115-lb.), 15 **Push Presses** (115-lb.)\n* 100 **Double-unders**, 9 **Front Squats** (115-lb.), 9 **Push Presses** (115-lb.)",
+        "section_notes": [
+          "Keep the elbows up during the front squats.",
+          "Use a consistent rhythm on the double-unders to manage heart rate."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n100 double-unders  \n115-lb. front squats, 21 reps  \n115-lb. push presses, 21 reps  \n100 double-unders  \n115-lb. front squats, 15 reps  \n115-lb. push presses, 15 reps  \n100 double-unders  \n115-lb. front squats, 9 reps  \n115-lb. push presses, 9 reps  \n  \nPost time to comments.",
+      "date": "2014-10-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches Ascent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes of:\n* 10 **Snatches** (135-lb.)\n* 10 **Snatches** (155-lb.)\n* 10 **Snatches** (185-lb.)\n* 10 **Snatches** (205-lb.)\n* 10 **Snatches** (225-lb.)\n* Max reps **Snatches** (245-lb.)",
+        "section_notes": [
+          "Move quickly through the lighter weights to save time for the heavier sets.",
+          "Maintain a strong overhead position."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many reps as possible in 10 minutes of:  \n135-lb. snatches, 10 reps  \n155-lb. snatches, 10 reps  \n185-lb. snatches, 10 reps  \n205-lb. snatches, 10 reps  \n225-lb. snatches, 10 reps  \n245-lb. snatches, max reps  \n  \nPost reps completed to comments.",
+      "date": "2014-10-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Burpee Clean Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes of:\n* 10 **Burpee Box Jumps** (20 inches)\n* 10 **Squat Cleans** (155-lb.)",
+        "section_notes": [
+          "Keep a steady pace on the burpees to avoid early burnout.",
+          "Focus on a fast elbow turnover in the cleans."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \n10 burpee box jumps, 20 inches  \n155-lb. squat cleans, 10 reps  \n  \nPost rounds completed to comments.",
+      "date": "2014-10-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bench and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 20 minutes of:\n* 21 **Bench Press** (135-lb.)\n* 21 **L Pull-ups**",
+        "section_notes": [
+          "Pace yourself for the 20-minute duration.",
+          "Keep the core tight during the L pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \n135-lb. bench press, 21 reps  \n21 L pull-ups  \n  \nPost rounds completed to comments.  \n  \nCompare to [140121](http://www.crossfit.com/mt-archive2/009101.html).",
+      "date": "2014-10-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on maintaining a neutral spine throughout all sets.",
+          "Increase weight incrementally across the five sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 5-5-5-5-5 reps  \n  \nPost loads to comments.  \n  \nCompare to [140423](http://www.crossfit.com/mt-archive2/009194.html).",
+      "date": "2014-10-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kettlebell Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes of:\n* 10 **Triple-unders**\n* 15 **Kettlebell Swings** (1.5-pood)\n* 20 **Walking Lunges**",
+        "section_notes": [
+          "Keep the kettlebell swings snappy and powerful.",
+          "Maintain an upright torso during the lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \n10 triple-unders  \n1.5-pood kettlebell swings, 15 reps  \n20 walking lunges  \n  \nPost rounds completed to comments.",
+      "date": "2014-10-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "GHD Core Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 10 minutes of:\n* 10 **GHD Sit-ups**\n* 15 **Push-ups**\n* 10 **GHD Sit-ups**\n* 30 **Squats**",
+        "section_notes": [
+          "Keep the movement fluid between the GHD and the floor.",
+          "Maintain full depth on the air squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 10 minutes of:  \n10 GHD sit-ups  \n15 push-ups  \n10 GHD sit-ups  \n30 squats  \n  \nPost rounds completed to comments.",
+      "date": "2014-10-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Abbate",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run** 1 mile\n* 21 **Clean and Jerks** (155-lb.)\n* **Run** 800 meters\n* 21 **Clean and Jerks** (155-lb.)\n* **Run** 1 mile",
+        "section_notes": [
+          "This is a high-intensity endurance piece.",
+          "Manage your heart rate during the runs to tackle the clean and jerks efficiently."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**[Abbate](http://www.crossfit.com/mt-archive2/007523.html)**  \n  \nFor time:  \nRun 1 mile  \n155-lb. clean and jerks, 21 reps  \nRun 800 meters  \n155-lb. clean and jerks, 21 reps  \nRun 1 mile  \n  \nPost time to comments.  \n  \nCompare to [110326](http://www.crossfit.com/mt-archive2/007523.html).",
+      "date": "2014-10-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Big Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 30 **Box Jumps** (30-inch box)\n* 30 **Chest-to-bar Pull-ups**\n* 30 **Kettlebell Swings** (2 pood)\n* 30 **Walking Lunges** (95-lb. barbell)\n* 30 **Knees-to-elbows**\n* 30 **Push Presses** (95 lb.)\n* 30 **Hip Extensions** (25-lb. plate)\n* 30 **Wall Ball Shots** (20-lb. ball to 11-foot target)\n* 30 **Burpees**\n* 30 **Triple-unders**",
+        "section_notes": [
+          "This is a long chipper; find a sustainable pace for the first few movements.",
+          "Break the gymnastics movements into manageable sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n30 box jumps, 30-inch box  \n30 chest-to-bar pull-ups  \n30 kettlebell swings, 2 pood  \n30 walking lunges with 95-lb. barbell   \n30 knees-to-elbows  \n30 push presses, 95 lb.  \n30 hip extensions, holding a 25-lb. plate  \n30 wall ball shots, 20-lb. ball to 11-foot target  \n30 burpees  \n30 triple-unders  \n  \nPost time to comments.",
+      "date": "2014-10-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Push Jerk Heavy",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Push Jerk**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on a vertical dip and aggressive drive.",
+          "Increase weight each set to build toward a heavy triple."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Push jerk 3-3-3-3-3 reps  \n  \nPost loads to comments.  \n  \nCompare to [090910](http://www.crossfit.com/mt-archive2/004927.html).",
+      "date": "2014-10-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "With a continuously running clock, complete 5 **Thrusters** every minute:\n* 0:00-5:00: 75 lb.\n* 5:00-10:00: 95 lb.\n* 10:00-15:00: 115 lb.\n* Continue adding 20 lb. every 5 minutes for as long as possible.",
+        "section_notes": [
+          "This is an EMOM-style test of strength and endurance.",
+          "The goal is to see how long you can maintain the 5-rep requirement as weight increases."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "With a continuously running clock complete 5 thrusters every minute.   \nFrom 0:00-5:00 use 75 lb.  \nFrom 5:00-10:00 use 95 lb.  \nFrom 10:00-15:00 use 115 lb.  \nContinue adding 20 lb. every 5 minutes for as long as you are able.  \n  \nPost number of minutes completed to comments.",
+      "date": "2014-10-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "EMOM"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Toes",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Toes-to-bars**\n* **Snatches** (115-lb.)",
+        "section_notes": [
+          "Maintain a fast pace on the toes-to-bars to allow more time for the snatches.",
+          "Use a consistent breathing pattern during the lifting."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps for time of:  \nToes-to-bars  \n115-lb. snatches  \n  \nPost time to comments.",
+      "date": "2014-10-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Reps",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run** 400 meters, 50 **Pull-ups**\n* **Run** 400 meters, 50 **Push-ups**\n* **Run** 400 meters, 50 **Sit-ups**\n* **Run** 400 meters, 50 **Squats**",
+        "section_notes": [
+          "Keep the runs at a steady pace to recover for the high-rep bodyweight movements.",
+          "Break the 50 reps into smaller, manageable sets to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \nRun 400 meters  \n50 pull-ups  \nRun 400 meters  \n50 push-ups  \nRun 400 meters  \n50 sit-ups  \nRun 400 meters  \n50 squats  \n  \nPost time to comments.  \n  \nCompare to [060608](http://www.crossfit.com/mt-archive2/001184.html).",
+      "date": "2014-10-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Front Squat MU",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "9-7-5 reps for time of:\n* **Front Squats** (225-lb.)\n* **Bar Muscle-ups**",
+        "section_notes": [
+          "This is a high-skill, high-strength workout.",
+          "Focus on explosive power in the squats and a clean transition in the muscle-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "9-7-5 reps for time of:  \n225-lb. front squats  \nBar muscle-ups  \n  \nPost time to comments.",
+      "date": "2014-10-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Total Power Trio",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "For total weight:\n* **Clean** (1 rep)\n* **Bench Press** (1 rep)\n* **Overhead Squat** (1 rep)",
+        "section_notes": [
+          "The clean can be power or squat.",
+          "Aim for a maximum effort on each single to find your total."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean, 1 rep  \nBench press, 1 rep  \nOverhead squat, 1 rep  \n  \nClean is from the ground, power or squat.  \n  \nPost total to comments.  \n  \nCompare to [120221](http://www.crossfit.com/mt-archive2/008195.html).",
+      "date": "2014-10-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ned",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time of:\n* 11 **Body-weight Back Squats**\n* **Row** 1,000 meters",
+        "section_notes": [
+          "The row is the primary driver of this workout.",
+          "Use the squats as a brief active recovery before returning to the rower."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Ned**  \n  \n7 rounds for time of:  \n11 body-weight back squats  \n1,000-meter row  \n  \nPost time to comments.",
+      "date": "2014-10-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sham",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time of:\n* 11 **Body-weight Deadlifts**\n* **Sprint** 100 meters",
+        "section_notes": [
+          "Maintain high intensity on the sprints.",
+          "Keep the deadlifts fast and fluid."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Sham**  \n  \n7 rounds for time of:  \n11 body-weight deadlifts  \n100-meter sprint  \n  \nPost time to comments.",
+      "date": "2014-10-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark"
+      ]
+    }
+  }
+]

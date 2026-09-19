@@ -1,0 +1,100 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Gymnastic Tabata",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "1/2 Tabata of:\n* **Squats**\n* **Push-ups**\n* **Pull-ups**\n\nRest one minute between efforts.",
+        "section_notes": [
+          "Maintain high intensity during the work intervals.",
+          "Ensure full range of motion on push-ups and pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Tabata Squats](http://media.crossfit.com/cf-video/sample2tabata.wmv), [Push-ups](http://www.crossfit.com/mt-archive2/pu4_bl.html),and [Pull-ups ](http://media.crossfit.com/cf-video/pull-up.wmv)resting one minute between efforts.  \n  \n1/2 Tabata Squats, Push-ups, and Pull-ups resting one minute between efforts.",
+      "date": "2003-04-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hip Extension Trio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time:\n* **Run** 400 meters\n* **Deadlift** (Bodyweight) x 15 reps\n* **Box Jump** (24”) x 20 reps",
+        "section_notes": [
+          "This workout focuses on three different functional applications of hip extension.",
+          "Maintain a steady pace and avoid unnecessary delays between movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete three rounds for time:  \nRun 400 meters  \nDeadlift bodyweight X 15 reps  \n24” [Box Jump ](http://media.crossfit.com/cf-video/boxjump.wmv)X 20 reps  \n  \n  \nThis workout contains three different functional applications of hip extension. Note the seeming incompatibility of these movements. The benefit here is largely a function of pace or total time – don’t dally!",
+      "date": "2003-04-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pressing Progression",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Complete the following:\n* **Shoulder Press** (15 RM) x 15 reps\n* **Pull-ups** x 20 reps\n* **Push Press** (15 RM) x 15 reps\n* **Pull-ups** x 20 reps\n* **Push Jerk** (15 RM) x 15 reps\n* **Pull-ups** x 20 reps",
+        "section_notes": [
+          "Work at a pace that allows for max load.",
+          "Complete each round of pull-ups in as few sets as possible.",
+          "The load should increase from Shoulder Press to Push Press to Push Jerk."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Shoulder Press ](http://media.crossfit.com/cf-video/Presses.wmv)15 RM X 15 reps  \n20 [Pull-ups](http://media.crossfit.com/cf-video/pull-up.wmv target=)  \n[Push Press ](http://media.crossfit.com/cf-video/Presses.wmv target=)15 RM X 15 reps  \n20 Pull-ups  \n[Push Jerk ](http://media.crossfit.com/cf-video/Presses.wmv target=)15 RM X 15 reps  \n20 Pull-ups  \n  \nWork at a pace that allows for max load. Complete each round of pull-ups in as few sets as possible.   \n  \nThe load for the presses should increase from the shoulder press to the push press to the push jerk. The progression of these presses is from lesser to greater functionality, max load, metabolic stimulus, and total body involvement.",
+      "date": "2003-04-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Bottoms",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* 50 **Glute Ham Sit-ups**\n* Tabata \"Bottom to Bottom\" **Squats**\n* 50 **Abmat Sit-ups**",
+        "section_notes": [
+          "For the Bottom to Bottom Squat, each rep begins and ends at the bottom with no pause at the top.",
+          "The ten-second rest intervals in the Tabata are also held at the bottom of the squat."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50 [Glute Ham Sit-ups](http://media.crossfit.com/cf-video/glutehamsitup.wmv)  \n[Tabata ](http://media.crossfit.com/cf-video/sample2tabata.wmv)“Bottom to Bottom” [Squats](http://media.crossfit.com/cf-video/sample2tabata.wmv)  \n50 Abmat Sit-ups  \n  \nThe Tabata Bottom to Bottom Squat is a Tabata Squat but each rep begins at the bottom and ends at the bottom. The turn around at the top is immediate - no pause. The ten-second rest for each interval is also held at the bottom of the squat as opposed to the top. Interestingly, this squat, in contrast to the “normal” Tabata squat, motivates full hip extension. Also, the ten second rests don’t seem as short with this protocol!",
+      "date": "2003-04-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "AMRAP"
+      ]
+    }
+  }
+]

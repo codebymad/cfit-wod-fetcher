@@ -1,0 +1,563 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Core and Leap",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Box Jumps** (30-inch box), 20 reps\n* **GHD Sit-ups**, 20 reps\n* **Hip Extensions**, 20 reps",
+        "section_notes": [
+          "Maintain a consistent pace across all five rounds.",
+          "Focus on full hip extension during the GHD movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \n20 box jumps, 30-inch box  \n20 GHD sit-ups  \n20 hip extensions  \n  \nPost time to comments.",
+      "date": "2015-04-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Road Work",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Run**, 350 meters\n* **Lunge**, 50 meters",
+        "section_notes": [
+          "Keep a steady transition between the run and the lunges.",
+          "Focus on upright posture during the lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \nRun 350 meters  \nLunge 50 meters  \n  \nPost time to comments.",
+      "date": "2015-04-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Angie",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Pull-ups**, 100 reps\n* **Push-ups**, 100 reps\n* **Sit-ups**, 100 reps\n* **Squats**, 100 reps",
+        "section_notes": [
+          "This is a high-volume gymnastics chipper.",
+          "Break the reps into manageable sets early to avoid burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Angie**  \n  \nFor time:  \n100 pull-ups  \n100 push-ups  \n100 sit-ups  \n100 squats  \n  \nPost time to comments.  \n  \nCompare to [130818](http://www.crossfit.com/mt-archive2/008942.html).",
+      "date": "2015-04-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "chipper",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Carry Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 30 minutes of:\n* **Run**, 800 meters\n* **Dumbbell Thrusters** (35-lb.), 25 reps\n* **Farmers Carry** (35-lb. dumbbells), 400 meters",
+        "section_notes": [
+          "Pace the 800m run to keep the heart rate manageable for the thrusters.",
+          "Maintain a strong core and grip during the farmers carry."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 30 minutes of:  \n800-meter run  \n35-lb. dumbbell thrusters, 25 reps  \n400-meter farmers carry, 35-lb. dumbbells  \n  \nPost rounds completed to comments.",
+      "date": "2015-04-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on maintaining a vertical torso and high elbows.",
+          "Increase weight each set to find a heavy triple."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 3-3-3-3-3 reps  \n  \nPost loads to comments.  \n  \nCompare to [140831](http://www.crossfit.com/mt-archive2/009324.html).",
+      "date": "2015-04-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Upside Down Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n* **Handstand Walk**, 25 meters\n* **Knees-to-Elbows**, 20 reps\n* **Hip Extensions** (holding a 25-lb. plate), 15 reps",
+        "section_notes": [
+          "Keep the core tight during the handstand walk to maintain balance.",
+          "Ensure full extension of the hips on the weighted extensions."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:  \n25-meter handstand walk  \n20 knees-to-elbows  \n15 hip extensions holding a 25-lb. plate  \n  \nPost rounds completed to comments.",
+      "date": "2015-04-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Burpees",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Burpees**, 20 reps\n* **Hang Squat Snatches** (135-lb.), 20 reps\n* **Bar Muscle-ups**, 20 reps\n* **Hang Squat Snatches** (135-lb.), 20 reps\n* **Burpees**, 20 reps",
+        "section_notes": [
+          "High skill and high power workout; scale the weight or muscle-ups as needed.",
+          "Maintain a steady rhythm on the burpees to recover for the snatches."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n20 burpees  \n135-lb. hang squat snatches, 20 reps  \n20 bar muscle-ups  \n135-lb. hang squat snatches, 20 reps  \n20 burpees  \n  \nPost time to comments.",
+      "date": "2015-04-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Circuit",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Wall-ball Shots** (20-lb. ball to 10-ft. target), 20 reps\n* **Sumo Deadlift High Pulls** (75-lb.), 20 reps\n* **Box Jumps** (20-inch), 20 reps\n* **Push Presses** (75-lb.), 20 reps\n* **Row**, 20 calories\n* Rest 1 minute",
+        "section_notes": [
+          "The 1-minute rest is mandatory; use it to fully recover for the next round.",
+          "Keep the movements fluid and maintain a consistent pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \n20 wall-ball shots, 20-lb. ball to 10-ft. target  \n75-lb. sumo deadlift high pulls, 20 reps  \n20-inch box jumps, 20 reps  \n75-lb. push presses, 20 reps  \nRow 20 calories  \nRest 1 minute  \n  \nPost time to comments.",
+      "date": "2015-04-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Strength",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **Strict Handstand Push-ups**, 10 reps\n* **Strict Ring Dips**, 15 reps\n* **Strict Push-ups**, 20 reps\n* **Strict Pull-ups**, 45 reps",
+        "section_notes": [
+          "No kipping allowed; focus on pure upper body strength.",
+          "Break the pull-ups into small, consistent sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:   \n10 strict handstand push-ups  \n15 strict ring dips  \n20 strict push-ups  \n45 strict pull-ups  \n  \nPost time to comments.  \n  \nCompare to [140107](http://www.crossfit.com/mt-archive2/009087.html).",
+      "date": "2015-04-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Pull Intervals",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "10 rounds of:\n* **Deadlift** for 15 seconds\n* Rest 45 seconds",
+        "section_notes": [
+          "Go heavy. The goal is maximum effort for the 15-second window.",
+          "Maintain a flat back and strong brace throughout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds of:  \nDeadlift for 15 seconds  \nRest 45 seconds  \n  \nGo heavy.   \n  \nPost load and number of reps completed to comments.",
+      "date": "2015-04-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as possible in 15 minutes of:\n* **Push Presses** (135-lb.), 7 reps\n* **Overhead Squats** (135-lb.), 10 reps\n* **GHD Sit-ups**, 15 reps",
+        "section_notes": [
+          "Keep the bar path tight and the core engaged during overhead squats.",
+          "Maintain a steady pace to maximize rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 15 minutes of:  \n135-lb. push presses, 7 reps  \n135-lb. overhead squats, 10 reps  \n15 GHD sit-ups  \n  \nPost rounds completed to comments.  \n  \nCompare to [131025](http://www.crossfit.com/mt-archive2/009010.html).",
+      "date": "2015-04-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Burpee Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds of:\n* 30 seconds of **Burpees**\n* Rest 30 seconds\n* 30 seconds of **Dumbbell Thrusters** (45-lb.)\n* Rest 30 seconds",
+        "section_notes": [
+          "This is a high-intensity interval workout.",
+          "Aim for maximum reps in each 30-second window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds of:  \n30 seconds of burpees  \nRest 30 seconds  \n30 seconds of 45-lb. dumbbell thrusters  \nRest 30 seconds  \n  \nPost total reps completed to comments.",
+      "date": "2015-04-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run**, 1,000 meters\n* **Handstand Push-ups**, 30 reps\n* **Row**, 1,000 meters",
+        "section_notes": [
+          "Maintain a strong, consistent pace on the run and row.",
+          "Break the handstand push-ups into sets to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[**2011 Regional Event 1**](http://games.crossfit.com/workouts/regionals/2011#individual-1)  \n  \nFor time:  \nRun 1,000 meters  \n30 handstand push-ups  \nRow 1,000 meters  \n  \nPost time to comments.  \n  \nCompare to [110527](http://www.crossfit.com/mt-archive2/007656.html).",
+      "date": "2015-04-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Hold",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Squat Cleans** (95-lb.), 10 reps\n* **L-sit Hold**, 30 seconds\n* **Squat Cleans** (95-lb.), 10 reps\n* **Pull-up Bar Hang**, 60 seconds",
+        "section_notes": [
+          "Focus on explosive cleans and a tight core during the L-sit.",
+          "The bar hang will test your grip strength; breathe deeply."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \n95-lb. squat cleans, 10 reps  \n30-second L-sit hold  \n95-lb. squat cleans, 10 reps  \n60-second hang from pull-up bar  \n  \nPost time to comments.",
+      "date": "2015-04-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Thruster**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on a deep squat and a powerful drive upward.",
+          "Build weight across the 7 sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Thruster 3-3-3-3-3-3-3 reps  \n  \nPost loads to comments.  \n  \nCompare to [120331](http://www.crossfit.com/mt-archive2/008278.html).",
+      "date": "2015-04-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Regional Power Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n* **Rope Climbs** (15-ft.), 2 ascents\n* **Sprint**, 100 feet\n* **Squat Cleans** (225-lb.), 4 reps\n* **Sprint**, 100 feet",
+        "section_notes": [
+          "High intensity and heavy weight; maintain form on the cleans.",
+          "Use the sprints as a brief recovery between the climbs and cleans."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[**2013 Regional Event 7**](http://games.crossfit.com/workouts/regionals/2013#individual-7)  \n  \n4 rounds for time of:  \n15-ft. rope climbs, 2 ascents  \n100-ft. sprint  \n225-lb. squat cleans, 4 reps  \n100-ft. sprint  \n  \nPost time to comments.  \n  \nCompare to [130602](http://www.crossfit.com/mt-archive2/008864.html).",
+      "date": "2015-04-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Stability",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Squat Snatches** (75-lb.), 10 reps\n* **Chin-over-bar Hold**, 30 seconds\n* **Squat Snatches** (75-lb.), 10 reps\n* **Plank Hold**, 60 seconds",
+        "section_notes": [
+          "Keep the chest up during the snatches.",
+          "Focus on full body tension during the plank and chin-over-bar hold."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \n75-lb. squat snatches, 10 reps  \n30-second chin-over-bar hold  \n75-lb. squat snatches, 10 reps  \n60-second plank hold  \n  \nPost time to comments.",
+      "date": "2015-04-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Masters Power Trio",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Deadlifts** (225-lb.)\n* **Box Jumps** (24-inch)\n* **Handstand Push-ups**",
+        "section_notes": [
+          "Classic 21-15-9 rep scheme; maintain intensity.",
+          "Keep the back flat on the heavy deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[2015 Masters Qualifier Event 4](http://games.crossfit.com/workouts/masters-qualifier/2015#tabs-4)  \n  \n21-15-9 reps for time of:  \n225-lb. deadlifts  \n24-inch box jumps  \nHandstand push-ups  \n  \nPost time to comments.",
+      "date": "2015-04-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Masters Row and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "2 rounds for time of:\n* **Row**, 1,000 meters\n* **Thrusters** (65-lb.), 50 reps\n* **Chest-to-bar Pull-ups**, 30 reps",
+        "section_notes": [
+          "The 50 thrusters will be the hardest part; break them into sets early.",
+          "Maintain a strong rowing pace to start each round."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[**2015 Masters Qualifier Event 3**](http://games.crossfit.com/workouts/masters-qualifier/2015#tabs-3)  \n  \n2 rounds for time of:  \n1,000-meter row  \n65-lb. thrusters, 50 reps  \n30 chest-to-bar pull-ups  \n  \nPost time to comments.",
+      "date": "2015-04-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Masters Max and Reps",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch**: 1-rep-max",
+        "section_notes": [
+          "Warm up thoroughly before attempting your max snatch."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many reps as possible in 5 minutes of:\n* **Muscle-ups**, 5 reps\n* **Cleans** (155-lb.), 10 reps",
+        "section_notes": [
+          "Move quickly between the muscle-ups and cleans to maximize rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[**2015 Masters Qualifier Event 2**](http://games.crossfit.com/workouts/masters-qualifier/2015#tabs-2)  \n1-rep-max snatch  \n  \nThen,   \n  \n[**2015 Masters Qualifier Event 1**](http://games.crossfit.com/workouts/masters-qualifier/2015#tabs-1)  \nComplete as many reps as possible in 5 minutes of:  \n5 muscle-ups  \n155-lb. cleans, 10 reps  \n  \nPost snatch load and total reps to comments.",
+      "date": "2015-04-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "AMRAP",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Endurance Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run**, 10 km",
+        "section_notes": [
+          "Steady state endurance run.",
+          "Focus on a consistent pace throughout the distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 10 km  \n  \nPost time to comments.  \n  \nCompare to [140817](http://www.crossfit.com/mt-archive2/009310.html).",
+      "date": "2015-04-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Row**, 25 calories\n* **Chest-to-bar Pull-ups**, 16 reps\n* **Strict Handstand Push-ups**, 9 reps",
+        "section_notes": [
+          "Keep the rowing intensity high to drive the heart rate up.",
+          "Focus on strict form for the handstand push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \nRow 25 calories  \n16 chest-to-bar pull-ups  \n9 strict handstand push-ups  \n  \nPost time to comments.",
+      "date": "2015-04-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Build up to a heavy single over 7 sets.",
+          "Ensure a neutral spine and strong leg drive."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 1-1-1-1-1-1-1 reps  \n  \nPost loads to comments.  \n  \nCompare to [141222](http://www.crossfit.com/mt-archive2/009437.html).",
+      "date": "2015-04-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  }
+]

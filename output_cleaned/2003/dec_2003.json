@@ -1,0 +1,544 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Kettlebell Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 25 **Kettlebell swings**\n* Run 200 meters\n* 25 **Straight-arm pulls to inverted hang**\n* Run 200 meters\n* 20 **Kettlebell swings**\n* Run 200 meters\n* 20 **Straight-arm pulls to inverted hang**\n* Run 200 meters\n* 15 **Kettlebell swings**\n* Run 200 meters\n* 15 **Straight-arm pulls to inverted hang**\n* Run 200 meters\n* 10 **Kettlebell swings**\n* Run 200 meters\n* 10 **Straight-arm pulls to inverted hang**",
+        "section_notes": [
+          "Use pull-up bar or rings for straight-arm pull to inverted hang.",
+          "Use false grip on rings.",
+          "Use 2 pood Kettlebell on swings."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n25 Kettlebell swings  \nRun 200 meters  \n25 straight-arm pulls to inverted hang  \nRun 200 meters  \n20 Kettlebell swings  \nRun 200 meters  \n20 straight-arm pulls to inverted hang  \nRun 200 meters  \n15 Kettlebell swings  \nRun 200 meters  \n15 straight-arm pulls to inverted hang  \nRun 200 meters  \n10 Kettlebell swings  \nRun 200 meters  \n10 straight-arm pulls to inverted hang   \n  \nUse pull-up bar or rings for straight-arm pull to inverted hang. Use false grip on rings. Use 2 pood Kettlebell on swings. Post time to comments.",
+      "date": "2003-12-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Chelsea",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Every minute on the minute (EMOM) for 30 minutes:\n* 5 **Pull-ups**\n* 10 **Push-ups**\n* 15 **Squats**",
+        "section_notes": [
+          "If you fall behind the clock, keep going for the full 30 minutes and see how many rounds you can complete.",
+          "If you finish the movements before the minute is up, you can increase the reps (e.g., +1 to each exercise) to maintain the challenge."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**\"Chelsea\"**  \n  \nSet up before a clock, and every minute on the minute perform 5 pull-ups, 10 push-ups, and 15 squats. Can you continue for thirty minutes? Twenty minutes? How about 10? Post results to comments. If you fall behind the clock keep going for thirty minutes and see how many rounds you can complete.   \n  \nIf you've finished the workout before this time add +1 to each exercise, i.e., 6 pull-ups, 11 push-ups, and 16 squats each minute, and see if you can go the full thirty minutes. We've seen +3. Any +4's?",
+      "date": "2003-12-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "girls",
+        "EMOM"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Run 5K",
+        "section_notes": [
+          "Maintain a steady pace and compare your time to past 5K results."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5K  \n  \nPost time to comments. Compare to past 5K's.",
+      "date": "2003-12-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Elizabeth",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps of:\n* **Clean** 135 pounds\n* **Ring Dips**",
+        "section_notes": [
+          "Scale as needed; cleaning a broomstick and doing squatting chair dips is an appropriate modification for some."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**\"Elizabeth\"**  \n  \n21-15-and 9 reps of:  \nClean 135 pounds  \nRing Dips  \n  \nPost time to comments. Amend as needed and post results to comments. Cleaning a broomstick and doing \"squatting chair dips\" is the right interpretation of \"Elizabeth\" for some populations.",
+      "date": "2003-12-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "girls",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 minutes:\n* 7 **Deadlifts** (10RM weight)\n* 15 **Push-ups**",
+        "section_notes": [
+          "Use a weight that represents your 10-rep maximum for the deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "How many rounds can you complete in 20 minutes of:  \nDeadlift 10RM X 7  \n15 Push-ups  \nPost load and number of rounds completed to comments.",
+      "date": "2003-12-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 minutes:\n* 7 **Back Squats** (10RM weight)\n* 15 **Pull-ups**",
+        "section_notes": [
+          "Use a weight that represents your 10-rep maximum for the back squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "How many rounds can you complete in 20 minutes of:  \nBack Squat 10RM X 7   \n15 Pull-ups  \nPost load and number of rounds completed to comments.",
+      "date": "2003-12-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 minutes:\n* 7 **Hang Cleans** (10RM weight)\n* 15 **Sit-ups**",
+        "section_notes": [
+          "Use a weight that represents your 10-rep maximum for the hang cleans."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "How many rounds can you complete in 20 minutes of:  \nHang Clean 10RM X 7  \n15 Sit-ups  \nPost load and number of rounds completed to comments.",
+      "date": "2003-12-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 30 **Clean & Jerks**",
+        "section_notes": [
+          "Choose a challenging but sustainable load."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For Time:  \n30 reps Clean & Jerk   \n  \nPost load and time to comments as pounds per second. Example: 135 pounds/3:20 = .675 pounds/second",
+      "date": "2003-12-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Handstand Mastery",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "60 minutes of practice:\n* **Handstands**\n* **Handstand walking**\n* **Pressing to handstand**",
+        "section_notes": [
+          "Focus on form, balance, and control throughout the session."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Give 60 minutes to practicing handstands, walking on hands, pressing to handstand, etc.   \n  \nPost results to comments.",
+      "date": "2003-12-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "skill-work",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Muscle",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Two rounds for score:\n* **Tabata Squats** (20s work / 10s rest x 8)\n* **Muscle-ups** (4 minutes max reps)\n* Rest",
+        "section_notes": [
+          "No rest between Tabata squats and muscle-ups.",
+          "Substitute 5 pull-ups and 5 dips for each muscle-up if necessary."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Two rounds for score of:  \nTabata Squats   \nMuscle-up for four minutes  \nRest  \n  \nNo rest between finishing T. squats and muscle-ups. This is a 16-minute workout with rest at 8 minutes. Multiply lowest squat count for all eight intervals by the number of muscle-ups completed in four minutes for each round and post to comments. Substitute 5 pull-ups and 5 dips for each muscle-up if necessary.",
+      "date": "2003-12-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps of:\n* **Deadlift**\n* **Handstand Push-up**",
+        "section_notes": [
+          "Maintain a consistent pace across the descending rep scheme."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15 and then 9 reps of:   \nDeadlift  \nHandstand Push-up  \n  \nPost load and time as pounds per second. Example, 225/3:58 = 225/238 = .945 pounds per second.",
+      "date": "2003-12-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ring Support Skill",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "Practice **Backwards roll to support** on rings.",
+        "section_notes": [
+          "Use false grip and bring the rings as close to your navel as possible.",
+          "If rings are unavailable, perform high-volume pull-ups and dips."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Practice [backwards roll to support ](http://media.crossfit.com/cf-video/backrolltosupport.wmv)on rings.   \n  \nUse false grip and bring the rings as close to your navel as you can. If you don't have rings, do pull-ups and dips - lots of them. Post results to comments in both cases.",
+      "date": "2003-12-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "skill-work",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dan",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Four rounds for time of:\n* 21 **Overhead squats**\n* Run 400 meters",
+        "section_notes": [
+          "Keep the chest up and core tight during the overhead squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Dan**  \n  \nFour rounds for time of:   \nOverhead squat 21 reps  \nRun 400 meters  \n  \nPost load and time as pounds per second. Example, 135/13:05 = 135/785 = .172 pounds per second.",
+      "date": "2003-12-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time of:\n* 15 **Hang squat cleans**\n* 15 **Push-ups**",
+        "section_notes": [
+          "Focus on full depth in the squat clean."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "7 rounds for time of:  \nHang squat clean 15 reps  \n15 Push-ups  \n  \nPost load and time as pounds per second. Example, 135/7:12 = 135/432 = .313 pounds per second.",
+      "date": "2003-12-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jerk and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time of:\n* 10 **Push-jerks**\n* 10 **Pull-ups**",
+        "section_notes": [
+          "Drive the bar aggressively from the shoulders."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "7 rounds for time of:  \nPush-jerk 10 reps  \n10 Pull-ups  \n  \nPost load and time as pounds per second. Example, 135/6:39 = 135/399 = .338 pounds per second.",
+      "date": "2003-12-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sumo Dip",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds for time of:\n* 12 **Sumo deadlift high-pulls**\n* 12 **Ring dips**",
+        "section_notes": [
+          "Keep the bar close to the body during the high-pull."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "7 rounds for time of:   \nSumo deadlift high-pull 12 reps  \n12 Ring dips  \n  \nPost load and time as pounds per second. Example, 135/6:50 = 135/410 = .329 pounds per second.",
+      "date": "2003-12-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Perform the following without rest between exercises:\n* **Tabata Squats**\n* **Tabata Sit-ups**\n* **Tabata Push-ups**\n* **Tabata Pull-ups**",
+        "section_notes": [
+          "Tabata format: 20 seconds of work followed by 10 seconds of rest for 8 intervals per exercise."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Without rest between exercises:  \nTabata Squat  \nTabata Sit-up  \nTabata Push-up  \nTabata Pull-up  \n  \nPost scores to comments. Score for each exercise is least number of reps completed in 8 intervals. Total score is sum of scores for all 4 exercises. E.G. 22+15+15+9=61",
+      "date": "2003-12-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "Run 5K",
+        "section_notes": [
+          "Steady state aerobic effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5K  \n  \nPost time to comments.",
+      "date": "2003-12-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** for reps:\n* 3, 3, 1, 1, 1, 1, 1",
+        "section_notes": [
+          "Warm up thoroughly before starting.",
+          "Work at a slow, controlled pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 3-3-1-1-1-1-1 reps  \n  \nWarm-up! Work at slow pace. Post loads to comments.",
+      "date": "2003-12-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 minutes:\n* 10 **Dumbbell Thrusters**\n* 10 **Pull-ups**",
+        "section_notes": [
+          "Maintain a steady rhythm to maximize rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For twenty minutes:  \n10 Dumbbell Thrusters  \n10 Pull-ups  \n  \nMultiply thruster load by rounds completed, e.g., 50 pounds X 23 rounds = 1,150 pound-rounds (a useful measure of work and, by extension, average power for the workout) and post to comments.",
+      "date": "2003-12-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 minutes:\n* 10 **Deadlifts**\n* 10 **Handstand Push-ups**",
+        "section_notes": [
+          "Focus on a neutral spine during deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For twenty minutes:  \n10 Deadlifts  \n10 Handstand Push-ups  \n  \nMultiply deadlift load by rounds completed and post to comments.",
+      "date": "2003-12-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 minutes:\n* 10 **Barbell Snatches**\n* 10 **Pull-ups**",
+        "section_notes": [
+          "Ensure full extension of the hips during the snatch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For twenty minutes:  \n10 Barbell Snatches  \n10 Pull-ups  \n  \nMultiply snatch load by rounds completed and post to comments.",
+      "date": "2003-12-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Year End Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time, completing the following rep scheme (21-18-15-12-9-6-3) for each movement:\n* **Pull-ups**\n* **Push-ups**\n* **Sit-ups**\n* **Squats**",
+        "section_notes": [
+          "This is a high-volume bodyweight workout; pace yourself early."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds for time at 21-18-15-12-9-6 and then 3 reps of:  \nPull-ups  \nPush-ups  \nSit-ups  \nSquats  \n  \nPost time to comments.",
+      "date": "2003-12-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  }
+]

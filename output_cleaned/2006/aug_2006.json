@@ -1,0 +1,552 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Clean and Jerk",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk** 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on maximum load for each single rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and Jerk 1-1-1-1-1-1-1 reps  \n  \nPost loads to comments.",
+      "date": "2006-08-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Run** 400 meters\n* **Thruster** (65 lb), 30 reps\n* **Pull-ups**, 30 reps",
+        "section_notes": [
+          "Maintain a steady pace on the run to recover for the thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:   \n Run 400 meters  \n65 pound Thruster, 30 reps  \n30 Pull-ups  \n  \nPost time to comments.",
+      "date": "2006-08-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Deadlift",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Build up to a heavy single for the day."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 1-1-1-1-1-1-1 reps  \n  \nPost loads to comments.  \n  \nCompare to [060706](http://www.crossfit.com/mt-archive2/001221.html)",
+      "date": "2006-08-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kelly",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Run** 400 meters\n* **Box jump** (24 inch box), 30 reps\n* **Wall ball shots** (20 lb ball), 30 reps",
+        "section_notes": [
+          "Keep a consistent rhythm on the wall balls and box jumps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Kelly**\"  \n  \nFive rounds for time of:  \nRun 400 meters  \n30 Box jump, 24 inch box  \n30 Wall ball shots, 20 pound ball  \n  \nPost time to comments.   \n  \nCompare to [060206](http://www.crossfit.com/mt-archive2/001054.html).",
+      "date": "2006-08-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Seven rounds, 21-18-15-12-9-6 - and 3 reps, for time of:\n* **Body weight Bench press**\n* **Pull-ups**",
+        "section_notes": [
+          "The rep scheme descends rapidly; push the pace on the final three rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Seven rounds, 21-18-15-12-9-6 - and 3 reps, for time of:  \nBody weight Bench press  \nPull-ups  \n  \nPost time and body weight to comments.",
+      "date": "2006-08-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "High Pull Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Sumo deadlift high pull** (75 lb), 21 reps\n* **Handstand push-ups**, 12 reps",
+        "section_notes": [
+          "Sumo deadlift high pulls are pulled to under the chin.",
+          "Handstand push-ups should bring nose to the floor."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:   \n 75 pound Sumo deadlift high pull, 21 reps  \n12 Handstand push-ups  \n  \nPost time to comments.   \n  \nSumo deadlift high pulls are pulled to under the chin, and handstand push-ups bring nose to the floor.",
+      "date": "2006-08-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Weighted Pull Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Weighted Pull-ups** 1-1-1-1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on explosive concentric movement and controlled descent."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Weighted Pull-ups 1-1-1-1-1-1-1-1-1-1 reps  \n  \nPost loads and bodyweight to comments.   \n  \nCompare to [060204](http://www.crossfit.com/mt-archive2/001052.html).",
+      "date": "2006-08-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Thruster",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Row** 500 meters\n* **Thrusters** (45 lb), 30 reps",
+        "section_notes": [
+          "If a rower is unavailable, substitute with a 400 meter run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:   \nRow 500 meters  \n45 pound Thrusters, 30 reps  \n  \nPost time to comments.   \n  \nIf you don't have access to a rower, substitute a 400 meter run each round.",
+      "date": "2006-08-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Elizabeth",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps of:\n* **Clean** (135 lb)\n* **Ring dips**",
+        "section_notes": [
+          "High intensity sprint; aim for minimal transitions between movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "\"**Elizabeth**\"  \n  \n21-15-9 reps of:  \nClean 135 pounds  \nRing dips  \n  \nPost time to comments.   \n  \nCompare to [060730](http://www.crossfit.com/mt-archive2/001272.html).",
+      "date": "2006-08-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead squat** 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Maintain a rigid core and active shoulders throughout the movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 3-3-3-3-3-3-3 reps  \n  \nPost loads to comments.  \n  \nCompare to [060701](http://www.crossfit.com/mt-archive2/001213.html).",
+      "date": "2006-08-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "L-Pull Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as many rounds as you can in 20 minutes of:\n* **Sumo deadlift high-pull** (75 lb), 21 reps\n* **L-pull-ups**, 12 reps",
+        "section_notes": [
+          "Maintain a consistent pace to maximize rounds within the time cap."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as you can in twenty minutes of:   \n75 pound Sumo deadlift high-pull, 21 reps  \n12 L-pull-ups  \n  \nPost rounds completed to comments.",
+      "date": "2006-08-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 50 **Back Extensions**\n* 50 **Sit-ups**\n* 40 **Back Extensions**\n* 40 **Sit-ups**\n* 30 **Back Extensions**\n* 30 **Sit-ups**\n* 20 **Back Extensions**\n* 20 **Sit-ups**\n* 10 **Back Extensions**\n* 10 **Sit-ups**",
+        "section_notes": [
+          "If a glute-ham developer is not available, do sit-ups on the ground and substitute good mornings for back extensions."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \n 50 Back Extensions  \n50 Sit-ups  \n40 Back Extensions  \n40 Sit-ups  \n30 Back Extensions  \n30 Sit-ups  \n20 Back Extensions  \n20 Sit-ups  \n10 Back Extensions  \n10 Sit-ups  \n  \nPost time to comments.   \n  \nIf a glute-ham developer is not available, do the sit-ups on the ground and substitute good mornings for the back extensions.",
+      "date": "2006-08-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wall and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 50 **Wall-ball shots**\n* 50 **L Pull-ups**\n* 35 **Wall-ball shots**\n* 35 **L Pull-ups**\n* 20 **Wall-ball shots**\n* 20 **L Pull-ups**",
+        "section_notes": [
+          "Focus on breathing and maintaining a steady cadence on the wall balls."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \n50 Wall-ball shots  \n50 L Pull-ups  \n35 Wall-ball shots  \n35 L Pull-ups  \n20 Wall-ball shots  \n20 L Pull-ups  \n  \nPost time to comments.",
+      "date": "2006-08-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Shoulder Press",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Shoulder Press** 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Strict press only; no push pressing or jerking allowed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Shoulder Press 3-3-3-3-3-3-3 reps  \n  \nPost loads to comments.   \n  \nNo push pressing or jerking.",
+      "date": "2006-08-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Extend",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Squat clean** (95 lb), 21 reps\n* **Back extensions**, 42 reps\n* **Squat clean** (95 lb), 15 reps\n* **Back extensions**, 30 reps\n* **Squat clean** (95 lb), 9 reps\n* **Back extensions**, 18 reps",
+        "section_notes": [
+          "Keep the chest up during the back extensions to avoid rounding."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n95 pound Squat clean, 21 reps  \n42 Back extensions  \n95 pound Squat clean, 15 reps  \n30 Back extensions  \n95 pound Squat clean, 9 reps  \n18 Back extensions  \n  \nPost time to comments.",
+      "date": "2006-08-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Row** 1000 meters\n* **Pull-ups**, 20 reps\n* **Box jumps** (20 inch box), 30 reps",
+        "section_notes": [
+          "The 1000m row is the engine driver; maintain a sustainable pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \nRow 1000 meters  \n20 Pull-ups  \n30 Box jumps, 20 inch box  \n  \nPost time to comments.",
+      "date": "2006-08-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Deadlift Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 3-2-2-2-1-1-1-1-1 reps",
+        "section_notes": [
+          "Gradually increase weight as reps decrease."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 3-2-2-2-1-1-1-1-1 reps  \n  \nPost loads to comments.   \n  \nCompare to [060507](http://www.crossfit.com/mt-archive2/001152.html).",
+      "date": "2006-08-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Burpee Run Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Burpees**, 20 reps\n* **Handstand push-ups**, 10 reps\n* **Run** 400 meters",
+        "section_notes": [
+          "Keep the burpees steady to avoid early burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:  \n20 Burpees  \n10 Handstand push-ups  \nRun 400 meters  \n  \nPost time to comments.",
+      "date": "2006-08-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat** 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Keep elbows high to maintain a vertical torso."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front Squat 3-3-3-3-3-3-3 reps  \n  \nPost loads to comments.   \n  \nCompare to [060710](http://www.crossfit.com/mt-archive2/001232.html).",
+      "date": "2006-08-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rope and Kettlebell",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Two rounds for time of:\n* **Rope climb** (15 ft), 3 ascents\n* **Kettlebell swings** (1.5 pood), 21 reps\n* **Stiff legged deadlifts** (75 lb), 21 reps\n* **Knees to elbows**, 21 reps\n* **Double unders**, 21 reps",
+        "section_notes": [
+          "Focus on efficient rope climbing to save grip for the swings."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Two rounds for time of:  \n15 ft. Rope climb, 3 ascents  \n1.5 pood Kettlebell swings, 21 reps  \n75 pound [Stiff legged deadlifts](http://media.crossfit.com/cf-video/StiffDeads.wmv), 21 reps  \n21 Knees to elbows  \n21 Double unders  \n  \nPost time to comments.",
+      "date": "2006-08-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "strongman"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Push Jerk Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Push Jerk** 3-2-2-2-1-1-1-1-1 reps",
+        "section_notes": [
+          "Ensure a full dip and drive with a stable catch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Push Jerk 3-2-2-2-1-1-1-1-1 reps  \n  \nPost loads to comments.  \n  \nCompare to [060623](http://www.crossfit.com/mt-archive2/001205.html)",
+      "date": "2006-08-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Box and Ball Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20, then 10 rep rounds, for total time of:\n* **Back extensions**\n* **Wall ball shots** (20 lb ball, 10 ft target)\n* **Box jump** (24\" box)",
+        "section_notes": [
+          "The final 10-rep round is a sprint to the finish."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50-40-30-20, then 10 rep rounds, for total time of:   \nBack extensions  \nWall ball shots, 20 pound ball, ten foot target  \nBox jump, 24\" box  \n  \nPost time to comments.",
+      "date": "2006-08-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Clean Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean** 1-1-1-1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on consistent technique across all ten singles."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean 1-1-1-1-1-1-1-1-1-1 reps  \n  \nPost loads to comments.",
+      "date": "2006-08-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds for time of:\n* **Thruster** (45 lb), 30 reps\n* **L Pull-ups**, 30 reps",
+        "section_notes": [
+          "Break the reps into manageable sets to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds for time of:   \n 45 pound Thruster, 30 reps  \n30 \"L\" Pull-ups  \n  \nPost time to comments.",
+      "date": "2006-08-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  }
+]

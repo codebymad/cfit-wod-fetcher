@@ -1,0 +1,543 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Chest and Press",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Bench Press**: 170 lb, 13 reps",
+        "section_notes": [
+          "Focus on explosive concentric phase and controlled descent."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "20 Minute AMRAP:\n* 7 **Chest-to-Bar Pull-ups**\n* 77 **Double-unders**\n* 2 **Squat Clean Thrusters** (170 lb)\n* 28 **Sit-ups**",
+        "section_notes": [
+          "Maintain a steady pace on the double-unders to recover for the heavy thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Foo**  \n  \n170-lb. bench presses, 13 reps  \nThen, complete as many rounds as possible in 20 minutes of:  \n7 chest-to-bar pull-ups  \n77 double-unders  \n170-lb. squat clean thrusters, 2 reps  \n28 sit-ups  \n  \nPost rounds completed to comments.",
+      "date": "2015-03-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on maintaining a neutral spine across all five sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 5-5-5-5-5 reps  \n  \nPost loads to comments.  \n  \nCompare to [141015](http://www.crossfit.com/mt-archive2/009369.html).",
+      "date": "2015-03-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 Rounds for Time:\n* 50-foot **Overhead Walking Lunge** (135 lb)\n* 25 **GHD Sit-ups**",
+        "section_notes": [
+          "Keep the core tight and the barbell stable overhead during the lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \n50-foot overhead walking lunge, 135 lb.  \n25 GHD sit-ups  \n  \nPost time to comments.",
+      "date": "2015-03-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hip and Heart",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 Rounds for Time:\n* 25 **Hip Extensions**\n* 400-meter **Run**",
+        "section_notes": [
+          "Maintain a consistent running pace to keep the heart rate elevated."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \n25 hip extensions  \n400-meter run  \n  \nPost time to comments.",
+      "date": "2015-03-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 15.2",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Every 3 minutes for as long as possible complete:\n\n* 0:00-3:00: 2 rounds of 10 **Overhead Squats** and 10 **Chest-to-Bar Pull-ups**\n* 3:00-6:00: 2 rounds of 12 **Overhead Squats** and 12 **Chest-to-Bar Pull-ups**\n* 6:00-9:00: 2 rounds of 14 **Overhead Squats** and 14 **Chest-to-Bar Pull-ups**\n\nContinue adding 2 reps to each movement every 3 minutes until failure.\n\n* Men: 95 lb\n* Women: 65 lb",
+        "section_notes": [
+          "This is a test of endurance and consistency under increasing volume."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Workout 15.2](http://games.crossfit.com/workouts/the-open/2015#tabs-2)  \n  \nEvery 3 minutes for as long as possible complete:\n\n  \n*From 0:00-3:00*\n\n  \n   2 rounds of:\n\n  \n   10 overhead squats\n\n  \n   10 chest-to-bar pull-ups\n\n  \n*From 3:00-6:00*\n\n  \n   2 rounds of:\n\n  \n   12 overhead squats\n\n  \n   12 chest-to-bar pull-ups\n\n  \n*From 6:00-9:00*\n\n  \n   2 rounds of:\n\n  \n   14 overhead squatss\n\n  \n   14 chest-to-bar pull-ups\n\n  \nEtc., following same pattern until you fail to complete both rounds.\n\n  \n  \n*Men use 95 lb.  \nWomen use 65 lb.*  \n  \nPost rounds and reps completed to comments and/or register and submit your results as part of the [2015 Reebok CrossFit Games Open](http://games.crossfit.com/).  \n  \nTop male and top female scores will receive $2015.  \n  \nCompare to [140308](http://www.crossfit.com/mt-archive2/009148.html).",
+      "date": "2015-03-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bowen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for Time:\n* 800-meter **Run**\n* 7 **Deadlifts** (275 lb)\n* 10 **Burpee Pull-ups**\n* 14 **Single Arm Kettlebell Thrusters** (53 lb, 7 per arm)\n* 20 **Box Jumps** (24-inch box)",
+        "section_notes": [
+          "High intensity chipper style; pace the run to maintain strength on the deadlifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Bowen**  \n  \n3 rounds for time of:  \nRun 800 meters  \n275-lb. deadlifts, 7 reps  \n10 burpee pull-ups  \n53-lb. single arm kettlebell thrusters, 14 reps (7 each arm)  \n20 box jumps, 24-inch box  \n  \nPost time to comments.",
+      "date": "2015-03-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 Rounds for Time:\n* 5 **Front Squats** (205 lb)\n* 5 **Parallette Handstand Push-ups**",
+        "section_notes": [
+          "Keep the chest up and elbows high during the front squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds for time of:  \n205-lb. front squats, 5 reps  \n5 parallette handstand push-ups  \n  \nPost time to comments.",
+      "date": "2015-03-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ascending Lift Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Every minute, perform 1 lift and add 10 lb starting from an empty barbell:\n1. **Snatch** for as long as possible\n2. **Clean** for as long as possible\n3. **Deadlift** for as long as possible",
+        "section_notes": [
+          "This is a test of maximum strength across three primary lifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "With a running clock, every minute perform 1 lift and add 10 lb.  \n  \nStart with an empty barbell and snatch for as long as possible.   \n  \nOnce you cannot snatch the weight, clean for as long as possible.  \n  \nOnce you cannot clean the weight, deadlift for as long as possible.  \n  \nPost heaviest load for the snatch, clean and deadlift to comments.",
+      "date": "2015-03-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Steady State Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "For Time:\n* 1.5 mile **Run**",
+        "section_notes": [
+          "Maintain a consistent aerobic pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \nRun 1.5 miles  \n  \nPost time to comments.",
+      "date": "2015-03-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 15.3",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "14 Minute AMRAP:\n* 7 **Muscle-ups**\n* 50 **Wall-ball Shots**\n* 100 **Double-unders**\n\n* Men: 20 lb ball to 10 feet\n* Women: 14 lb ball to 9 feet",
+        "section_notes": [
+          "Break the wall-balls early to avoid burnout for the double-unders."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Workout 15.3](http://games.crossfit.com/workouts/the-open/2015#tabs-3)  \n  \nComplete as many rounds and reps as possible in 14 minutes of:  \n7 muscle-ups  \n50 wall-ball shots  \n100 double-unders  \n  \n*Men use 20-lb. ball to 10 feet   \nWomen use 14-lb. ball to 9 feet*  \n  \nPost rounds and reps completed to comments and/or register and submit your results as part of the [2015 Reebok CrossFit Games Open](http://games.crossfit.com/).  \n  \nTop male and top female scores will receive $2015.",
+      "date": "2015-03-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Gaza",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for Time:\n* 35 **Kettlebell Swings** (1.5 pood)\n* 30 **Push-ups**\n* 25 **Pull-ups**\n* 20 **Box Jumps** (30-inch box)\n* 1-mile **Run**",
+        "section_notes": [
+          "This is a high-volume endurance piece; manage your heart rate during the run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Gaza**  \r\n  \r\n5 rounds for time of:  \r\n35 kettlebell swings, 1.5 pood  \r\n30 push-ups  \r\n25 pull-ups  \r\n20 box jumps, 30-inch box  \r\n1-mile run  \r\n  \r\nPost time to comments.",
+      "date": "2015-03-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Push Jerk Peak",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Push Jerk**: 5-5-3-3-3-1-1-1-1-1 reps",
+        "section_notes": [
+          "Build up to a heavy single for the day."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Push jerk 5-5-3-3-3-1-1-1-1-1 reps  \n  \nPost loads to comments.  \n  \nCompare to [140322](http://www.crossfit.com/mt-archive2/009162.html).",
+      "date": "2015-03-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row Sprint",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "For Time:\n* 2,000-meter **Row**",
+        "section_notes": [
+          "Maintain a consistent split time throughout the distance."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 2,000 meters  \n  \nPost time to comments.  \n  \nCompare to [140330](http://www.crossfit.com/mt-archive2/009170.html).",
+      "date": "2015-03-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Back Squat Max",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**: 5-5-3-3-3-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on depth and stability as the weight increases."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-5-3-3-3-1-1-1-1-1 reps  \n  \nPost loads to comments.  \n  \nCompare to [121219](http://www.crossfit.com/mt-archive2/008689.html).",
+      "date": "2015-03-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 15.4",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "8 Minute AMRAP:\n* 3 **Handstand Push-ups**, 3 **Cleans**\n* 6 **Handstand Push-ups**, 3 **Cleans**\n* 9 **Handstand Push-ups**, 3 **Cleans**\n* 12 **Handstand Push-ups**, 6 **Cleans**\n* 15 **Handstand Push-ups**, 6 **Cleans**\n* 18 **Handstand Push-ups**, 6 **Cleans**\n* 21 **Handstand Push-ups**, 9 **Cleans**\n\nContinue adding 3 reps to HSPU each round, and 3 reps to the clean every 3 rounds.\n\n* Men: 185 lb\n* Women: 125 lb",
+        "section_notes": [
+          "The HSPU volume climbs quickly; manage your shoulders early."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Workout 15.4](http://games.crossfit.com/workouts/the-open/2015#tabs-4)  \n  \nComplete as many reps as possible in 8 minutes of:  \n3 handstand push-ups  \n3 cleans  \n6 handstand push-ups  \n3 cleans  \n9 handstand push-ups  \n3 cleans  \n12 handstand push-ups  \n6 cleans  \n15 handstand push-ups  \n6 cleans  \n18 handstand push-ups  \n6 cleans  \n21 handstand push-ups  \n9 cleans  \nEtc., adding 3 reps to the handstand push-up each round, and 3 reps to the clean every 3 rounds.  \n  \n*Men clean 185 lb.  \nWomen clean 125 lb.*  \n  \nPost reps completed to comments and/or register and submit your results as part of the [2015 Reebok CrossFit Games Open](http://games.crossfit.com/).  \n  \nTop male and top female scores will receive $2015.",
+      "date": "2015-03-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "gymnastic",
+        "olympic-lifting",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Crain",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "2 Rounds for Time:\n* 34 **Push-ups**, 50-yard **Sprint**\n* 34 **Deadlifts** (135 lb), 50-yard **Sprint**\n* 34 **Box Jumps** (24-inch box), 50-yard **Sprint**\n* 34 **Clean and Jerks** (95 lb), 50-yard **Sprint**\n* 34 **Burpees**, 50-yard **Sprint**\n* 34 **Wall-ball Shots** (20 lb), 50-yard **Sprint**\n* 34 **Pull-ups**, 50-yard **Sprint**",
+        "section_notes": [
+          "A grueling test of stamina and grit. Use the sprints to reset your breathing."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Crain**   \n  \n2 rounds for time of:  \n34 push-ups  \n50-yard sprint  \n34 deadlifts, 135 lb.  \n50-yard sprint  \n34 box jumps, 24-inch box  \n50-yard sprint  \n34 clean and jerks, 95 lb.  \n50-yard sprint  \n34 burpees  \n50-yard sprint  \n34 wall-ball shots, 20-lb. ball  \n50-yard sprint  \n34 pull-ups  \n50-yard sprint  \n  \nPost time to comments.",
+      "date": "2015-03-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Climbs",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For Time:\n* 50 **Dumbbell Snatches** (70 lb), 5 **Rope Climbs** (15 ft)\n* 40 **Dumbbell Snatches** (70 lb), 4 **Rope Climbs** (15 ft)\n* 30 **Dumbbell Snatches** (70 lb), 3 **Rope Climbs** (15 ft)\n* 20 **Dumbbell Snatches** (70 lb), 2 **Rope Climbs** (15 ft)\n* 10 **Dumbbell Snatches** (70 lb), 1 **Rope Climb** (15 ft)",
+        "section_notes": [
+          "High weight dumbbells; focus on hip drive to move the load."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n70-lb. dumbbell snatches, 50 reps  \n15-foot rope climbs, 5 ascents  \n70-lb. dumbbell snatches, 40 reps  \n15-foot rope climbs, 4 ascents  \n70-lb. dumbbell snatches, 30 reps  \n15-foot rope climbs, 3 ascents  \n70-lb. dumbbell snatches, 20 reps  \n15-foot rope climbs, 2 ascents  \n70-lb. dumbbell snatches, 10 reps  \n15-foot rope climb, 1 ascent  \n  \nPost time to comments.",
+      "date": "2015-03-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge and Extension",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for Time:\n* 20 **Overhead Walking Lunges** (135 lb)\n* 20 **GHD Sit-ups**\n* 20 **Hip Extensions**",
+        "section_notes": [
+          "Keep the core braced to protect the lower back during extensions and sit-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \n135-lb. overhead walking lunges, 20 steps  \n20 GHD sit-ups  \n20 hip extensions  \n  \nPost time to comments.",
+      "date": "2015-03-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Ring",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "20 Minute AMRAP:\n* 400-meter **Run**\n* 7 **Muscle-ups**",
+        "section_notes": [
+          "Pace the run to ensure you have the grip strength for the muscle-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \nRun 400 meters  \n7 muscle-ups  \n  \nCompare to [110512](http://www.crossfit.com/mt-archive2/007624.html).  \n  \nPost rounds completed to comments.",
+      "date": "2015-03-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 15.5",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "27-21-15-9 Reps for Time:\n* **Row** (calories)\n* **Thrusters**\n\n* Men: 95 lb\n* Women: 65 lb",
+        "section_notes": [
+          "The 21 and 15 rounds are the crux; maintain a steady rhythm on the thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Workout 15.5](http://games.crossfit.com/workouts/the-open/2015#tabs-5)  \n  \n27-21-15-9 reps for time of:  \nRow (calories)  \nThrusters  \n  \n*Men use 95 lb.  \nWomen use 65 lb.*  \n  \nPost time to comments and/or register and submit your results as part of the [2015 Reebok CrossFit Games Open](http://games.crossfit.com/).  \n  \nTop male and top female will receive $2015.",
+      "date": "2015-03-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Burpee Pull-up Century",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For Time:\n* 100 **Burpee Pull-ups**",
+        "section_notes": [
+          "Break these into manageable sets (e.g., 10 sets of 10) to maintain quality."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n100 burpee pull-ups  \n  \nIdeally, the pull-up bar is 1 foot above your reach.  \n  \nPost time to comments.  \n  \nCompare to [121006](http://www.crossfit.com/mt-archive2/008611.html).",
+      "date": "2015-03-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Squat Max",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead Squat**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on active shoulders and a tight core to stabilize the bar."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 1-1-1-1-1-1-1 reps  \n  \nPost loads to comments.  \n  \nCompare to [140723](http://www.crossfit.com/mt-archive2/009285.html).",
+      "date": "2015-03-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Press Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Minute AMRAP:\n* 3 **Deadlifts** (275 lb)\n* 7 **Push Presses** (115 lb)",
+        "section_notes": [
+          "Move quickly between movements to maximize rounds in the short window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 5 minutes of:  \n275-lb. deadlifts, 3 reps  \n115-lb. push presses, 7 reps  \n  \nPost rounds completed to comments.  \n  \nCompare to [131206](http://www.crossfit.com/mt-archive2/009055.html).",
+      "date": "2015-03-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "powerlifting"
+      ]
+    }
+  }
+]

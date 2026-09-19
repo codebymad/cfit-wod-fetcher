@@ -1,0 +1,530 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Row and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "You have one hour to complete:\n* **Row** 1K\n* **Back Squat** 1-1-1-1-1 reps\n* **Row** 1K",
+        "section_notes": [
+          "Score is recorded as row time / 5 set total squat load / row time."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "You have one hour to:  \n  \nRow 1K  \nBack Squat 1-1-1-1-1 reps  \nRow 1K  \n  \nPost results in comments as row time/5 set total squat load/row time. E.G., 3:15/2020/3:30",
+      "date": "2003-06-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "You have one hour to complete:\n* **Run** 1 mile\n* **Clean** 1-1-1-1-1\n* **Run** 1 mile",
+        "section_notes": [
+          "Score is recorded as run time / 5 set total clean load / run time."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "You have one hour to:  \n  \nRun 1 mile  \nClean 1-1-1-1-1  \nRun 1 mile  \n  \nPost results in comments as run time/5 set total clean load/run time. E.G. 4:50/900/5:10",
+      "date": "2003-06-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "You have one hour to complete:\n* **Box Jump** (24”) 50 jumps\n* **Deadlift** 1-1-1-1-1 reps\n* **Box Jump** (24”) 50 jumps",
+        "section_notes": [
+          "Score is recorded as 50 jump time / 5 set total deadlift load / 50 jump time."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "You have one hour to:  \n  \n24” [Box Jump ](http://media.crossfit.com/cf-video/boxjump.wmv)50 jumps  \nDeadlift 1-1-1-1-1 reps  \n24” Box Jump 50 jumps  \n  \nPost results in comments as 50 jump time/5 set total deadlift load/50 jump time.  \nE.G. 1:50/2150/2:05",
+      "date": "2003-06-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Circuit",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat** 5-5-5 Reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "For ten minutes:\n* 12 **Pull-ups**\n* 12 **One-legged squats**, alternating legs",
+        "section_notes": [
+          "Complete as many rounds as possible in 10 minutes."
+        ]
+      },
+      {
+        "section_name": "conditioning",
+        "section_content": "3 rounds of:\n* 400 meter **Run**\n* 21 **Kettlebell swings** (1.5 pood or 50 lb dumbbell)\n* 12 **Pull-ups**",
+        "section_notes": [
+          "Target time to beat: 9:05."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Front Squat ](http://media.crossfit.com/cf-video/frontsquat.wmv)5-5-5 Reps  \n  \nRest -   \n  \nFor ten minutes:  \n12 [ Pull-ups](http://media.crossfit.com/cf-video/pull-up.wmv)  \n12 One-legged squats, alternating legs  \n  \nPost results in comments as 3 set total squat load/number of reps completed in 10 minute circuit. E.G. 600/192 (8 full rounds)",
+      "date": "2003-06-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Push",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean** 5-5-5 Reps",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "For ten minutes:\n* 12 **Push-ups**\n* 12 **Clean** (95 lbs)",
+        "section_notes": [
+          "Complete as many rounds as possible in 10 minutes."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean 5-5-5 Reps  \n  \nRest -  \n  \nFor ten minutes:  \n12 Push-ups  \nClean 95X12  \n  \nPost results in comments as “3 set total squat load”, “number of reps completed in ten minute circuit.” E.G. 585 (195 pounds for all three sets of five reps),198 (eight full rounds and six more push-ups).",
+      "date": "2003-06-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Army Fitness",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 3 rounds of:\n* Max set of **Pull-ups** x 2\n* Max set of **Dips** x 2",
+        "section_notes": [
+          "Based on the U.S. Army's physical fitness test from 1946."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3 rounds of:  \n  \nMax set of [Pull-ups ](http://media.crossfit.com/cf-video/pull-up.wmv)x 2  \nMax set of [Dips](http://media.crossfit.com/cf-video/dips.wmv) x 2",
+      "date": "2003-06-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Grind",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift** 3-3-3",
+        "section_notes": []
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds of:\n* 12 **Deadlift** (135 lbs)\n* 12 **Pull-ups**",
+        "section_notes": [
+          "Focus on consistent pacing across the 5 rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 3-3-3  \n  \nRest -   \n  \n5 rounds of:  \nDeadlift 135 x 12  \n12 [Pull-ups](http://media.crossfit.com/cf-video/pull-up.wmv)  \n  \nPost comments as \"total load for all 3 sets\"/ \"time to completion for 5 rounds\"  \nE.G., 1350/6:20",
+      "date": "2003-06-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Mile and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run** 1 mile\n* **Bench Press** (bodyweight) 21 reps",
+        "section_notes": [
+          "Rest and repeat off clock if specified, but primary goal is time for completion."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 1 mile.  \nBench Press bodyweight 21 reps.  \n  \nRest, repeat off clock.  \n  \nPost time in comments. Dave McEvoy’s 5:42 stands as the best time we’ve seen.",
+      "date": "2003-06-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hang and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Five rounds of:\n* 15 **Hang Clean**\n* 20 **Sit-ups**",
+        "section_notes": [
+          "Pick a consistent load for all five rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Five rounds of:  \n[Hang Clean ](http://media.crossfit.com/cf-video/hangclean.wmv)15 reps  \n20 [Sit-ups](http://media.crossfit.com/cf-video/glutehamsitup.wmv)  \n  \nPick a load for all five rounds. Total score is hang clean load in pounds divided by time to completion in seconds for all five rounds.   \n  \nPost score in comments.",
+      "date": "2003-06-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Complex Singles",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat** + **Push Jerk** 10 singles",
+        "section_notes": [
+          "Total the load for all 10 efforts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front Squat - Push Jerk 10 singles  \n  \nTotal the load for 10 efforts and post to comments.  \n  \nE.G., 225+225+230+235+240+225+225+225+185+135=2150  \n(Pukie Crashed!)",
+      "date": "2003-06-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Muscle",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete five rounds for time:\n* **Run** 400 meters\n* 5 **Muscle ups**",
+        "section_notes": [
+          "Maintain a steady pace on the run to allow for quality muscle ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete five rounds for time:  \n  \nRun 400 meters  \n5 [muscle ups](http://media.crossfit.com/cf-video/muscle-up_loyd.wmv)  \n  \nPost time for completion in comments.  \nE.G., 10:20",
+      "date": "2003-06-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Lunge and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 7 rounds:\n* **Walking lunge** 100 ft.\n* Max set of **Pull-ups**\n* 20 **Push-ups**",
+        "section_notes": [
+          "Score is total pull-ups divided by total time in seconds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 7 rounds:  \nWalking lunge 100 ft.   \nMax set of [pull-ups](http://media.crossfit.com/cf-video/pull-up.wmv)  \n20 Push-ups  \n  \nFinal score is pull-up total divided by time to completion for all 7 rounds. E.G. 28+20+16+13+10+9+7=103 pull-ups & 21:43=1303 seconds. 103/1303=. 079",
+      "date": "2003-06-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Handstands",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 5 rounds of:\n* **Deadlift** (twice bodyweight) 10 reps\n* 10 **Handstand Push-ups**",
+        "section_notes": [
+          "Touch nose to ground on handstand push-ups for full range of motion."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 5 rounds of:  \nDeadlift twice bodyweight 10 reps  \n10 Handstand Push-ups  \n  \nTouch nose to ground on handstand push-ups. Post time for completion for all five rounds in comments.",
+      "date": "2003-06-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "L-Pull Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 5 rounds of:\n* **Run** 400 meters\n* 15 **L-Pull-ups**",
+        "section_notes": [
+          "Legs must remain straight and heels above the lowest point of the butt."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 5 rounds of:  \nRun 400 meters  \n15 [“L” Pull-ups](http://media.crossfit.com/cf-video/L-pull-up.wmv)  \n  \n“L” Pull-ups require that the legs be straight and heels remain above lowest point of butt through entire range of pull-up. Reps where heels sink below butt, or legs bend, even momentarily, don’t count.   \n  \nPost time to comments.",
+      "date": "2003-06-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Triple",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Tabata Squats**\n* **Tabata Push-ups**\n* **Tabata Squats**",
+        "section_notes": [
+          "Tabata protocol: 20 seconds work, 10 seconds rest for 8 rounds per movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Tabata Squats](http://media.crossfit.com/cf-video/sample2tabata.wmv)  \nTabata Push-ups  \nTabata Squats  \n  \nPost total score from all three efforts in comments. E.G., 21+16+19=56.   \n  \n There are three variations to our “wall ball” family of exercises. The first, or “[original](http://media.crossfit.com/cf-video/WallBall.wmv)”, familiar to all our regulars, is basically a front squat/push press combo that launches the ball towards the target. This move begins and ends in a squat. The second, or “overhead” throw is an overhead whole body throw. It begins with a powerful whole body arch sending the ball behind the head with the back and hips hyperextending, then the athlete hurls the ball forward and overhead towards the target. The third exercise, or “backwards” throw, is a reverse whole body throw in which the athlete turns his back to the target and drives the ball overhead and backwards towards the target.",
+      "date": "2003-06-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kettlebell Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 3 rounds of:\n* **Run** 400 meters\n* 21 **Kettlebell swings** (1.5 pood or 55 lb dumbbell)\n* 12 **Pull-ups**",
+        "section_notes": [
+          "Rest and repeat off clock. Target time: 9:05."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 3 rounds of:  \nRun 400 meters  \n21 1 1/2 pood [kettlebell](http://media.crossfit.com/cf-video/kettlebell.wmv) or 55 pound dumbbell swings  \n12 [Pull-ups](http://media.crossfit.com/cf-video/pull-up.wmv)  \n  \nRest and repeat off clock.   \n  \nPost time for first three rounds to comments. The time to beat is Greg Amundson’s 9:05. (You’ll see this workout again.)",
+      "date": "2003-06-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Box",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 5 rounds of:\n* **Run** 400 meters\n* 21 **Overhead squat** (95 lbs)",
+        "section_notes": [
+          "Squat to a 10” box."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 5 rounds of:  \nRun 400 meters   \n[Overhead squat ](http://media.crossfit.com/cf-video/Overhead_Squat.wmv)95X21  \n  \nSquat to 10” box. Post time to complete all five rounds to comments.",
+      "date": "2003-06-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Effort Hour",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "In one hour, complete 7 rounds of:\n* Max **Bench Press**\n* Max **Pull-ups**",
+        "section_notes": [
+          "Score is lowest bench multiplied by lowest number of pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "In one hour complete 7 rounds of:  \nMax Bench  \nMax Pull-ups  \n  \nMultiply your lowest bench by your lowest number of pull-ups and post time to comments. E.G., 315X17=5,355.",
+      "date": "2003-06-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 10 rounds of:\n* **Deadlift** 1 rep\n* 12 **Push-ups**",
+        "section_notes": [
+          "Score is deadlift weight divided by total time in seconds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete 10 rounds of:  \nDeadlift 1 rep  \n12 Push-ups  \n  \nDivide deadlift weight by time to completion in seconds.",
+      "date": "2003-06-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bodyweight Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 50 **Pull-ups**\n* 200 **Squats**\n* 75 **Push-ups**",
+        "section_notes": [
+          "Steady pacing is key for this high-volume bodyweight workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50 [Pull-ups](http://media.crossfit.com/cf-video/pull-up.wmv)  \n200 [Squats](http://media.crossfit.com/cf-video/air2boxsquat.wmv)  \n75 Push-ups  \n  \nPost total time in comments.",
+      "date": "2003-06-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ugly 5K",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "**Run** 5K",
+        "section_notes": [
+          "Find the steepest, hottest, ugliest route possible."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5K  \n  \nFind the steepest, hottest, ugliest 5K you can and run it for time. Share your results to comments. If you can share photos send them to [admin@crossfit.com](mailto:admin@crossfit.com)",
+      "date": "2003-06-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Touch and Go",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk** 15-12-9 reps",
+        "section_notes": [
+          "Touch and go only. Rest overhead, at rack, or at bottom, but not at ground.",
+          "Use the same load for all three sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and Jerk 15-12-9 reps  \n  \nRest overhead, at rack, or at bottom, but not at ground - touch and go only!  \n  \nUse the same load for all three sets. Post load to comments.",
+      "date": "2003-06-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  }
+]

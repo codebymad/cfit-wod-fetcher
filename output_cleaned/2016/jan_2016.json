@@ -1,0 +1,584 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Upper Body Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **L pull-ups**: 20 reps\n* **Ring dips**: 16 reps",
+        "section_notes": [
+          "Maintain a steady pace across all five rounds.",
+          "Focus on full extension and depth for both movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \n20 [L pull-ups](https://www.youtube.com/watch?v=hHdD5Ksdnmk)  \n16 [ring dips](https://www.youtube.com/watch?v=Vt0lO4jpIDo)  \n  \nPost time to comments.",
+      "date": "2016-01-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Midline Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Row**: 1,000 meters\n\nThen, 5 rounds of:\n* **Back extensions**: 20 reps\n* **GHD sit-ups**: 16 reps\n\nThen, **Row**: 1,000 meters",
+        "section_notes": [
+          "The row serves as a buy-in and buy-out for the core work.",
+          "Keep the core tight during GHD sit-ups to protect the lower back."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n  \nRow 1,000 meters  \n  \nThen, 5 rounds of:  \n20 [back extensions](https://youtu.be/IAcinB_kLmA)  \n16 [GHD sit-ups](https://www.youtube.com/watch?v=l5YsDbLN43Y)  \n  \nThen, row 1,000 meters  \n  \nPost time to comments.",
+      "date": "2016-01-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Slow Motion",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "1 round:\n* **Handstand to feet descent**: 20 reps (as slowly as possible)\n* **Pull-up to hang descent**: 16 reps (as slowly as possible)",
+        "section_notes": [
+          "Focus on eccentric control and time under tension.",
+          "The goal is maximum duration for each descent."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "1 round:  \nLower from a handstand to your feet as slowly as possible, 20 reps  \nLower from a pull-up to a hang as slowly as possible, 16 reps  \n  \nTime each descent (or at least count them) and post the sum of the descents and total time to complete to comments.",
+      "date": "2016-01-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "skill-work",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Descent",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Establish your **1-rep-max deadlift**",
+        "section_notes": [
+          "Warm up thoroughly before attempting a max effort."
+        ]
+      },
+      {
+        "section_name": "metcon",
+        "section_content": "With a barbell loaded to 50% of your max deadlift, complete for time:\n* **Cleans**: 15 reps\n* **Cleans**: 12 reps\n* **Cleans**: 9 reps\n\n*Rest as needed between each set.*",
+        "section_notes": [
+          "Focus on explosive power and efficient barbell cycling.",
+          "Rest only as much as necessary to maintain form."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Establish your 1-rep-max deadlift  \n  \nThen, with a barbell loaded to 50 percent of your max deadlift:  \n15 cleans for time  \n12 cleans for time  \n9 cleans for time  \nRest as needed between each set.   \n  \nPost your max deadlift load and times for each set of cleans to comments.",
+      "date": "2016-01-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "olympic-lifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **Row**: 500 meters\n* **GHD sit-ups**: 25 reps\n* **Hip extensions**: 25 reps",
+        "section_notes": [
+          "Maintain a consistent rowing pace to allow for high-intensity core work.",
+          "Ensure full range of motion on the GHD movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \nRow 500 meters  \n25 GHD sit-ups  \n25 hip extensions  \n  \nPost time to comments.",
+      "date": "2016-01-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jerks and Pulls",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Jerks**: 15 reps\n* **Pull-ups**: 45 reps\n* **Jerks**: 12 reps\n* **Pull-ups**: 36 reps\n* **Jerks**: 9 reps\n* **Pull-ups**: 27 reps\n\n*Note: Use the same load for jerks as used for cleans on 2016-01-05.*",
+        "section_notes": [
+          "This is a descending rep scheme; try to maintain intensity as reps drop.",
+          "Break the pull-ups into manageable sets early on."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n15 jerks  \n45 pull-ups  \n12 jerks  \n36 pull-ups  \n9 jerks  \n27 pull-ups  \n  \nUse the same load for the jerks that you used for the cleans on Tuesday's WOD.  \n  \nPost load and time to comments.",
+      "date": "2016-01-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "olympic-lifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Eight Minute Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "On an 8-minute running clock, perform 1 minute each of:\n* **Squats**\n* **Push-ups**\n* **Box jumps** (20-inch)\n* **Pull-ups**\n* **Inverted burpees**\n* **Wall-ball shots** (20-lb ball)\n* **Burpees**\n* **Double-unders**",
+        "section_notes": [
+          "This is an interval-style workout; move at a high intensity for the full minute.",
+          "Transition quickly between movements to maximize reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "On an 8-minute running clock, perform 1 minute each of:  \nSquats  \nPush-ups  \n20-inch box jumps  \nPull-ups  \n[Inverted burpees](http://www.crossfit.com/mt-archive2/brendan-demo.html)  \nWall-ball shots, 20-lb. ball  \nBurpees  \nDouble-unders  \n  \nPost reps completed for each exercise, and total reps completed to comments.",
+      "date": "2016-01-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Long Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Row**: 10,000 meters",
+        "section_notes": [
+          "Focus on a sustainable pace and consistent stroke rate.",
+          "This is a pure aerobic capacity test."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 10,000 meters  \n  \nPost time to comments.  \n  \nCompare to [140224](https://www.crossfit.com/mt-archive2/009136.html#/comments).",
+      "date": "2016-01-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CrossFit Total",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Find 1-rep-max for each:\n* **Back squat**: 1 rep\n* **Shoulder press**: 1 rep\n* **Deadlift**: 1 rep",
+        "section_notes": [
+          "The total is the sum of all three lifts.",
+          "Take adequate rest between attempts to ensure maximum effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[CrossFit Total](http://journal.crossfit.com/2006/12/the-crossfit-total-by-mark-rip.tpl)  \n  \nBack squat, 1 rep  \nShoulder press, 1 rep  \nDeadlift, 1 rep  \n  \nPost total to comments.  \n  \nCompare to [150106](https://www.crossfit.com/mt-archive2/009452.html#/comments).",
+      "date": "2016-01-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Thruster Pulls",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps of:\n* **Dumbbell thrusters**\n* **L pull-ups**",
+        "section_notes": [
+          "Choose a load and pull-up variant that allows you to complete the set of 21 unbroken.",
+          "Maintain a high intensity to keep the heart rate elevated."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps of:  \nDumbbell thrusters  \nL pull-ups  \n  \nChoose the heaviest dumbbells and most difficult variant of the pull-up at which you can still complete a set of 21 reps. Try for each exercise to be completed unbroken.  \n  \nPost time, dumbbell load and type of pull-ups performed to comments.",
+      "date": "2016-01-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Tabata push-ups**: 20s work / 10s rest x 8\n* **Run**: 2 miles\n* **Bottom-to-bottom Tabata squats**: 20s work / 10s rest x 8",
+        "section_notes": [
+          "For Tabata squats, stay in the bottom position during the 10s rest intervals.",
+          "Maintain strict form on push-ups; avoid compromising range of motion."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata push-ups  \nRun 2 miles  \nBottom-to-bottom Tabata squats  \n  \nThe Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 intervals. Avoid lousy push-ups (see [CFJ 7](http://journal.crossfit.com/2003/03/the-pushup-by-greg-glassman-ma.tpl)). For the Tabata squats, remain in the bottom position for the rest intervals, and immediately return to the bottom position after full extension. No resting at the top.  \n  \nPost total number of push-ups, time to complete the run and total number of squats completed to comments.",
+      "date": "2016-01-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **GHD sit-ups**: 25 reps\n* **Back extensions**: 25 reps\n* **Legless rope climb** (15-foot): 5 ascents",
+        "section_notes": [
+          "Each rope climb must begin and end seated on the floor.",
+          "Keep the core engaged during the GHD movements to maintain stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \n25 GHD sit-ups  \n25 back extensions  \n15-foot legless rope climb, 5 ascents  \n  \nEach rope climb should begin and end seated on the floor. Post time to comments.",
+      "date": "2016-01-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Methodical Movement",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds SLOWLY of:\n* **Overhead squats** (95-lb): 21 reps\n* **GHD sit-ups**: 21 reps\n* **Hip-back extensions**: 21 reps",
+        "section_notes": [
+          "The focus is on control and precision, not speed.",
+          "Perform each rep methodically to maximize time under tension."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds SLOWLY of:  \n95-lb. overhead squats, 21 reps  \n21 GHD sit-ups  \n21 [hip-back extensions](https://www.youtube.com/watch?v=RDNIPcmP5vs)  \n  \nTake your time and perform each rep slowly and methodically.",
+      "date": "2016-01-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Dips",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Deadlifts**: 275-lb\n* **Strict ring dips**",
+        "section_notes": [
+          "Maintain a neutral spine during the heavy deadlifts.",
+          "Strict dips require significant shoulder stability; scale if necessary."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps for time of:  \n275-lb. deadlifts  \nStrict ring dips  \n  \nPost time to comments.",
+      "date": "2016-01-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ab-Pull Duo",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "2 rounds for time of:\n* **L pull-ups**: 50 reps\n* **AbMat sit-ups**: 50 reps",
+        "section_notes": [
+          "Break the reps into small, consistent sets to avoid early failure.",
+          "Focus on a strong contraction at the top of the pull-up."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "2 rounds for time of:  \n50 L pull-ups  \n50 AbMat sit-ups  \n  \nPost time to comments.",
+      "date": "2016-01-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Fight Gone Bad!",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds of (1 minute per station, 1 minute rest between rounds):\n* **Wall-ball shots** (20-lb ball, 10-ft target)\n* **Sumo deadlift high pulls** (75 lb)\n* **Box jumps** (20-inch)\n* **Push presses** (75 lb)\n* **Row** (calories)",
+        "section_notes": [
+          "Move to the next station immediately on the call of 'rotate'.",
+          "Score is total reps (1 point per rep/calorie)."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Fight Gone Bad!**  \n  \n3 rounds of:  \nWall-ball shots, 20-lb. ball, 10-ft. target (reps)  \nSumo deadlift high pulls, 75 lb. (reps)  \nBox jumps, 20-inch box (reps)  \nPush presses, 75 lb. (reps)  \nRow (calories)  \n  \nIn this workout, you move from each of five stations after a minute. The clock does not reset or stop between exercises. After the first 5-minute round, take a 1-minute break before repeating. On call of \"rotate,\" the athletes must move to next station immediately for best score. One point is given for each rep, except on the rower where each calorie is 1 point.  \n  \nAdd your points and post them to comments.  \n  \nCompare to [140828](https://www.crossfit.com/mt-archive2/009321.html#/comments).",
+      "date": "2016-01-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on consistent form across all five sets of three.",
+          "Increase weight incrementally if the first set feels light."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 3-3-3-3-3 reps  \n  \nPost loads to comments.  \n  \nCompare to [141124](https://www.crossfit.com/mt-archive2/009409.html#/comments).",
+      "date": "2016-01-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Elite Ascent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "2 rounds for time of:\n* **Muscle-ups**: 20 reps\n* **Rope climbs** (15-ft): 7 ascents",
+        "section_notes": [
+          "This is a high-skill workout; scale muscle-ups and rope climbs as needed.",
+          "Maintain a steady rhythm to avoid burnout on the muscle-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "2 rounds for time of:  \n20 muscle-ups  \n15-ft. rope climbs, 7 ascents  \n  \nPost time to comments.",
+      "date": "2016-01-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat and Hold",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "* **Tabata squat**: 10 rounds (20s work / 10s rest)\n* **Max handstand hold**: 3 attempts",
+        "section_notes": [
+          "Alternate between bottom-to-bottom and full extension for the Tabata squats.",
+          "Perform handstands against a wall for maximum stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10-round Tabata squat  \nThen, 3 attempts at max handstand hold  \n  \nThis Tabata interval is 20 seconds of work followed by 10 seconds of rest for 10 intervals. Remain in the bottom of the squat for every other rest interval (alternate [bottom-to-bottom](https://www.crossfit.com/mt-archive2/007875.html#/comments)). Perform handstands against a wall and hold for as long as possible. Rest as needed between attempts.  \n  \nPost number of squats completed, and time for each of the handstand attempts.",
+      "date": "2016-01-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back squat**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on depth and bracing for all 25 reps.",
+          "Keep the weight challenging but manageable for all sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 5-5-5-5-5 reps  \n  \nPost loads to comments.  \n  \nCompare to [150729](https://www.crossfit.com/mt-archive2/009660.html#/comments).",
+      "date": "2016-01-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row Run Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **Row**: 250 meters\n* **Hip extensions**: 21 reps\n* **AbMat sit-ups**: 21 reps\n* **Run**: 400 meters",
+        "section_notes": [
+          "Keep the transitions between the row, core work, and run tight.",
+          "Maintain a consistent pace on the run to avoid redlining."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \n250-meter row  \n21 hip extensions  \n21 AbMat sit-ups  \n400-meter run  \n  \nPost time to comments.",
+      "date": "2016-01-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Triple Threat Reps",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for reps of:\n* **Deadlifts** (185-lb): 1 minute\n* **Push-ups**: 1 minute\n* **Strict knees-to-elbows**: 1 minute",
+        "section_notes": [
+          "This is a rep-accumulation workout; aim for consistency across all 5 rounds.",
+          "Keep the deadlift form strict even as fatigue sets in."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for reps of:  \n1 minute of 185-lb. deadlifts  \n1 minute of push-ups  \n1 minute of strict knees-to-elbows  \n  \nPost reps completed to comments.",
+      "date": "2016-01-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Pyramid",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead squat**: 10-5-3-1-1-1-3-5-10 reps",
+        "section_notes": [
+          "Follow the pyramid: build up to a heavy single, then descend in weight.",
+          "Ensure full lockout and stability at the top of each rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 10-5-3-1-1-1-3-5-10 reps  \n  \nPost loads to comments.  \n  \nCompare to [150530](https://www.crossfit.com/mt-archive2/009600.html#/comments).",
+      "date": "2016-01-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sisson",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "As many rounds as possible in 20 minutes of:\n* **Rope climb** (15-ft): 1 ascent\n* **Burpees**: 5 reps\n* **Run**: 200 meters\n\n*Optional: Wear a 20-lb vest or body armor.*",
+        "section_notes": [
+          "Pace yourself for the full 20 minutes; don't sprint the first round.",
+          "The vest adds significant intensity to the burpees and run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Sisson**  \n  \nComplete as many rounds as possible in 20 minutes of:  \n15-ft rope climb, 1 ascent  \n5 burpees  \n200-meter run  \n  \nIf you've got a 20-lb. vest or body armor, wear it.  \n  \nPost rounds completed to comments.",
+      "date": "2016-01-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "AMRAP"
+      ]
+    }
+  }
+]

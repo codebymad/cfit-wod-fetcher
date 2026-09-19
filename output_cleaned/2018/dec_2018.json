@@ -1,0 +1,556 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Eva",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Run** 800 meters\n* 30 **Kettlebell Swings**\n* 30 **Pull-ups**\n\nMen: 32-kg kettlebell\nWomen: 24-kg kettlebell",
+        "section_notes": [
+          "This classic benchmark is a long workout with significant volume.",
+          "Expect to need multiple sets to complete each set of 30 reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Eva**\r\n\r\n5 rounds for time of:  \r\nRun 800 meters  \r\n30 kettlebell swings  \r\n30 pull-ups  \r\n\r\nMen: 32-kg kettlebell  \r\nWomen: 24-kg kettlebell  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2018/01/16\" target=\"_blank\">180116</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-american-kettlebell-swing\" target=\"_blank\">The American Kettlebell Swing </a>   \r\n• <a href=\"https://journal.crossfit.com/article/infinity-the-kipping-pull-up\" target=\"_blank\">The Kipping Pull-Up</a>",
+      "date": "2018-12-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Balance",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Run** 800 meters\n* 10 rounds of:\n    * 10 **Handstand Push-ups**\n    * 10 **Single-leg Squats**\n* **Run** 800 meters",
+        "section_notes": [
+          "The gymnastics movements require strength, skill and endurance.",
+          "Ideally, the reps are performed unbroken or in no more than two sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\nRun 800 meters  \r\nThen, 10 rounds of the couplet:   \r\n    &nbsp;&nbsp;  10 handstand push-ups  \r\n    &nbsp;&nbsp;  10 single-leg squats  \r\nThen, run 800 meters  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2012/04/16\" target=\"_blank\">120416</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-strict-handstand-push-up\" target=\"_blank\">The Strict Handstand Push-Up</a>    \r\n• <a href=\"https://journal.crossfit.com/article/the-kipping-handstand-push-up-journal\" target=\"_blank\">The Kipping Handstand Push-Up</a>    \r\n• <a href=\"https://journal.crossfit.com/article/the-pistol\" target=\"_blank\">The Pistol</a>",
+      "date": "2018-12-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Strength",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead Squat**: 3-3-3-3-3 reps",
+        "section_notes": [
+          "Ideally, each set will be as heavy as possible for 3 reps.",
+          "Newer athletes should start light and spend ample time drilling mechanics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 3-3-3-3-3 reps\r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2018/08/10\" target=\"_blank\">180810</a>. \r\n\r\n---  \r\nRelated content:  \r\n• From the vault: <a href=\"https://journal.crossfit.com/article/wod-130105-demo-with-crossfit-mayhem\" target=\"_blank\">WOD 130105 Demo With CrossFit Mayhem</a>",
+      "date": "2018-12-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Muscle",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 12 Minutes:\n* 20 **GHD Sit-ups**\n* 5 **Strict Muscle-ups**",
+        "section_notes": [
+          "Experienced athletes should maintain a pace that challenges conditioning.",
+          "Be cautious with GHD volume if using muscle-up modifications."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 12 minutes of:  \r\n20 GHD sit-ups  \r\n5 strict muscle-ups  \r\n\r\nScroll for scaling options.  \r\nPost rounds completed to comments.   \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-ghd-sit-up-journal\" target=\"_blank\">The GHD Sit-Up</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-strict-muscle-up\" target=\"_blank\">The Strict Muscle-Up</a>",
+      "date": "2018-12-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rowing Descent",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Row** 2,000 meters\n* 50 **Wall-ball Shots**\n* **Row** 1,000 meters\n* 35 **Wall-ball Shots**\n* **Row** 500 meters\n* 20 **Wall-ball Shots**\n\nMen: 20-lb. ball to 10 ft.\nWomen: 14-lb. ball to 9 ft.",
+        "section_notes": [
+          "Aim to complete this couplet in about 20 or fewer minutes.",
+          "Select wall-ball modifications that allow for large sets to minimize time off the rower."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:    \r\nRow 2,000 meters    \r\n50 wall-ball shots    \r\nRow 1,000 meters    \r\n35 wall-ball shots    \r\nRow 500 meters    \r\n20 wall-ball shots    \r\n\r\nMen: 20-lb. ball to 10 ft.   \r\nWomen: 14-lb. ball to 9 ft.\r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/06/12\" target=\"_blank\">150612</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/rowing-course-body-position-2\" target=\"_blank\">Rowing Course: Body Position</a>   \r\n• <a href=\"https://journal.crossfit.com/article/infinity-the-wall-ball\" target=\"_blank\">The Wall Ball</a>",
+      "date": "2018-12-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Toes",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* 30 **Dumbbell Snatches**\n* 30 **Toes-to-bars**\n\nMen: 50-lb. dumbbell\nWomen: 35-lb. dumbbell",
+        "section_notes": [
+          "Dumbbell work should be fast and not slow you down.",
+          "Complete toes-to-bars in about 4-5 sets; avoid laboring for singles."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:  \r\n30 dumbbell snatches  \r\n30 toes-to-bars  \r\n\r\nMen: 50-lb. dumbbell  \r\nWomen: 35-lb. dumbbell  \r\n\r\nScroll for scaling options.  \r\nPost time to comments. \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-dumbbell-snatch-journal\" target=\"_blank\">The Dumbbell Snatch</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-kipping-toes-to-bar\" target=\"_blank\">The Kipping Toes-to-Bar</a>",
+      "date": "2018-12-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Split Jerk Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Split Jerk**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "All athletes can attempt split-jerk triples.",
+          "Newer athletes should spend plenty of time drilling the movement before adding weight."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Split jerk 3-3-3-3-3-3-3 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2018/07/26\" target=\"_blank\">180726</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-split-jerk-journal\" target=\"_blank\">The Split Jerk</a>   \r\n• <a href=\"https://journal.crossfit.com/article/footwork-in-the-split-with-chad-vaughn\" target=\"_blank\">Footwork in the Split With Chad Vaughn</a>",
+      "date": "2018-12-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ball and Box",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20-10 reps for time of:\n* **Medicine-ball Cleans**\n* **Box Jumps**\n\nMen: 20-lb. ball, 24-in. box\nWomen: 14-lb. ball, 20-in. box",
+        "section_notes": [
+          "Designed for a steady pace with large sets and short rest breaks.",
+          "Strive for virtuosity in the medicine-ball clean."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "50-40-30-20-10 reps for time of:  \r\nMedicine-ball cleans  \r\nBox jumps  \r\n\r\nMen: 20-lb. ball, 24-in. box  \r\nWomen: 14-lb. ball, 20-in. box  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.   \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-medicine-ball-clean\" target=\"_blank\">The Medicine-Ball Clean</a>   \r\n• Read: <a href=\"https://journal.crossfit.com/article/medicine-ball-cleans\" target=\"_blank\">Medicine-Ball Cleans</a>",
+      "date": "2018-12-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Endurance",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 10-10-10-10-10 reps",
+        "section_notes": [
+          "Tests strength endurance in 10-rep sets followed by adequate recovery.",
+          "Ideally, each set will be as heavy as possible for 10 reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 10-10-10-10-10 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/02/11\" target=\"_blank\">150211</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/simplifying-the-deadlift-with-coach-glassman\" target=\"_blank\">Simplifying the Deadlift With Coach Glassman</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-deadlift\" target=\"_blank\">The Deadlift</a>",
+      "date": "2018-12-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jackie",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 1,000-meter **Row**\n* 50 **Thrusters**\n* 30 **Pull-ups**\n\nMen: 45 lb.\nWomen: 35 lb.",
+        "section_notes": [
+          "Meant to be performed at very high intensity.",
+          "Modify the pull-ups to maintain large sets that test conditioning."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Jackie**  \r\n\r\nFor time:  \r\n1,000-meter row  \r\n50 thrusters  \r\n30 pull-ups  \r\n\r\nMen: 45 lb.  \r\nWomen: 35 lb.  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/05/15\" target=\"_blank\">150515</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/rowing\" target=\"_blank\">Rowing</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-thruster\" target=\"_blank\">The Thruster</a>   \r\n• <a href=\"https://journal.crossfit.com/article/infinity-the-kipping-pull-up\" target=\"_blank\">The Kipping Pull-Up</a>",
+      "date": "2018-12-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "The Filthy Fifty",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 50 **Box Jumps**\n* 50 **Jumping Pull-ups**\n* 50 **Kettlebell Swings**\n* 50 **Walking-lunge Steps**\n* 50 **Knees-to-elbows**\n* 50 **Push Presses**\n* 50 **Back Extensions**\n* 50 **Wall-ball Shots**\n* 50 **Burpees**\n* 50 **Double-unders**\n\nMen: 24-inch box, 16-kg KB, 45-lb. push press, 20-lb. ball\nWomen: 20-inch box, 12-kg KB, 35-lb. push press, 14-lb. ball",
+        "section_notes": [
+          "A classic chipper of 500 reps characterized by intermediate body-weight movements and light loads.",
+          "Newer athletes should reduce volume to ensure large sets and short rest breaks."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n50 box jumps  \r\n50 jumping pull-ups  \r\n50 kettlebell swings  \r\n50 walking-lunge steps  \r\n50 knees-to-elbows  \r\n50 push presses  \r\n50 back extensions  \r\n50 wall-ball shots  \r\n50 burpees  \r\n50 double-unders  \r\n\r\nMen: 24-inch box, 16-kg KB, 45-lb. push press, 20-lb. ball  \r\nWomen: 20-inch box, 12-kg KB, 35-lb. push press, 14-lb. ball\r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/01/15\" target=\"_blank\">170115</a>.   \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/wod-120111-demo-with-cfne\" target=\"_blank\">WOD 120111 Demo with CFNE Filthy Fifty</a>",
+      "date": "2018-12-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "chipper",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Nancy",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* 400-m **Run**\n* 10 **Overhead Squats**\n\nMen: 135 lb.\nWomen: 95 lb.",
+        "section_notes": [
+          "A variation on the benchmark Nancy using heavier loads and fewer reps.",
+          "This is a conditioning workout, not a strength test; maintain a pace for unbroken or 2-set squats."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n400-m run  \r\n10 overhead squats  \r\n\r\nMen: 135 lb.  \r\nWomen: 95 lb.\r\n\r\nScroll for scaling options.    \r\nPost time to comments.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-overhead-squat\" target=\"_blank\">The Overhead Squat</a>",
+      "date": "2018-12-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk PR",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Pick loads that allow you to attempt to set a PR in the later sets.",
+          "If uncomfortable with heavy loads, add reps to early sets to drill mechanics."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and jerk 1-1-1-1-1-1-1 reps  \r\n\r\nScroll for scaling options.  \r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2018/05/22\" target=\"_blank\">180522</a>.     \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/chad-vaughn-315-pound-clean-and-jerk\" target=\"_blank\">Chad Vaughn, 315-lb. Clean and Jerk</a>",
+      "date": "2018-12-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint and Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* 400-m **Run**\n* 15 **Thrusters**\n* 10 **Burpees**\n\nMen: 75 lb.\nWomen: 55 lb.",
+        "section_notes": [
+          "Nothing should slow you down; the run is short and loading is light.",
+          "Attack each element with high intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n400-m run  \r\n15 thrusters  \r\n10 burpees  \r\n\r\nMen: 75 lb.  \r\nWomen: 55 lb.  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.    \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-thruster\" target=\"_blank\">The Thruster</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-burpee\" target=\"_blank\">The Burpee</a>",
+      "date": "2018-12-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Climb and Jump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 12 Minutes:\n* 3 **Rope Climbs** (15-ft. rope)\n* 20 **Box Jumps**\n\nMen: 30-in. box\nWomen: 24-in. box",
+        "section_notes": [
+          "Avoid spending more than 60-90 seconds on each set of rope climbs.",
+          "Reduce box height to perform reps without large breaks."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 12 minutes of:  \r\n3 rope climbs, 15-ft. rope  \r\n20 box jumps  \r\n\r\nMen: 30-in. box  \r\nWomen: 24-in. box  \r\n\r\nScroll for scaling options.  \r\nPost rounds completed to comments.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-j-hook-rope-climb-2\" target=\"_blank\">The J-Hook Rope Climb</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-box-jump-journal\" target=\"_blank\">The Box Jump</a>",
+      "date": "2018-12-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Burpee Clean",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 15 **Burpees**, jumping over the barbell\n* 5 **Clean and Jerks**\n* 12 **Burpees**, jumping over the barbell\n* 4 **Clean and Jerks**\n* 9 **Burpees**, jumping over the barbell\n* 3 **Clean and Jerks**\n\nMen: 225 lb.\nWomen: 155 lb.",
+        "section_notes": [
+          "Clean and jerks should be relatively heavy but not max-effort singles.",
+          "Choose a load that doesn't require significant rest after every rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n15 burpees, jumping over the barbell  \r\n5 clean and jerks  \r\n12 burpees, jumping over the barbell  \r\n4 clean and jerks  \r\n9 burpees, jumping over the barbell  \r\n3 clean and jerks  \r\n\r\nMen: 225 lb.  \r\nWomen: 155 lb.\r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/12/26\" target=\"_blank\">161226</a>.   \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-power-clean-and-push-jerk\" target=\"_blank\">The Power Clean and Push Jerk</a>",
+      "date": "2018-12-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Row Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds on the C2 rower of:\n* Pull a sub-1:25/500-m pace for as long as possible\n* Rest 3 minutes",
+        "section_notes": [
+          "Goal is high power output for a short period with moderate rest.",
+          "Adjust target pace to ensure intervals of at least 30-40 seconds in later rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds on the C2 rower of:  \r\nPull a sub-1:25/500-m pace for as long as possible  \r\nRest 3 minutes  \r\n\r\nScale pace as needed so that first interval can be maintained for approximately 1 minute.  \r\n\r\nScroll for scaling options.  \r\nPost time maintained for each interval to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/12/27\" target=\"_blank\">141227</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/rowing\" target=\"_blank\">Rowing</a>",
+      "date": "2018-12-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Squat",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds for time of:\n* **Run** 400 meters\n* 50 **Squats**",
+        "section_notes": [
+          "You should be moving almost continuously.",
+          "Reduce run distance or squat reps to maintain a seamless transition."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds for time of:  \r\nRun 400 meters  \r\n50 squats  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/12/25\" target=\"_blank\">171225</a>.    \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-air-squat\" target=\"_blank\">The Air Squat</a>   \r\n• <a href=\"https://journal.crossfit.com/article/squat-therapy-with-austin-begiebing\" target=\"_blank\">Squat Therapy</a>",
+      "date": "2018-12-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Annie",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20-10 reps for time of:\n* **Double-unders**\n* **Sit-ups**",
+        "section_notes": [
+          "Meant to be performed at high speed, with sit-ups as the limiting factor.",
+          "Modify double-unders to ensure the rope work is completed quickly."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Merry Christmas!\r\n\r\n**Annie**  \r\n\r\n50-40-30-20-10 reps for time of:  \r\nDouble-unders  \r\nSit-ups  \r\n\r\nScroll for scaling options.  \r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/11/29\" target=\"_blank\">171129</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://www.youtube.com/watch?v=CWaiZxgrBGY\" target=\"_blank\">Chris Spealler Does \"Annie\"</a>   \r\n• <a href=\"https://journal.crossfit.com/article/wod-demo-100813-with-dave-castro\" target=\"_blank\">WOD Demo 100813 With Dave Castro</a>   \r\n• <a href=\"https://www.youtube.com/watch?v=I3Q9TTYNoIg\" target=\"_blank\">\"Annie\" With CrossFit New England Kids</a>",
+      "date": "2018-12-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Bodyweight",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Tabata Intervals (20s work / 10s rest x 8):\n* **Handstand Push-ups**\n* Rest 1 minute\n* **Single-leg Squats**\n* Rest 1 minute\n* **Push-ups**\n* Rest 1 minute\n* **Jumping Lunges**",
+        "section_notes": [
+          "Alternating upper and lower body movements.",
+          "Target at least 6-8 reps in the final two Tabatas."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Tabata handstand push-ups  \r\nRest 1 minute  \r\nTabata single-leg squats   \r\nRest 1 minute  \r\nTabata push-ups  \r\nRest 1 minute  \r\nTabata jumping lunges  \r\n\r\nThe Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 intervals.  \r\n\r\nScroll for scaling options.  \r\nPost reps for each exercise completed to comments.    \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/tabata-with-erik-preston\" target=\"_blank\">Tabata Interval Training</a>   \r\n• <a href=\"https://journal.crossfit.com/article/scaling-the-pistol\" target=\"_blank\">Scaling the Pistol</a>",
+      "date": "2018-12-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Barbell Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 Minutes:\n* 5 **Thrusters**\n* 7 **Hang Power Cleans**\n* 10 **Sumo Deadlift High Pulls**\n\nMen: 95 lb.\nWomen: 65 lb.",
+        "section_notes": [
+          "Loads should be light to allow a large number of reps.",
+          "Ideally, each set is performed unbroken for the first half of the workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:  \r\n5 thrusters  \r\n7 hang power cleans  \r\n10 sumo deadlift high pulls  \r\n\r\nMen: 95 lb.  \r\nWomen: 65 lb. \r\n\r\nScroll for scaling options.  \r\nPost rounds completed to comments.   \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/06/22\" target=\"_blank\">140622</a>.   \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-thruster\" target=\"_blank\">The Thruster</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-hang-power-clean-journal\" target=\"_blank\">The Hang Power Clean</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-sumo-deadlift-high-pull\" target=\"_blank\">The Sumo Deadlift High Pull</a>",
+      "date": "2018-12-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Muscle-Up",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "On a 12-minute clock:\n* 1 minute **GHD Sit-ups**\n* 1 minute **Bar Muscle-ups**\n* 2 minutes **GHD Sit-ups**\n* 2 minutes **Bar Muscle-ups**\n* 3 minutes **GHD Sit-ups**\n* 3 minutes **Bar Muscle-ups**",
+        "section_notes": [
+          "Volume will demand rest breaks, especially in intervals 4-6.",
+          "Avoid large increases in GHD volume over previous workouts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "On a 12-minute clock:  \r\n1 minute of GHD sit-ups  \r\n1 minute of bar muscle-ups  \r\n2 minutes of GHD sit-ups  \r\n2 minutes of bar muscle-ups  \r\n3 minutes of GHD sit-ups  \r\n3 minutes of bar muscle-ups  \r\n\r\nScroll for scaling options.  \r\nPost reps for each exercise completed to comments.    \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/the-ghd-sit-up-journal\" target=\"_blank\">The GHD Sit-Up</a>   \r\n• <a href=\"https://journal.crossfit.com/article/the-bar-muscle-up-with-boz-journal\" target=\"_blank\">The Bar Muscle-Up</a>",
+      "date": "2018-12-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Olympic AMRAP",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 12 Minutes:\n* 1 **Squat Snatch**\n* 3 **Clean and Jerks**\n* 30 **Double-unders**\n\nMen: 155 lb.\nWomen: 105 lb.",
+        "section_notes": [
+          "The snatch will be the limiting factor; avoid misses.",
+          "Perform touch-and-go clean and jerks if able."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 12 minutes of:  \r\n1 squat snatch  \r\n3 clean and jerks  \r\n30 double-unders\r\n\r\nMen: 155 lb.  \r\nWomen: 105 lb.    \r\n\r\nScroll for scaling options.  \r\nPost rounds completed to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2017/12/30\" target=\"_blank\">171230</a>.  \r\n\r\n---  \r\nRelated content:  \r\n• <a href=\"https://journal.crossfit.com/article/chad-vaughn-285-lb-snatch\" target=\"_blank\">Chad Vaughn, 285-lb. Snatch</a>   \r\n• <a href=\"https://journal.crossfit.com/article/chad-vaughn-315-pound-clean-and-jerk\" target=\"_blank\">Chad Vaughn, 315-lb. Clean and Jerk</a>",
+      "date": "2018-12-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "olympic-lifting"
+      ]
+    }
+  }
+]

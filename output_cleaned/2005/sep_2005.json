@@ -1,0 +1,511 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Dip and Dash",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Ring dips**, 50 reps\n* Run 800 meters\n* **Ring dips**, 50 reps\n* Run 800 meters\n* **Ring dips**, 50 reps",
+        "section_notes": [
+          "Maintain a steady pace on the runs to allow for higher intensity on the dips."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n50 Ring dips  \nRun 800 meters  \n50 Ring dips  \nRun 800 meters  \n50 Ring dips  \n  \nPost time to comments.",
+      "date": "2005-09-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Tabata Something Else",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete 32 intervals of 20 seconds of work followed by 10 seconds of rest:\n* Intervals 1-8: **Pull-ups**\n* Intervals 9-16: **Push-ups**\n* Intervals 17-24: **Sit-ups**\n* Intervals 25-32: **Squats**\n\nThere is no rest between exercises.",
+        "section_notes": [
+          "Focus on maximum repetitions within each 20-second window."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**\"Tabata Something Else\"**  \n  \nComplete 32 intervals of 20 seconds of work followed by ten seconds of rest where the first 8 intervals are pull-ups, the second 8 are push-ups, the third 8 intervals are sit-ups, and finally, the last 8 intervals are squats. There is no rest between exercises.   \n  \nPost total reps from all 32 intervals to comments.  \n  \nCompare to [050531](http://www.crossfit.com/mt-archive2/000802.html).",
+      "date": "2005-09-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run and Pump",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* Run 400 meters\n* **Barbell Thruster** (45 lb), 50 reps\n* Run 400 meters\n* **Burpees**, 50 reps\n* Run 400 meters\n* **Barbell Hang Squat Clean** (45 lb), 50 reps\n* Run 400 meters",
+        "section_notes": [
+          "Keep the barbell movements fluid to maintain a high heart rate."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \nRun 400 meters  \n45 pound barbell Thruster, 50 reps  \nRun 400 meters  \n50 [Burpees](http://www.warriorforce.com/articles/burpeeclip.htm)  \nRun 400 meters  \n45 pound barbell Hang squat clean, 50 reps  \nRun 400 meters  \n  \nPost time to comments.",
+      "date": "2005-09-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle-Up Sprint",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Muscle-ups**, 30 reps\n\n*Scaling: If you cannot do muscle-ups, perform 120 **Pull-ups** and 120 **Dips**.*",
+        "section_notes": [
+          "Break the reps into manageable sets to avoid early failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \n30 Muscle-ups  \n  \nPost time to comments.  \n  \nIf you cannot do the muscle-ups do 120 pull-ups and 120 dips.   \n  \nCompare to [050730](http://www.crossfit.com/mt-archive2/000862.html).",
+      "date": "2005-09-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Annie",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "50-40-30-20-10 rep rounds of:\n* **Double-unders**\n* **Sit-ups**",
+        "section_notes": [
+          "This is a high-volume aerobic and core workout; maintain a consistent rhythm."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Annie**  \r\n  \r\n50-40-30-20 and10 rep rounds of:  \r\n[Double-unders](http://media.crossfit.com/cf-video/doubleunders.wmv)  \r\nSit-ups  \r\n  \r\nPost time to comments.",
+      "date": "2005-09-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatch Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Snatch**: 15-12-9 reps\n\nThree sets with any rest needed between sets. Touch and go at ground only.",
+        "section_notes": [
+          "Focus on explosive power and maintaining a flat back during the pull."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Snatch 15-12-9 reps  \n  \nThis is three sets with any rest needed between sets. Touch and go at ground only.   \n  \nPost load to comments.  \n  \nCompare to [030906](http://www.crossfit.com/mt-archive2/000155.html).",
+      "date": "2005-09-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Mile",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Back Squat** (Bodyweight), 21 reps\n* Run 200 meters\n* **Front Squat** (2/3 Bodyweight), 21 reps\n* Run 400 meters\n* **Overhead Squat** (1/2 Bodyweight), 21 reps\n* Run 800 meters",
+        "section_notes": [
+          "Ensure full depth on all squats; scale weight if mobility is limited."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat, bodyweight, 21 reps  \nRun 200 meters  \nFront squat, 2/3 bodyweight, 21 reps  \nRun 400 meters  \nOverhead squat, ½ bodyweight, 21 reps  \nRun 800 meters  \n  \nPost time to comments.",
+      "date": "2005-09-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Sprints",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* **Dumbbell/Kettlebell Snatch** (55 lb), 20 reps (alternating arms)\n* **Pull-ups**, 20 reps\n* Run 400 meters",
+        "section_notes": [
+          "Keep the snatch movements snappy and the run at a moderate pace."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Three rounds for time of:  \n55 pound Dumbbell (Kettlebell) Snatch, 20 reps, alternating arms  \n20 Pull-ups  \nRun 400 meters  \n  \nPost time to comments.",
+      "date": "2005-09-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Elizabeth",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps of:\n* **Clean** (135 lb)\n* **Ring Dips**",
+        "section_notes": [
+          "A classic benchmark; aim for fast transitions between the cleans and dips."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**&#147;Elizabeth&#148;**  \n  \n21-15-9 reps of:  \nClean 135 pounds  \nRing dips  \n  \nPost time to comments.   \n  \nCompare to [050815](http://www.crossfit.com/mt-archive2/000878.html).",
+      "date": "2005-09-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Press and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP 20 Minutes:\n* **Push Press** (1/2 Bodyweight), 15 reps\n* **Rope Climb**, 15 foot ascent",
+        "section_notes": [
+          "Maintain a steady pace; don't burn out on the first few rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds in 20 minutes as you can of:  \n1/2 body weight Push press, 15 reps  \nRope climb, 15 foot ascent  \n  \nPost rounds and fractions of rounds completed to comments.",
+      "date": "2005-09-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Gauntlet",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Thruster** (95 lb), 75 reps",
+        "section_notes": [
+          "Break these into small, consistent sets (e.g., 5s or 10s) to avoid failure."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "95 pound Thruster, 75 reps  \n  \nPost time to comments.",
+      "date": "2005-09-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Pull-Up Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "With a continuously running clock:\n* Minute 1: 1 **Pull-up**\n* Minute 2: 2 **Pull-ups**\n* Minute 3: 3 **Pull-ups**\n* Continue increasing by 1 rep per minute as long as possible.",
+        "section_notes": [
+          "Use as many sets as needed within the minute to complete the required reps."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "With a continuously running clock do one pull-up the first minute, two pull-ups the second minute, three pull-ups the third minute... continuing as long as you are able.   \n  \nUse as many sets each minute as needed.  \n  \nPost number of minutes completed to comments.   \n  \nCompare to [050629](http://www.crossfit.com/mt-archive2/000831.html).",
+      "date": "2005-09-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean Volume",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Squat Clean** (95 lb), 75 reps",
+        "section_notes": [
+          "Focus on a deep squat and explosive drive."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "95 pound Squat clean, 75 reps  \n  \nPost time to comments.",
+      "date": "2005-09-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Run 5 K",
+        "section_notes": [
+          "Steady state aerobic effort."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5 K  \n  \nPost time to comments.",
+      "date": "2005-09-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Olympic Triad",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Clean**: 5-5-5 reps\n* **Front Squat**: 5-5-5 reps\n* **Split Jerk**: 5-5-5 reps",
+        "section_notes": [
+          "Focus on technical precision for each lift."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean 5-5-5  \nFront squat 5-5-5  \nSplit jerk 5-5-5  \n  \nPost loads to comments.",
+      "date": "2005-09-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Helen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time:\n* Run 400 meters\n* **Kettlebell Swings** (1.5 pood or 55 lb dumbbell), 21 reps\n* **Pull-ups**, 12 reps",
+        "section_notes": [
+          "A classic benchmark; keep the transition from the run to the swings fast."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**&#147;Helen&#148;**  \n  \nThree rounds for time:  \nRun 400 meters  \n1 ½ pood Kettlebell X 21 swings (or 55 pound dumbbell swing)  \n12 Pull-ups   \n  \nCompare to [050816](http://www.crossfit.com/mt-archive2/000879.html).   \n  \nPost time to comments.",
+      "date": "2005-09-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Bodyweight Chipper",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10, 20, and 30 rep rounds of:\n* **Box Jump** (20 inch box)\n* **Handstand Push-ups**\n* **Burpees**\n* **Pull-ups**",
+        "section_notes": [
+          "The volume increases each round; pace yourself early."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10, 20, and then 30 rep rounds of:  \nBox jump, 20 inch box  \nHandstand push-ups  \nBurpees  \nPull-ups  \n  \nPost time to comments.",
+      "date": "2005-09-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "chipper",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Alternating Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "With a continuously running clock:\n* Minute 1: 1 **Thruster** (75 lb)\n* Minute 2: 2 **Pull-ups**\n* Minute 3: 3 **Thrusters**\n* Minute 4: 4 **Pull-ups**\n* Continue pattern as long as able.\n\n*Note: If pace falls behind, continue alternating exercises for a total of 20 minutes.*",
+        "section_notes": [
+          "Stay focused on the clock; the goal is to keep up with the rep count."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "75 pound Thruster  \nPull-ups  \n  \nWith a continuously running clock do one thruster the first minute, two pull-ups the second minute, three thruster the third minute, and four pull-ups the fourth minute&#133;continuing in this pattern as long as you are able. If your pace falls behind the count, continue to alternate exercises while recording reps for a total of twenty minutes.   \n  \nPost results to comments.",
+      "date": "2005-09-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jump and Lunge",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n1. **Broad Jump** 50 yards (count the number of jumps)\n2. **Lunge** (alternating legs) for that many reps\n3. **Deadlift** (Bodyweight) for that many reps\n4. **Box Jump** (20\") for that many reps\n5. **Squat** for that many reps",
+        "section_notes": [
+          "The number of jumps in the first movement determines the volume for the rest of the workout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \nBroad jump 50 yards counting the number of jumps  \nLunge that many times alternating legs, maximizing stride  \nDeadlift bodyweight that many reps  \nBox jump 20&#148; that many reps  \nSquat that many reps  \n  \nPost time and number of jumps to comments.",
+      "date": "2005-09-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat**: 3-3-3-3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "10 sets of 3; focus on maintaining a vertical torso."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 3-3-3-3-3-3-3-3-3-3 reps  \n  \nPost loads to comments.",
+      "date": "2005-09-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "strength",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Cindy or Mary",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Choose one of the following:\n\n**Option 1: Cindy**\nAMRAP 20 Minutes:\n* **Pull-ups**, 5 reps\n* **Push-ups**, 10 reps\n* **Squats**, 15 reps\n\n**Option 2: Mary**\nAMRAP 20 Minutes:\n* **Handstand Push-ups**, 5 reps\n* **One-legged Squats** (alternating), 10 reps\n* **Pull-ups**, 15 reps",
+        "section_notes": [
+          "Both are benchmark workouts. Cindy is more aerobic, Mary is more strength/skill focused."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**\"Cindy\"**  \r\nComplete as many rounds in 20 minutes as you can of:   \r\n5 Pull-ups   \r\n10 Push-ups  \r\n15 Squats  \r\n  \r\nOR  \r\n  \r\n**\"Mary\"**  \r\nComplete as many rounds in 20 minutes as you can of:   \r\n5 Handstand Push-ups  \r\n10 One legged squats, alternating  \r\n15 Pull-ups  \r\n  \r\nPost your choice of girls and rounds completed to comments.  \r\n  \r\nCompare to [050810](http://www.crossfit.com/mt-archive2/000873.html).",
+      "date": "2005-09-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Michael",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Three rounds for time of:\n* Run 800 meters\n* **Back Extensions**, 50 reps\n* **Sit-ups**, 50 reps",
+        "section_notes": [
+          "Focus on a strong core and steady breathing during the run."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**\"Michael\"**  \n  \nThree rounds for time of:  \nRun 800 meters  \n50 Back Extensions  \n50 Sit-ups  \n  \nPost time to comments.  \n  \nCompare to [050824](http://www.crossfit.com/mt-archive2/000887.html).",
+      "date": "2005-09-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  }
+]

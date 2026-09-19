@@ -1,0 +1,552 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Snatched Calories",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "9-15-21 reps for time of:\n* **Row** for calories\n* **Power Snatches** (115 lb)",
+        "section_notes": [
+          "Maintain a consistent pace across the increasing rep scheme."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "9-15-21 reps for time of:  \r\nRow for calories  \r\n115-lb. power snatches  \r\n\r\nPost time to comments.",
+      "date": "2016-03-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Jerk Precision",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Split Jerk**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on stability and footwork for each single rep."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Split jerk 1-1-1-1-1-1-1 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/06/08#/comments\" target=\"_blank\">150608</a>.",
+      "date": "2016-03-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Helen",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds for time of:\n* **Run** 400 meters\n* **Kettlebell Swings** (1.5-pood), 21 reps\n* **Pull-ups**, 12 reps",
+        "section_notes": [
+          "A classic benchmark workout; aim for a steady pace on the run to recover for the swings and pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Helen**\r\n\r\n3 rounds for time of:  \r\nRun 400 meters  \r\n1.5-pood kettlebell swings, 21 reps  \r\n12 pull-ups  \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/01/07#/comments\" target=\"_blank\">150107</a> .",
+      "date": "2016-03-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "girls",
+        "benchmark",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 16.2",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 4, 8, 12, 16, or 20 minutes of:\n* **Toes-to-bars**: 25 reps\n* **Double-unders**: 50 reps\n* **Squat Cleans**: 15 reps\n\n**Time Cap Logic**:\n* Start with 4 min. If 1 round is completed, extend to 8 min. If 2 rounds are completed, extend to 12 min, etc. (up to 20 min).\n\n**Squat Clean Weights**:\n* Round 1: 15 reps @ 135/85 lb\n* Round 2: 13 reps @ 185/115 lb\n* Round 3: 11 reps @ 225/145 lb\n* Round 4: 9 reps @ 275/175 lb\n* Round 5: 7 reps @ 315/205 lb",
+        "section_notes": [
+          "The weight increases and reps decrease each round; manage your intensity to earn more time."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"http://games.crossfit.com/workouts/the-open/2016#tabs-2\" target=\"_blank\">Workout 16.2</a> \r\n\r\nComplete as many rounds and reps as possible in 4, 8, 12, 16 or 20 minutes of:   \r\n25 toes-to-bars  \r\n50 double-unders  \r\n15 squat cleans*\r\n\r\nBegin with a 4 minute time cap. If 1 round is completed in under 4 minutes extend time to 8 minutes. If 2 rounds are completed in under 8 minutes extend time to 12 minutes. Etc., adding 4 minutes per round completed for up to 20 minutes.  \r\n\r\n*1st round, 15 reps at 135 / 85 lb.  \r\n2nd round, 13 reps, 185 / 115 lb.  \r\n3rd round, 11 reps, 225 / 145 lb.  \r\n4th round, 9 reps, 275 / 175 lb.  \r\n5th round, 7 reps, 315 / 205 lb.  \r\n\r\nPost rounds/reps completed to comments and/or submit your score as part of the <a href=\"http://games.crossfit.com/\" target=\"_blank\">2016 Reebok CrossFit Games Open</a> .",
+      "date": "2016-03-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Carry",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Hip Extensions**: 30 reps\n* **Handstand Walk**: 50 feet\n* **Lunge**: 150 feet",
+        "section_notes": [
+          "Focus on core stability during the handstand walk and steady movement on the lunges."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n30 hip extensions  \r\nHandstand walk 50 feet  \r\nLunge 150 feet  \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/10/29#/comments\" target=\"_blank\">151029</a>.",
+      "date": "2016-03-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Thruster**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Build to a heavy single while maintaining full depth in the squat."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Thruster 1-1-1-1-1-1-1 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/11/08#/comments\" target=\"_blank\">141108</a>.",
+      "date": "2016-03-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Big Sexy",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Deadlifts** (315 lb): 6 reps\n* **Burpees**: 6 reps\n* **Cleans** (225 lb): 5 reps\n* **Chest-to-bar Pull-ups**: 5 reps\n* **Thrusters** (155 lb): 4 reps\n* **Muscle-ups**: 4 reps",
+        "section_notes": [
+          "This is a heavy hero WOD. Scale weights as needed to maintain movement quality."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Big Sexy**  \r\n\r\n5 rounds for time of:  \r\n6 deadlifts, 315 lb.  \r\n6 burpees   \r\n5 cleans, 225 lb.  \r\n5 chest-to-bar pull-ups  \r\n4 thrusters, 155 lb.  \r\n4 muscle-ups  \r\n\r\nPost time to comments.",
+      "date": "2016-03-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Descending Press",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n**1 Round**:\n* **Double-unders**: 100 reps\n* **Squats**: 50 reps\n* **Push Press** (95 lb): 25 reps\n\n**2 Rounds**:\n* **Double-unders**: 60 reps\n* **Squats**: 30 reps\n* **Push Press** (95 lb): 15 reps\n\n**3 Rounds**:\n* **Double-unders**: 40 reps\n* **Squats**: 20 reps\n* **Push Press** (95 lb): 10 reps",
+        "section_notes": [
+          "The volume of double-unders and squats decreases, but the number of rounds increases."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n1 round of:  \r\n  &nbsp;&nbsp;100 double-unders  \r\n  &nbsp;&nbsp;50 squats  \r\n  &nbsp;&nbsp;95-lb. push press, 25 reps   \r\nThen, 2 rounds of:  \r\n &nbsp;&nbsp;60 double-unders  \r\n  &nbsp;&nbsp;30 squats  \r\n  &nbsp;&nbsp;95-lb. push press, 15 reps  \r\nThen, 3 rounds of:  \r\n  &nbsp;&nbsp;40 double-unders  \r\n  &nbsp;&nbsp;20 squats  \r\n  &nbsp;&nbsp;95-lb. push press, 10 reps  \r\n\r\nPost time to comments.",
+      "date": "2016-03-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 16.3",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 7 minutes of:\n* **Power Snatches**: 10 reps\n* **Bar Muscle-ups**: 3 reps\n\n**Weights**:\n* Men: 75 lb\n* Women: 55 lb",
+        "section_notes": [
+          "High intensity sprint. Keep the snatches fast and the muscle-ups efficient."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"http://games.crossfit.com/workouts/the-open/2016#tabs-3\" target=\"_blank\">Workout 16.3</a>   \r\n\r\nComplete as many rounds and reps as possible in 7 minutes of:   \r\n10 power snatches  \r\n3 bar muscle-ups  \r\n\r\nMen use 75 lb.  \r\nWomen use 55 lb.\r\n\r\nPost rounds/reps completed to comments and/or submit your score as part of the <a href=\"http://games.crossfit.com/\" target=\"_blank\">2016 Reebok CrossFit Games Open</a>.",
+      "date": "2016-03-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "AMRAP",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Depth",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Build to a maximum single for the day."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 1-1-1-1-1-1-1 reps   \r\n\r\nPost loads to comments  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/09/16#/comments\" target=\"_blank\">150916</a>.",
+      "date": "2016-03-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Climb",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n\n**1 Round**:\n* **Hang Power Cleans** (115 lb): 30 reps\n* **Ring Dips**: 15 reps\n* **Rope Climb** (15 ft): 3 ascents\n\n**2 Rounds**:\n* **Hang Power Cleans** (115 lb): 20 reps\n* **Ring Dips**: 10 reps\n* **Rope Climb** (15 ft): 2 ascents\n\n**3 Rounds**:\n* **Hang Power Cleans** (115 lb): 10 reps\n* **Ring Dips**: 5 reps\n* **Rope Climb** (15 ft): 1 ascent",
+        "section_notes": [
+          "The rep volume decreases as the number of rounds increases."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n1 round of:  \r\n  &nbsp;&nbsp;115-lb. hang power cleans, 30 reps   \r\n  &nbsp;&nbsp;15 ring dips  \r\n  &nbsp;&nbsp;15-ft. rope climb, 3 ascents  \r\nThen, 2 rounds of:  \r\n  &nbsp;&nbsp;115-lb. hang power cleans, 20 reps   \r\n  &nbsp;&nbsp;10 ring dips  \r\n  &nbsp;&nbsp;15-ft. rope climb, 2 ascents  \r\nThen, 3 rounds of:  \r\n &nbsp;&nbsp;115-lb. hang power cleans, 10 reps   \r\n  &nbsp;&nbsp;5 ring dips  \r\n  &nbsp;&nbsp;15-ft. rope climb, 1 ascent  \r\n\r\nPost time to comments.",
+      "date": "2016-03-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Interval Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "For time:\n* **Run** 1,600 meters\n* Rest 3 minutes\n* **Run** 1,200 meters\n* Rest 2 minutes\n* **Run** 800 meters\n* Rest 1 minute\n* **Run** 400 meters",
+        "section_notes": [
+          "The distance decreases as the rest intervals shorten; try to increase your pace each segment."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\nRun 1,600 meters  \r\nRest 3 minutes  \r\nRun 1,200 meters  \r\nRest 2 minutes  \r\nRun 800 meters  \r\nRest 1 minute  \r\nRun 400 meters   \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/05/17#/comments\" target=\"_blank\">140517</a>.",
+      "date": "2016-03-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on consistent technique across all 5 sets of 5."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and jerk 5-5-5-5-5 reps  \r\n\r\nPost loads to comments.",
+      "date": "2016-03-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 16.4",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 13 minutes of:\n* **Deadlifts**: 55 reps\n* **Wall-ball Shots**: 55 reps\n* **Row**: 55 calories\n* **Handstand Push-ups**: 55 reps\n\n**Weights**:\n* Men: 225 lb Deadlift / 20 lb Ball (10 ft target)\n* Women: 155 lb Deadlift / 14 lb Ball (9 ft target)",
+        "section_notes": [
+          "High volume per movement. Pace yourself early to avoid burnout on the handstand push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"http://games.crossfit.com/workouts/the-open/2016#tabs-4\" target=\"_blank\">Workout 16.4</a>   \r\n\r\nComplete as many rounds and reps as possible in 13 minutes of:  \r\n55 deadlifts  \r\n55 wall-ball shots  \r\n55-calorie row  \r\n55 handstand push-ups  \r\n\r\nMen deadlift 225 lb. and throw 20-lb. ball to 10-ft. target  \r\nWomen deadlift 155 lb. and throw 14-lb. ball to 9-ft. target  \r\n\r\nPost rounds/reps completed to comments and/or submit your score as part of the <a href=\"http://games.crossfit.com/\" target=\"_blank\">2016 Reebok CrossFit Games Open</a>.",
+      "date": "2016-03-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Reverse Interval Run",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "For time:\n* **Run** 400 meters\n* Rest 1 minute\n* **Run** 800 meters\n* Rest 2 minutes\n* **Run** 1,200 meters\n* Rest 3 minutes\n* **Run** 1,600 meters",
+        "section_notes": [
+          "The distance and rest both increase. Try to maintain a consistent pace across all distances."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:   \r\nRun 400 meters  \r\nRest 1 minute  \r\nRun 800 meters  \r\nRest 2 minutes  \r\nRun 1,200 meters  \r\nRest 3 minutes  \r\nRun 1,600 meters  \r\n\r\nPost time to comments.",
+      "date": "2016-03-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Ball and Bench",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Medicine Ball Cleans** (20 lb): 42 reps\n* **Body-weight Bench Presses**: 21 reps\n* **Medicine Ball Cleans** (20 lb): 30 reps\n* **Body-weight Bench Presses**: 15 reps\n* **Medicine Ball Cleans** (20 lb): 18 reps\n* **Body-weight Bench Presses**: 9 reps",
+        "section_notes": [
+          "A descending rep scheme focusing on explosive power and bodyweight strength."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n20-lb. medicine ball cleans, 42 reps  \r\n21 body-weight bench presses  \r\n20-lb. medicine ball cleans, 30 reps  \r\n15 body-weight bench presses  \r\n20-lb. medicine ball cleans, 18 reps  \r\n9 body-weight bench presses  \r\n\r\nPost time to comments.",
+      "date": "2016-03-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Sprint Intervals",
+    "sections": [
+      {
+        "section_name": "conditioning",
+        "section_content": "10 rounds, each for time, of:\n* **100-meter Sprint**\n* Rest 90 seconds",
+        "section_notes": [
+          "Maximum effort on every sprint. Use the 90 seconds for full recovery."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "10 rounds, each for time, of:    \r\n100-meter sprint    \r\nRest 90 seconds     \r\n\r\nPost times for each round to comments.   \r\n\r\nCompare to <a href=\"https://crossfit.com/workout/2015/09/23#/comments\" target=\"_blank\">150923</a>.",
+      "date": "2016-03-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hang Snatch Power",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Hang Power Snatch**: 5-5-5-5-5 reps",
+        "section_notes": [
+          "Focus on a powerful hip drive and a fast elbow turnover."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang power snatch 5-5-5-5-5 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/07/31#/comments\" target=\"_blank\">140731</a>.",
+      "date": "2016-03-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 16.5",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-18-15-12-9-6-3 reps for time of:\n* **Thrusters**\n* **Burpees**\n\n**Weights**:\n* Men: 95 lb\n* Women: 65 lb",
+        "section_notes": [
+          "A classic descending ladder. The workout gets faster as the reps drop."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"http://games.crossfit.com/workouts/the-open/2016#tabs-5\" target=\"_blank\">Workout 16.5</a>  \r\n  \r\n21-18-15-12-9-6-3 reps for time of:  \r\nThrusters  \r\nBurpees  \r\n\r\nMen use 95 lb.  \r\nWomen use 65 lb.     \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/03/28#/comments\" target=\"_blank\">140328</a>.\r\n\r\n\r\nPost time to comments and/or submit your score as part of the <a href=\"http://games.crossfit.com/\" target=\"_blank\">2016 Reebok CrossFit Games Open</a>.",
+      "date": "2016-03-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strongman Carry",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 20 minutes of:\n* **Farmers Carry** (65 lb dumbbells): 200 meters\n* **Walking Lunge**: 100 meters\n* **Handstand Walk**: 50 meters",
+        "section_notes": [
+          "Steady movement is key. Grip strength will be the limiting factor on the carries."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Complete as many rounds as possible in 20 minutes of:   \r\n200-meter farmers carry, 65-lb. dumbbells  \r\n100-meter walking lunge  \r\n50-meter handstand walk  \r\n\r\nPost rounds completed to comments.",
+      "date": "2016-03-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "AMRAP",
+        "strongman",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Box and Pull",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "In front of a clock set for 12 minutes:\n* 1 minute of **30-inch Box Jumps**\n* 1 minute of **Sumo Deadlift High Pulls** (115 lb)\n* 2 minutes of **30-inch Box Jumps**\n* 2 minutes of **Sumo Deadlift High Pulls** (115 lb)\n* 3 minutes of **30-inch Box Jumps**\n* 3 minutes of **Sumo Deadlift High Pulls** (115 lb)",
+        "section_notes": [
+          "This is a volume challenge. Try to keep your rep count consistent as the time intervals increase."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "In front of a clock set for 12 minutes:  \r\n1 minute of 30-inch box jumps  \r\n1 minute of 115-lb. sumo deadlift high pulls  \r\n2 minutes of 30-inch box jumps  \r\n2 minutes of 115-lb. sumo deadlift high pulls  \r\n3 minutes of 30-inch box jumps  \r\n3 minutes of 115-lb. sumo deadlift high pulls    \r\n\r\nPost reps for each set to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/10/26#/comments\" target=\"_blank\">151026</a>.",
+      "date": "2016-03-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Woehlke",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 rounds, each for time of:\n* **Jerks** (185 lb): 4 reps\n* **Front Squats** (185 lb): 5 reps\n* **Power Cleans** (185 lb): 6 reps\n* **Pull-ups**: 40 reps\n* **Push-ups**: 50 reps\n* **Sit-ups**: 60 reps\n\nRest 3 minutes between rounds.",
+        "section_notes": [
+          "Heavy lifting followed by high-volume gymnastics. Use the 3-minute rest to fully recover for the next round."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Woehlke**\r\n\r\n3 rounds, each for time of:  \r\n4 jerks, 185 lb.   \r\n5 front squats, 185 lb.  \r\n6 power cleans, 185 lb.  \r\n40 pull-ups  \r\n50 push-ups  \r\n60 sit-ups  \r\n\r\nRest 3 minutes between rounds.  \r\n\r\nPost times to comments.",
+      "date": "2016-03-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Stability",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead Squat**: 1-1-1-1-1-1-1 reps",
+        "section_notes": [
+          "Focus on a rigid core and active shoulders throughout the movement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 1-1-1-1-1-1-1 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/03/29#/comments\" target=\"_blank\">150329</a>.",
+      "date": "2016-03-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Open 16.4 Remix",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Handstand Push-ups**: 55 reps\n* **Row**: 55 calories\n* **Wall-ball Shots**: 55 reps\n* **Deadlifts**: 55 reps\n\n*Use the same loads as Workout 16.4.*",
+        "section_notes": [
+          "This is the same volume as 16.4 but performed for time rather than AMRAP."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n55 handstand push-ups  \r\n55-calorie row  \r\n55 wall-ball shots  \r\n55 deadlifts  \r\n\r\nUse the same loads you used in <a href=\"http://games.crossfit.com/workouts/the-open#tabs-4\" target=\"_blank\">Workout 16.4</a>.  \r\n\r\nPost time to comments.",
+      "date": "2016-03-31",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  }
+]

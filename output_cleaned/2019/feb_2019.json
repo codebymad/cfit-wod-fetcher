@@ -1,0 +1,497 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Row and Cindy",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time of:\n* **1,000-meter Row**\n* 5 Rounds of **Cindy**\n\n*1 Round of Cindy: 5 Strict Pull-ups, 10 Push-ups, 15 Squats*",
+        "section_notes": [
+          "Maintain a steady pace on the rower to allow for high intensity during the Cindy rounds."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:   \r\n\r\n1,000-meter row  \r\n5 rounds of Cindy  \r\n\r\n1 round of Cindy is 5 strict pull-ups, 10 push-ups, and 15 squats.  \r\n\r\nPost time to comments.",
+      "date": "2019-02-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "girls",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Static and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* **1-minute Handstand Hold**\n* **21 Toes-to-bars**",
+        "section_notes": [
+          "Focus on a tight midline and shoulder stability during the handstand hold."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:   \r\n\r\n1-minute handstand hold  \r\n21 toes-to-bars  \r\n\r\nPost time to comments.",
+      "date": "2019-02-03",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Legless Power",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* **21 Back Squats**\n* **1 Legless Rope Climb** (15 ft)\n\nMen: 135 lb\nWomen: 95 lb",
+        "section_notes": [
+          "Keep the chest up during squats and maintain a strong grip on the rope."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:   \r\n\r\n21 back squats  \r\n1 legless rope climb, 15 ft.  \r\n\r\n_Men: 135 lb._  \r\n_Women: 95 lb._  \r\n\r\nPost time to comments.",
+      "date": "2019-02-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Midline Engine",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time of:\n* **1,000-meter Row**\n* **15 Hip-back Extensions** (no momentum)\n* **21 GHD Sit-ups**",
+        "section_notes": [
+          "Focus on controlled movements for the extensions to maximize core engagement."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:   \r\n\r\n1,000-meter row  \r\n15 hip-back extensions (no momentum)  \r\n21 GHD sit-ups   \r\n\r\nPost time to comments.",
+      "date": "2019-02-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CrossFit Total",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "Find 1 Rep Max of:\n* **Back Squat**\n* **Shoulder Press**\n* **Deadlift**",
+        "section_notes": [
+          "This is a total score workout; combine the weight of all three lifts."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "<a href=\"https://journal.crossfit.com/article/cfj-the-crossfit-total\" target=\"_blank\">CrossFit Total</a>\r\n\r\nBack squat, 1 rep  \r\nShoulder press, 1 rep  \r\nDeadlift, 1 rep  \r\n\r\nPost total to comments | Compare to <a href=\"https://www.crossfit.com/190118\" target=\"_blank\">190118</a>.",
+      "date": "2019-02-07",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Muscle and Miles",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time of:\n* **7 Strict Muscle-ups**\n* **50 Squats**\n* **1,000-meter Row**",
+        "section_notes": [
+          "Strict muscle-ups are challenging; scale to negatives or pull-ups if needed."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:   \r\n\r\n7 strict muscle-ups  \r\n50 squats   \r\n1,000-meter row  \r\n\r\nPost time to comments.",
+      "date": "2019-02-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Skill and Stillness",
+    "sections": [
+      {
+        "section_name": "skill",
+        "section_content": "* **Handstand Practice**: 12 Minutes\n* **L-sit Practice**: 12 Minutes",
+        "section_notes": [
+          "Focus on form and stability rather than intensity."
+        ]
+      },
+      {
+        "section_name": "cooldown",
+        "section_content": "* **Stretch**: 12 Minutes",
+        "section_notes": [
+          "Use this time for full body recovery and mobility."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Handstand practice for 12 minutes  \r\nL-sit practice for 12 minutes  \r\nStretch for 12 minutes  \r\n\r\nPost to comments.",
+      "date": "2019-02-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "skill-work",
+        "mobility"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Power Pair",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time of:\n* **15 Power Snatches**\n* **15 Thrusters**\n\nMen: 95 lb\nWomen: 65 lb",
+        "section_notes": [
+          "Keep the movements fluid and maintain a consistent rhythm."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:   \r\n\r\n15 power snatches   \r\n15 thrusters  \r\n\r\n_Men: 95 lb._  \r\n_Women: 65 lb._\r\n\r\nPost time to comments.",
+      "date": "2019-02-11",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Cindy Ladder",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "Complete as much as possible in 20 Minutes:\n* **5 Strict Pull-ups**, **10 Push-ups**, **15 Squats**\n* **10 Strict Pull-ups**, **20 Push-ups**, **30 Squats**\n* **20 Strict Pull-ups**, **40 Push-ups**, **60 Squats**\n* **40 Strict Pull-ups**, **80 Push-ups**, **120 Squats**",
+        "section_notes": [
+          "This is a volume-based challenge. Pace yourself early to avoid burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Try to complete in 20 minutes:   \r\n5 strict pull-ups  \r\n10 push-ups  \r\n15 squats  \r\n10 strict pull-ups  \r\n20 push-ups  \r\n30 squats  \r\n20 strict pull-ups  \r\n40 push-ups  \r\n60 squats  \r\n40 strict pull-ups  \r\n80 push-ups  \r\n120 squats    \r\n\r\nPost time or amount completed within 20 minutes to comments.",
+      "date": "2019-02-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "girls",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Run",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Run 5,000 Meters**",
+        "section_notes": [
+          "Steady state aerobic effort. Aim for a consistent pace throughout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Run 5,000 meters  \r\n\r\nPost time to comments | Compare to <a href=\"https://www.crossfit.com/workout/2018/09/25\" target=\"_blank\">180925</a>  or <a href=\"https://www.crossfit.com/190130\" target=\"_blank\">190130</a>.",
+      "date": "2019-02-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Grind",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time of:\n* **15 Body-weight Bench Presses**\n* **20 Single-arm Rows** (Left Arm)\n* **20 Single-arm Rows** (Right Arm)\n* **1,000-meter Row**\n\nMen: 40-lb Dumbbell\nWomen: 25-lb Dumbbell",
+        "section_notes": [
+          "Ensure a full range of motion on the rows and a controlled descent on the bench press."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:   \r\n\r\n15 body-weight bench presses  \r\n20 single-arm rows, left arm  \r\n20 single-arm rows, right arm  \r\n1,000-meter row   \r\n\r\n_Men: 40-lb. dumbbell_  \r\n_Women: 25-lb. dumbbell_  \r\n\r\nPost time to comments.",
+      "date": "2019-02-15",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Deadlift Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Deadlift**: 5-5-3-3-3-1-1-1-1 Reps",
+        "section_notes": [
+          "Build weight gradually across the sets to reach a heavy single."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Deadlift 5-5-3-3-3-1-1-1-1 reps  \r\n\r\nPost loads to comments | Compare to <a href=\"https://www.crossfit.com/workout/2018/03/24\" target=\"_blank\">180324</a>.",
+      "date": "2019-02-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Strict Fran",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 Reps for time of:\n* **Thrusters**\n* **Strict Pull-ups**\n\nMen: 95 lb\nWomen: 65 lb",
+        "section_notes": [
+          "This is a strict version of the benchmark Fran. No kipping allowed on pull-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Strict Fran**  \r\n\r\n21-15-9 reps for time of:  \r\nThrusters  \r\nStrict pull-ups  \r\n\r\n_Men: 95 lb._  \r\n_Women: 65 lb._  \r\n\r\nPost time to comments.",
+      "date": "2019-02-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "benchmark",
+        "girls",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core Burner",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time of:\n* **21 Hip-back Extensions**\n* **21 GHD Sit-ups**\n* **21 Burpees Over the Bar**\n* **21 Inverted Burpees**",
+        "section_notes": [
+          "Keep the core braced during GHD work and maintain a steady pace on burpees."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:    \r\n\r\n21 hip-back extensions  \r\n21 GHD sit-ups  \r\n21 burpees over the bar  \r\n21 inverted burpees  \r\n\r\nPost time to comments.",
+      "date": "2019-02-19",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Clean and Jerk Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Clean and Jerk**: 5-5-3-3-3-1-1-1-1 Reps",
+        "section_notes": [
+          "Focus on explosive power and a stable catch position."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Clean and jerk 5-5-3-3-3-1-1-1-1 reps  \r\n\r\nPost loads to comments.",
+      "date": "2019-02-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "CF Open 19.1",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "AMRAP in 15 Minutes:\n* **19 Wall-ball Shots**\n* **19-cal Row**\n\nMen: 20-lb wall ball to 10 ft\nWomen: 14-lb wall ball to 9 ft",
+        "section_notes": [
+          "Maintain a consistent pace; don't sprint the first round."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "[Open Workout 19.1](https://games.crossfit.com/)  \r\n\r\nComplete as many rounds as possible in 15 minutes of:  \r\n19 wall-ball shots   \r\n19-cal. row \r\n\r\n_M 20-lb. wall ball to 10 ft._  \r\n_W 14-lb. wall ball to 9 ft._  \r\n\r\nPost time to comments, and/or submit your score as part of the [2019 Reebok CrossFit Games Open](https://games.crossfit.com/).",
+      "date": "2019-02-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "open",
+        "benchmark",
+        "AMRAP"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Balance and Core",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "3 Rounds for time of:\n* **50 Double-unders**\n* **2 Minutes Holding a Handstand**\n* **35 AbMat Sit-ups**",
+        "section_notes": [
+          "The handstand hold is a static challenge; focus on breathing and shoulder stability."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "3 rounds for time of:     \r\n\r\n50 double-unders  \r\n2 minutes holding a handstand  \r\n35 AbMat sit-ups  \r\n\r\nPost time to comments.",
+      "date": "2019-02-23",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Rope and Snatches",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 Rounds for time of:\n* **2 Legless Rope Climbs** (15 feet)\n* **20 Dumbbell Snatches** (Alternating Arms)\n\nMen: 65-lb Dumbbell\nWomen: 45-lb Dumbbell",
+        "section_notes": [
+          "Keep the dumbbell close to the body during the snatch for efficiency."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:   \r\n\r\n2 legless rope climbs, 15 feet  \r\n20 dumbbell snatches, alternating arms  \r\n\r\n_Men: 65-lb. dumbbell_   \r\n_Women: 45-lb. dumbbell_  \r\n\r\nPost time to comments.",
+      "date": "2019-02-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "gymnastic",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Stability",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Overhead Squat**: 5-5-3-3-3-1-1-1-1 Reps",
+        "section_notes": [
+          "Ensure full lockout of the arms and maintain a neutral spine."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 5-5-3-3-3-1-1-1-1 reps  \r\n\r\nPost loads to comments.",
+      "date": "2019-02-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Five K Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "**Row 5,000 Meters**",
+        "section_notes": [
+          "Focus on a powerful leg drive and a controlled recovery."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Row 5,000 meters  \r\n\r\nPost time to comments.   \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2018/02/15\" target=\"_blank\">180215</a> or <a href=\"https://www.crossfit.com/190130\" target=\"_blank\">190130</a>.",
+      "date": "2019-02-27",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "engine-builder",
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Push Jerk Ladder",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Push Jerk**: 5-5-3-3-3-1-1-1-1 Reps",
+        "section_notes": [
+          "Focus on the dip and drive, ensuring the bar moves vertically."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Push jerk 5-5-3-3-3-1-1-1-1 reps  \r\n\r\nPost loads to comments.",
+      "date": "2019-02-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting",
+        "strength"
+      ]
+    }
+  }
+]

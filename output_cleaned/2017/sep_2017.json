@@ -1,0 +1,536 @@
+[
+  {
+    "workout_id": "",
+    "workout_name": "Heavy Snatches",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Snatches**: 30 reps (155 lb)",
+        "section_notes": [
+          "Maintain a consistent pace and focus on explosive hip extension."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n155-lb. snatches, 30 reps  \r\n\r\nPost time to comments.",
+      "date": "2017-09-01",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Swim and Push",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **Swim**: 100 yards\n* **Push-ups**: 30 reps",
+        "section_notes": [
+          "Focus on steady breathing during the swim to recover for the push-ups."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\nSwim 100 yards  \r\n30 push-ups  \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/05/16\" target=\"_blank\">160516</a>.",
+      "date": "2017-09-02",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Squat Pyramid",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Back Squat**: 10-5-3-1-1-1-3-5-10 reps",
+        "section_notes": [
+          "Build weight up to a peak and then taper back down."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Back squat 10-5-3-1-1-1-3-5-10 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2015/05/14\" target=\"_blank\">150514</a>.",
+      "date": "2017-09-04",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Dumbbell Burn",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Dumbbell Squat Clean Thrusters**: 50 lb\n* **Pull-ups*",
+        "section_notes": [
+          "Keep the thrusters unbroken as long as possible to maintain intensity."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps for time of:  \r\n50-lb. dumbbell squat clean thrusters  \r\nPull-ups  \r\n\r\nPost time to comments.",
+      "date": "2017-09-05",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Kev",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "With a partner, complete as many rounds as possible in 26 minutes of:\n* **Deadlifts**: 6 reps each (315 lb)\n* **Bar-facing Burpees**: 9 reps (synchronized)\n* **Bar Muscle-ups**: 9 reps each\n* **Partner Barbell Carry**: 55 ft (315 lb)",
+        "section_notes": [
+          "Coordinate the synchronized burpees to maximize efficiency."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Kev**  \r\n\r\nWith a partner, complete as many rounds as possible in 26 minutes of:   \r\n6 deadlifts, 315 lb., each  \r\n9 bar-facing burpees, synchronized  \r\n9 bar muscle-ups, each  \r\n55-ft. partner barbell carry, 315 lb.    \r\n\r\nPost rounds completed to comments.",
+      "date": "2017-09-06",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "partner",
+        "team",
+        "AMRAP",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Run Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "4 rounds, each for time, of:\n* **Run**: 800 meters\n\nRest as needed between efforts.",
+        "section_notes": [
+          "Treat each round as a sprint; recover fully between intervals."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "4 rounds, each for time, of:  \r\n800-meter run  \r\n\r\nRest as needed between efforts.  \r\n\r\nPost times for each round to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/09/06\" target=\"_blank\">160906</a>.",
+      "date": "2017-09-08",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "interval",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Jerk",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "7 rounds of 2 minutes:\n* **Row**: 25 cal\n* **Jerks**: Max reps (205 lb)\n\nNo rest between rounds.",
+        "section_notes": [
+          "Row fast to leave as much time as possible for the jerks."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "7 2-minute rounds of:  \r\n25-cal. row   \r\n205-lb. jerks, max reps   \r\n\r\nThere is no rest between rounds.  \r\n\r\nPost total number of jerks completed to comments.",
+      "date": "2017-09-09",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Emily",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "10 rounds for time of:\n* **Double-unders**: 30 reps\n* **Pull-ups**: 15 reps\n* **Squats**: 30 reps\n* **Sprint**: 100 m\n\nRest 2 minutes after each round.",
+        "section_notes": [
+          "Maintain a high intensity during the work interval, utilizing the full 2-minute rest."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Emily**  \r\n  \r\n10 rounds for time of:  \r\n30 double-unders  \r\n15 pull-ups  \r\n30 squats  \r\n100-m sprint  \r\nRest 2 minutes  \r\n\r\nPost time to comments.",
+      "date": "2017-09-10",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Hang Power Clean",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Hang Power Clean**: 3-3-3-3-3-3-3 reps",
+        "section_notes": [
+          "Focus on a fast elbow turnover and a stable catch."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Hang power clean 3-3-3-3-3-3-3 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/05/25\" target=\"_blank\">160525</a>.",
+      "date": "2017-09-12",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Core and Ball",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "30-20-10 reps for time of:\n* **GHD Sit-ups**\n* **Toes-to-bars**\n* **Wall-ball Shots**: 20 lb ball",
+        "section_notes": [
+          "Keep the core tight on the GHD and toes-to-bar to avoid swinging."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "30-20-10 reps for time of:  \r\nGHD sit-ups  \r\nToes-to-bars  \r\nWall-ball shots, 20-lb. ball  \r\n\r\nPost time to comments.",
+      "date": "2017-09-13",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "chipper"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Front Squat Volume",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "**Front Squat**: 5-5-3-3-3-1-1-1-1-1 reps",
+        "section_notes": [
+          "Maintain an upright torso and keep the elbows high."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Front squat 5-5-3-3-3-1-1-1-1-1 reps  \r\n\r\nPost loads to comments.",
+      "date": "2017-09-14",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Climb and Extend",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 50 **Hip Extensions** / 5 **Rope Climbs** (15 ft)\n* 40 **Hip Extensions** / 4 **Rope Climbs** (15 ft)\n* 30 **Hip Extensions** / 3 **Rope Climbs** (15 ft)\n* 20 **Hip Extensions** / 2 **Rope Climbs** (15 ft)\n* 10 **Hip Extensions** / 1 **Rope Climb** (15 ft)",
+        "section_notes": [
+          "Use a consistent foot-lock technique on the rope to save energy."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n50 hip extensions  \r\n15-ft. rope climb, 5 ascents  \r\n40 hip extensions  \r\n15-ft. rope climb, 4 ascents  \r\n30 hip extensions  \r\n15-ft. rope climb, 3 ascents  \r\n20 hip extensions  \r\n15-ft. rope climb, 2 ascents  \r\n10 hip extensions  \r\n15-ft. rope climb, 1 ascent  \r\n\r\nPost time to comments.",
+      "date": "2017-09-16",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Loredo",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "6 rounds for time of:\n* **Squats**: 24 reps\n* **Push-ups**: 24 reps\n* **Walking-lunge Steps**: 24 reps\n* **Run**: 400 meters",
+        "section_notes": [
+          "Maintain a steady pace on the run to recover for the bodyweight movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Loredo**\r\n  \r\n6 rounds for time of:  \r\n24 squats  \r\n24 push-ups  \r\n24 walking-lunge steps  \r\nRun 400 meters  \r\n\r\nPost time to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2014/12/25#/comments\" target=\"_blank\">141225</a>.",
+      "date": "2017-09-17",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "engine-builder"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "L-Sit Row",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "5 rounds for time of:\n* **L-sit Hold**: 60 seconds (accumulated)\n* **Row**: 30 cal",
+        "section_notes": [
+          "Break the L-sit into smaller sets if needed to reach the 60-second total."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "5 rounds for time of:  \r\n60-second L-sit hold   \r\n30-cal. row  \r\n\r\nEach round, accumulate a total of 60 seconds holding the L-sit.   \r\n\r\nPost time to comments.",
+      "date": "2017-09-18",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Overhead Stability",
+    "sections": [
+      {
+        "section_name": "strength",
+        "section_content": "* **Overhead Squat**: 5-5-5 reps\n* **Snatch Balance**: 3-3-3 reps\n* **Hang Squat Snatch**: 1-1-1 reps",
+        "section_notes": [
+          "Focus on stability and core tension throughout all overhead movements."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "Overhead squat 5-5-5 reps  \r\nSnatch balance 3-3-3 reps  \r\nHang squat snatch 1-1-1 reps  \r\n\r\nPost loads to comments.  \r\n\r\nCompare to <a href=\"https://www.crossfit.com/workout/2016/10/04\" target=\"_blank\">161004</a>.",
+      "date": "2017-09-20",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Thruster Burpees",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "9-15-21 reps for time of:\n* **Thrusters**: Men 95 lb / Women 65 lb\n* **Bar-facing Burpees*",
+        "section_notes": [
+          "Keep the burpees moving at a steady pace to avoid early burnout."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "9-15-21 reps for time of:  \r\nThrusters  \r\nBar-facing burpees  \r\n\r\nMen use 95 lb.  \r\nWomen use 65 lb.\r\n\r\nPost time to comments, or find a partner and complete <a href=\"https://games.crossfit.com/workouts/teamseries/2017\" target=\"_blank\">2017 Team Series Event 1</a> and log your score to the leaderboard.",
+      "date": "2017-09-21",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Pulls",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Double-unders**: 120 reps\n* **Chest-to-bar Pull-ups**: 60 reps\n* **Hang Power Snatches**: 60 reps (Men 95 lb / Women 65 lb)\n* **Double-unders**: 120 reps",
+        "section_notes": [
+          "Break the pull-ups and snatches into manageable sets to maintain a steady rhythm."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n120 double-unders  \r\n60 chest-to-bar pull-ups  \r\n60 hang power snatches  \r\n120 double-unders  \r\n\r\nMen use 95-lb. barbell  \r\nWomen use 65-lb. barbell  \r\n\r\nPost time to comments, or find a partner and complete <a href=\"https://games.crossfit.com/workouts/teamseries/2017/2\" target=\"_blank\">2017 Team Series Event 2</a> and log your score to the leaderboard.",
+      "date": "2017-09-22",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Wall Ball Cleans",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* 50 **Wall-ball Shots** / 15 **Cleans** (135 lb)\n* 50 **Wall-ball Shots** / 10 **Cleans** (185 lb)\n* 50 **Wall-ball Shots** / 5 **Cleans** (225 lb)\n\n*Women: Wall-ball 14 lb to 9 ft / Cleans 95-135-155 lb*",
+        "section_notes": [
+          "The cleans get heavier as the volume of wall-balls remains constant; pace accordingly."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n50 wall-ball shots  \r\n15 cleans, 135 lb.  \r\n50 wall-ball shots  \r\n10 cleans, 185 lb.  \r\n50 wall-ball shots  \r\n5 cleans, 225 lb.  \r\n\r\nMen use 20-lb. ball to 10-ft. target  \r\nWomen use 14-lb. ball to 9-ft. target and clean 95-135-155 lb.  \r\n\r\nPost time to comments, or find a partner and complete <a href=\"https://games.crossfit.com/workouts/teamseries/2017/3\" target=\"_blank\">2017 Team Series Event 3</a> and log your score to the leaderboard.",
+      "date": "2017-09-24",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "olympic-lifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Toes",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Row**: 50 cal\n* **Toes-to-bars**: 50 reps",
+        "section_notes": [
+          "Maintain a strong core on the toes-to-bar to avoid fatigue."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n50-cal. row  \r\n50 toes-to-bars  \r\n\r\nPost time to comments, or find a partner and complete <a href=\"https://games.crossfit.com/workouts/teamseries/2017/4\" target=\"_blank\">2017 Team Series Event 4</a> and log your score to the leaderboard.",
+      "date": "2017-09-25",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Andy",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time, wearing a 20-lb. vest:\n* **Thrusters**: 25 reps (115 lb)\n* **Box Jumps**: 50 reps (24 in)\n* **Deadlifts**: 75 reps (115 lb)\n* **Run**: 1.5 miles\n* **Deadlifts**: 75 reps (115 lb)\n* **Box Jumps**: 50 reps (24 in)\n* **Thrusters**: 25 reps (115 lb)",
+        "section_notes": [
+          "The run is the midpoint; use it to regulate your heart rate before the return sets."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "**Andy**    \r\n\r\nFor time, wearing a 20-lb. vest:  \r\n25 thrusters, 115 lb.  \r\n50 box jumps, 24 in.  \r\n75 deadlifts, 115 lb.  \r\n1.5-mile run  \r\n75 deadlifts, 115 lb.  \r\n50 box jumps, 24 in.  \r\n25 thrusters, 115 lb.  \r\n\r\nPost time to comments.",
+      "date": "2017-09-26",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "hero",
+        "for-time",
+        "strongman"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Snatches and Muscle-ups",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "21-15-9 reps for time of:\n* **Single-arm Dumbbell Snatches**: Men 50 lb / Women 35 lb\n* **Bar Muscle-ups*",
+        "section_notes": [
+          "Keep the dumbbell snatches explosive and the muscle-ups controlled."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "21-15-9 reps for time of:  \r\nSingle-arm dumbbell snatches  \r\nBar muscle-ups  \r\n\r\nMen use 50-lb. dumbbell  \r\nWomen use 35-lb. dumbbell  \r\n\r\nPost time to comments, or find a partner and complete <a href=\"https://games.crossfit.com/workouts/teamseries/2017/6\" target=\"_blank\">2017 Team Series Event 6</a> and log your score to the leaderboard.",
+      "date": "2017-09-28",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Max Rep Intervals",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For max reps and load:\n* 2 minutes of **Handstand Push-ups**\n* Rest 2 minutes\n* 2 minutes of **Double-unders**\n* Rest 2 minutes\n* 2 minutes to find 1-rep-max **Back Squat**",
+        "section_notes": [
+          "Maximize the work intervals; the rest is designed for full recovery."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For max reps and load:  \r\n2 minutes of handstand push-ups  \r\nRest 2 minutes  \r\n2 minutes of double-unders  \r\nRest 2 minutes  \r\n2 minutes to find 1-rep-max back squat  \r\n\r\nPost reps completed and load squatted during each interval to comments, or find a partner and complete <a href=\"https://games.crossfit.com/workouts/teamseries/2017/7\" target=\"_blank\">2017 Team Series Event 7</a> and log your score to the leaderboard.",
+      "date": "2017-09-29",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "interval",
+        "gymnastic",
+        "powerlifting"
+      ]
+    }
+  },
+  {
+    "workout_id": "",
+    "workout_name": "Row and Thruster",
+    "sections": [
+      {
+        "section_name": "metcon",
+        "section_content": "For time:\n* **Row**: 1,000 meters\n* **Thrusters**: 50 reps (Men 45 lb / Women 35 lb)\n* **Chest-to-bar Pull-ups**: 30 reps",
+        "section_notes": [
+          "Maintain a steady rowing pace to avoid spiking the heart rate before the thrusters."
+        ]
+      }
+    ],
+    "metadata": {
+      "raw_content": "For time:  \r\n1,000-meter row  \r\n50 thrusters  \r\n30 chest-to-bar pull-ups  \r\n\r\nMen thruster 45 lb.  \r\nWomen thruster 35 lb.\r\n\r\nPost time to comments, or find a partner and complete <a href=\"https://games.crossfit.com/workouts/teamseries/2017/8\" target=\"_blank\">2017 Team Series Event 8</a>  and log your score to the leaderboard.",
+      "date": "2017-09-30",
+      "source": "crossfit",
+      "version": "1.0",
+      "tags": [
+        "for-time",
+        "gymnastic"
+      ]
+    }
+  }
+]
